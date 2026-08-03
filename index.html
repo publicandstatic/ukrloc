@@ -356,6 +356,10 @@
     return (g.localizations || []).some(l => l.toLowerCase().includes('russian'));
   }
 
+  function hasUkrainian(g) {
+    return (g.localizations || []).some(l => l.toLowerCase().includes('ukrainian'));
+  }
+
   function formatNumber(n) {
     if (n === null || n === undefined || n === '') return '—';
     return Number(n).toLocaleString('uk-UA');
@@ -504,7 +508,7 @@
     })
     .then(data => {
       allGames = data
-        .filter(g => g.type === 'game')
+        .filter(g => g.type === 'game' && hasUkrainian(g))
         .map(g => ({
           ...g,
           localizations_count: Array.isArray(g.localizations) ? g.localizations.length : 0,
