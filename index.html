@@ -1,717 +1,2295 @@
 <!doctype html>
 <html lang="uk">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Steam ігри з українською</title>
-        <style>
-            :root {
-                --bg: #0d1520;
-                --panel: #141f2e;
-                --panel-alt: #182636;
-                --border: #24374d;
-                --text: #dce6f0;
-                --text-dim: #7c93ab;
-                --accent: #5ba8d4;
-                --accent-soft: rgba(91, 168, 212, 0.12);
-                --gold: #e3b341;
-                --radius: 10px;
-                --mono: 'IBM Plex Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
-                --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            }
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-            * {
-                box-sizing: border-box;
-            }
+    <title>Steam ігри з українською</title>
 
-            body {
-                margin: 0;
-                background:
-                    radial-gradient(1200px 500px at 15% -10%, rgba(91, 168, 212, 0.08), transparent 60%), var(--bg);
-                color: var(--text);
-                font-family: var(--sans);
-                padding: 40px 24px 60px;
-            }
+    <style>
+        :root {
+            --bg: #0d1520;
+            --panel: #141f2e;
+            --panel-alt: #182636;
+            --border: #24374d;
+            --text: #dce6f0;
+            --text-dim: #7c93ab;
+            --accent: #5ba8d4;
+            --accent-soft: rgba(91, 168, 212, 0.12);
+            --gold: #e3b341;
+            --radius: 10px;
 
-            .wrap {
-                max-width: 1080px;
-                margin: 0 auto;
-            }
+            --mono:
+                'IBM Plex Mono',
+                'JetBrains Mono',
+                ui-monospace,
+                SFMono-Regular,
+                Menlo,
+                monospace;
 
-            header {
-                margin-bottom: 28px;
-            }
+            --sans:
+                'Inter',
+                -apple-system,
+                BlinkMacSystemFont,
+                'Segoe UI',
+                sans-serif;
+        }
 
-            h1 {
-                font-size: 28px;
-                font-weight: 700;
-                margin: 0 0 6px;
-                letter-spacing: -0.01em;
-            }
+        * {
+            box-sizing: border-box;
+        }
 
-            .toolbar {
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                gap: 16px;
-                margin: 24px 0 14px;
-                flex-wrap: wrap;
-            }
+        body {
+            margin: 0;
 
-            .search {
-                flex: 1;
-                min-width: 220px;
-                display: flex;
-                align-items: center;
-                background: var(--panel);
-                border: 1px solid var(--border);
-                border-radius: var(--radius);
-                padding: 10px 14px;
-            }
-            .search input {
-                background: none;
-                border: none;
-                outline: none;
-                color: var(--text);
-                font-family: var(--sans);
-                font-size: 14px;
-                width: 100%;
-            }
-            .search input::placeholder {
-                color: var(--text-dim);
-            }
+            background:
+                radial-gradient(
+                    1200px 500px at 15% -10%,
+                    rgba(91, 168, 212, 0.08),
+                    transparent 60%
+                ),
+                var(--bg);
 
-            .page-size {
-                display: flex;
-                align-items: center;
-                gap: 8px;
-                font-size: 13px;
-                color: var(--text-dim);
-                font-family: var(--mono);
-            }
-            .page-size select {
-                background: var(--panel);
-                border: 1px solid var(--border);
-                color: var(--text);
-                border-radius: 6px;
-                padding: 6px 8px;
-                font-family: var(--mono);
-                font-size: 13px;
-            }
+            color: var(--text);
+            font-family: var(--sans);
 
-            .filter-group {
-                display: flex;
-                align-items: center;
-                gap: 8px;
-                font-size: 13px;
-                color: var(--text-dim);
-                font-family: var(--mono);
-                white-space: nowrap;
-            }
-            .filter-group input[type='number'] {
-                width: 56px;
-                background: var(--panel);
-                border: 1px solid var(--border);
-                color: var(--text);
-                border-radius: 6px;
-                padding: 6px 8px;
-                font-family: var(--mono);
-                font-size: 13px;
-            }
+            padding: 40px 24px 60px;
+        }
 
-            .checkbox-group {
-                display: flex;
-                align-items: center;
-                gap: 7px;
-                font-size: 13px;
-                color: var(--text-dim);
-                font-family: var(--mono);
-                cursor: pointer;
-                user-select: none;
-                white-space: nowrap;
-            }
-            .checkbox-group:hover {
-                color: var(--text);
-            }
-            .checkbox-group input[type='checkbox'] {
-                width: 15px;
-                height: 15px;
-                accent-color: var(--accent);
-                cursor: pointer;
-            }
+        .wrap {
+            max-width: 1600px;
+            margin: 0 auto;
+        }
 
-            .table-card {
-                background: var(--panel);
-                border: 1px solid var(--border);
-                border-radius: var(--radius);
-                overflow: hidden;
-            }
+        header {
+            margin-bottom: 28px;
+        }
 
-            table {
-                width: 100%;
-                border-collapse: collapse;
-            }
+        h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin: 0 0 6px;
+            letter-spacing: -0.01em;
+        }
 
-            thead th {
-                text-align: left;
-                font-size: 12px;
-                letter-spacing: 0.04em;
-                text-transform: uppercase;
-                color: var(--text-dim);
-                padding: 14px 16px;
-                background: var(--panel-alt);
-                border-bottom: 1px solid var(--border);
-                cursor: pointer;
-                user-select: none;
-                white-space: nowrap;
-            }
-            thead th:hover {
-                color: var(--text);
-            }
-            thead th.num {
-                text-align: right;
-            }
+        /* ---------------------------------------------------------- */
+        /* TOOLBAR */
+        /* ---------------------------------------------------------- */
 
-            .th-inner {
-                display: inline-flex;
-                align-items: center;
-                gap: 6px;
-            }
-            .arrow {
-                font-size: 10px;
-                opacity: 0.35;
-                font-family: var(--mono);
-            }
-            thead th.active .arrow {
-                opacity: 1;
-                color: var(--accent);
-            }
+        .toolbar {
+            display: flex;
+            align-items: center;
+            gap: 12px;
 
-            tbody td {
-                padding: 13px 16px;
-                border-bottom: 1px solid var(--border);
-                font-size: 14px;
-                vertical-align: middle;
-            }
-            tbody tr:last-child td {
-                border-bottom: none;
-            }
-            tbody tr:hover {
-                background: var(--accent-soft);
-            }
+            margin: 24px 0 14px;
 
-            td.num {
-                font-family: var(--mono);
-                font-size: 13px;
-                color: var(--text-dim);
-                text-align: right;
-            }
+            flex-wrap: wrap;
+        }
 
-            .rec-cell {
-                display: flex;
-                align-items: center;
-                justify-content: flex-end;
-                gap: 6px;
-            }
-            .rec-value {
-                font-family: var(--mono);
-                font-weight: 600;
-                color: var(--gold);
-            }
+        .search {
+            flex: 1;
+            min-width: 260px;
 
-            .game-link {
-                color: var(--text);
-                text-decoration: none;
-                font-weight: 600;
-                border-bottom: 1px solid transparent;
-                transition:
-                    color 0.15s,
-                    border-color 0.15s;
-            }
-            .game-link:hover {
-                color: var(--accent);
-                border-color: var(--accent);
-            }
+            display: flex;
+            align-items: center;
 
-            .empty,
-            .loading {
-                padding: 48px 16px;
-                text-align: center;
-                color: var(--text-dim);
-                font-family: var(--mono);
-                font-size: 13px;
-            }
+            background: var(--panel);
 
-            .footer-bar {
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                gap: 16px;
-                margin-top: 16px;
-                flex-wrap: wrap;
-                font-size: 13px;
-                color: var(--text-dim);
-                font-family: var(--mono);
-            }
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
 
-            .pager {
-                display: flex;
-                align-items: center;
-                gap: 6px;
-            }
-            .pager button {
-                background: var(--panel);
-                border: 1px solid var(--border);
-                color: var(--text);
-                border-radius: 6px;
-                padding: 6px 10px;
-                font-family: var(--mono);
-                font-size: 13px;
-                cursor: pointer;
-                transition:
-                    background 0.15s,
-                    color 0.15s;
-            }
-            .pager button:hover:not(:disabled) {
-                background: var(--accent-soft);
-                color: var(--accent);
-            }
-            .pager button:disabled {
-                opacity: 0.35;
-                cursor: not-allowed;
-            }
-            .pager button.active {
-                background: var(--accent);
-                color: #0d1520;
-                border-color: var(--accent);
-            }
-            .pager .gap {
-                padding: 0 4px;
-                opacity: 0.5;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="wrap">
-            <header>
-                <h1>Steam ігри з українською</h1>
-            </header>
+            padding: 10px 14px;
+        }
 
-            <div class="toolbar">
-                <div class="search">
-                    <input id="searchInput" type="text" placeholder="Пошук за назвою..." />
-                </div>
-                <div class="filter-group">
-                    Макс. локалізацій:
-                    <input id="maxLocInput" type="number" min="0" value="999" />
-                </div>
-                <label class="checkbox-group">
-                    <input id="interfaceCheckbox" type="checkbox" checked />
-                    Текст
-                </label>
-                <label class="checkbox-group">
-                    <input id="subtitlesCheckbox" type="checkbox" checked />
-                    Субтитри
-                </label>
-                <label class="checkbox-group">
-                    <input id="audioCheckbox" type="checkbox" checked />
-                    Звук
-                </label>
-                <label class="checkbox-group">
-                    <input id="noRuCheckbox" type="checkbox" />
-                    Без ру
-                </label>
-                <div class="page-size">
-                    Рядків на сторінці:
-                    <select id="pageSizeSelect">
-                        <option value="10">10</option>
-                        <option value="25" selected>25</option>
-                        <option value="50">50</option>
-                        <option value="100">100</option>
-                    </select>
-                </div>
-            </div>
+        .search input {
+            background: none;
 
-            <div class="table-card">
-                <table>
-                    <thead>
-                        <tr id="headerRow"></tr>
-                    </thead>
-                    <tbody id="tableBody">
-                        <tr>
-                            <td class="loading" colspan="4">Завантаження games.json...</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
+            border: none;
+            outline: none;
 
-            <div class="footer-bar">
-                <div id="statusText">—</div>
-                <div class="pager" id="pager"></div>
-            </div>
+            color: var(--text);
+
+            font-family: var(--sans);
+            font-size: 14px;
+
+            width: 100%;
+        }
+
+        .search input::placeholder {
+            color: var(--text-dim);
+        }
+
+        /* ---------------------------------------------------------- */
+        /* TRI STATE FILTER */
+        /* ---------------------------------------------------------- */
+
+        .tri-filter {
+            display: flex;
+            align-items: center;
+
+            gap: 7px;
+
+            font-size: 13px;
+            color: var(--text-dim);
+            font-family: var(--mono);
+
+            white-space: nowrap;
+        }
+
+        .tri-filter-label {
+            font-size: 13px;
+        }
+
+        .tri-filter-options {
+            display: inline-flex;
+
+            border: 1px solid var(--border);
+            border-radius: 6px;
+
+            overflow: hidden;
+        }
+
+        .tri-filter-options button {
+            background: var(--panel);
+
+            border: none;
+            border-right: 1px solid var(--border);
+
+            color: var(--text-dim);
+
+            padding: 6px 9px;
+
+            font-family: var(--mono);
+            font-size: 12px;
+
+            cursor: pointer;
+        }
+
+        .tri-filter-options button:last-child {
+            border-right: none;
+        }
+
+        .tri-filter-options button:hover {
+            background: var(--accent-soft);
+            color: var(--text);
+        }
+
+        .tri-filter-options button.active {
+            background: var(--accent);
+            color: var(--bg);
+        }
+
+        /* ---------------------------------------------------------- */
+        /* OTHER FILTERS */
+        /* ---------------------------------------------------------- */
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+
+            gap: 8px;
+
+            font-size: 13px;
+            color: var(--text-dim);
+            font-family: var(--mono);
+
+            white-space: nowrap;
+        }
+
+        .filter-group input[type='number'] {
+            width: 60px;
+
+            background: var(--panel);
+
+            border: 1px solid var(--border);
+            border-radius: 6px;
+
+            color: var(--text);
+
+            padding: 6px 8px;
+
+            font-family: var(--mono);
+            font-size: 13px;
+        }
+
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+
+            gap: 7px;
+
+            font-size: 13px;
+            color: var(--text-dim);
+            font-family: var(--mono);
+
+            cursor: pointer;
+
+            user-select: none;
+            white-space: nowrap;
+        }
+
+        .checkbox-group:hover {
+            color: var(--text);
+        }
+
+        .checkbox-group input[type='checkbox'] {
+            width: 15px;
+            height: 15px;
+
+            accent-color: var(--accent);
+
+            cursor: pointer;
+        }
+
+        .page-size {
+            display: flex;
+            align-items: center;
+
+            gap: 8px;
+
+            font-size: 13px;
+            color: var(--text-dim);
+            font-family: var(--mono);
+        }
+
+        .page-size select {
+            background: var(--panel);
+
+            border: 1px solid var(--border);
+            border-radius: 6px;
+
+            color: var(--text);
+
+            padding: 6px 8px;
+
+            font-family: var(--mono);
+            font-size: 13px;
+        }
+
+        /* ---------------------------------------------------------- */
+        /* TABLE */
+        /* ---------------------------------------------------------- */
+
+        .table-card {
+            background: var(--panel);
+
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+
+            overflow: hidden;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        thead th {
+            text-align: left;
+
+            font-size: 12px;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+
+            color: var(--text-dim);
+
+            padding: 14px 16px;
+
+            background: var(--panel-alt);
+
+            border-bottom: 1px solid var(--border);
+
+            cursor: pointer;
+            user-select: none;
+
+            white-space: nowrap;
+        }
+
+        thead th:hover {
+            color: var(--text);
+        }
+
+        thead th.num {
+            text-align: right;
+        }
+
+        .th-inner {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .arrow {
+            font-size: 10px;
+            opacity: 0.35;
+
+            font-family: var(--mono);
+        }
+
+        thead th.active .arrow {
+            opacity: 1;
+            color: var(--accent);
+        }
+
+        tbody td {
+            padding: 13px 16px;
+
+            border-bottom: 1px solid var(--border);
+
+            font-size: 14px;
+
+            vertical-align: middle;
+        }
+
+        tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        tbody tr:hover {
+            background: var(--accent-soft);
+        }
+
+        td.num {
+            font-family: var(--mono);
+            font-size: 13px;
+
+            color: var(--text-dim);
+
+            text-align: right;
+        }
+
+        .rec-cell {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+
+            gap: 6px;
+        }
+
+        .rec-value {
+            font-family: var(--mono);
+            font-weight: 600;
+
+            color: var(--gold);
+        }
+
+        .game-link {
+            color: var(--text);
+
+            text-decoration: none;
+            font-weight: 600;
+
+            border-bottom: 1px solid transparent;
+
+            transition:
+                color 0.15s,
+                border-color 0.15s;
+        }
+
+        .game-link:hover {
+            color: var(--accent);
+            border-color: var(--accent);
+        }
+
+        /* ---------------------------------------------------------- */
+        /* EMPTY / LOADING */
+        /* ---------------------------------------------------------- */
+
+        .empty,
+        .loading {
+            padding: 48px 16px;
+
+            text-align: center;
+
+            color: var(--text-dim);
+
+            font-family: var(--mono);
+            font-size: 13px;
+        }
+
+        /* ---------------------------------------------------------- */
+        /* FOOTER */
+        /* ---------------------------------------------------------- */
+
+        .footer-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            gap: 16px;
+
+            margin-top: 16px;
+
+            flex-wrap: wrap;
+
+            font-size: 13px;
+            color: var(--text-dim);
+            font-family: var(--mono);
+        }
+
+        .pager {
+            display: flex;
+            align-items: center;
+
+            gap: 6px;
+        }
+
+        .pager button {
+            background: var(--panel);
+
+            border: 1px solid var(--border);
+            border-radius: 6px;
+
+            color: var(--text);
+
+            padding: 6px 10px;
+
+            font-family: var(--mono);
+            font-size: 13px;
+
+            cursor: pointer;
+
+            transition:
+                background 0.15s,
+                color 0.15s;
+        }
+
+        .pager button:hover:not(:disabled) {
+            background: var(--accent-soft);
+            color: var(--accent);
+        }
+
+        .pager button:disabled {
+            opacity: 0.35;
+            cursor: not-allowed;
+        }
+
+        .pager button.active {
+            background: var(--accent);
+            color: var(--bg);
+
+            border-color: var(--accent);
+        }
+
+        .pager .gap {
+            padding: 0 4px;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="wrap">
+
+    <header>
+        <h1>Steam ігри з українською</h1>
+    </header>
+
+    <!-- ========================================================== -->
+    <!-- FILTERS -->
+    <!-- ========================================================== -->
+
+    <div class="toolbar">
+
+        <div class="search">
+            <input
+                id="searchInput"
+                type="text"
+                placeholder="Пошук за назвою..."
+            />
         </div>
 
-        <script>
-            const COLUMNS = [
-                { key: 'appid', label: 'AppID', type: 'num' },
-                { key: 'name', label: 'Назва', type: 'text' },
-                { key: 'recommendations_total', label: 'Рецензії', type: 'num' },
-                { key: 'reviews_per_day', label: 'Рец./день', type: 'num' },
-                { key: 'localizations_count', label: 'Локалізацій', type: 'num' },
+        <!-- RELEASE -->
+
+        <div class="tri-filter">
+
+            <span class="tri-filter-label">
+                Реліз:
+            </span>
+
+            <div
+                class="tri-filter-options"
+                data-filter="release"
+            >
+
+                <button
+                    type="button"
+                    data-value="any"
+                    class="active"
+                >
+                    —
+                </button>
+
+                <button
+                    type="button"
+                    data-value="released"
+                >
+                    Вийшли
+                </button>
+
+                <button
+                    type="button"
+                    data-value="unreleased"
+                >
+                    Ще не вийшли
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- INTERFACE -->
+
+        <div class="tri-filter">
+
+            <span class="tri-filter-label">
+                Текст:
+            </span>
+
+            <div
+                class="tri-filter-options"
+                data-filter="interface"
+            >
+
+                <button
+                    type="button"
+                    data-value="any"
+                    class="active"
+                >
+                    —
+                </button>
+
+                <button
+                    type="button"
+                    data-value="yes"
+                >
+                    Так
+                </button>
+
+                <button
+                    type="button"
+                    data-value="no"
+                >
+                    Ні
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- SUBTITLES -->
+
+        <div class="tri-filter">
+
+            <span class="tri-filter-label">
+                Субтитри:
+            </span>
+
+            <div
+                class="tri-filter-options"
+                data-filter="subtitles"
+            >
+
+                <button
+                    type="button"
+                    data-value="any"
+                    class="active"
+                >
+                    —
+                </button>
+
+                <button
+                    type="button"
+                    data-value="yes"
+                >
+                    Так
+                </button>
+
+                <button
+                    type="button"
+                    data-value="no"
+                >
+                    Ні
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- AUDIO -->
+
+        <div class="tri-filter">
+
+            <span class="tri-filter-label">
+                Звук:
+            </span>
+
+            <div
+                class="tri-filter-options"
+                data-filter="audio"
+            >
+
+                <button
+                    type="button"
+                    data-value="any"
+                    class="active"
+                >
+                    —
+                </button>
+
+                <button
+                    type="button"
+                    data-value="yes"
+                >
+                    Так
+                </button>
+
+                <button
+                    type="button"
+                    data-value="no"
+                >
+                    Ні
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- NO RU -->
+
+        <label class="checkbox-group">
+
+            <input
+                id="noRuCheckbox"
+                type="checkbox"
+            />
+
+            Без ru
+
+        </label>
+
+        <!-- MAX LOCALIZATIONS -->
+
+        <div class="filter-group">
+
+            Макс. локалізацій:
+
+            <input
+                id="maxLocInput"
+                type="number"
+                min="0"
+                value="999"
+            />
+
+        </div>
+
+        <!-- PAGE SIZE -->
+
+        <div class="page-size">
+
+            Рядків:
+
+            <select id="pageSizeSelect">
+
+                <option value="10">
+                    10
+                </option>
+
+                <option
+                    value="25"
+                    selected
+                >
+                    25
+                </option>
+
+                <option value="50">
+                    50
+                </option>
+
+                <option value="100">
+                    100
+                </option>
+
+            </select>
+
+        </div>
+
+    </div>
+
+    <!-- ========================================================== -->
+    <!-- TABLE -->
+    <!-- ========================================================== -->
+
+    <div class="table-card">
+
+        <table>
+
+            <thead>
+                <tr id="headerRow"></tr>
+            </thead>
+
+            <tbody id="tableBody">
+
+                <tr>
+                    <td
+                        class="loading"
+                        colspan="5"
+                    >
+                        Завантаження games.json...
+                    </td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+    <!-- ========================================================== -->
+    <!-- FOOTER -->
+    <!-- ========================================================== -->
+
+    <div class="footer-bar">
+
+        <div id="statusText">
+            —
+        </div>
+
+        <div
+            class="pager"
+            id="pager"
+        ></div>
+
+    </div>
+
+</div>
+
+<script>
+
+    // ==============================================================
+    // COLUMNS
+    // ==============================================================
+
+    const COLUMNS = [
+        {
+            key: 'appid',
+            label: 'AppID',
+            type: 'num',
+        },
+
+        {
+            key: 'name',
+            label: 'Назва',
+            type: 'text',
+        },
+
+        {
+            key: 'release_date',
+            label: 'Дата релізу',
+            type: 'date',
+        },
+
+        {
+            key: 'recommendations_total',
+            label: 'Рецензії',
+            type: 'num',
+        },
+
+        {
+            key: 'reviews_per_day',
+            label: 'Рец./день',
+            type: 'num',
+        },
+
+        {
+            key: 'localizations_count',
+            label: 'Локалізацій',
+            type: 'num',
+        },
+    ];
+
+
+    // ==============================================================
+    // STATE
+    // ==============================================================
+
+    let allGames = [];
+    let filtered = [];
+
+    let sortKey = 'recommendations_total';
+    let sortDir = 'desc';
+
+    let currentPage = 1;
+    let pageSize = 25;
+
+
+    const filterState = {
+
+        release: 'any',
+
+        interface: 'any',
+
+        subtitles: 'any',
+
+        audio: 'any',
+
+    };
+
+
+    // ==============================================================
+    // ELEMENTS
+    // ==============================================================
+
+    const headerRow =
+        document.getElementById(
+            'headerRow'
+        );
+
+    const tableBody =
+        document.getElementById(
+            'tableBody'
+        );
+
+    const pagerEl =
+        document.getElementById(
+            'pager'
+        );
+
+    const statusText =
+        document.getElementById(
+            'statusText'
+        );
+
+    const searchInput =
+        document.getElementById(
+            'searchInput'
+        );
+
+    const pageSizeSelect =
+        document.getElementById(
+            'pageSizeSelect'
+        );
+
+    const maxLocInput =
+        document.getElementById(
+            'maxLocInput'
+        );
+
+    const noRuCheckbox =
+        document.getElementById(
+            'noRuCheckbox'
+        );
+
+
+    // ==============================================================
+    // HEADER
+    // ==============================================================
+
+    function buildHeader() {
+
+        headerRow.innerHTML = '';
+
+        COLUMNS.forEach(
+            (column) => {
+
+                const th =
+                    document.createElement(
+                        'th'
+                    );
+
+                th.dataset.key =
+                    column.key;
+
+                if (
+                    column.type === 'num'
+                ) {
+                    th.classList.add(
+                        'num'
+                    );
+                }
+
+                th.innerHTML = `
+                    <span class="th-inner">
+
+                        ${column.label}
+
+                        <span class="arrow">
+                            ${sortIndicator(column.key)}
+                        </span>
+
+                    </span>
+                `;
+
+                th.addEventListener(
+                    'click',
+                    () => {
+
+                        if (
+                            sortKey ===
+                            column.key
+                        ) {
+
+                            sortDir =
+                                sortDir === 'asc'
+                                    ? 'desc'
+                                    : 'asc';
+
+                        } else {
+
+                            sortKey =
+                                column.key;
+
+                            sortDir =
+                                column.type === 'num'
+                                    ? 'desc'
+                                    : 'asc';
+
+                        }
+
+                        currentPage = 1;
+
+                        applySort();
+
+                        render();
+
+                    }
+                );
+
+                if (
+                    column.key ===
+                    sortKey
+                ) {
+
+                    th.classList.add(
+                        'active'
+                    );
+
+                }
+
+                headerRow.appendChild(
+                    th
+                );
+
+            }
+        );
+
+    }
+
+
+    function sortIndicator(
+        key
+    ) {
+
+        if (
+            key !== sortKey
+        ) {
+            return '↕';
+        }
+
+        return (
+            sortDir === 'asc'
+                ? '↑'
+                : '↓'
+        );
+
+    }
+
+
+    // ==============================================================
+    // SORT
+    // ==============================================================
+
+    function applySort() {
+        const column =
+            COLUMNS.find(
+                (item) =>
+                    item.key === sortKey
+            );
+
+        const direction =
+            sortDir === 'asc'
+                ? 1
+                : -1;
+
+        filtered.sort(
+            (a, b) => {
+                let valueA = a[sortKey];
+                let valueB = b[sortKey];
+
+                if (column.type === 'num') {
+                    valueA = Number(valueA) || 0;
+                    valueB = Number(valueB) || 0;
+
+                    return (
+                        valueA - valueB
+                    ) * direction;
+                }
+
+                if (column.type === 'date') {
+                    const timeA =
+                        parseReleaseDate(valueA);
+
+                    const timeB =
+                        parseReleaseDate(valueB);
+
+                    return (
+                        timeA - timeB
+                    ) * direction;
+                }
+
+                valueA =
+                    (valueA ?? '')
+                        .toString()
+                        .toLowerCase();
+
+                valueB =
+                    (valueB ?? '')
+                        .toString()
+                        .toLowerCase();
+
+                if (valueA < valueB) {
+                    return -1 * direction;
+                }
+
+                if (valueA > valueB) {
+                    return 1 * direction;
+                }
+
+                return 0;
+            }
+        );
+    }
+
+
+    // ==============================================================
+    // LANGUAGE HELPERS
+    // ==============================================================
+
+    function hasLanguage(
+        game,
+        type,
+        language
+    ) {
+
+        const languages =
+            game.localizations?.[
+                type
             ];
 
-            let allGames = [];
-            let filtered = [];
-            let sortKey = 'recommendations_total';
-            let sortDir = 'desc';
-            let currentPage = 1;
-            let pageSize = 25;
+        if (
+            !Array.isArray(
+                languages
+            )
+        ) {
+            return false;
+        }
 
-            const headerRow = document.getElementById('headerRow');
-            const tableBody = document.getElementById('tableBody');
-            const pagerEl = document.getElementById('pager');
-            const statusText = document.getElementById('statusText');
-            const searchInput = document.getElementById('searchInput');
-            const pageSizeSel = document.getElementById('pageSizeSelect');
-            const maxLocInput = document.getElementById('maxLocInput');
-            const interfaceCheckbox = document.getElementById('interfaceCheckbox');
-            const subtitlesCheckbox = document.getElementById('subtitlesCheckbox');
-            const audioCheckbox = document.getElementById('audioCheckbox');
-            const noRuCheckbox = document.getElementById('noRuCheckbox');
+        const normalized =
+            language.toLowerCase();
 
-            function buildHeader() {
-                headerRow.innerHTML = '';
-                COLUMNS.forEach((col) => {
-                    const th = document.createElement('th');
-                    th.dataset.key = col.key;
-                    if (col.type === 'num') th.classList.add('num');
-                    th.innerHTML = `<span class="th-inner">${col.label}<span class="arrow">${sortIndicator(col.key)}</span></span>`;
-                    th.addEventListener('click', () => {
-                        if (sortKey === col.key) {
-                            sortDir = sortDir === 'asc' ? 'desc' : 'asc';
-                        } else {
-                            sortKey = col.key;
-                            sortDir = col.type === 'num' ? 'desc' : 'asc';
-                        }
-                        currentPage = 1;
-                        applySort();
-                        render();
-                    });
-                    if (col.key === sortKey) th.classList.add('active');
-                    headerRow.appendChild(th);
-                });
+        return languages.some(
+            (item) =>
+                String(item)
+                    .toLowerCase() ===
+                normalized
+        );
+
+    }
+
+
+    function hasAnyUkrainian(
+        game
+    ) {
+
+        return (
+
+            hasLanguage(
+                game,
+                'interface',
+                'Ukrainian'
+            )
+
+            ||
+
+            hasLanguage(
+                game,
+                'subtitles',
+                'Ukrainian'
+            )
+
+            ||
+
+            hasLanguage(
+                game,
+                'audio',
+                'Ukrainian'
+            )
+
+        );
+
+    }
+
+
+    function hasRussianAnywhere(
+        game
+    ) {
+
+        return (
+
+            hasLanguage(
+                game,
+                'interface',
+                'Russian'
+            )
+
+            ||
+
+            hasLanguage(
+                game,
+                'subtitles',
+                'Russian'
+            )
+
+            ||
+
+            hasLanguage(
+                game,
+                'audio',
+                'Russian'
+            )
+
+        );
+
+    }
+
+
+    // ==============================================================
+    // LOCALIZATION FILTER
+    // ==============================================================
+
+    function matchesLocalizationFilter(
+        game,
+        type,
+        state
+    ) {
+
+        if (
+            state === 'any'
+        ) {
+            return true;
+        }
+
+        const hasUkrainian =
+            hasLanguage(
+                game,
+                type,
+                'Ukrainian'
+            );
+
+
+        if (
+            state === 'yes'
+        ) {
+            return hasUkrainian;
+        }
+
+
+        if (
+            state === 'no'
+        ) {
+            return !hasUkrainian;
+        }
+
+
+        return true;
+
+    }
+
+
+    // ==============================================================
+    // RELEASE FILTER
+    // ==============================================================
+
+
+    function parseReleaseDate(value) {
+        if (!value) {
+            return 0;
+        }
+
+        const date =
+            new Date(value);
+
+        if (
+            isNaN(
+                date.getTime()
+            )
+        ) {
+            return 0;
+        }
+
+        return date.getTime();
+    }
+
+    function formatReleaseDate(value) {
+        if (!value) {
+            return '—';
+        }
+
+        const date =
+            new Date(value);
+
+        if (
+            isNaN(
+                date.getTime()
+            )
+        ) {
+            return value;
+        }
+
+        return date.toLocaleDateString(
+            'uk-UA',
+            {
+                day: '2-digit',
+                month: '2-digit',
+                year: 'numeric',
             }
+        );
+    }
 
-            function sortIndicator(key) {
-                if (key !== sortKey) return '↕';
-                return sortDir === 'asc' ? '↑' : '↓';
-            }
+    function getReleaseStatus(
+        game
+    ) {
 
-            function applySort() {
-                const col = COLUMNS.find((c) => c.key === sortKey);
-                const dir = sortDir === 'asc' ? 1 : -1;
-                filtered.sort((a, b) => {
-                    let va = a[sortKey],
-                        vb = b[sortKey];
-                    if (col.type === 'num') {
-                        va = Number(va) || 0;
-                        vb = Number(vb) || 0;
-                        return (va - vb) * dir;
-                    }
-                    va = (va ?? '').toString().toLowerCase();
-                    vb = (vb ?? '').toString().toLowerCase();
-                    if (va < vb) return -1 * dir;
-                    if (va > vb) return 1 * dir;
-                    return 0;
-                });
-            }
+        if (
+            !game.release_date
+        ) {
+            return 'unreleased';
+        }
 
-            function applyFilter() {
-                const q = searchInput.value.trim().toLowerCase();
-                const maxLoc = Number(maxLocInput.value) || 0;
-                const noRu = noRuCheckbox.checked;
+        const releaseDate =
+            new Date(
+                game.release_date
+            );
 
-                const selectedTypes = getSelectedLocalizationTypes();
 
-                filtered = allGames.filter((g) => {
-                    if (q && !(g.name || '').toLowerCase().includes(q)) {
+        if (
+            isNaN(
+                releaseDate.getTime()
+            )
+        ) {
+
+            return 'unreleased';
+
+        }
+
+
+        if (
+            releaseDate.getTime()
+            <= Date.now()
+        ) {
+
+            return 'released';
+
+        }
+
+
+        return 'unreleased';
+
+    }
+
+
+    function matchesReleaseFilter(
+        game,
+        state
+    ) {
+
+        if (
+            state === 'any'
+        ) {
+            return true;
+        }
+
+        return (
+            getReleaseStatus(game)
+            === state
+        );
+
+    }
+
+
+    // ==============================================================
+    // FILTER
+    // ==============================================================
+
+    function applyFilter() {
+
+        const query =
+            searchInput
+                .value
+                .trim()
+                .toLowerCase();
+
+
+        const maxLocalizations =
+            Number(
+                maxLocInput.value
+            ) || 0;
+
+
+        const noRussian =
+            noRuCheckbox.checked;
+
+
+        filtered =
+            allGames.filter(
+                (game) => {
+
+                    // --------------------------------------------------
+                    // Базове правило:
+                    // показуємо тільки ігри,
+                    // де є українська хоча б десь.
+                    // --------------------------------------------------
+
+                    if (
+                        !hasAnyUkrainian(
+                            game
+                        )
+                    ) {
                         return false;
                     }
 
-                    if ((g.localizations_count || 0) > maxLoc) {
+
+                    // --------------------------------------------------
+                    // SEARCH
+                    // --------------------------------------------------
+
+                    if (
+                        query
+                        &&
+                        !(game.name || '')
+                            .toLowerCase()
+                            .includes(
+                                query
+                            )
+                    ) {
+
                         return false;
+
                     }
 
-                    // Має бути українська хоча б в одному
-                    // з вибраних типів локалізації.
-                    if (!hasUkrainian(g, selectedTypes)) {
+
+                    // --------------------------------------------------
+                    // MAX LOCALIZATIONS
+                    // --------------------------------------------------
+
+                    if (
+                        (
+                            game.localizations_count
+                            || 0
+                        )
+                        >
+                        maxLocalizations
+                    ) {
+
                         return false;
+
                     }
 
-                    // Якщо увімкнено no ru —
-                    // російської не повинно бути в жодному
-                    // з вибраних типів локалізації.
-                    if (noRu && hasRussian(g, selectedTypes)) {
+
+                    // --------------------------------------------------
+                    // RELEASE
+                    // --------------------------------------------------
+
+                    if (
+                        !matchesReleaseFilter(
+                            game,
+                            filterState.release
+                        )
+                    ) {
+
                         return false;
+
                     }
+
+
+                    // --------------------------------------------------
+                    // INTERFACE
+                    // --------------------------------------------------
+
+                    if (
+                        !matchesLocalizationFilter(
+                            game,
+                            'interface',
+                            filterState.interface
+                        )
+                    ) {
+
+                        return false;
+
+                    }
+
+
+                    // --------------------------------------------------
+                    // SUBTITLES
+                    // --------------------------------------------------
+
+                    if (
+                        !matchesLocalizationFilter(
+                            game,
+                            'subtitles',
+                            filterState.subtitles
+                        )
+                    ) {
+
+                        return false;
+
+                    }
+
+
+                    // --------------------------------------------------
+                    // AUDIO
+                    // --------------------------------------------------
+
+                    if (
+                        !matchesLocalizationFilter(
+                            game,
+                            'audio',
+                            filterState.audio
+                        )
+                    ) {
+
+                        return false;
+
+                    }
+
+
+                    // --------------------------------------------------
+                    // NO RUSSIAN
+                    // --------------------------------------------------
+
+                    if (
+                        noRussian
+                        &&
+                        hasRussianAnywhere(
+                            game
+                        )
+                    ) {
+
+                        return false;
+
+                    }
+
 
                     return true;
-                });
+
+                }
+            );
+
+    }
+
+
+    // ==============================================================
+    // NUMBERS
+    // ==============================================================
+
+    function formatNumber(
+        value
+    ) {
+
+        if (
+            value === null
+            ||
+            value === undefined
+            ||
+            value === ''
+        ) {
+
+            return '—';
+
+        }
+
+        return Number(
+            value
+        ).toLocaleString(
+            'uk-UA'
+        );
+
+    }
+
+
+    function formatDecimal(
+        value
+    ) {
+
+        if (
+            value === null
+            ||
+            value === undefined
+            ||
+            isNaN(value)
+        ) {
+
+            return '—';
+
+        }
+
+        return value.toLocaleString(
+            'uk-UA',
+            {
+                minimumFractionDigits: 1,
+                maximumFractionDigits: 1,
             }
+        );
 
-            function getSelectedLocalizationTypes() {
-                const types = [];
+    }
 
-                if (interfaceCheckbox.checked) {
-                    types.push('interface');
+
+    // ==============================================================
+    // REVIEWS PER DAY
+    // ==============================================================
+
+    function computeReviewsPerDay(
+        game
+    ) {
+
+        if (
+            !game.release_date
+        ) {
+            return null;
+        }
+
+        const releaseDate =
+            new Date(
+                game.release_date
+            );
+
+
+        if (
+            isNaN(
+                releaseDate.getTime()
+            )
+        ) {
+            return null;
+        }
+
+
+        const rawDays =
+            (
+                Date.now()
+                -
+                releaseDate.getTime()
+            )
+            /
+            (
+                1000
+                *
+                60
+                *
+                60
+                *
+                24
+            );
+
+
+        if (
+            rawDays < 0
+        ) {
+            return null;
+        }
+
+
+        const daysSinceRelease =
+            Math.max(
+                rawDays,
+                1
+            );
+
+
+        const total =
+            Number(
+                game.recommendations_total
+            ) || 0;
+
+
+        return (
+            total
+            /
+            daysSinceRelease
+        );
+
+    }
+
+
+    // ==============================================================
+    // STEAM URL
+    // ==============================================================
+
+    function steamUrl(
+        appid,
+        name
+    ) {
+
+        const slug =
+            (name || '')
+                .trim()
+                .replace(
+                    /[^a-zA-Z0-9]+/g,
+                    '_'
+                );
+
+        return (
+            `https://store.steampowered.com/app/${appid}/${encodeURIComponent(slug)}/`
+        );
+
+    }
+
+
+    // ==============================================================
+    // ESCAPE
+    // ==============================================================
+
+    function escapeHtml(
+        value
+    ) {
+
+        const div =
+            document.createElement(
+                'div'
+            );
+
+        div.textContent =
+            value;
+
+        return div.innerHTML;
+
+    }
+
+
+    // ==============================================================
+    // RENDER
+    // ==============================================================
+
+    function render() {
+
+        buildHeader();
+
+
+        const total =
+            filtered.length;
+
+
+        const totalPages =
+            Math.max(
+                1,
+                Math.ceil(
+                    total
+                    /
+                    pageSize
+                )
+            );
+
+
+        if (
+            currentPage >
+            totalPages
+        ) {
+
+            currentPage =
+                totalPages;
+
+        }
+
+
+        tableBody.innerHTML =
+            '';
+
+
+        if (
+            total === 0
+        ) {
+
+            tableBody.innerHTML = `
+                <tr>
+                    <td
+                        class="empty"
+                        colspan="${COLUMNS.length}"
+                    >
+                        Нічого не знайдено
+                    </td>
+                </tr>
+            `;
+
+        } else {
+
+            const start =
+                (
+                    currentPage - 1
+                )
+                *
+                pageSize;
+
+
+            const games =
+                filtered.slice(
+                    start,
+                    start + pageSize
+                );
+
+
+            games.forEach(
+                (game) => {
+
+                    const row =
+                        document.createElement(
+                            'tr'
+                        );
+
+
+                    row.innerHTML = `
+
+                        <td class="num">
+                            ${game.appid}
+                        </td>
+
+                        <td>
+
+                            <a
+                                class="game-link"
+                                href="${steamUrl(game.appid, game.name)}"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                ${escapeHtml(game.name || '')}
+                            </a>
+
+                        </td>
+
+                        <td class="num">
+                            ${formatReleaseDate(game.release_date)}
+                        </td>
+
+                        <td class="num">
+
+                            <span class="rec-cell">
+
+                                <span class="rec-value">
+                                    ${formatNumber(game.recommendations_total)}
+                                </span>
+
+                            </span>
+
+                        </td>
+
+                        <td class="num">
+                            ${formatDecimal(game.reviews_per_day)}
+                        </td>
+
+                        <td class="num">
+                            ${game.localizations_count}
+                        </td>
+
+                    `;
+
+
+                    tableBody.appendChild(
+                        row
+                    );
+
                 }
+            );
 
-                if (subtitlesCheckbox.checked) {
-                    types.push('subtitles');
-                }
+        }
 
-                if (audioCheckbox.checked) {
-                    types.push('audio');
-                }
 
-                return types;
+        if (
+            total === 0
+        ) {
+
+            statusText.textContent =
+                '0 записів';
+
+        } else {
+
+            const first =
+                (
+                    currentPage - 1
+                )
+                *
+                pageSize
+                +
+                1;
+
+
+            const last =
+                Math.min(
+                    total,
+                    currentPage
+                    *
+                    pageSize
+                );
+
+
+            statusText.textContent =
+                `Показано ${first}–${last} з ${total}`;
+
+        }
+
+
+        renderPager(
+            totalPages
+        );
+
+    }
+
+
+    // ==============================================================
+    // PAGER
+    // ==============================================================
+
+    function renderPager(
+        totalPages
+    ) {
+
+        pagerEl.innerHTML =
+            '';
+
+
+        const previous =
+            document.createElement(
+                'button'
+            );
+
+
+        previous.textContent =
+            '← Назад';
+
+
+        previous.disabled =
+            currentPage === 1;
+
+
+        previous.addEventListener(
+            'click',
+            () => {
+
+                currentPage--;
+
+                render();
+
             }
+        );
 
-            function hasLanguageInTypes(game, language, types) {
-                const localizations = game.localizations;
 
-                if (!localizations || typeof localizations !== 'object') {
-                    return false;
+        pagerEl.appendChild(
+            previous
+        );
+
+
+        const numbers =
+            getPageNumbers(
+                currentPage,
+                totalPages
+            );
+
+
+        numbers.forEach(
+            (page) => {
+
+                if (
+                    page === '...'
+                ) {
+
+                    const gap =
+                        document.createElement(
+                            'span'
+                        );
+
+                    gap.className =
+                        'gap';
+
+                    gap.textContent =
+                        '…';
+
+                    pagerEl.appendChild(
+                        gap
+                    );
+
+                    return;
+
                 }
 
-                const normalizedLanguage = language.toLowerCase();
 
-                return types.some((type) => {
-                    const languages = localizations[type];
+                const button =
+                    document.createElement(
+                        'button'
+                    );
 
-                    if (!Array.isArray(languages)) {
-                        return false;
+
+                button.textContent =
+                    page;
+
+
+                if (
+                    page ===
+                    currentPage
+                ) {
+
+                    button.classList.add(
+                        'active'
+                    );
+
+                }
+
+
+                button.addEventListener(
+                    'click',
+                    () => {
+
+                        currentPage =
+                            page;
+
+                        render();
+
                     }
+                );
 
-                    return languages.some((item) => String(item).toLowerCase() === normalizedLanguage);
-                });
+
+                pagerEl.appendChild(
+                    button
+                );
+
             }
+        );
 
-            function hasUkrainian(game, types = getSelectedLocalizationTypes()) {
-                return hasLanguageInTypes(game, 'Ukrainian', types);
+
+        const next =
+            document.createElement(
+                'button'
+            );
+
+
+        next.textContent =
+            'Вперед →';
+
+
+        next.disabled =
+            currentPage ===
+            totalPages;
+
+
+        next.addEventListener(
+            'click',
+            () => {
+
+                currentPage++;
+
+                render();
+
             }
+        );
 
-            function hasRussian(game, types = getSelectedLocalizationTypes()) {
-                return hasLanguageInTypes(game, 'Russian', types);
+
+        pagerEl.appendChild(
+            next
+        );
+
+    }
+
+
+    function getPageNumbers(
+        current,
+        total
+    ) {
+
+        const delta = 1;
+
+        const range = [];
+
+
+        for (
+            let i =
+                Math.max(
+                    1,
+                    current - delta
+                );
+
+            i <=
+            Math.min(
+                total,
+                current + delta
+            );
+
+            i++
+        ) {
+
+            range.push(
+                i
+            );
+
+        }
+
+
+        if (
+            range[0] > 1
+        ) {
+
+            range.unshift(
+                '...'
+            );
+
+            range.unshift(
+                1
+            );
+
+        }
+
+
+        if (
+            range[
+                range.length - 1
+            ] < total
+        ) {
+
+            range.push(
+                '...'
+            );
+
+            range.push(
+                total
+            );
+
+        }
+
+
+        return range;
+
+    }
+
+
+    // ==============================================================
+    // FILTER CHANGE
+    // ==============================================================
+
+    function filterChanged() {
+
+        currentPage = 1;
+
+        applyFilter();
+
+        applySort();
+
+        render();
+
+    }
+
+
+    // ==============================================================
+    // TRI STATE BUTTONS
+    // ==============================================================
+
+    document
+        .querySelectorAll(
+            '.tri-filter-options'
+        )
+        .forEach(
+            (group) => {
+
+                const filterName =
+                    group.dataset.filter;
+
+
+                group
+                    .querySelectorAll(
+                        'button'
+                    )
+                    .forEach(
+                        (button) => {
+
+                            button.addEventListener(
+                                'click',
+                                () => {
+
+                                    group
+                                        .querySelectorAll(
+                                            'button'
+                                        )
+                                        .forEach(
+                                            (other) => {
+
+                                                other.classList.remove(
+                                                    'active'
+                                                );
+
+                                            }
+                                        );
+
+
+                                    button.classList.add(
+                                        'active'
+                                    );
+
+
+                                    filterState[
+                                        filterName
+                                    ] =
+                                        button.dataset.value;
+
+
+                                    filterChanged();
+
+                                }
+                            );
+
+                        }
+                    );
+
             }
+        );
 
-            function formatNumber(n) {
-                if (n === null || n === undefined || n === '') return '—';
-                return Number(n).toLocaleString('uk-UA');
-            }
 
-            function formatDecimal(n) {
-                if (n === null || n === undefined || isNaN(n)) return '—';
-                return n.toLocaleString('uk-UA', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
-            }
+    // ==============================================================
+    // EVENTS
+    // ==============================================================
 
-            function computeReviewsPerDay(g) {
-                if (!g.release_date) return null;
-                const releaseDate = new Date(g.release_date);
-                if (isNaN(releaseDate.getTime())) return null; // напр. "Coming soon", "Q4 2026" -- не дата
+    searchInput.addEventListener(
+        'input',
+        filterChanged
+    );
 
-                const rawDays = (Date.now() - releaseDate.getTime()) / (1000 * 60 * 60 * 24);
-                if (rawDays < 0) return null; // реліз ще попереду
 
-                const daysSinceRelease = Math.max(rawDays, 1); // мінімум 1 день, щоб реліз "сьогодні" не давав завищене число
-                const total = Number(g.recommendations_total) || 0;
-                return total / daysSinceRelease;
-            }
+    maxLocInput.addEventListener(
+        'input',
+        filterChanged
+    );
 
-            function steamUrl(appid, name) {
-                const slug = (name || '').trim().replace(/[^a-zA-Z0-9]+/g, '_');
-                return `https://store.steampowered.com/app/${appid}/${encodeURIComponent(slug)}/`;
-            }
 
-            function render() {
-                buildHeader();
+    noRuCheckbox.addEventListener(
+        'change',
+        filterChanged
+    );
 
-                const total = filtered.length;
-                const totalPages = Math.max(1, Math.ceil(total / pageSize));
-                if (currentPage > totalPages) currentPage = totalPages;
 
-                tableBody.innerHTML = '';
+    pageSizeSelect.addEventListener(
+        'change',
+        () => {
 
-                if (total === 0) {
-                    tableBody.innerHTML = `<tr><td class="empty" colspan="${COLUMNS.length}">Нічого не знайдено</td></tr>`;
-                } else {
-                    const start = (currentPage - 1) * pageSize;
-                    const pageItems = filtered.slice(start, start + pageSize);
+            pageSize =
+                Number(
+                    pageSizeSelect.value
+                );
 
-                    pageItems.forEach((g) => {
-                        const tr = document.createElement('tr');
-                        tr.innerHTML = `
-          <td class="num">${g.appid}</td>
-          <td>
-            <a class="game-link" href="${steamUrl(g.appid, g.name)}" target="_blank" rel="noopener noreferrer">${escapeHtml(g.name || '')}</a>
-          </td>
-          <td class="num">
-            <span class="rec-cell"><span class="rec-value">${formatNumber(g.recommendations_total)}</span></span>
-          </td>
-          <td class="num">${formatDecimal(g.reviews_per_day)}</td>
-          <td class="num">${g.localizations_count}</td>
-        `;
-                        tableBody.appendChild(tr);
-                    });
+            currentPage = 1;
+
+            render();
+
+        }
+    );
+
+
+    // ==============================================================
+    // LOAD JSON
+    // ==============================================================
+
+    fetch(
+        'games.json'
+    )
+
+        .then(
+            (response) => {
+
+                if (
+                    !response.ok
+                ) {
+
+                    throw new Error(
+                        'HTTP '
+                        +
+                        response.status
+                    );
+
                 }
+
+                return response.json();
+
+            }
+        )
+
+        .then(
+            (data) => {
+
+                allGames =
+                    data
+
+                        .filter(
+                            (game) =>
+                                game.type ===
+                                'game'
+                        )
+
+                        .map(
+                            (game) => ({
+
+                                ...game,
+
+
+                                localizations_count:
+                                    Array.isArray(
+                                        game.localizations?.supported
+                                    )
+                                        ?
+                                        game.localizations.supported.length
+                                        :
+                                        0,
+
+
+                                reviews_per_day:
+                                    computeReviewsPerDay(
+                                        game
+                                    ),
+
+                            })
+                        );
+
+
+                applyFilter();
+
+                applySort();
+
+                render();
+
+            }
+        )
+
+        .catch(
+            (error) => {
+
+                tableBody.innerHTML = `
+
+                    <tr>
+
+                        <td
+                            class="empty"
+                            colspan="${COLUMNS.length}"
+                        >
+
+                            Не вдалося завантажити games.json
+                            (${escapeHtml(error.message)}).
+
+                        </td>
+
+                    </tr>
+
+                `;
+
 
                 statusText.textContent =
-                    total === 0
-                        ? '0 записів'
-                        : `Показано ${Math.min(total, (currentPage - 1) * pageSize + 1)}–${Math.min(total, currentPage * pageSize)} з ${total}`;
+                    'Помилка завантаження';
 
-                renderPager(totalPages);
             }
+        );
 
-            function renderPager(totalPages) {
-                pagerEl.innerHTML = '';
+</script>
 
-                const prevBtn = document.createElement('button');
-                prevBtn.textContent = '← Назад';
-                prevBtn.disabled = currentPage === 1;
-                prevBtn.addEventListener('click', () => {
-                    currentPage--;
-                    render();
-                });
-                pagerEl.appendChild(prevBtn);
-
-                const pageNumbers = getPageNumbers(currentPage, totalPages);
-                pageNumbers.forEach((p) => {
-                    if (p === '...') {
-                        const span = document.createElement('span');
-                        span.className = 'gap';
-                        span.textContent = '…';
-                        pagerEl.appendChild(span);
-                    } else {
-                        const btn = document.createElement('button');
-                        btn.textContent = p;
-                        if (p === currentPage) btn.classList.add('active');
-                        btn.addEventListener('click', () => {
-                            currentPage = p;
-                            render();
-                        });
-                        pagerEl.appendChild(btn);
-                    }
-                });
-
-                const nextBtn = document.createElement('button');
-                nextBtn.textContent = 'Вперед →';
-                nextBtn.disabled = currentPage === totalPages;
-                nextBtn.addEventListener('click', () => {
-                    currentPage++;
-                    render();
-                });
-                pagerEl.appendChild(nextBtn);
-            }
-
-            function getPageNumbers(current, total) {
-                const delta = 1;
-                const range = [];
-                for (let i = Math.max(1, current - delta); i <= Math.min(total, current + delta); i++) range.push(i);
-                if (range[0] > 1) {
-                    range.unshift('...');
-                    range.unshift(1);
-                }
-                if (range[range.length - 1] < total) {
-                    range.push('...');
-                    range.push(total);
-                }
-                return range;
-            }
-
-            function escapeHtml(str) {
-                const div = document.createElement('div');
-                div.textContent = str;
-                return div.innerHTML;
-            }
-
-            searchInput.addEventListener('input', () => {
-                currentPage = 1;
-                applyFilter();
-                applySort();
-                render();
-            });
-
-            maxLocInput.addEventListener('input', () => {
-                currentPage = 1;
-                applyFilter();
-                applySort();
-                render();
-            });
-
-            interfaceCheckbox.addEventListener('change', () => {
-                currentPage = 1;
-                applyFilter();
-                applySort();
-                render();
-            });
-
-            subtitlesCheckbox.addEventListener('change', () => {
-                currentPage = 1;
-                applyFilter();
-                applySort();
-                render();
-            });
-
-            audioCheckbox.addEventListener('change', () => {
-                currentPage = 1;
-                applyFilter();
-                applySort();
-                render();
-            });
-
-            noRuCheckbox.addEventListener('change', () => {
-                currentPage = 1;
-                applyFilter();
-                applySort();
-                render();
-            });
-
-            pageSizeSel.addEventListener('change', () => {
-                pageSize = Number(pageSizeSel.value);
-                currentPage = 1;
-                render();
-            });
-
-            fetch('games.json')
-                .then((r) => {
-                    if (!r.ok) throw new Error('HTTP ' + r.status);
-                    return r.json();
-                })
-                .then((data) => {
-                    allGames = data
-                        .filter((g) => g.type === 'game')
-                        .map((g) => ({
-                            ...g,
-
-                            localizations_count: Array.isArray(g.localizations?.supported)
-                                ? g.localizations.supported.length
-                                : 0,
-
-                            reviews_per_day: computeReviewsPerDay(g),
-                        }));
-                    applyFilter();
-                    applySort();
-                    render();
-                })
-                .catch((err) => {
-                    tableBody.innerHTML = `<tr><td class="empty" colspan="${COLUMNS.length}">
-        Не вдалося завантажити games.json (${err.message}).<br>
-        Якщо ви відкрили файл напряму (file://), запустіть локальний сервер:<br>
-        <code>python -m http.server</code> і відкрийте http://localhost:8000/games.html
-      </td></tr>`;
-                    statusText.textContent = 'Помилка завантаження';
-                });
-        </script>
-    </body>
+</body>
 </html>
