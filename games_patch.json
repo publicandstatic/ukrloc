@@ -22757,8 +22757,6 @@
     "discovered_at": "2025-10-28 14:10:02",
     "recommendations_total": 21061,
     "recommendations_updated_at": "2026-09-18T22:03:19Z",
-    "type": "game",
-    "release_date": "27 Mar, 2025",
     "localizations": {
       "supported": [
         "English",
@@ -22777,7 +22775,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-09-18T22:03:19Z"
-    }
+    },
+    "type": "game",
+    "release_date": "27 Mar, 2025"
   },
   {
     "id": 832,
@@ -38084,5 +38084,51 @@
     },
     "type": "game",
     "release_date": "7 Sep, 2025"
+  },
+  {
+    "id": 1277,
+    "appid": 239070,
+    "name": "Hammerwatch",
+    "discovered_at": "2026-09-19 05:45:35",
+    "recommendations_total": 3667,
+    "recommendations_updated_at": "2026-09-19T22:05:00Z",
+    "type": "game",
+    "release_date": "12 Aug, 2013",
+    "localizations": {
+      "supported": [
+        "English"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-19T22:05:00Z"
+    }
+  },
+  {
+    "id": 1278,
+    "appid": 3795900,
+    "name": "FRONT MISSION 3: Remake",
+    "discovered_at": "2026-09-19 20:58:22",
+    "recommendations_total": 457,
+    "recommendations_updated_at": "2026-09-19T22:05:04Z",
+    "type": "game",
+    "release_date": "30 Jan, 2026",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Japanese",
+        "Polish",
+        "Traditional Chinese",
+        "Portuguese - Portugal"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-19T22:05:04Z"
+    }
   }
 ]
