@@ -38092,8 +38092,6 @@
     "discovered_at": "2026-09-19 05:45:35",
     "recommendations_total": 3667,
     "recommendations_updated_at": "2026-09-19T22:05:00Z",
-    "type": "game",
-    "release_date": "12 Aug, 2013",
     "localizations": {
       "supported": [
         "English"
@@ -38102,7 +38100,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-09-19T22:05:00Z"
-    }
+    },
+    "type": "game",
+    "release_date": "12 Aug, 2013"
   },
   {
     "id": 1278,
@@ -38111,8 +38111,6 @@
     "discovered_at": "2026-09-19 20:58:22",
     "recommendations_total": 457,
     "recommendations_updated_at": "2026-09-19T22:05:04Z",
-    "type": "game",
-    "release_date": "30 Jan, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38129,6 +38127,8 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-09-19T22:05:04Z"
-    }
+    },
+    "type": "game",
+    "release_date": "30 Jan, 2026"
   }
 ]
