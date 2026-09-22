@@ -38130,5 +38130,57 @@
     },
     "type": "game",
     "release_date": "30 Jan, 2026"
+  },
+  {
+    "id": 1279,
+    "appid": 1361320,
+    "name": "The Room 4: Old Sins",
+    "discovered_at": "2026-09-21 23:33:37",
+    "recommendations_total": 17813,
+    "recommendations_updated_at": "2026-09-22T22:06:34Z",
+    "type": "game",
+    "release_date": "11 Feb, 2021",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Portuguese - Brazil",
+        "Russian",
+        "Turkish"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-22T22:06:34Z"
+    }
+  },
+  {
+    "id": 1280,
+    "appid": 4317690,
+    "name": "Crimson Moon",
+    "discovered_at": "2026-09-22 15:08:25",
+    "recommendations_total": 2803,
+    "recommendations_updated_at": "2026-09-22T22:06:38Z",
+    "type": "game",
+    "release_date": "1 Sep, 2026",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Latin America",
+        "Japanese",
+        "Portuguese - Brazil",
+        "Simplified Chinese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-22T22:06:38Z"
+    }
   }
 ]
