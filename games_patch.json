@@ -38138,8 +38138,6 @@
     "discovered_at": "2026-09-21 23:33:37",
     "recommendations_total": 17813,
     "recommendations_updated_at": "2026-09-22T22:06:34Z",
-    "type": "game",
-    "release_date": "11 Feb, 2021",
     "localizations": {
       "supported": [
         "English",
@@ -38155,7 +38153,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-09-22T22:06:34Z"
-    }
+    },
+    "type": "game",
+    "release_date": "11 Feb, 2021"
   },
   {
     "id": 1280,
@@ -38164,8 +38164,6 @@
     "discovered_at": "2026-09-22 15:08:25",
     "recommendations_total": 2803,
     "recommendations_updated_at": "2026-09-22T22:06:38Z",
-    "type": "game",
-    "release_date": "1 Sep, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38181,6 +38179,40 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-09-22T22:06:38Z"
+    },
+    "type": "game",
+    "release_date": "1 Sep, 2026"
+  },
+  {
+    "id": 1281,
+    "appid": 2638890,
+    "name": "Onimusha: Way of the Sword",
+    "discovered_at": "2026-09-23 15:46:06",
+    "recommendations_total": 13249,
+    "recommendations_updated_at": "2026-09-23T22:05:10Z",
+    "type": "game",
+    "release_date": "Sep 3, 2026",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Arabic",
+        "Spanish - Latin America",
+        "Portuguese - Brazil",
+        "Polish",
+        "Russian",
+        "Simplified Chinese",
+        "Traditional Chinese",
+        "Japanese",
+        "Korean"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-23T22:05:10Z"
     }
   }
 ]
