@@ -38190,8 +38190,6 @@
     "discovered_at": "2026-09-23 15:46:06",
     "recommendations_total": 13249,
     "recommendations_updated_at": "2026-09-23T22:05:10Z",
-    "type": "game",
-    "release_date": "Sep 3, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38213,6 +38211,66 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-09-23T22:05:10Z"
+    },
+    "type": "game",
+    "release_date": "Sep 3, 2026"
+  },
+  {
+    "id": 1282,
+    "appid": 2131680,
+    "name": "METAL GEAR & METAL GEAR 2: Solid Snake",
+    "discovered_at": "2026-09-23 22:58:52",
+    "recommendations_total": 782,
+    "recommendations_updated_at": "2026-09-24T22:02:50Z",
+    "type": "game",
+    "release_date": "24 Oct, 2023",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Japanese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-24T22:02:50Z"
+    }
+  },
+  {
+    "id": 1283,
+    "appid": 1874490,
+    "name": "Potionomics",
+    "discovered_at": "2026-09-24 02:34:13",
+    "recommendations_total": null,
+    "recommendations_updated_at": null,
+    "type": null,
+    "release_date": null,
+    "localizations": {
+      "supported": [],
+      "interface": null,
+      "subtitles": null,
+      "audio": null,
+      "checked_at": "2026-09-24T22:02:54Z"
+    }
+  },
+  {
+    "id": 1284,
+    "appid": 2713000,
+    "name": "Resonance: A Plague Tale Legacy",
+    "discovered_at": "2026-09-24 12:06:31",
+    "recommendations_total": null,
+    "recommendations_updated_at": null,
+    "type": null,
+    "release_date": null,
+    "localizations": {
+      "supported": [],
+      "interface": null,
+      "subtitles": null,
+      "audio": null,
+      "checked_at": "2026-09-24T22:02:58Z"
     }
   }
 ]
