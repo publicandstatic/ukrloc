@@ -38222,8 +38222,6 @@
     "discovered_at": "2026-09-23 22:58:52",
     "recommendations_total": 782,
     "recommendations_updated_at": "2026-09-24T22:02:50Z",
-    "type": "game",
-    "release_date": "24 Oct, 2023",
     "localizations": {
       "supported": [
         "English",
@@ -38237,7 +38235,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-09-24T22:02:50Z"
-    }
+    },
+    "type": "game",
+    "release_date": "24 Oct, 2023"
   },
   {
     "id": 1283,
@@ -38253,7 +38253,7 @@
       "interface": null,
       "subtitles": null,
       "audio": null,
-      "checked_at": "2026-09-24T22:02:54Z"
+      "checked_at": "2026-09-25T22:04:26Z"
     }
   },
   {
@@ -38270,7 +38270,82 @@
       "interface": null,
       "subtitles": null,
       "audio": null,
-      "checked_at": "2026-09-24T22:02:58Z"
+      "checked_at": "2026-09-25T22:04:30Z"
+    }
+  },
+  {
+    "id": 1285,
+    "appid": 1548850,
+    "name": "Six Days in Fallujah",
+    "discovered_at": "2026-09-25 05:13:04",
+    "recommendations_total": 13029,
+    "recommendations_updated_at": "2026-09-25T22:04:34Z",
+    "type": "game",
+    "release_date": "22 Jun, 2023",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "German",
+        "Korean",
+        "Simplified Chinese",
+        "Spanish - Latin America",
+        "Italian",
+        "Spanish - Spain",
+        "Portuguese - Brazil",
+        "Portuguese - Portugal",
+        "Turkish"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-25T22:04:34Z"
+    }
+  },
+  {
+    "id": 1286,
+    "appid": 1449690,
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "discovered_at": "2026-09-25 06:33:38",
+    "recommendations_total": 36704,
+    "recommendations_updated_at": "2026-09-25T22:04:38Z",
+    "type": "game",
+    "release_date": "29 Oct, 2020",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Portuguese - Brazil",
+        "Russian",
+        "Simplified Chinese",
+        "Traditional Chinese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-25T22:04:38Z"
+    }
+  },
+  {
+    "id": 1287,
+    "appid": 837610,
+    "name": "Mary Skelter: Nightmares",
+    "discovered_at": "2026-09-25 13:31:04",
+    "recommendations_total": 543,
+    "recommendations_updated_at": "2026-09-25T22:04:42Z",
+    "type": "game",
+    "release_date": "19 Jul, 2018",
+    "localizations": {
+      "supported": [
+        "English"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-25T22:04:42Z"
     }
   }
 ]
