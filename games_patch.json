@@ -38244,16 +38244,23 @@
     "appid": 1874490,
     "name": "Potionomics",
     "discovered_at": "2026-09-24 02:34:13",
-    "recommendations_total": null,
-    "recommendations_updated_at": null,
-    "type": null,
-    "release_date": null,
+    "recommendations_total": 6990,
+    "recommendations_updated_at": "2026-09-28T22:03:07Z",
+    "type": "game",
+    "release_date": "17 Oct, 2022",
     "localizations": {
-      "supported": [],
-      "interface": null,
-      "subtitles": null,
-      "audio": null,
-      "checked_at": "2026-09-27T22:08:07Z"
+      "supported": [
+        "English",
+        "German",
+        "Japanese",
+        "Korean",
+        "Simplified Chinese",
+        "Traditional Chinese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-28T22:03:07Z"
     }
   },
   {
@@ -38261,16 +38268,76 @@
     "appid": 2713000,
     "name": "Resonance: A Plague Tale Legacy",
     "discovered_at": "2026-09-24 12:06:31",
-    "recommendations_total": null,
-    "recommendations_updated_at": null,
-    "type": null,
-    "release_date": null,
+    "recommendations_total": 3967,
+    "recommendations_updated_at": "2026-09-28T22:03:11Z",
+    "type": "game",
+    "release_date": "27 Aug, 2026",
     "localizations": {
-      "supported": [],
-      "interface": null,
-      "subtitles": null,
-      "audio": null,
-      "checked_at": "2026-09-27T22:08:11Z"
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Arabic",
+        "Czech",
+        "Korean",
+        "Polish",
+        "Russian",
+        "Simplified Chinese",
+        "Spanish - Latin America",
+        "Traditional Chinese",
+        "Ukrainian",
+        "Portuguese - Brazil",
+        "Japanese",
+        "Turkish"
+      ],
+      "interface": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Arabic",
+        "Czech",
+        "Korean",
+        "Polish",
+        "Russian",
+        "Simplified Chinese",
+        "Spanish - Latin America",
+        "Traditional Chinese",
+        "Ukrainian",
+        "Portuguese - Brazil",
+        "Japanese",
+        "Turkish"
+      ],
+      "subtitles": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Arabic",
+        "Czech",
+        "Korean",
+        "Polish",
+        "Russian",
+        "Simplified Chinese",
+        "Spanish - Latin America",
+        "Traditional Chinese",
+        "Ukrainian",
+        "Portuguese - Brazil",
+        "Japanese",
+        "Turkish"
+      ],
+      "audio": [
+        "English",
+        "French",
+        "German",
+        "Spanish - Spain",
+        "Simplified Chinese"
+      ],
+      "checked_at": "2026-09-28T22:03:12Z"
     }
   },
   {
@@ -38347,5 +38414,64 @@
     },
     "type": "game",
     "release_date": "19 Jul, 2018"
+  },
+  {
+    "id": 1288,
+    "appid": 4560490,
+    "name": "REWIND",
+    "discovered_at": "2026-09-28 07:07:32",
+    "recommendations_total": 0,
+    "recommendations_updated_at": "2026-09-28T22:03:16Z",
+    "type": "game",
+    "release_date": "29 Jun, 2026",
+    "localizations": {
+      "supported": [
+        "Simplified Chinese",
+        "English"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-28T22:03:16Z"
+    }
+  },
+  {
+    "id": 1289,
+    "appid": 4808270,
+    "name": "Till Midnight",
+    "discovered_at": "2026-09-28 08:45:43",
+    "recommendations_total": 0,
+    "recommendations_updated_at": "2026-09-28T22:03:20Z",
+    "type": "game",
+    "release_date": "26 Jun, 2026",
+    "localizations": {
+      "supported": [
+        "English"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-28T22:03:20Z"
+    }
+  },
+  {
+    "id": 1290,
+    "appid": 2977260,
+    "name": "The Guild 1 Remake: Europa 1410",
+    "discovered_at": "2026-09-28 21:38:06",
+    "recommendations_total": 682,
+    "recommendations_updated_at": "2026-09-28T22:03:23Z",
+    "type": "game",
+    "release_date": "17 Sep, 2026",
+    "localizations": {
+      "supported": [
+        "English",
+        "German"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-09-28T22:03:23Z"
+    }
   }
 ]
