@@ -38481,8 +38481,6 @@
     "discovered_at": "2026-09-29 09:30:34",
     "recommendations_total": 1132,
     "recommendations_updated_at": "2026-09-29T22:05:27Z",
-    "type": "game",
-    "release_date": "28 Apr, 2025",
     "localizations": {
       "supported": [
         "English",
@@ -38497,6 +38495,8 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-09-29T22:05:27Z"
-    }
+    },
+    "type": "game",
+    "release_date": "28 Apr, 2025"
   }
 ]
