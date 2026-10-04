@@ -22793,8 +22793,6 @@
     "discovered_at": "2025-10-28 14:10:02",
     "recommendations_total": 21231,
     "recommendations_updated_at": "2026-10-04T04:11:35Z",
-    "type": "game",
-    "release_date": "27 Mar, 2025",
     "localizations": {
       "supported": [
         "English",
@@ -22813,7 +22811,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-04T04:11:35Z"
-    }
+    },
+    "type": "game",
+    "release_date": "27 Mar, 2025"
   },
   {
     "id": 832,
@@ -38655,5 +38655,84 @@
     },
     "type": "game",
     "release_date": "15 Aug, 2024"
+  },
+  {
+    "id": 1294,
+    "appid": 1202130,
+    "name": "Starship Troopers: Terran Command",
+    "discovered_at": "2026-10-04 04:58:58",
+    "recommendations_total": 9235,
+    "recommendations_updated_at": "2026-10-04T22:04:17Z",
+    "type": "game",
+    "release_date": "16 Jun, 2022",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "German",
+        "Spanish - Spain",
+        "Polish",
+        "Portuguese - Brazil",
+        "Russian",
+        "Simplified Chinese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-10-04T22:04:17Z"
+    }
+  },
+  {
+    "id": 1295,
+    "appid": 1088790,
+    "name": "Rebel Inc: Escalation",
+    "discovered_at": "2026-10-04 12:06:54",
+    "recommendations_total": 6963,
+    "recommendations_updated_at": "2026-10-04T22:04:21Z",
+    "type": "game",
+    "release_date": "13 Oct, 2021",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Japanese",
+        "Korean",
+        "Portuguese - Portugal",
+        "Portuguese - Brazil",
+        "Russian",
+        "Simplified Chinese",
+        "Traditional Chinese",
+        "Turkish"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-10-04T22:04:21Z"
+    }
+  },
+  {
+    "id": 1296,
+    "appid": 981750,
+    "name": "CRYSTAR",
+    "discovered_at": "2026-10-04 19:12:26",
+    "recommendations_total": 1410,
+    "recommendations_updated_at": "2026-10-04T22:04:25Z",
+    "type": "game",
+    "release_date": "27 Aug, 2019",
+    "localizations": {
+      "supported": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Traditional Chinese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-10-04T22:04:25Z"
+    }
   }
 ]
