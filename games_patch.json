@@ -38191,8 +38191,6 @@
     "discovered_at": "2026-09-19 05:45:35",
     "recommendations_total": 3669,
     "recommendations_updated_at": "2026-10-05T22:08:54Z",
-    "type": "game",
-    "release_date": "12 Aug, 2013",
     "localizations": {
       "supported": [
         "English"
@@ -38201,7 +38199,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:08:54Z"
-    }
+    },
+    "type": "game",
+    "release_date": "12 Aug, 2013"
   },
   {
     "id": 1278,
@@ -38210,8 +38210,6 @@
     "discovered_at": "2026-09-19 20:58:22",
     "recommendations_total": 459,
     "recommendations_updated_at": "2026-10-05T22:08:58Z",
-    "type": "game",
-    "release_date": "30 Jan, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38228,7 +38226,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:08:58Z"
-    }
+    },
+    "type": "game",
+    "release_date": "30 Jan, 2026"
   },
   {
     "id": 1279,
@@ -38742,8 +38742,6 @@
     "discovered_at": "2026-10-04 23:27:20",
     "recommendations_total": 3481,
     "recommendations_updated_at": "2026-10-05T22:09:02Z",
-    "type": "game",
-    "release_date": "15 Jun, 2021",
     "localizations": {
       "supported": [
         "English",
@@ -38759,7 +38757,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:09:02Z"
-    }
+    },
+    "type": "game",
+    "release_date": "15 Jun, 2021"
   },
   {
     "id": 1298,
@@ -38768,8 +38768,6 @@
     "discovered_at": "2026-10-05 10:56:57",
     "recommendations_total": 30773,
     "recommendations_updated_at": "2026-10-05T22:09:06Z",
-    "type": "game",
-    "release_date": "23 Aug, 2016",
     "localizations": {
       "supported": [
         "English",
@@ -38785,7 +38783,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:09:06Z"
-    }
+    },
+    "type": "game",
+    "release_date": "23 Aug, 2016"
   },
   {
     "id": 1299,
@@ -38794,8 +38794,6 @@
     "discovered_at": "2026-10-05 11:04:08",
     "recommendations_total": 26996,
     "recommendations_updated_at": "2026-10-05T22:09:09Z",
-    "type": "game",
-    "release_date": "17 Feb, 2015",
     "localizations": {
       "supported": [
         "English",
@@ -38812,7 +38810,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:09:09Z"
-    }
+    },
+    "type": "game",
+    "release_date": "17 Feb, 2015"
   },
   {
     "id": 1300,
@@ -38821,8 +38821,6 @@
     "discovered_at": "2026-10-05 11:23:00",
     "recommendations_total": 16379,
     "recommendations_updated_at": "2026-10-05T22:09:13Z",
-    "type": "game",
-    "release_date": "9 Oct, 2014",
     "localizations": {
       "supported": [
         "English",
@@ -38835,7 +38833,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:09:13Z"
-    }
+    },
+    "type": "game",
+    "release_date": "9 Oct, 2014"
   },
   {
     "id": 1301,
@@ -38844,8 +38844,6 @@
     "discovered_at": "2026-10-05 11:53:41",
     "recommendations_total": 3608,
     "recommendations_updated_at": "2026-10-05T22:09:17Z",
-    "type": "game",
-    "release_date": "17 Oct, 2013",
     "localizations": {
       "supported": [
         "English",
@@ -38858,7 +38856,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:09:17Z"
-    }
+    },
+    "type": "game",
+    "release_date": "17 Oct, 2013"
   },
   {
     "id": 1302,
@@ -38867,8 +38867,6 @@
     "discovered_at": "2026-10-05 12:26:45",
     "recommendations_total": 8121,
     "recommendations_updated_at": "2026-10-05T22:09:21Z",
-    "type": "game",
-    "release_date": "18 Feb, 2009",
     "localizations": {
       "supported": [
         "English",
@@ -38885,7 +38883,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:09:21Z"
-    }
+    },
+    "type": "game",
+    "release_date": "18 Feb, 2009"
   },
   {
     "id": 1303,
@@ -38894,8 +38894,6 @@
     "discovered_at": "2026-10-05 20:12:33",
     "recommendations_total": 13853,
     "recommendations_updated_at": "2026-10-05T22:09:24Z",
-    "type": "game",
-    "release_date": "23 Apr, 2020",
     "localizations": {
       "supported": [
         "English",
@@ -38916,6 +38914,94 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-05T22:09:24Z"
+    },
+    "type": "game",
+    "release_date": "23 Apr, 2020"
+  },
+  {
+    "id": 1304,
+    "appid": 492720,
+    "name": "Tropico 6",
+    "discovered_at": "2026-10-06 13:07:40",
+    "recommendations_total": 19882,
+    "recommendations_updated_at": "2026-10-06T22:05:30Z",
+    "type": "game",
+    "release_date": "29 Mar, 2019",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Russian",
+        "Korean",
+        "Portuguese - Brazil",
+        "Simplified Chinese",
+        "Arabic",
+        "Japanese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-10-06T22:05:30Z"
+    }
+  },
+  {
+    "id": 1305,
+    "appid": 458710,
+    "name": "Kingdom Rush Frontiers - Tower Defense",
+    "discovered_at": "2026-10-06 14:51:28",
+    "recommendations_total": 10185,
+    "recommendations_updated_at": "2026-10-06T22:05:34Z",
+    "type": "game",
+    "release_date": "25 Jul, 2016",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "German",
+        "Spanish - Spain",
+        "Portuguese - Portugal",
+        "Russian",
+        "Traditional Chinese",
+        "Korean",
+        "Japanese",
+        "Portuguese - Brazil"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-10-06T22:05:34Z"
+    }
+  },
+  {
+    "id": 1306,
+    "appid": 387990,
+    "name": "Scrap Mechanic",
+    "discovered_at": "2026-10-06 19:13:37",
+    "recommendations_total": 109721,
+    "recommendations_updated_at": "2026-10-06T22:05:38Z",
+    "type": "game",
+    "release_date": "24 Jul, 2026",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Polish",
+        "Portuguese - Brazil",
+        "Simplified Chinese",
+        "Japanese",
+        "Korean",
+        "Russian"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-10-06T22:05:38Z"
     }
   }
 ]
