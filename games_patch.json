@@ -38289,8 +38289,6 @@
     "discovered_at": "2026-09-23 15:46:06",
     "recommendations_total": 15691,
     "recommendations_updated_at": "2026-10-08T22:08:42Z",
-    "type": "game",
-    "release_date": "3 Sep, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38312,15 +38310,19 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-08T22:08:42Z"
-    }
+    },
+    "type": "game",
+    "release_date": "3 Sep, 2026"
   },
   {
     "id": 1282,
     "appid": 2131680,
     "name": "METAL GEAR & METAL GEAR 2: Solid Snake",
     "discovered_at": "2026-09-23 22:58:52",
-    "recommendations_total": 782,
-    "recommendations_updated_at": "2026-09-24T22:02:50Z",
+    "recommendations_total": 798,
+    "recommendations_updated_at": "2026-10-09T22:08:51Z",
+    "type": "game",
+    "release_date": "24 Oct, 2023",
     "localizations": {
       "supported": [
         "English",
@@ -38333,10 +38335,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-09-24T22:02:50Z"
-    },
-    "type": "game",
-    "release_date": "24 Oct, 2023"
+      "checked_at": "2026-10-09T22:08:51Z"
+    }
   },
   {
     "id": 1283,
