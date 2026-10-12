@@ -38446,8 +38446,6 @@
     "discovered_at": "2026-09-25 05:13:04",
     "recommendations_total": 13070,
     "recommendations_updated_at": "2026-10-11T22:05:28Z",
-    "type": "game",
-    "release_date": "22 Jun, 2023",
     "localizations": {
       "supported": [
         "English",
@@ -38466,7 +38464,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-11T22:05:28Z"
-    }
+    },
+    "type": "game",
+    "release_date": "22 Jun, 2023"
   },
   {
     "id": 1286,
@@ -38475,8 +38475,6 @@
     "discovered_at": "2026-09-25 06:33:38",
     "recommendations_total": 36948,
     "recommendations_updated_at": "2026-10-11T22:05:32Z",
-    "type": "game",
-    "release_date": "29 Oct, 2020",
     "localizations": {
       "supported": [
         "English",
@@ -38493,7 +38491,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-11T22:05:32Z"
-    }
+    },
+    "type": "game",
+    "release_date": "29 Oct, 2020"
   },
   {
     "id": 1287,
@@ -38502,8 +38502,6 @@
     "discovered_at": "2026-09-25 13:31:04",
     "recommendations_total": 546,
     "recommendations_updated_at": "2026-10-11T22:05:36Z",
-    "type": "game",
-    "release_date": "19 Jul, 2018",
     "localizations": {
       "supported": [
         "English"
@@ -38512,7 +38510,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-11T22:05:36Z"
-    }
+    },
+    "type": "game",
+    "release_date": "19 Jul, 2018"
   },
   {
     "id": 1288,
@@ -39098,8 +39098,6 @@
     "discovered_at": "2026-10-11 03:29:28",
     "recommendations_total": 11142,
     "recommendations_updated_at": "2026-10-11T22:05:39Z",
-    "type": "game",
-    "release_date": "14 Jul, 2023",
     "localizations": {
       "supported": [
         "English",
@@ -39117,6 +39115,8 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-11T22:05:39Z"
-    }
+    },
+    "type": "game",
+    "release_date": "14 Jul, 2023"
   }
 ]
