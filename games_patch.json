@@ -38343,8 +38343,10 @@
     "appid": 1874490,
     "name": "Potionomics",
     "discovered_at": "2026-09-24 02:34:13",
-    "recommendations_total": 6990,
-    "recommendations_updated_at": "2026-09-28T22:03:07Z",
+    "recommendations_total": 7015,
+    "recommendations_updated_at": "2026-10-13T22:16:33Z",
+    "type": "game",
+    "release_date": "17 Oct, 2022",
     "localizations": {
       "supported": [
         "English",
@@ -38357,18 +38359,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-09-28T22:03:07Z"
-    },
-    "type": "game",
-    "release_date": "17 Oct, 2022"
+      "checked_at": "2026-10-13T22:16:33Z"
+    }
   },
   {
     "id": 1284,
     "appid": 2713000,
     "name": "Resonance: A Plague Tale Legacy",
     "discovered_at": "2026-09-24 12:06:31",
-    "recommendations_total": 3967,
-    "recommendations_updated_at": "2026-09-28T22:03:11Z",
+    "recommendations_total": 4226,
+    "recommendations_updated_at": "2026-10-13T22:16:37Z",
+    "type": "game",
+    "release_date": "27 Aug, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38434,10 +38436,8 @@
         "Spanish - Spain",
         "Simplified Chinese"
       ],
-      "checked_at": "2026-09-28T22:03:12Z"
-    },
-    "type": "game",
-    "release_date": "27 Aug, 2026"
+      "checked_at": "2026-10-13T22:16:39Z"
+    }
   },
   {
     "id": 1285,
@@ -38520,7 +38520,9 @@
     "name": "REWIND",
     "discovered_at": "2026-09-28 07:07:32",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-09-28T22:03:16Z",
+    "recommendations_updated_at": "2026-10-13T22:16:42Z",
+    "type": "game",
+    "release_date": "29 Jun, 2026",
     "localizations": {
       "supported": [
         "Simplified Chinese",
@@ -38529,10 +38531,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-09-28T22:03:16Z"
-    },
-    "type": "game",
-    "release_date": "29 Jun, 2026"
+      "checked_at": "2026-10-13T22:16:42Z"
+    }
   },
   {
     "id": 1289,
@@ -38540,7 +38540,9 @@
     "name": "Till Midnight",
     "discovered_at": "2026-09-28 08:45:43",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-09-28T22:03:20Z",
+    "recommendations_updated_at": "2026-10-13T22:16:46Z",
+    "type": "game",
+    "release_date": "26 Jun, 2026",
     "localizations": {
       "supported": [
         "English"
@@ -38548,18 +38550,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-09-28T22:03:20Z"
-    },
-    "type": "game",
-    "release_date": "26 Jun, 2026"
+      "checked_at": "2026-10-13T22:16:46Z"
+    }
   },
   {
     "id": 1290,
     "appid": 2977260,
     "name": "The Guild 1 Remake: Europa 1410",
     "discovered_at": "2026-09-28 21:38:06",
-    "recommendations_total": 682,
-    "recommendations_updated_at": "2026-09-28T22:03:23Z",
+    "recommendations_total": 770,
+    "recommendations_updated_at": "2026-10-13T22:16:50Z",
+    "type": "game",
+    "release_date": "17 Sep, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38568,10 +38570,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-09-28T22:03:23Z"
-    },
-    "type": "game",
-    "release_date": "17 Sep, 2026"
+      "checked_at": "2026-10-13T22:16:50Z"
+    }
   },
   {
     "id": 1291,
