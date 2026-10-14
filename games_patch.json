@@ -38345,8 +38345,6 @@
     "discovered_at": "2026-09-24 02:34:13",
     "recommendations_total": 7015,
     "recommendations_updated_at": "2026-10-13T22:16:33Z",
-    "type": "game",
-    "release_date": "17 Oct, 2022",
     "localizations": {
       "supported": [
         "English",
@@ -38360,7 +38358,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-13T22:16:33Z"
-    }
+    },
+    "type": "game",
+    "release_date": "17 Oct, 2022"
   },
   {
     "id": 1284,
@@ -38369,8 +38369,6 @@
     "discovered_at": "2026-09-24 12:06:31",
     "recommendations_total": 4226,
     "recommendations_updated_at": "2026-10-13T22:16:37Z",
-    "type": "game",
-    "release_date": "27 Aug, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38437,7 +38435,9 @@
         "Simplified Chinese"
       ],
       "checked_at": "2026-10-13T22:16:39Z"
-    }
+    },
+    "type": "game",
+    "release_date": "27 Aug, 2026"
   },
   {
     "id": 1285,
@@ -38521,8 +38521,6 @@
     "discovered_at": "2026-09-28 07:07:32",
     "recommendations_total": 0,
     "recommendations_updated_at": "2026-10-13T22:16:42Z",
-    "type": "game",
-    "release_date": "29 Jun, 2026",
     "localizations": {
       "supported": [
         "Simplified Chinese",
@@ -38532,7 +38530,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-13T22:16:42Z"
-    }
+    },
+    "type": "game",
+    "release_date": "29 Jun, 2026"
   },
   {
     "id": 1289,
@@ -38541,8 +38541,6 @@
     "discovered_at": "2026-09-28 08:45:43",
     "recommendations_total": 0,
     "recommendations_updated_at": "2026-10-13T22:16:46Z",
-    "type": "game",
-    "release_date": "26 Jun, 2026",
     "localizations": {
       "supported": [
         "English"
@@ -38551,7 +38549,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-13T22:16:46Z"
-    }
+    },
+    "type": "game",
+    "release_date": "26 Jun, 2026"
   },
   {
     "id": 1290,
@@ -38560,8 +38560,6 @@
     "discovered_at": "2026-09-28 21:38:06",
     "recommendations_total": 770,
     "recommendations_updated_at": "2026-10-13T22:16:50Z",
-    "type": "game",
-    "release_date": "17 Sep, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38571,15 +38569,19 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-13T22:16:50Z"
-    }
+    },
+    "type": "game",
+    "release_date": "17 Sep, 2026"
   },
   {
     "id": 1291,
     "appid": 2745870,
     "name": "Warfare Legacy Collection",
     "discovered_at": "2026-09-29 09:30:34",
-    "recommendations_total": 1132,
-    "recommendations_updated_at": "2026-09-29T22:05:27Z",
+    "recommendations_total": 1146,
+    "recommendations_updated_at": "2026-10-14T22:06:41Z",
+    "type": "game",
+    "release_date": "28 Apr, 2025",
     "localizations": {
       "supported": [
         "English",
@@ -38593,10 +38595,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-09-29T22:05:27Z"
-    },
-    "type": "game",
-    "release_date": "28 Apr, 2025"
+      "checked_at": "2026-10-14T22:06:41Z"
+    }
   },
   {
     "id": 1292,
