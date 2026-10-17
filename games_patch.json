@@ -39126,8 +39126,6 @@
     "discovered_at": "2026-10-16 20:57:15",
     "recommendations_total": 2585,
     "recommendations_updated_at": "2026-10-16T22:11:31Z",
-    "type": "game",
-    "release_date": "23 Sep, 2026",
     "localizations": {
       "supported": [
         "Japanese",
@@ -39138,6 +39136,8 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-16T22:11:31Z"
-    }
+    },
+    "type": "game",
+    "release_date": "23 Sep, 2026"
   }
 ]
