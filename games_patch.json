@@ -38231,7 +38231,9 @@
     "name": "Hammerwatch",
     "discovered_at": "2026-09-19 05:45:35",
     "recommendations_total": 3669,
-    "recommendations_updated_at": "2026-10-05T22:08:54Z",
+    "recommendations_updated_at": "2026-10-21T22:09:14Z",
+    "type": "game",
+    "release_date": "12 Aug, 2013",
     "localizations": {
       "supported": [
         "English"
@@ -38239,18 +38241,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:08:54Z"
-    },
-    "type": "game",
-    "release_date": "12 Aug, 2013"
+      "checked_at": "2026-10-21T22:09:14Z"
+    }
   },
   {
     "id": 1278,
     "appid": 3795900,
     "name": "FRONT MISSION 3: Remake",
     "discovered_at": "2026-09-19 20:58:22",
-    "recommendations_total": 459,
-    "recommendations_updated_at": "2026-10-05T22:08:58Z",
+    "recommendations_total": 474,
+    "recommendations_updated_at": "2026-10-21T22:09:18Z",
+    "type": "game",
+    "release_date": "30 Jan, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38266,10 +38268,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:08:58Z"
-    },
-    "type": "game",
-    "release_date": "30 Jan, 2026"
+      "checked_at": "2026-10-21T22:09:18Z"
+    }
   },
   {
     "id": 1279,
@@ -38768,7 +38768,7 @@
       "interface": null,
       "subtitles": null,
       "audio": null,
-      "checked_at": "2026-10-20T22:07:38Z"
+      "checked_at": "2026-10-21T22:09:21Z"
     }
   },
   {
@@ -38776,8 +38776,10 @@
     "appid": 895620,
     "name": "Spellcaster University",
     "discovered_at": "2026-10-04 23:27:20",
-    "recommendations_total": 3481,
-    "recommendations_updated_at": "2026-10-05T22:09:02Z",
+    "recommendations_total": 3495,
+    "recommendations_updated_at": "2026-10-21T22:09:25Z",
+    "type": "game",
+    "release_date": "15 Jun, 2021",
     "localizations": {
       "supported": [
         "English",
@@ -38792,18 +38794,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:09:02Z"
-    },
-    "type": "game",
-    "release_date": "15 Jun, 2021"
+      "checked_at": "2026-10-21T22:09:25Z"
+    }
   },
   {
     "id": 1298,
     "appid": 337000,
     "name": "Deus Ex: Mankind Divided",
     "discovered_at": "2026-10-05 10:56:57",
-    "recommendations_total": 30773,
-    "recommendations_updated_at": "2026-10-05T22:09:06Z",
+    "recommendations_total": 30809,
+    "recommendations_updated_at": "2026-10-21T22:09:29Z",
+    "type": "game",
+    "release_date": "23 Aug, 2016",
     "localizations": {
       "supported": [
         "English",
@@ -38818,18 +38820,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:09:06Z"
-    },
-    "type": "game",
-    "release_date": "23 Aug, 2016"
+      "checked_at": "2026-10-21T22:09:29Z"
+    }
   },
   {
     "id": 1299,
     "appid": 325610,
     "name": "Total War: ATTILA",
     "discovered_at": "2026-10-05 11:04:08",
-    "recommendations_total": 26996,
-    "recommendations_updated_at": "2026-10-05T22:09:09Z",
+    "recommendations_total": 27066,
+    "recommendations_updated_at": "2026-10-21T22:09:33Z",
+    "type": "game",
+    "release_date": "17 Feb, 2015",
     "localizations": {
       "supported": [
         "English",
@@ -38845,18 +38847,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:09:09Z"
-    },
-    "type": "game",
-    "release_date": "17 Feb, 2015"
+      "checked_at": "2026-10-21T22:09:33Z"
+    }
   },
   {
     "id": 1300,
     "appid": 292120,
     "name": "FINAL FANTASY® XIII",
     "discovered_at": "2026-10-05 11:23:00",
-    "recommendations_total": 16379,
-    "recommendations_updated_at": "2026-10-05T22:09:13Z",
+    "recommendations_total": 16410,
+    "recommendations_updated_at": "2026-10-21T22:09:37Z",
+    "type": "game",
+    "release_date": "9 Oct, 2014",
     "localizations": {
       "supported": [
         "English",
@@ -38868,18 +38870,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:09:13Z"
-    },
-    "type": "game",
-    "release_date": "9 Oct, 2014"
+      "checked_at": "2026-10-21T22:09:37Z"
+    }
   },
   {
     "id": 1301,
     "appid": 245390,
     "name": "I Have No Mouth, and I Must Scream",
     "discovered_at": "2026-10-05 11:53:41",
-    "recommendations_total": 3608,
-    "recommendations_updated_at": "2026-10-05T22:09:17Z",
+    "recommendations_total": 3639,
+    "recommendations_updated_at": "2026-10-21T22:09:40Z",
+    "type": "game",
+    "release_date": "17 Oct, 2013",
     "localizations": {
       "supported": [
         "English",
@@ -38891,18 +38893,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:09:17Z"
-    },
-    "type": "game",
-    "release_date": "17 Oct, 2013"
+      "checked_at": "2026-10-21T22:09:40Z"
+    }
   },
   {
     "id": 1302,
     "appid": 15620,
     "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)",
     "discovered_at": "2026-10-05 12:26:45",
-    "recommendations_total": 8121,
-    "recommendations_updated_at": "2026-10-05T22:09:21Z",
+    "recommendations_total": 8144,
+    "recommendations_updated_at": "2026-10-21T22:09:44Z",
+    "type": "game",
+    "release_date": "18 Feb, 2009",
     "localizations": {
       "supported": [
         "English",
@@ -38918,18 +38920,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:09:21Z"
-    },
-    "type": "game",
-    "release_date": "18 Feb, 2009"
+      "checked_at": "2026-10-21T22:09:44Z"
+    }
   },
   {
     "id": 1303,
     "appid": 746850,
     "name": "Cloudpunk",
     "discovered_at": "2026-10-05 20:12:33",
-    "recommendations_total": 13853,
-    "recommendations_updated_at": "2026-10-05T22:09:24Z",
+    "recommendations_total": 13915,
+    "recommendations_updated_at": "2026-10-21T22:09:48Z",
+    "type": "game",
+    "release_date": "23 Apr, 2020",
     "localizations": {
       "supported": [
         "English",
@@ -38949,18 +38951,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-05T22:09:24Z"
-    },
-    "type": "game",
-    "release_date": "23 Apr, 2020"
+      "checked_at": "2026-10-21T22:09:48Z"
+    }
   },
   {
     "id": 1304,
     "appid": 492720,
     "name": "Tropico 6",
     "discovered_at": "2026-10-06 13:07:40",
-    "recommendations_total": 19882,
-    "recommendations_updated_at": "2026-10-06T22:05:30Z",
+    "recommendations_total": 19922,
+    "recommendations_updated_at": "2026-10-21T22:09:52Z",
+    "type": "game",
+    "release_date": "29 Mar, 2019",
     "localizations": {
       "supported": [
         "English",
@@ -38978,18 +38980,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-06T22:05:30Z"
-    },
-    "type": "game",
-    "release_date": "29 Mar, 2019"
+      "checked_at": "2026-10-21T22:09:52Z"
+    }
   },
   {
     "id": 1305,
     "appid": 458710,
     "name": "Kingdom Rush Frontiers - Tower Defense",
     "discovered_at": "2026-10-06 14:51:28",
-    "recommendations_total": 10185,
-    "recommendations_updated_at": "2026-10-06T22:05:34Z",
+    "recommendations_total": 10336,
+    "recommendations_updated_at": "2026-10-21T22:09:56Z",
+    "type": "game",
+    "release_date": "25 Jul, 2016",
     "localizations": {
       "supported": [
         "English",
@@ -39006,18 +39008,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-06T22:05:34Z"
-    },
-    "type": "game",
-    "release_date": "25 Jul, 2016"
+      "checked_at": "2026-10-21T22:09:56Z"
+    }
   },
   {
     "id": 1306,
     "appid": 387990,
     "name": "Scrap Mechanic",
     "discovered_at": "2026-10-06 19:13:37",
-    "recommendations_total": 109721,
-    "recommendations_updated_at": "2026-10-06T22:05:38Z",
+    "recommendations_total": 109843,
+    "recommendations_updated_at": "2026-10-21T22:10:00Z",
+    "type": "game",
+    "release_date": "24 Jul, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -39035,10 +39037,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-06T22:05:38Z"
-    },
-    "type": "game",
-    "release_date": "24 Jul, 2026"
+      "checked_at": "2026-10-21T22:10:00Z"
+    }
   },
   {
     "id": 1307,
