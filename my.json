@@ -1,0 +1,2702 @@
+[
+  {
+    "appid": 1962700,
+    "name": "Subnautica 2",
+    "release_date": "14 May, 2026",
+    "release_iso": "2026-05-14",
+    "recommendations_total": 118336,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1154030,
+    "name": "Titan Quest II",
+    "release_date": "1 Aug, 2025",
+    "release_iso": "2025-08-01",
+    "recommendations_total": 17674,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1904480,
+    "name": "Absolum",
+    "release_date": "9 Oct, 2025",
+    "release_iso": "2025-10-09",
+    "recommendations_total": 9561,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2213120,
+    "name": "While We Wait Here",
+    "release_date": "23 Oct, 2024",
+    "release_iso": "2024-10-23",
+    "recommendations_total": 2385,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1574310,
+    "name": "OXENFREE II: Lost Signals",
+    "release_date": "12 Jul, 2023",
+    "release_iso": "2023-07-12",
+    "recommendations_total": 1978,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1553260,
+    "name": "Scarlet Deer Inn",
+    "release_date": "21 Jul, 2026",
+    "release_iso": "2026-07-21",
+    "recommendations_total": 382,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4107960,
+    "name": ".curator",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4740420,
+    "name": "A Love Letter in Snowfall",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3935520,
+    "name": "A Service Call",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 563560,
+    "name": "Alien Swarm: Reactive Drop",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 270880,
+    "name": "American Truck Simulator",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4984550,
+    "name": "Anchorite: Heritage Ascension",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3308870,
+    "name": "and Roger",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1902490,
+    "name": "Aperture Desk Job",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3846570,
+    "name": "Aphasia",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 107410,
+    "name": "Arma 3",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 718080,
+    "name": "Artifact Quest 2 - Match 3 Puzzle",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3925150,
+    "name": "AUDIOMECH: your music transformed",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1086940,
+    "name": "Baldur's Gate 3",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 618140,
+    "name": "Barro",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1990740,
+    "name": "Barro GT",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2653640,
+    "name": "Big Ear Detective",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1774880,
+    "name": "Blight: Survival",
+    "release_date": "To be announced",
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1801110,
+    "name": "BOKURA",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3126150,
+    "name": "BOKURA: planet",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2118370,
+    "name": "Bosorka",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1590320,
+    "name": "Bro Falls",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 696370,
+    "name": "BROKE PROTOCOL",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1511790,
+    "name": "BRUTALIST",
+    "release_date": "To be announced",
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2218460,
+    "name": "Bunny Guys!",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3651890,
+    "name": "BURIED BELOW",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3793270,
+    "name": "Bygoner",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1741160,
+    "name": "Catch Me!",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2231020,
+    "name": "Chronicles: Medieval",
+    "release_date": "2027",
+    "release_iso": "2027",
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3873360,
+    "name": "Chumaky",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2881650,
+    "name": "Content Warning",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 115200,
+    "name": "Cossacks II: Napoleonic Wars",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 10,
+    "name": "Counter-Strike",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 262830,
+    "name": "Crimsonland",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1091500,
+    "name": "Cyberpunk 2077",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1481400,
+    "name": "Dagon: by H. P. Lovecraft",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2127030,
+    "name": "Date or Destiny : Kiss or Miss",
+    "release_date": "27 Jun, 2025",
+    "release_iso": "2025-06-27",
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1422450,
+    "name": "Deadlock",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4534960,
+    "name": "Dear Passengers",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 40,
+    "name": "Deathmatch Classic",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 548430,
+    "name": "Deep Rock Galactic",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2592160,
+    "name": "Dispatch",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1455840,
+    "name": "Dorfromantik",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 570,
+    "name": "Dota 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1046930,
+    "name": "Dota Underlords",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2525310,
+    "name": "Drop Duchy",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1689500,
+    "name": "Dune: Imperium",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 454100,
+    "name": "Dungeon Escape",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2837690,
+    "name": "Dungeons & Dragons: Long Rest Tavern",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1896880,
+    "name": "Dungeons of Dreadrock",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3293010,
+    "name": "Easy Delivery Co.",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3818020,
+    "name": "Evil School",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1315120,
+    "name": "Field Hospital: Dr. Taylor's Story",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 337340,
+    "name": "Finding Paradise",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2103370,
+    "name": "FINIS",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 410900,
+    "name": "Forts",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1568590,
+    "name": "Goose Goose Duck",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 369990,
+    "name": "Gremlins, Inc.",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1145350,
+    "name": "Hades II",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 220,
+    "name": "Half-Life 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 50,
+    "name": "Half-Life: Opposing Force",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 266510,
+    "name": "Hand of Fate",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1520540,
+    "name": "Hear My Light",
+    "release_date": "2026",
+    "release_iso": "2026",
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 588210,
+    "name": "HELLION",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 435400,
+    "name": "Hidden Folks",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2362070,
+    "name": "Hollow Home",
+    "release_date": "27 Jan, 2027",
+    "release_iso": "2027-01-27",
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2235430,
+    "name": "Holstin",
+    "release_date": "To be announced",
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 613100,
+    "name": "House Flipper",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 477160,
+    "name": "Human Fall Flat",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 5038420,
+    "name": "I Hear the Forest",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1182620,
+    "name": "Impostor Factory",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 222880,
+    "name": "Insurgency",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 5038470,
+    "name": "Job Burnout",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4986620,
+    "name": "Just Another Guild Day",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4277630,
+    "name": "KharkivVision 2035",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 379430,
+    "name": "Kingdom Come: Deliverance",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2855590,
+    "name": "Knight's Path",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 922710,
+    "name": "Knightin'+",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4597390,
+    "name": "Last Button",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 500,
+    "name": "Left 4 Dead",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 550,
+    "name": "Left 4 Dead 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3845010,
+    "name": "Lofsöng",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 993090,
+    "name": "Lossless Scaling",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3077540,
+    "name": "Love: Fall in Death",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4026510,
+    "name": "Lucid Falls",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 40700,
+    "name": "Machinarium",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 407880,
+    "name": "Mad Nords: Probably an Epic Quest",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1941540,
+    "name": "Mafia: The Old Country",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3299300,
+    "name": "Magicians: The Devil's Deal",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 478980,
+    "name": "Mansions of Madness",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 338290,
+    "name": "Molecats",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1747760,
+    "name": "Momodora: Moonlit Farewell",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 323850,
+    "name": "Move or Die",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2889030,
+    "name": "MUDANG: Two Hearts",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 726000,
+    "name": "No King No Kingdom",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2701800,
+    "name": "No Players Online",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3760140,
+    "name": "Nocturnals: Cacti Coast",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 581270,
+    "name": "Old Man's Journey",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 773790,
+    "name": "Ostriv",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2758190,
+    "name": "Our Freedom: Medieval Village",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 593640,
+    "name": "Papetura",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2666580,
+    "name": "Pathfinder: Abomination Vaults",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3527290,
+    "name": "PEAK",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4273370,
+    "name": "Peak or Die",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 739630,
+    "name": "Phasmophobia",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1049280,
+    "name": "Pilgrims",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 725780,
+    "name": "Play With Me: Escape Room",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 939620,
+    "name": "Pleasure Puzzle:Portrait 趣拼拼：肖像画",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 400,
+    "name": "Portal",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 620,
+    "name": "Portal 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4164580,
+    "name": "Rebooted Fate",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2595260,
+    "name": "RECUR",
+    "release_date": "To be announced",
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3589530,
+    "name": "REGRET",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1643320,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 41700,
+    "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 20510,
+    "name": "S.T.A.L.K.E.R.: Clear Sky",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4500,
+    "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 40720,
+    "name": "Samorost 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 5039320,
+    "name": "Saturn 94",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3676410,
+    "name": "Senua",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 326460,
+    "name": "ShellShock Live",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1137300,
+    "name": "Sherlock Holmes Chapter One",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1949030,
+    "name": "Sherlock Holmes The Awakened",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 241260,
+    "name": "Sherlock Holmes: Crimes and Punishments",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 350640,
+    "name": "Sherlock Holmes: The Devil's Daughter",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 867210,
+    "name": "Songs of Conquest",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2195410,
+    "name": "Songs of Silence",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 207140,
+    "name": "SpeedRunners",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4069520,
+    "name": "Super Battle Golf",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 355840,
+    "name": "Survarium",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 375520,
+    "name": "Taimumari: Definitive Edition",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 20,
+    "name": "Team Fortress Classic",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3708110,
+    "name": "That Friday again",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2280430,
+    "name": "The Berlin Apartment",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1045720,
+    "name": "The Coma 2: Vicious Sisters",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 912840,
+    "name": "The End of the Sun",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3796790,
+    "name": "The Facility ",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3951680,
+    "name": "The Floor Above",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4367760,
+    "name": "The Ice is Watching",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2697000,
+    "name": "The Legend of Khiimori",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3895110,
+    "name": "The Road of Dust and Sorrow",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 352520,
+    "name": "The Silent Age",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2825860,
+    "name": "The Sinking City 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 750130,
+    "name": "The Sinking City Remastered",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 205650,
+    "name": "The Testament of Sherlock Holmes",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3412900,
+    "name": "The Three Kingdoms: Rebirth",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4181110,
+    "name": "THE VIG",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 292030,
+    "name": "The Witcher 3: Wild Hunt — Remastered",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1490020,
+    "name": "TIC-TAC: Twelve o'clock",
+    "release_date": "19 Aug, 2026",
+    "release_iso": "2026-08-19",
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2133760,
+    "name": "Tiny Bookshop",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1290170,
+    "name": "Titan Chaser",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 475150,
+    "name": "Titan Quest Anniversary Edition",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 206440,
+    "name": "To the Moon",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3744430,
+    "name": "Together: Moon Escape",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 565860,
+    "name": "Tomato Way",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1510580,
+    "name": "Toy Tinker Simulator",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 568670,
+    "name": "Trapped Souls",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1436700,
+    "name": "Trine 5: A Clockwork Conspiracy",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 70300,
+    "name": "VVVVVV",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 230410,
+    "name": "Warframe",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3254380,
+    "name": "We Grew Up in War",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 288060,
+    "name": "Whispering Willows",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4887530,
+    "name": "White Clouds",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1975580,
+    "name": "Wild Woods",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4315150,
+    "name": "Wildwake",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1054490,
+    "name": "Wingspan",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3978240,
+    "name": "Wordless Forest",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 22000,
+    "name": "World of Goo",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3834090,
+    "name": "YAPYAP",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 762590,
+    "name": "Zombie Derby 2",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  }
+]

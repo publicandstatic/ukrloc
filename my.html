@@ -1,0 +1,820 @@
+<!doctype html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Мої ігри з українською локалізацією</title>
+
+    <style>
+        :root {
+            --bg: #0d1520;
+            --panel: #141f2e;
+            --panel-alt: #182636;
+            --border: #24374d;
+            --text: #dce6f0;
+            --text-dim: #7c93ab;
+            --accent: #5ba8d4;
+            --accent-soft: rgba(91, 168, 212, 0.12);
+            --gold: #e3b341;
+            --radius: 10px;
+
+            --mono:
+                'IBM Plex Mono',
+                'JetBrains Mono',
+                ui-monospace,
+                SFMono-Regular,
+                Menlo,
+                monospace;
+
+            --sans:
+                'Inter',
+                -apple-system,
+                BlinkMacSystemFont,
+                'Segoe UI',
+                sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+
+            background:
+                radial-gradient(
+                    1200px 500px at 15% -10%,
+                    rgba(91, 168, 212, 0.08),
+                    transparent 60%
+                ),
+                var(--bg);
+
+            color: var(--text);
+            font-family: var(--sans);
+
+            padding: 40px 24px 60px;
+        }
+
+        .wrap {
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        header {
+            margin-bottom: 28px;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin: 0 0 6px;
+            letter-spacing: -0.01em;
+        }
+
+        /* ---------------------------------------------------------- */
+        /* TOOLBAR */
+        /* ---------------------------------------------------------- */
+
+        .toolbar {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+            margin: 24px 0 14px;
+
+            flex-wrap: wrap;
+        }
+
+        .search {
+            flex: 1;
+            min-width: 260px;
+
+            display: flex;
+            align-items: center;
+
+            background: var(--panel);
+
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+
+            padding: 10px 14px;
+        }
+
+        .search input {
+            background: none;
+            border: none;
+            outline: none;
+
+            color: var(--text);
+
+            font-family: var(--sans);
+            font-size: 14px;
+
+            width: 100%;
+        }
+
+        .search input::placeholder {
+            color: var(--text-dim);
+        }
+
+        /* ---------------------------------------------------------- */
+        /* PAGE SIZE */
+        /* ---------------------------------------------------------- */
+
+        .page-size {
+            display: flex;
+            align-items: center;
+
+            gap: 8px;
+
+            font-size: 13px;
+            color: var(--text-dim);
+            font-family: var(--mono);
+        }
+
+        .page-size select {
+            background: var(--panel);
+
+            border: 1px solid var(--border);
+            border-radius: 6px;
+
+            color: var(--text);
+
+            padding: 6px 8px;
+
+            font-family: var(--mono);
+            font-size: 13px;
+        }
+
+        /* ---------------------------------------------------------- */
+        /* TABLE */
+        /* ---------------------------------------------------------- */
+
+        .table-card {
+            background: var(--panel);
+
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+
+            overflow: hidden;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        thead th {
+            text-align: left;
+
+            font-size: 12px;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+
+            color: var(--text-dim);
+
+            padding: 14px 16px;
+
+            background: var(--panel-alt);
+
+            border-bottom: 1px solid var(--border);
+
+            cursor: pointer;
+            user-select: none;
+
+            white-space: nowrap;
+        }
+
+        thead th:hover {
+            color: var(--text);
+        }
+
+        thead th.num {
+            text-align: right;
+        }
+
+        .th-inner {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .arrow {
+            font-size: 10px;
+            opacity: 0.35;
+
+            font-family: var(--mono);
+        }
+
+        thead th.active .arrow {
+            opacity: 1;
+            color: var(--accent);
+        }
+
+        tbody td {
+            padding: 13px 16px;
+
+            border-bottom: 1px solid var(--border);
+
+            font-size: 14px;
+
+            vertical-align: middle;
+        }
+
+        tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        tbody tr:hover {
+            background: var(--accent-soft);
+        }
+
+        td.num {
+            font-family: var(--mono);
+            font-size: 13px;
+
+            color: var(--text-dim);
+
+            text-align: right;
+        }
+
+        .rec-cell {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+
+            gap: 6px;
+        }
+
+        .rec-value {
+            font-family: var(--mono);
+            font-weight: 600;
+
+            color: var(--gold);
+        }
+
+        .game-link {
+            color: var(--text);
+
+            text-decoration: none;
+            font-weight: 600;
+
+            border-bottom: 1px solid transparent;
+
+            transition:
+                color 0.15s,
+                border-color 0.15s;
+        }
+
+        .game-link:hover {
+            color: var(--accent);
+            border-color: var(--accent);
+        }
+
+        /* ---------------------------------------------------------- */
+        /* EMPTY / LOADING */
+        /* ---------------------------------------------------------- */
+
+        .empty,
+        .loading {
+            padding: 48px 16px;
+
+            text-align: center;
+
+            color: var(--text-dim);
+
+            font-family: var(--mono);
+            font-size: 13px;
+        }
+
+        /* ---------------------------------------------------------- */
+        /* FOOTER */
+        /* ---------------------------------------------------------- */
+
+        .footer-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            gap: 16px;
+
+            margin-top: 16px;
+
+            flex-wrap: wrap;
+
+            font-size: 13px;
+            color: var(--text-dim);
+            font-family: var(--mono);
+        }
+
+        .pager {
+            display: flex;
+            align-items: center;
+
+            gap: 6px;
+        }
+
+        .pager button {
+            background: var(--panel);
+
+            border: 1px solid var(--border);
+            border-radius: 6px;
+
+            color: var(--text);
+
+            padding: 6px 10px;
+
+            font-family: var(--mono);
+            font-size: 13px;
+
+            cursor: pointer;
+
+            transition:
+                background 0.15s,
+                color 0.15s;
+        }
+
+        .pager button:hover:not(:disabled) {
+            background: var(--accent-soft);
+            color: var(--accent);
+        }
+
+        .pager button:disabled {
+            opacity: 0.35;
+            cursor: not-allowed;
+        }
+
+        .pager button.active {
+            background: var(--accent);
+            color: var(--bg);
+
+            border-color: var(--accent);
+        }
+
+        .chk-filter {
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            font-size: 13px;
+            color: var(--text-dim);
+            font-family: var(--mono);
+            white-space: nowrap;
+        }
+
+        .chk-filter label {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 5px 9px;
+            font-size: 12px;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .chk-filter label:hover {
+            background: var(--accent-soft);
+            color: var(--text);
+        }
+
+        .chk-filter label:has(input:checked) {
+            background: var(--accent);
+            color: var(--bg);
+        }
+
+        .chk-filter input {
+            display: none;
+        }
+
+        thead th.nosort {
+            cursor: default;
+        }
+
+        thead th.nosort:hover {
+            color: var(--text-dim);
+        }
+
+        .badges {
+            display: inline-flex;
+            gap: 8px;
+            white-space: nowrap;
+        }
+
+        a.badge {
+            text-decoration: none;
+        }
+
+        .pager .gap {
+            padding: 0 4px;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="wrap">
+
+    <header>
+        <h1>Мої ігри з українською локалізацією</h1>
+    </header>
+
+    <div class="toolbar">
+
+        <div class="search">
+            <input id="searchInput" type="text" placeholder="Пошук за назвою..." />
+        </div>
+
+        <div class="chk-filter" id="locFilter">
+            <span>Розташування:</span>
+            <label><input type="checkbox" value="wishlist" /> ⭐ бажане</label>
+            <label><input type="checkbox" value="library" /> 📚 моя бібліотека</label>
+            <label><input type="checkbox" value="family" /> 👨‍👩‍👧 сімейна бібліотека</label>
+        </div>
+
+        <div class="chk-filter" id="typeFilter">
+            <span>Тип:</span>
+            <label><input type="checkbox" value="official" /> ✅ офіційна лока</label>
+            <label><input type="checkbox" value="patch" /> 🛠 мод</label>
+            <label><input type="checkbox" value="request" /> 🗳 запит</label>
+        </div>
+
+        <div class="page-size">
+            Рядків:
+            <select id="pageSizeSelect">
+                <option value="10">10</option>
+                <option value="25" selected>25</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
+        </div>
+
+    </div>
+
+    <div class="table-card">
+        <table>
+            <thead>
+                <tr id="headerRow"></tr>
+            </thead>
+            <tbody id="tableBody">
+                <tr>
+                    <td class="loading" colspan="6">Завантаження my.json...</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="footer-bar">
+        <div id="statusText">—</div>
+        <div class="pager" id="pager"></div>
+    </div>
+
+</div>
+
+<script>
+    const COLUMNS = [
+        { key: 'appid', label: 'AppID', type: 'num' },
+        { key: 'name', label: 'Назва', type: 'text' },
+        { key: 'release_date', label: 'Дата релізу', type: 'date' },
+        { key: 'recommendations_total', label: 'Рецензії', type: 'num' },
+        { key: 'locations', label: 'Розташування', type: 'none' },
+        { key: 'types', label: 'Тип', type: 'none' },
+    ];
+
+    const LOCATION_BADGES = {
+        wishlist: ['⭐', 'бажане'],
+        library: ['📚', 'моя бібліотека'],
+        family: ['👨‍👩‍👧', 'сімейна бібліотека'],
+    };
+
+    let allGames = [];
+    let filtered = [];
+    let sortKey = 'recommendations_total';
+    let sortDir = 'desc';
+    let currentPage = 1;
+    let pageSize = 25;
+
+    const headerRow = document.getElementById('headerRow');
+    const tableBody = document.getElementById('tableBody');
+    const pagerEl = document.getElementById('pager');
+    const statusText = document.getElementById('statusText');
+    const searchInput = document.getElementById('searchInput');
+    const pageSizeSelect = document.getElementById('pageSizeSelect');
+    const locFilter = document.getElementById('locFilter');
+    const typeFilter = document.getElementById('typeFilter');
+
+    function el(tag, className, text) {
+        const node = document.createElement(tag);
+        if (className) node.className = className;
+        if (text !== undefined) node.textContent = text;
+        return node;
+    }
+
+    function isHttps(url) {
+        return typeof url === 'string' && url.startsWith('https://');
+    }
+
+    function checkedValues(container) {
+        return Array.from(container.querySelectorAll('input:checked')).map((i) => i.value);
+    }
+
+    function displayName(game) {
+        return game.name || ('app ' + game.appid);
+    }
+
+    // ---------------- header ----------------
+
+    function buildHeader() {
+        headerRow.textContent = '';
+        COLUMNS.forEach((column) => {
+            const th = el('th');
+            if (column.type === 'num') th.classList.add('num');
+            if (column.type === 'none') th.classList.add('nosort');
+            if (column.key === sortKey) th.classList.add('active');
+
+            const inner = el('span', 'th-inner', column.label);
+            if (column.type !== 'none') {
+                inner.appendChild(el('span', 'arrow', sortIndicator(column.key)));
+                th.addEventListener('click', () => {
+                    if (sortKey === column.key) {
+                        sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+                    } else {
+                        sortKey = column.key;
+                        sortDir = column.type === 'num' ? 'desc' : 'asc';
+                    }
+                    currentPage = 1;
+                    applySort();
+                    render();
+                });
+            }
+            th.appendChild(inner);
+            headerRow.appendChild(th);
+        });
+    }
+
+    function sortIndicator(key) {
+        if (key !== sortKey) return '↕';
+        return sortDir === 'asc' ? '↑' : '↓';
+    }
+
+    // ---------------- sort ----------------
+
+    // Sort key for dates: ISO string from my.json (null when unknown).
+    function dateKey(game) {
+        return typeof game.release_iso === 'string' && game.release_iso ? game.release_iso : null;
+    }
+
+    function applySort() {
+        const column = COLUMNS.find((c) => c.key === sortKey);
+        const dir = sortDir === 'asc' ? 1 : -1;
+
+        filtered.sort((a, b) => {
+            if (column.type === 'num' || column.type === 'date') {
+                const va = column.type === 'date' ? dateKey(a) : a[sortKey];
+                const vb = column.type === 'date' ? dateKey(b) : b[sortKey];
+                // Missing values always go last.
+                const missA = va === null || va === undefined;
+                const missB = vb === null || vb === undefined;
+                if (missA && missB) return 0;
+                if (missA) return 1;
+                if (missB) return -1;
+                if (va < vb) return -1 * dir;
+                if (va > vb) return 1 * dir;
+                return 0;
+            }
+            const sa = displayName(a).toLowerCase();
+            const sb = displayName(b).toLowerCase();
+            if (sa < sb) return -1 * dir;
+            if (sa > sb) return 1 * dir;
+            return 0;
+        });
+    }
+
+    // ---------------- filter ----------------
+
+    function gameTypes(game) {
+        const types = [];
+        if (game.has_official) types.push('official');
+        if (game.has_patch) types.push('patch');
+        if (game.has_request) types.push('request');
+        return types;
+    }
+
+    // No selection = no restriction; OR inside a group; AND between groups.
+    function matchesGroup(selected, own) {
+        if (selected.length === 0) return true;
+        return selected.some((value) => own.includes(value));
+    }
+
+    function applyFilter() {
+        const query = searchInput.value.trim().toLowerCase();
+        const locs = checkedValues(locFilter);
+        const types = checkedValues(typeFilter);
+
+        filtered = allGames.filter((game) => {
+            if (query && !displayName(game).toLowerCase().includes(query)) return false;
+            if (!matchesGroup(locs, game.locations || [])) return false;
+            if (!matchesGroup(types, gameTypes(game))) return false;
+            return true;
+        });
+    }
+
+    // ---------------- format ----------------
+
+    function formatDate(value) {
+        if (typeof value !== 'string' || !value.trim()) return '—';
+        return value;
+    }
+
+    function formatNumber(value) {
+        if (value === null || value === undefined || value === '') return '—';
+        return Number(value).toLocaleString('uk-UA');
+    }
+
+    // ---------------- render ----------------
+
+    function badge(tag, icon, title) {
+        const node = el(tag, 'badge', icon);
+        node.title = title;
+        return node;
+    }
+
+    function locationCell(game) {
+        const wrap = el('span', 'badges');
+        (game.locations || []).forEach((loc) => {
+            const info = LOCATION_BADGES[loc];
+            if (info) wrap.appendChild(badge('span', info[0], info[1]));
+        });
+        if (!wrap.childNodes.length) wrap.textContent = '—';
+        return wrap;
+    }
+
+    function typeCell(game) {
+        const wrap = el('span', 'badges');
+        if (game.has_official) wrap.appendChild(badge('span', '✅', 'офіційна лока'));
+        if (game.has_patch) wrap.appendChild(badge('span', '🛠', 'мод'));
+        if (game.has_request) {
+            const title = game.request_topic ? 'запит: ' + game.request_topic : 'запит';
+            if (isHttps(game.request_url)) {
+                const a = badge('a', '🗳', title);
+                a.href = game.request_url;
+                a.target = '_blank';
+                a.rel = 'noopener noreferrer';
+                wrap.appendChild(a);
+            } else {
+                wrap.appendChild(badge('span', '🗳', title));
+            }
+        }
+        if (!wrap.childNodes.length) wrap.textContent = '—';
+        return wrap;
+    }
+
+    function emptyRow(text) {
+        const tr = el('tr');
+        const td = el('td', 'empty', text);
+        td.colSpan = COLUMNS.length;
+        tr.appendChild(td);
+        return tr;
+    }
+
+    function render() {
+        buildHeader();
+
+        const total = filtered.length;
+        const totalPages = Math.max(1, Math.ceil(total / pageSize));
+        if (currentPage > totalPages) currentPage = totalPages;
+
+        tableBody.textContent = '';
+
+        if (total === 0) {
+            tableBody.appendChild(emptyRow('Нічого не знайдено'));
+        } else {
+            const start = (currentPage - 1) * pageSize;
+            filtered.slice(start, start + pageSize).forEach((game) => {
+                const row = el('tr');
+
+                row.appendChild(el('td', 'num', String(game.appid)));
+
+                const nameTd = el('td');
+                const link = el('a', 'game-link', displayName(game));
+                link.href = 'https://store.steampowered.com/app/' + encodeURIComponent(game.appid) + '/';
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                nameTd.appendChild(link);
+                row.appendChild(nameTd);
+
+                row.appendChild(el('td', 'num', formatDate(game.release_date)));
+
+                const recTd = el('td', 'num');
+                const rec = el('span', 'rec-cell');
+                rec.appendChild(el('span', 'rec-value', formatNumber(game.recommendations_total)));
+                recTd.appendChild(rec);
+                row.appendChild(recTd);
+
+                const locTd = el('td');
+                locTd.appendChild(locationCell(game));
+                row.appendChild(locTd);
+
+                const typeTd = el('td');
+                typeTd.appendChild(typeCell(game));
+                row.appendChild(typeTd);
+
+                tableBody.appendChild(row);
+            });
+        }
+
+        if (total === 0) {
+            statusText.textContent = '0 записів';
+        } else {
+            const first = (currentPage - 1) * pageSize + 1;
+            const last = Math.min(total, currentPage * pageSize);
+            statusText.textContent = `Показано ${first}–${last} з ${total}`;
+        }
+
+        renderPager(totalPages);
+    }
+
+    // ---------------- pager ----------------
+
+    function pagerButton(label, onClick, disabled, active) {
+        const button = el('button', active ? 'active' : '', label);
+        button.disabled = !!disabled;
+        button.addEventListener('click', onClick);
+        return button;
+    }
+
+    function renderPager(totalPages) {
+        pagerEl.textContent = '';
+
+        pagerEl.appendChild(pagerButton('← Назад', () => { currentPage--; render(); }, currentPage === 1));
+
+        getPageNumbers(currentPage, totalPages).forEach((page) => {
+            if (page === '...') {
+                pagerEl.appendChild(el('span', 'gap', '…'));
+                return;
+            }
+            pagerEl.appendChild(pagerButton(String(page), () => { currentPage = page; render(); }, false, page === currentPage));
+        });
+
+        pagerEl.appendChild(pagerButton('Вперед →', () => { currentPage++; render(); }, currentPage === totalPages));
+    }
+
+    function getPageNumbers(current, total) {
+        const range = [];
+        for (let i = Math.max(1, current - 1); i <= Math.min(total, current + 1); i++) range.push(i);
+        if (range[0] > 1) {
+            range.unshift('...');
+            range.unshift(1);
+        }
+        if (range[range.length - 1] < total) {
+            range.push('...');
+            range.push(total);
+        }
+        return range;
+    }
+
+    // ---------------- events ----------------
+
+    function filterChanged() {
+        currentPage = 1;
+        applyFilter();
+        applySort();
+        render();
+    }
+
+    searchInput.addEventListener('input', filterChanged);
+    locFilter.addEventListener('change', filterChanged);
+    typeFilter.addEventListener('change', filterChanged);
+
+    pageSizeSelect.addEventListener('change', () => {
+        pageSize = Number(pageSizeSelect.value);
+        currentPage = 1;
+        render();
+    });
+
+    // ---------------- load ----------------
+
+    fetch('my.json')
+        .then((response) => {
+            if (!response.ok) throw new Error('HTTP ' + response.status);
+            return response.json();
+        })
+        .then((data) => {
+            if (!Array.isArray(data)) throw new Error('невірний формат');
+            allGames = data;
+            applyFilter();
+            applySort();
+            render();
+        })
+        .catch((error) => {
+            tableBody.textContent = '';
+            tableBody.appendChild(emptyRow('Не вдалося завантажити my.json (' + error.message + ').'));
+            statusText.textContent = 'Помилка завантаження';
+        });
+</script>
+
+</body>
+</html>
