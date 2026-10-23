@@ -450,6 +450,21 @@
     "request_topic": null
   },
   {
+    "appid": 1671210,
+    "name": "DELTARUNE",
+    "release_date": "4 Jun, 2025",
+    "release_iso": "2025-06-04",
+    "recommendations_total": 128561,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 671860,
     "name": "BattleBit Remastered",
     "release_date": "15 Jun, 2023",
@@ -570,6 +585,21 @@
     "request_topic": null
   },
   {
+    "appid": 3405340,
+    "name": "Megabonk",
+    "release_date": "18 Sep, 2025",
+    "release_iso": "2025-09-18",
+    "recommendations_total": 101327,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 286690,
     "name": "METRO 2033 Redux",
     "release_date": "27 Aug, 2014",
@@ -610,6 +640,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 753640,
+    "name": "Outer Wilds",
+    "release_date": "18 Jun, 2020",
+    "release_iso": "2020-06-18",
+    "recommendations_total": 90799,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -855,6 +900,21 @@
     "request_topic": null
   },
   {
+    "appid": 1466060,
+    "name": "Tainted Grail: The Fall of Avalon",
+    "release_date": "23 May, 2025",
+    "release_iso": "2025-05-23",
+    "recommendations_total": 34214,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 653530,
     "name": "Return of the Obra Dinn",
     "release_date": "18 Oct, 2018",
@@ -880,6 +940,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 975370,
+    "name": "Dwarf Fortress",
+    "release_date": "6 Dec, 2022",
+    "release_iso": "2022-12-06",
+    "recommendations_total": 29393,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -1185,6 +1260,21 @@
     "request_topic": null
   },
   {
+    "appid": 3191030,
+    "name": "Nubby's Number Factory",
+    "release_date": "7 Mar, 2025",
+    "release_iso": "2025-03-07",
+    "recommendations_total": 18371,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 337340,
     "name": "Finding Paradise",
     "release_date": "14 Dec, 2017",
@@ -1237,6 +1327,21 @@
     "recommendations_total": 17674,
     "locations": [
       "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3156770,
+    "name": "Witchfire",
+    "release_date": "23 Sep, 2024",
+    "release_iso": "2024-09-23",
+    "recommendations_total": 17459,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -1430,6 +1535,51 @@
     "release_date": "15 Sep, 2022",
     "release_iso": "2022-09-15",
     "recommendations_total": 14028,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3669870,
+    "name": "CONTROL Resonant",
+    "release_date": "24 Sep, 2026",
+    "release_iso": "2026-09-24",
+    "recommendations_total": 13496,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 237990,
+    "name": "The Banner Saga",
+    "release_date": "14 Jan, 2014",
+    "release_iso": "2014-01-14",
+    "recommendations_total": 13487,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3404260,
+    "name": "Dead as Disco",
+    "release_date": "5 May, 2026",
+    "release_iso": "2026-05-05",
+    "recommendations_total": 13337,
     "locations": [
       "family"
     ],
@@ -1725,6 +1875,21 @@
     "request_topic": null
   },
   {
+    "appid": 388880,
+    "name": "Oxenfree",
+    "release_date": "14 Jan, 2016",
+    "release_iso": "2016-01-14",
+    "recommendations_total": 9502,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 3834090,
     "name": "YAPYAP",
     "release_date": "3 Feb, 2026",
@@ -1865,6 +2030,21 @@
     "release_date": "18 Apr, 2017",
     "release_iso": "2017-04-18",
     "recommendations_total": 7781,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3636770,
+    "name": "Servant of the Lake",
+    "release_date": "13 Aug, 2026",
+    "release_iso": "2026-08-13",
+    "recommendations_total": 7695,
     "locations": [
       "family"
     ],
@@ -2595,6 +2775,21 @@
     "request_topic": null
   },
   {
+    "appid": 3209480,
+    "name": "Last Report",
+    "release_date": "11 Jul, 2025",
+    "release_iso": "2025-07-11",
+    "recommendations_total": 2473,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 40,
     "name": "Deathmatch Classic",
     "release_date": "1 Jun, 2001",
@@ -2730,6 +2925,21 @@
     "request_topic": null
   },
   {
+    "appid": 2828710,
+    "name": "Valor Mortis",
+    "release_date": "13 Oct, 2026",
+    "release_iso": "2026-10-13",
+    "recommendations_total": 2027,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2697000,
     "name": "The Legend of Khiimori",
     "release_date": "3 Mar, 2026",
@@ -2827,6 +3037,21 @@
     "recommendations_total": 1798,
     "locations": [
       "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3133060,
+    "name": "Gnomes",
+    "release_date": "4 Apr, 2025",
+    "release_iso": "2025-04-04",
+    "recommendations_total": 1782,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -2962,6 +3187,21 @@
     "recommendations_total": 1480,
     "locations": [
       "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3816930,
+    "name": "Grind Survivors",
+    "release_date": "16 Mar, 2026",
+    "release_iso": "2026-03-16",
+    "recommendations_total": 1358,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -3125,6 +3365,21 @@
     "release_date": "9 Mar, 2023",
     "release_iso": "2023-03-09",
     "recommendations_total": 915,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2976400,
+    "name": "Fork Road",
+    "release_date": "11 Jun, 2024",
+    "release_iso": "2024-06-11",
+    "recommendations_total": 905,
     "locations": [
       "family"
     ],
@@ -3300,11 +3555,56 @@
     "request_topic": null
   },
   {
+    "appid": 3219410,
+    "name": "The Trolley Solution",
+    "release_date": "12 Sep, 2025",
+    "release_iso": "2025-09-12",
+    "recommendations_total": 584,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4090360,
+    "name": "Forest Escape: Last Train",
+    "release_date": "10 Jul, 2026",
+    "release_iso": "2026-07-10",
+    "recommendations_total": 582,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 115200,
     "name": "Cossacks II: Napoleonic Wars",
     "release_date": "26 Aug, 2011",
     "release_iso": "2011-08-26",
     "recommendations_total": 572,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4258770,
+    "name": "Dread Fields",
+    "release_date": "28 May, 2026",
+    "release_iso": "2026-05-28",
+    "recommendations_total": 560,
     "locations": [
       "family"
     ],
@@ -3322,6 +3622,21 @@
     "recommendations_total": 515,
     "locations": [
       "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2918090,
+    "name": "Fear The Timeloop",
+    "release_date": "30 Jan, 2026",
+    "release_iso": "2026-01-30",
+    "recommendations_total": 515,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -3352,6 +3667,21 @@
     "recommendations_total": 492,
     "locations": [
       "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3340810,
+    "name": "Hero of the Kingdom: The Lost Tales 3",
+    "release_date": "26 Nov, 2024",
+    "release_iso": "2024-11-26",
+    "recommendations_total": 490,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -3570,6 +3900,21 @@
     "request_topic": null
   },
   {
+    "appid": 3232610,
+    "name": "Bendy: Lone Wolf",
+    "release_date": "15 Aug, 2025",
+    "release_iso": "2025-08-15",
+    "recommendations_total": 268,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1073810,
     "name": "Shapik: The Moon Quest",
     "release_date": "22 Apr, 2020",
@@ -3690,6 +4035,21 @@
     "request_topic": null
   },
   {
+    "appid": 3877790,
+    "name": "Hunter's Moon: A Sovereign Syndicate Adventure",
+    "release_date": "24 Nov, 2025",
+    "release_iso": "2025-11-24",
+    "recommendations_total": 212,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1366810,
     "name": "AccrO",
     "release_date": "24 May, 2022",
@@ -3765,6 +4125,21 @@
     "request_topic": null
   },
   {
+    "appid": 3963490,
+    "name": "LYSA HORA: The Haunted Hill",
+    "release_date": "23 Apr, 2026",
+    "release_iso": "2026-04-23",
+    "recommendations_total": 184,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 636270,
     "name": "Arcadia Cafe",
     "release_date": "30 Apr, 2026",
@@ -3815,6 +4190,21 @@
     "release_date": "18 Jun, 2025",
     "release_iso": "2025-06-18",
     "recommendations_total": 148,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3312250,
+    "name": "FEAR OF FAITH",
+    "release_date": "21 Aug, 2026",
+    "release_iso": "2026-08-21",
+    "recommendations_total": 138,
     "locations": [
       "family"
     ],
@@ -3922,6 +4312,36 @@
     "recommendations_total": 108,
     "locations": [
       "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2878270,
+    "name": "Metal: Hellsinger VR",
+    "release_date": "3 Oct, 2024",
+    "release_iso": "2024-10-03",
+    "recommendations_total": 108,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3098170,
+    "name": "Titans of the Past",
+    "release_date": "3 Dec, 2025",
+    "release_iso": "2025-12-03",
+    "recommendations_total": 108,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -4117,6 +4537,21 @@
     "recommendations_total": null,
     "locations": [
       "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3419430,
+    "name": "Bongo Cat",
+    "release_date": "5 Mar, 2025",
+    "release_iso": "2025-03-05",
+    "recommendations_total": null,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -4635,6 +5070,21 @@
     "request_topic": null
   },
   {
+    "appid": 3492150,
+    "name": "Ministry of Truth: False Memory",
+    "release_date": "19 Aug, 2026",
+    "release_iso": "2026-08-19",
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 338290,
     "name": "Molecats",
     "release_date": "28 Aug, 2018",
@@ -4725,6 +5175,21 @@
     "request_topic": null
   },
   {
+    "appid": 3144950,
+    "name": "Pet Lands",
+    "release_date": "25 Nov, 2024",
+    "release_iso": "2024-11-25",
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2595260,
     "name": "RECUR",
     "release_date": "To be announced",
@@ -4785,6 +5250,21 @@
     "request_topic": null
   },
   {
+    "appid": 3214790,
+    "name": "Shards of the Realm",
+    "release_date": "7 Aug, 2025",
+    "release_iso": "2025-08-07",
+    "recommendations_total": null,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2087030,
     "name": "Shatterline",
     "release_date": "3 Jul, 2025",
@@ -4837,6 +5317,21 @@
     "recommendations_total": null,
     "locations": [
       "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3472550,
+    "name": "The Mr. Rabbit Magic Show",
+    "release_date": "30 Apr, 2025",
+    "release_iso": "2025-04-30",
+    "recommendations_total": null,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,

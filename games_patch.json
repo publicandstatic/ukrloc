@@ -38276,8 +38276,10 @@
     "appid": 1361320,
     "name": "The Room 4: Old Sins",
     "discovered_at": "2026-09-21 23:33:37",
-    "recommendations_total": 17851,
-    "recommendations_updated_at": "2026-10-07T22:10:12Z",
+    "recommendations_total": 17901,
+    "recommendations_updated_at": "2026-10-23T22:14:45Z",
+    "type": "game",
+    "release_date": "11 Feb, 2021",
     "localizations": {
       "supported": [
         "English",
@@ -38292,18 +38294,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-07T22:10:12Z"
-    },
-    "type": "game",
-    "release_date": "11 Feb, 2021"
+      "checked_at": "2026-10-23T22:14:45Z"
+    }
   },
   {
     "id": 1280,
     "appid": 4317690,
     "name": "Crimson Moon",
     "discovered_at": "2026-09-22 15:08:25",
-    "recommendations_total": 2854,
-    "recommendations_updated_at": "2026-10-07T22:10:16Z",
+    "recommendations_total": 2880,
+    "recommendations_updated_at": "2026-10-23T22:14:49Z",
+    "type": "game",
+    "release_date": "1 Sep, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38318,18 +38320,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-07T22:10:16Z"
-    },
-    "type": "game",
-    "release_date": "1 Sep, 2026"
+      "checked_at": "2026-10-23T22:14:49Z"
+    }
   },
   {
     "id": 1281,
     "appid": 2638890,
     "name": "Onimusha: Way of the Sword",
     "discovered_at": "2026-09-23 15:46:06",
-    "recommendations_total": 15691,
-    "recommendations_updated_at": "2026-10-08T22:08:42Z",
+    "recommendations_total": 16692,
+    "recommendations_updated_at": "2026-10-23T22:14:53Z",
+    "type": "game",
+    "release_date": "3 Sep, 2026",
     "localizations": {
       "supported": [
         "English",
@@ -38350,10 +38352,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-08T22:08:42Z"
-    },
-    "type": "game",
-    "release_date": "3 Sep, 2026"
+      "checked_at": "2026-10-23T22:14:53Z"
+    }
   },
   {
     "id": 1282,
@@ -38768,7 +38768,7 @@
       "interface": null,
       "subtitles": null,
       "audio": null,
-      "checked_at": "2026-10-22T22:05:55Z"
+      "checked_at": "2026-10-23T22:14:57Z"
     }
   },
   {
@@ -39045,8 +39045,10 @@
     "appid": 332800,
     "name": "Five Nights at Freddy's 2",
     "discovered_at": "2026-10-06 22:48:00",
-    "recommendations_total": 23939,
-    "recommendations_updated_at": "2026-10-07T22:10:19Z",
+    "recommendations_total": 24009,
+    "recommendations_updated_at": "2026-10-23T22:15:01Z",
+    "type": "game",
+    "release_date": "10 Nov, 2014",
     "localizations": {
       "supported": [
         "English"
@@ -39054,18 +39056,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-07T22:10:19Z"
-    },
-    "type": "game",
-    "release_date": "10 Nov, 2014"
+      "checked_at": "2026-10-23T22:15:01Z"
+    }
   },
   {
     "id": 1308,
     "appid": 2322010,
     "name": "God of War Ragnarök",
     "discovered_at": "2026-10-07 04:45:37",
-    "recommendations_total": 32767,
-    "recommendations_updated_at": "2026-10-07T22:10:23Z",
+    "recommendations_total": 33023,
+    "recommendations_updated_at": "2026-10-23T22:15:05Z",
+    "type": "game",
+    "release_date": "19 Sep, 2024",
     "localizations": {
       "supported": [
         "English",
@@ -39094,10 +39096,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-07T22:10:23Z"
-    },
-    "type": "game",
-    "release_date": "19 Sep, 2024"
+      "checked_at": "2026-10-23T22:15:05Z"
+    }
   },
   {
     "id": 1309,
