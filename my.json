@@ -60,6 +60,21 @@
     "request_topic": null
   },
   {
+    "appid": 105600,
+    "name": "Terraria",
+    "release_date": "16 May, 2011",
+    "release_iso": "2011-05-16",
+    "recommendations_total": 1247875,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 4000,
     "name": "Garry's Mod",
     "release_date": "29 Nov, 2006",
@@ -85,6 +100,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2",
+    "release_date": "5 Dec, 2019",
+    "release_iso": "2019-12-05",
+    "recommendations_total": 857118,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -360,6 +390,21 @@
     "request_topic": null
   },
   {
+    "appid": 3164500,
+    "name": "Schedule I",
+    "release_date": "24 Mar, 2025",
+    "release_iso": "2025-03-24",
+    "recommendations_total": 293076,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 251570,
     "name": "7 Days to Die",
     "release_date": "25 Jul, 2024",
@@ -412,6 +457,36 @@
     "recommendations_total": 228467,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1426210,
+    "name": "It Takes Two",
+    "release_date": "25 Mar, 2021",
+    "release_iso": "2021-03-25",
+    "recommendations_total": 220525,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 49520,
+    "name": "Borderlands 2",
+    "release_date": "20 Sep, 2012",
+    "release_iso": "2012-09-20",
+    "recommendations_total": 215859,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -705,6 +780,21 @@
     "request_topic": null
   },
   {
+    "appid": 48700,
+    "name": "Mount & Blade: Warband",
+    "release_date": "31 Mar, 2010",
+    "release_iso": "2010-03-31",
+    "recommendations_total": 135756,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 362890,
     "name": "Black Mesa",
     "release_date": "6 Mar, 2020",
@@ -930,6 +1020,21 @@
     "request_topic": null
   },
   {
+    "appid": 8870,
+    "name": "BioShock Infinite",
+    "release_date": "25 Mar, 2013",
+    "release_iso": "2013-03-25",
+    "recommendations_total": 109905,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1643320,
     "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "release_date": "20 Nov, 2024",
@@ -1095,6 +1200,36 @@
     "request_topic": null
   },
   {
+    "appid": 4704690,
+    "name": "MECCHA CHAMELEON",
+    "release_date": "9 Jun, 2026",
+    "release_iso": "2026-06-09",
+    "recommendations_total": 80956,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2001120,
+    "name": "Split Fiction",
+    "release_date": "6 Mar, 2025",
+    "release_iso": "2025-03-06",
+    "recommendations_total": 79387,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 3949040,
     "name": "RV There Yet?",
     "release_date": "21 Oct, 2025",
@@ -1150,6 +1285,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 12120,
+    "name": "Grand Theft Auto: San Andreas",
+    "release_date": "4 Jan, 2008",
+    "release_iso": "2008-01-04",
+    "recommendations_total": 70216,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -1215,11 +1365,41 @@
     "request_topic": null
   },
   {
+    "appid": 17390,
+    "name": "SPORE™",
+    "release_date": "19 Dec, 2008",
+    "release_iso": "2008-12-19",
+    "recommendations_total": 67229,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 414340,
     "name": "Hellblade: Senua's Sacrifice",
     "release_date": "7 Aug, 2017",
     "release_iso": "2017-08-07",
     "recommendations_total": 66982,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2231450,
+    "name": "Pizza Tower",
+    "release_date": "26 Jan, 2023",
+    "release_iso": "2023-01-26",
+    "recommendations_total": 66698,
     "locations": [
       "library"
     ],
@@ -1410,6 +1590,21 @@
     "request_topic": null
   },
   {
+    "appid": 21690,
+    "name": "Resident Evil 5",
+    "release_date": "15 Sep, 2009",
+    "release_iso": "2009-09-15",
+    "recommendations_total": 49442,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 214490,
     "name": "Alien: Isolation",
     "release_date": "6 Oct, 2014",
@@ -1450,6 +1645,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 6060,
+    "name": "STAR WARS™ Battlefront II (Classic, 2005)",
+    "release_date": "8 Jul, 2009",
+    "release_iso": "2009-07-08",
+    "recommendations_total": 46470,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -1500,6 +1710,36 @@
     "request_topic": null
   },
   {
+    "appid": 22370,
+    "name": "Fallout 3: Game of the Year Edition",
+    "release_date": "17 Dec, 2009",
+    "release_iso": "2009-12-17",
+    "recommendations_total": 44196,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 22330,
+    "name": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
+    "release_date": "16 Jun, 2009",
+    "release_iso": "2009-06-16",
+    "recommendations_total": 43070,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 253230,
     "name": "A Hat in Time",
     "release_date": "5 Oct, 2017",
@@ -1545,11 +1785,41 @@
     "request_topic": null
   },
   {
+    "appid": 1250,
+    "name": "Killing Floor",
+    "release_date": "14 May, 2009",
+    "release_iso": "2009-05-14",
+    "recommendations_total": 40138,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 307780,
     "name": "Mortal Kombat X",
     "release_date": "13 Apr, 2015",
     "release_iso": "2015-04-13",
     "recommendations_total": 39627,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1478500,
+    "name": "Big Walk",
+    "release_date": "4 Aug, 2026",
+    "release_iso": "2026-08-04",
+    "recommendations_total": 39438,
     "locations": [
       "library"
     ],
@@ -1650,6 +1920,36 @@
     "request_topic": null
   },
   {
+    "appid": 32470,
+    "name": "STAR WARS™ Empire at War - Gold Pack",
+    "release_date": "25 May, 2010",
+    "release_iso": "2010-05-25",
+    "recommendations_total": 36296,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1178830,
+    "name": "Bright Memory: Infinite",
+    "release_date": "11 Nov, 2021",
+    "release_iso": "2021-11-11",
+    "recommendations_total": 36268,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1703340,
     "name": "The Stanley Parable: Ultra Deluxe",
     "release_date": "27 Apr, 2022",
@@ -1725,6 +2025,21 @@
     "request_topic": null
   },
   {
+    "appid": 110800,
+    "name": "L.A. Noire",
+    "release_date": "8 Nov, 2011",
+    "release_iso": "2011-11-08",
+    "recommendations_total": 31299,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2218750,
     "name": "Halls of Torment",
     "release_date": "24 Sep, 2024",
@@ -1735,6 +2050,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 40800,
+    "name": "Super Meat Boy",
+    "release_date": "30 Nov, 2010",
+    "release_iso": "2010-11-30",
+    "recommendations_total": 30186,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -1770,6 +2100,21 @@
     "request_topic": null
   },
   {
+    "appid": 47810,
+    "name": "Dragon Age: Origins - Ultimate Edition",
+    "release_date": "26 Oct, 2010",
+    "release_iso": "2010-10-26",
+    "recommendations_total": 28930,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1049410,
     "name": "Superliminal",
     "release_date": "5 Nov, 2020",
@@ -1785,6 +2130,21 @@
     "request_topic": null
   },
   {
+    "appid": 32370,
+    "name": "STAR WARS™ Knights of the Old Republic™",
+    "release_date": "5 Sep, 2009",
+    "release_iso": "2009-09-05",
+    "recommendations_total": 28634,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 50300,
     "name": "Spec Ops: The Line",
     "release_date": "29 Jun, 2012",
@@ -1792,6 +2152,21 @@
     "recommendations_total": 28309,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 107100,
+    "name": "Bastion",
+    "release_date": "16 Aug, 2011",
+    "release_iso": "2011-08-16",
+    "recommendations_total": 28261,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -1875,6 +2250,21 @@
     "request_topic": null
   },
   {
+    "appid": 47780,
+    "name": "Dead Space™ 2",
+    "release_date": "26 Jan, 2011",
+    "release_iso": "2011-01-26",
+    "recommendations_total": 26315,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 475150,
     "name": "Titan Quest Anniversary Edition",
     "release_date": "31 Aug, 2016",
@@ -1950,6 +2340,21 @@
     "request_topic": null
   },
   {
+    "appid": 1262560,
+    "name": "Need for Speed™ Most Wanted",
+    "release_date": "18 Jun, 2020",
+    "release_iso": "2020-06-18",
+    "recommendations_total": 25542,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2062430,
     "name": "BALL x PIT",
     "release_date": "15 Oct, 2025",
@@ -1960,6 +2365,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 7670,
+    "name": "BioShock™",
+    "release_date": "21 Aug, 2007",
+    "release_iso": "2007-08-21",
+    "recommendations_total": 25256,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -2040,6 +2460,36 @@
     "request_topic": null
   },
   {
+    "appid": 15100,
+    "name": "Assassin's Creed™: Director's Cut Edition",
+    "release_date": "9 Apr, 2008",
+    "release_iso": "2008-04-09",
+    "recommendations_total": 24055,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 17470,
+    "name": "Dead Space (2008)",
+    "release_date": "9 Jan, 2009",
+    "release_iso": "2009-01-09",
+    "recommendations_total": 23030,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 813230,
     "name": "ANIMAL WELL",
     "release_date": "9 May, 2024",
@@ -2070,6 +2520,21 @@
     "request_topic": null
   },
   {
+    "appid": 22320,
+    "name": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
+    "release_date": "16 Jun, 2009",
+    "release_iso": "2009-06-16",
+    "recommendations_total": 22434,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2661300,
     "name": "Grounded 2",
     "release_date": "29 Jul, 2025",
@@ -2095,6 +2560,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 41070,
+    "name": "Serious Sam 3: BFE",
+    "release_date": "22 Nov, 2011",
+    "release_iso": "2011-11-22",
+    "recommendations_total": 21894,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -2205,6 +2685,21 @@
     "request_topic": null
   },
   {
+    "appid": 2668510,
+    "name": "Red Dead Redemption",
+    "release_date": "29 Oct, 2024",
+    "release_iso": "2024-10-29",
+    "recommendations_total": 20958,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2420110,
     "name": "Horizon Forbidden West™ Complete Edition",
     "release_date": "21 Mar, 2024",
@@ -2245,6 +2740,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2990,
+    "name": "FlatOut 2",
+    "release_date": "21 Dec, 2006",
+    "release_iso": "2006-12-21",
+    "recommendations_total": 19607,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -2400,6 +2910,21 @@
     "request_topic": null
   },
   {
+    "appid": 19900,
+    "name": "Far Cry® 2",
+    "release_date": "22 Oct, 2008",
+    "release_iso": "2008-10-22",
+    "recommendations_total": 17534,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 3156770,
     "name": "Witchfire",
     "release_date": "23 Sep, 2024",
@@ -2475,6 +3000,21 @@
     "request_topic": null
   },
   {
+    "appid": 38400,
+    "name": "Fallout: A Post Nuclear Role Playing Game",
+    "release_date": "1 Nov, 2015",
+    "release_iso": "2015-11-01",
+    "recommendations_total": 16823,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2638890,
     "name": "Onimusha: Way of the Sword",
     "release_date": "3 Sep, 2026",
@@ -2520,6 +3060,21 @@
     "request_topic": null
   },
   {
+    "appid": 1547000,
+    "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+    "release_date": "19 Jan, 2023",
+    "release_iso": "2023-01-19",
+    "recommendations_total": 16370,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 3280350,
     "name": "DEATH STRANDING 2: ON THE BEACH",
     "release_date": "19 Mar, 2026",
@@ -2527,6 +3082,21 @@
     "recommendations_total": 15962,
     "locations": [
       "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 71250,
+    "name": "Sonic Adventure DX",
+    "release_date": "4 Mar, 2011",
+    "release_iso": "2011-03-04",
+    "recommendations_total": 15825,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -2625,6 +3195,21 @@
     "request_topic": null
   },
   {
+    "appid": 6000,
+    "name": "STAR WARS™ Republic Commando™",
+    "release_date": "8 Jul, 2009",
+    "release_iso": "2009-07-08",
+    "recommendations_total": 14725,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1063660,
     "name": "Bendy and the Dark Revival",
     "release_date": "15 Nov, 2022",
@@ -2715,6 +3300,66 @@
     "request_topic": null
   },
   {
+    "appid": 21090,
+    "name": "F.E.A.R.",
+    "release_date": "21 May, 2010",
+    "release_iso": "2010-05-21",
+    "recommendations_total": 14140,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 21110,
+    "name": "F.E.A.R.",
+    "release_date": "21 May, 2010",
+    "release_iso": "2010-05-21",
+    "recommendations_total": 14140,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 21120,
+    "name": "F.E.A.R.",
+    "release_date": "21 May, 2010",
+    "release_iso": "2010-05-21",
+    "recommendations_total": 14140,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2310,
+    "name": "Quake",
+    "release_date": "3 Aug, 2007",
+    "release_iso": "2007-08-03",
+    "recommendations_total": 14084,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1061910,
     "name": "Metal: Hellsinger",
     "release_date": "15 Sep, 2022",
@@ -2725,6 +3370,66 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 38410,
+    "name": "Fallout 2: A Post Nuclear Role Playing Game",
+    "release_date": "19 Aug, 2009",
+    "release_iso": "2009-08-19",
+    "recommendations_total": 13942,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 6910,
+    "name": "Deus Ex: Game of the Year Edition",
+    "release_date": "29 Mar, 2007",
+    "release_iso": "2007-03-29",
+    "recommendations_total": 13833,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 6860,
+    "name": "Hitman: Blood Money",
+    "release_date": "15 Mar, 2007",
+    "release_iso": "2007-03-15",
+    "recommendations_total": 13804,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 9450,
+    "name": "Warhammer® 40,000: Dawn of War® - Soulstorm",
+    "release_date": "5 Mar, 2008",
+    "release_iso": "2008-03-05",
+    "recommendations_total": 13657,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -2790,6 +3495,51 @@
     "request_topic": null
   },
   {
+    "appid": 65540,
+    "name": "Gothic 1 Classic",
+    "release_date": "15 Mar, 2001",
+    "release_iso": "2001-03-15",
+    "recommendations_total": 13211,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 21000,
+    "name": "LEGO® Batman™: The Videogame",
+    "release_date": "29 Sep, 2008",
+    "release_iso": "2008-09-29",
+    "recommendations_total": 13007,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 22490,
+    "name": "Fallout: New Vegas",
+    "release_date": "21 Oct, 2010",
+    "release_iso": "2010-10-21",
+    "recommendations_total": 12952,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 228200,
     "name": "Company of Heroes",
     "release_date": "11 Sep, 2006",
@@ -2797,6 +3547,21 @@
     "recommendations_total": 12727,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 39510,
+    "name": "Gothic II: Gold Edition",
+    "release_date": "13 Jan, 2010",
+    "release_iso": "2010-01-13",
+    "recommendations_total": 12713,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -2880,6 +3645,51 @@
     "request_topic": null
   },
   {
+    "appid": 3830,
+    "name": "Psychonauts",
+    "release_date": "11 Oct, 2006",
+    "release_iso": "2006-10-11",
+    "recommendations_total": 12439,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 12150,
+    "name": "Max Payne 2: The Fall of Max Payne",
+    "release_date": "6 Jan, 2011",
+    "release_iso": "2011-01-06",
+    "recommendations_total": 12296,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 9200,
+    "name": "RAGE",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": 12266,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 867210,
     "name": "Songs of Conquest",
     "release_date": "20 May, 2024",
@@ -2955,6 +3765,66 @@
     "request_topic": null
   },
   {
+    "appid": 6020,
+    "name": "STAR WARS™ Jedi Knight - Jedi Academy™",
+    "release_date": "16 Sep, 2009",
+    "release_iso": "2009-09-16",
+    "recommendations_total": 11305,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 48720,
+    "name": "Mount & Blade: With Fire & Sword",
+    "release_date": "3 May, 2011",
+    "release_iso": "2011-05-03",
+    "recommendations_total": 11246,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 13520,
+    "name": "Far Cry®",
+    "release_date": "1 Apr, 2008",
+    "release_iso": "2008-04-01",
+    "recommendations_total": 11193,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 12100,
+    "name": "Grand Theft Auto III",
+    "release_date": "4 Jan, 2008",
+    "release_iso": "2008-01-04",
+    "recommendations_total": 11192,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1801110,
     "name": "BOKURA",
     "release_date": "9 Aug, 2023",
@@ -2980,6 +3850,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1944430,
+    "name": "Amnesia: The Bunker",
+    "release_date": "6 Jun, 2023",
+    "release_iso": "2023-06-06",
+    "recommendations_total": 10543,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -3210,6 +4095,36 @@
     "request_topic": null
   },
   {
+    "appid": 1546990,
+    "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+    "release_date": "19 Jan, 2023",
+    "release_iso": "2023-01-19",
+    "recommendations_total": 9419,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2100,
+    "name": "Dark Messiah of Might & Magic",
+    "release_date": "25 Oct, 2006",
+    "release_iso": "2006-10-25",
+    "recommendations_total": 9402,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 939850,
     "name": "The Dark Pictures Anthology: Man of Medan",
     "release_date": "29 Aug, 2019",
@@ -3217,6 +4132,36 @@
     "recommendations_total": 9311,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2630,
+    "name": "Call of Duty® 2",
+    "release_date": "13 Oct, 2006",
+    "release_iso": "2006-10-13",
+    "recommendations_total": 9291,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 39500,
+    "name": "Gothic 3 Classic",
+    "release_date": "2 Dec, 2009",
+    "release_iso": "2009-12-02",
+    "recommendations_total": 9131,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -3255,6 +4200,36 @@
     "request_topic": null
   },
   {
+    "appid": 24790,
+    "name": "Command & Conquer 3 Tiberium Wars™",
+    "release_date": "13 Nov, 2009",
+    "release_iso": "2009-11-13",
+    "recommendations_total": 8846,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4570,
+    "name": "Warhammer 40,000: Dawn of War - Anniversary Edition (Classic)",
+    "release_date": "7 Aug, 2007",
+    "release_iso": "2007-08-07",
+    "recommendations_total": 8836,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 686200,
     "name": "Door Kickers: Action Squad",
     "release_date": "10 Sep, 2018",
@@ -3262,6 +4237,21 @@
     "recommendations_total": 8791,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 40950,
+    "name": "Stronghold HD (2012)",
+    "release_date": "21 Oct, 2013",
+    "release_iso": "2013-10-21",
+    "recommendations_total": 8677,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -3280,6 +4270,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2320,
+    "name": "Quake II",
+    "release_date": "3 Aug, 2007",
+    "release_iso": "2007-08-03",
+    "recommendations_total": 8581,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -3325,6 +4330,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 12130,
+    "name": "Manhunt",
+    "release_date": "6 Jan, 2011",
+    "release_iso": "2011-01-06",
+    "recommendations_total": 8299,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -3390,6 +4410,21 @@
     "request_topic": null
   },
   {
+    "appid": 15620,
+    "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)",
+    "release_date": "18 Feb, 2009",
+    "release_iso": "2009-02-18",
+    "recommendations_total": 8147,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2144740,
     "name": "Ghostrunner 2",
     "release_date": "26 Oct, 2023",
@@ -3435,6 +4470,21 @@
     "request_topic": null
   },
   {
+    "appid": 9010,
+    "name": "Return to Castle Wolfenstein",
+    "release_date": "3 Aug, 2007",
+    "release_iso": "2007-08-03",
+    "recommendations_total": 8064,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2101960,
     "name": "Cronos: The New Dawn",
     "release_date": "5 Sep, 2025",
@@ -3460,6 +4510,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 56400,
+    "name": "Warhammer 40,000: Dawn of War II: Retribution",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": 7947,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -3495,6 +4560,21 @@
     "request_topic": null
   },
   {
+    "appid": 1546970,
+    "name": "Grand Theft Auto III – The Definitive Edition",
+    "release_date": "19 Jan, 2023",
+    "release_iso": "2023-01-19",
+    "recommendations_total": 7720,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 3636770,
     "name": "Servant of the Lake",
     "release_date": "13 Aug, 2026",
@@ -3505,6 +4585,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4580,
+    "name": "Warhammer® 40,000: Dawn of War® - Dark Crusade",
+    "release_date": "7 Aug, 2007",
+    "release_iso": "2007-08-07",
+    "recommendations_total": 7673,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -3570,11 +4665,71 @@
     "request_topic": null
   },
   {
+    "appid": 1281590,
+    "name": "The Dark Pictures Anthology: House of Ashes",
+    "release_date": "21 Oct, 2021",
+    "release_iso": "2021-10-21",
+    "recommendations_total": 7432,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 41000,
+    "name": "Serious Sam HD: The First Encounter",
+    "release_date": "24 Nov, 2009",
+    "release_iso": "2009-11-24",
+    "recommendations_total": 7414,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 239200,
     "name": "Amnesia: A Machine for Pigs",
     "release_date": "10 Sep, 2013",
     "release_iso": "2013-09-10",
     "recommendations_total": 7293,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1194630,
+    "name": "The Dark Pictures Anthology: Little Hope",
+    "release_date": "29 Oct, 2020",
+    "release_iso": "2020-10-29",
+    "recommendations_total": 7267,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2751000,
+    "name": "Prince of Persia The Lost Crown",
+    "release_date": "8 Aug, 2024",
+    "release_iso": "2024-08-08",
+    "recommendations_total": 7191,
     "locations": [
       "library"
     ],
@@ -3660,6 +4815,21 @@
     "request_topic": null
   },
   {
+    "appid": 12360,
+    "name": "FlatOut: Ultimate Carnage Collector's Edition",
+    "release_date": "26 Aug, 2008",
+    "release_iso": "2008-08-26",
+    "recommendations_total": 6792,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2427410,
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
     "release_date": "20 May, 2025",
@@ -3670,6 +4840,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 96100,
+    "name": "Defy Gravity Extended",
+    "release_date": "18 Mar, 2016",
+    "release_iso": "2016-03-18",
+    "recommendations_total": 6766,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -3810,6 +4995,21 @@
     "request_topic": null
   },
   {
+    "appid": 3920,
+    "name": "Sid Meier's Pirates!",
+    "release_date": "11 Jul, 2005",
+    "release_iso": "2005-07-11",
+    "recommendations_total": 6242,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 368230,
     "name": "Kingdom: Classic",
     "release_date": "21 Oct, 2015",
@@ -3835,6 +5035,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 6220,
+    "name": "FlatOut",
+    "release_date": "2 Feb, 2007",
+    "release_iso": "2007-02-02",
+    "recommendations_total": 5943,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -3870,6 +5085,21 @@
     "request_topic": null
   },
   {
+    "appid": 16450,
+    "name": "F.E.A.R. 2: Project Origin",
+    "release_date": "12 Feb, 2009",
+    "release_iso": "2009-02-12",
+    "recommendations_total": 5670,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1748620,
     "name": "FlipWitch - Forbidden Sex Hex",
     "release_date": "17 Nov, 2023",
@@ -3885,6 +5115,21 @@
     "request_topic": null
   },
   {
+    "appid": 24810,
+    "name": "Command & Conquer™ 3: Kane’s Wrath",
+    "release_date": "13 Nov, 2009",
+    "release_iso": "2009-11-13",
+    "recommendations_total": 5562,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 750130,
     "name": "The Sinking City Remastered",
     "release_date": "26 Feb, 2021",
@@ -3895,6 +5140,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 7000,
+    "name": "Tomb Raider: Legend",
+    "release_date": "29 Mar, 2007",
+    "release_iso": "2007-03-29",
+    "recommendations_total": 5467,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -3952,6 +5212,21 @@
     "recommendations_total": 5150,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 11450,
+    "name": "Overlord™",
+    "release_date": "26 Oct, 2007",
+    "release_iso": "2007-10-26",
+    "recommendations_total": 5033,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -4065,6 +5340,21 @@
     "request_topic": null
   },
   {
+    "appid": 6900,
+    "name": "Hitman: Codename 47",
+    "release_date": "15 Mar, 2007",
+    "release_iso": "2007-03-15",
+    "recommendations_total": 4297,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1137300,
     "name": "Sherlock Holmes Chapter One",
     "release_date": "15 Nov, 2021",
@@ -4110,6 +5400,21 @@
     "request_topic": null
   },
   {
+    "appid": 12810,
+    "name": "Overlord II",
+    "release_date": "23 Jun, 2009",
+    "release_iso": "2009-06-23",
+    "recommendations_total": 4015,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 46500,
     "name": "Syberia",
     "release_date": "19 May, 2011",
@@ -4117,6 +5422,21 @@
     "recommendations_total": 3943,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 13560,
+    "name": "Tom Clancy's Splinter Cell®",
+    "release_date": "1 Apr, 2008",
+    "release_iso": "2008-04-01",
+    "recommendations_total": 3892,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -4135,6 +5455,81 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 22180,
+    "name": "Penumbra Overture",
+    "release_date": "6 Mar, 2009",
+    "release_iso": "2009-03-06",
+    "recommendations_total": 3828,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1567020,
+    "name": "The Dark Pictures Anthology: The Devil in Me",
+    "release_date": "17 Nov, 2022",
+    "release_iso": "2022-11-17",
+    "recommendations_total": 3823,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 6850,
+    "name": "Hitman 2: Silent Assassin",
+    "release_date": "15 Mar, 2007",
+    "release_iso": "2007-03-15",
+    "recommendations_total": 3780,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3020,
+    "name": "Call of Juarez",
+    "release_date": "8 Nov, 2007",
+    "release_iso": "2007-11-08",
+    "recommendations_total": 3773,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 35000,
+    "name": "Mini Ninjas",
+    "release_date": "14 Sep, 2009",
+    "release_iso": "2009-09-14",
+    "recommendations_total": 3688,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -4275,6 +5670,21 @@
     "request_topic": null
   },
   {
+    "appid": 41050,
+    "name": "Serious Sam Classic: The First Encounter",
+    "release_date": "30 Aug, 2019",
+    "release_iso": "2019-08-30",
+    "recommendations_total": 3098,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 6120,
     "name": "Shank",
     "release_date": "25 Oct, 2010",
@@ -4282,6 +5692,21 @@
     "recommendations_total": 3043,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4720,
+    "name": "Condemned: Criminal Origins",
+    "release_date": "11 Apr, 2006",
+    "release_iso": "2006-04-11",
+    "recommendations_total": 3010,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -4410,6 +5835,36 @@
     "request_topic": null
   },
   {
+    "appid": 22340,
+    "name": "Call of Cthulhu®: Dark Corners of the Earth",
+    "release_date": "16 Jun, 2009",
+    "release_iso": "2009-06-16",
+    "recommendations_total": 2868,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 24880,
+    "name": "The Saboteur™",
+    "release_date": "7 Mar, 2024",
+    "release_iso": "2024-03-07",
+    "recommendations_total": 2857,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1045720,
     "name": "The Coma 2: Vicious Sisters",
     "release_date": "28 Jan, 2020",
@@ -4450,6 +5905,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4850,
+    "name": "Cossacks: Back to War",
+    "release_date": "2 Sep, 2010",
+    "release_iso": "2010-09-02",
+    "recommendations_total": 2670,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -4605,11 +6075,56 @@
     "request_topic": null
   },
   {
+    "appid": 1700,
+    "name": "Arx Fatalis",
+    "release_date": "3 Apr, 2007",
+    "release_iso": "2007-04-03",
+    "recommendations_total": 2461,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 40,
     "name": "Deathmatch Classic",
     "release_date": "1 Jun, 2001",
     "release_iso": "2001-06-01",
     "recommendations_total": 2453,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 6830,
+    "name": "Commandos 2: Men of Courage",
+    "release_date": "15 Mar, 2007",
+    "release_iso": "2007-03-15",
+    "recommendations_total": 2413,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1708010,
+    "name": "The Expanse: A Telltale Series",
+    "release_date": "20 Nov, 2023",
+    "release_iso": "2023-11-20",
+    "recommendations_total": 2407,
     "locations": [
       "library"
     ],
@@ -4645,6 +6160,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 6980,
+    "name": "Thief: Deadly Shadows",
+    "release_date": "29 Mar, 2007",
+    "release_iso": "2007-03-29",
+    "recommendations_total": 2364,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -4687,6 +6217,21 @@
     "recommendations_total": 2221,
     "locations": [
       "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 22200,
+    "name": "Zeno Clash",
+    "release_date": "21 Apr, 2009",
+    "release_iso": "2009-04-21",
+    "recommendations_total": 2178,
+    "locations": [
+      "family"
     ],
     "has_official": false,
     "has_patch": true,
@@ -4740,6 +6285,21 @@
     "request_topic": null
   },
   {
+    "appid": 16720,
+    "name": "Velvet Assassin",
+    "release_date": "1 May, 2009",
+    "release_iso": "2009-05-01",
+    "recommendations_total": 2058,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 343710,
     "name": "Kholat",
     "release_date": "9 Jun, 2015",
@@ -4785,6 +6345,21 @@
     "request_topic": null
   },
   {
+    "appid": 12710,
+    "name": "Overlord™: Raising Hell",
+    "release_date": "28 Feb, 2008",
+    "release_iso": "2008-02-28",
+    "recommendations_total": 2008,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2272540,
     "name": "FBC: Firebreak",
     "release_date": "17 Jun, 2025",
@@ -4795,6 +6370,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 9310,
+    "name": "Warhammer® 40,000: Dawn of War® – Winter Assault",
+    "release_date": "7 Aug, 2007",
+    "release_iso": "2007-08-07",
+    "recommendations_total": 1979,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -4815,6 +6405,21 @@
     "request_topic": null
   },
   {
+    "appid": 39530,
+    "name": "Painkiller: Black Edition",
+    "release_date": "24 Jan, 2007",
+    "release_iso": "2007-01-24",
+    "recommendations_total": 1937,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 346560,
     "name": "Hero of the Kingdom II",
     "release_date": "20 Feb, 2015",
@@ -4825,6 +6430,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 7110,
+    "name": "Jade Empire™: Special Edition",
+    "release_date": "27 Feb, 2007",
+    "release_iso": "2007-02-27",
+    "recommendations_total": 1901,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -4855,6 +6475,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 41060,
+    "name": "Serious Sam Classic: The Second Encounter",
+    "release_date": "30 Aug, 2019",
+    "release_iso": "2019-08-30",
+    "recommendations_total": 1809,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -5025,6 +6660,36 @@
     "request_topic": null
   },
   {
+    "appid": 1373090,
+    "name": "Yes, Your Grace 2: Snowfall",
+    "release_date": "8 May, 2025",
+    "release_iso": "2025-05-08",
+    "recommendations_total": 1519,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 21780,
+    "name": "Driver® Parallel Lines",
+    "release_date": "13 Feb, 2009",
+    "release_iso": "2009-02-13",
+    "recommendations_total": 1513,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1718460,
     "name": "Terminator 2D: NO FATE",
     "release_date": "12 Dec, 2025",
@@ -5060,6 +6725,36 @@
     "release_date": "17 Mar, 2008",
     "release_iso": "2008-03-17",
     "recommendations_total": 1421,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 21670,
+    "name": "Bionic Commando",
+    "release_date": "28 Jul, 2009",
+    "release_iso": "2009-07-28",
+    "recommendations_total": 1403,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1722860,
+    "name": "Munchkin Digital",
+    "release_date": "9 Mar, 2023",
+    "release_iso": "2023-03-09",
+    "recommendations_total": 1364,
     "locations": [
       "library"
     ],
@@ -5190,6 +6885,36 @@
     "request_topic": null
   },
   {
+    "appid": 22140,
+    "name": "Penumbra: Requiem",
+    "release_date": null,
+    "release_iso": null,
+    "recommendations_total": 1100,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4890,
+    "name": "Cossacks II: Battle for Europe",
+    "release_date": "26 Aug, 2011",
+    "release_iso": "2011-08-26",
+    "recommendations_total": 1066,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 719750,
     "name": "PUSS!",
     "release_date": "2 Aug, 2018",
@@ -5215,6 +6940,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 21010,
+    "name": "Watchmen: The End is Nigh",
+    "release_date": "4 Mar, 2009",
+    "release_iso": "2009-03-04",
+    "recommendations_total": 1040,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -5250,6 +6990,21 @@
     "request_topic": null
   },
   {
+    "appid": 65600,
+    "name": "Gothic 3: Forsaken Gods Enhanced Edition",
+    "release_date": "22 Mar, 2011",
+    "release_iso": "2011-03-22",
+    "recommendations_total": 1014,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1290170,
     "name": "Titan Chaser",
     "release_date": "23 Feb, 2021",
@@ -5260,6 +7015,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3270,
+    "name": "Painkiller Overdose",
+    "release_date": "30 Oct, 2007",
+    "release_iso": "2007-10-30",
+    "recommendations_total": 952,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -5385,6 +7155,36 @@
     "request_topic": null
   },
   {
+    "appid": 18040,
+    "name": "DeathSpank",
+    "release_date": "25 Oct, 2010",
+    "release_iso": "2010-10-25",
+    "recommendations_total": 717,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1608450,
+    "name": "Hellslave",
+    "release_date": "26 May, 2022",
+    "release_iso": "2022-05-26",
+    "recommendations_total": 712,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 904380,
     "name": "Vambrace: Cold Soul",
     "release_date": "28 May, 2019",
@@ -5415,6 +7215,21 @@
     "request_topic": null
   },
   {
+    "appid": 29900,
+    "name": "Dark Sector",
+    "release_date": "24 Mar, 2009",
+    "release_iso": "2009-03-24",
+    "recommendations_total": 684,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 454100,
     "name": "Dungeon Escape",
     "release_date": "27 May, 2016",
@@ -5425,6 +7240,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2966850,
+    "name": "Shotgun Cop Man",
+    "release_date": "1 May, 2025",
+    "release_iso": "2025-05-01",
+    "recommendations_total": 665,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -5470,6 +7300,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4800,
+    "name": "Heroes of Annihilated Empires",
+    "release_date": "22 Nov, 2006",
+    "release_iso": "2006-11-22",
+    "recommendations_total": 592,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -5545,6 +7390,36 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2741360,
+    "name": "Valiant Hearts: Coming Home",
+    "release_date": "24 May, 2024",
+    "release_iso": "2024-05-24",
+    "recommendations_total": 551,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4880,
+    "name": "Cossacks: European Wars",
+    "release_date": "26 Aug, 2011",
+    "release_iso": "2011-08-26",
+    "recommendations_total": 540,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -5670,6 +7545,21 @@
     "request_topic": null
   },
   {
+    "appid": 21030,
+    "name": "Watchmen: The End is Nigh Part 2",
+    "release_date": "29 Jul, 2009",
+    "release_iso": "2009-07-29",
+    "recommendations_total": 455,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2351330,
     "name": "BrokenLore: DON'T WATCH",
     "release_date": "24 Apr, 2025",
@@ -5695,6 +7585,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1755580,
+    "name": "The Jackbox Party Starter",
+    "release_date": "29 Jun, 2022",
+    "release_iso": "2022-06-29",
+    "recommendations_total": 416,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -5935,6 +7840,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3017580,
+    "name": "Paragnosia",
+    "release_date": "24 Oct, 2024",
+    "release_iso": "2024-10-24",
+    "recommendations_total": 239,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
@@ -7045,6 +8965,21 @@
     ],
     "has_official": true,
     "has_patch": false,
+    "has_request": false,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2767030,
+    "name": "Marvel Rivals",
+    "release_date": "5 Dec, 2024",
+    "release_iso": "2024-12-05",
+    "recommendations_total": null,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
     "has_request": false,
     "request_url": null,
     "request_topic": null
