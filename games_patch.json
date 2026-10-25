@@ -38360,8 +38360,10 @@
     "appid": 2131680,
     "name": "METAL GEAR & METAL GEAR 2: Solid Snake",
     "discovered_at": "2026-09-23 22:58:52",
-    "recommendations_total": 798,
-    "recommendations_updated_at": "2026-10-09T22:08:51Z",
+    "recommendations_total": 806,
+    "recommendations_updated_at": "2026-10-25T23:04:16Z",
+    "type": "game",
+    "release_date": "24 Oct, 2023",
     "localizations": {
       "supported": [
         "English",
@@ -38374,10 +38376,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-09T22:08:51Z"
-    },
-    "type": "game",
-    "release_date": "24 Oct, 2023"
+      "checked_at": "2026-10-25T23:04:16Z"
+    }
   },
   {
     "id": 1283,
@@ -38768,7 +38768,7 @@
       "interface": null,
       "subtitles": null,
       "audio": null,
-      "checked_at": "2026-10-24T22:05:15Z"
+      "checked_at": "2026-10-25T23:04:20Z"
     }
   },
   {
@@ -39104,8 +39104,10 @@
     "appid": 2800080,
     "name": "Thief VR: Legacy of Shadow",
     "discovered_at": "2026-10-10 08:05:38",
-    "recommendations_total": 354,
-    "recommendations_updated_at": "2026-10-10T22:03:27Z",
+    "recommendations_total": 357,
+    "recommendations_updated_at": "2026-10-25T23:04:23Z",
+    "type": "game",
+    "release_date": "4 Dec, 2025",
     "localizations": {
       "supported": [
         "English",
@@ -39122,10 +39124,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-10T22:03:27Z"
-    },
-    "type": "game",
-    "release_date": "4 Dec, 2025"
+      "checked_at": "2026-10-25T23:04:23Z"
+    }
   },
   {
     "id": 1310,
