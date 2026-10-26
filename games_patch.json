@@ -38362,8 +38362,6 @@
     "discovered_at": "2026-09-23 22:58:52",
     "recommendations_total": 806,
     "recommendations_updated_at": "2026-10-25T23:04:16Z",
-    "type": "game",
-    "release_date": "24 Oct, 2023",
     "localizations": {
       "supported": [
         "English",
@@ -38377,7 +38375,9 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-25T23:04:16Z"
-    }
+    },
+    "type": "game",
+    "release_date": "24 Oct, 2023"
   },
   {
     "id": 1283,
@@ -38485,8 +38485,10 @@
     "appid": 1548850,
     "name": "Six Days in Fallujah",
     "discovered_at": "2026-09-25 05:13:04",
-    "recommendations_total": 13070,
-    "recommendations_updated_at": "2026-10-11T22:05:28Z",
+    "recommendations_total": 13095,
+    "recommendations_updated_at": "2026-10-26T23:03:14Z",
+    "type": "game",
+    "release_date": "22 Jun, 2023",
     "localizations": {
       "supported": [
         "English",
@@ -38504,18 +38506,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-11T22:05:28Z"
-    },
-    "type": "game",
-    "release_date": "22 Jun, 2023"
+      "checked_at": "2026-10-26T23:03:14Z"
+    }
   },
   {
     "id": 1286,
     "appid": 1449690,
     "name": "The Walking Dead: The Telltale Definitive Series",
     "discovered_at": "2026-09-25 06:33:38",
-    "recommendations_total": 36948,
-    "recommendations_updated_at": "2026-10-11T22:05:32Z",
+    "recommendations_total": 37321,
+    "recommendations_updated_at": "2026-10-26T23:03:17Z",
+    "type": "game",
+    "release_date": "29 Oct, 2020",
     "localizations": {
       "supported": [
         "English",
@@ -38531,18 +38533,18 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-11T22:05:32Z"
-    },
-    "type": "game",
-    "release_date": "29 Oct, 2020"
+      "checked_at": "2026-10-26T23:03:17Z"
+    }
   },
   {
     "id": 1287,
     "appid": 837610,
     "name": "Mary Skelter: Nightmares",
     "discovered_at": "2026-09-25 13:31:04",
-    "recommendations_total": 546,
-    "recommendations_updated_at": "2026-10-11T22:05:36Z",
+    "recommendations_total": 545,
+    "recommendations_updated_at": "2026-10-26T23:03:21Z",
+    "type": "game",
+    "release_date": "19 Jul, 2018",
     "localizations": {
       "supported": [
         "English"
@@ -38550,10 +38552,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-11T22:05:36Z"
-    },
-    "type": "game",
-    "release_date": "19 Jul, 2018"
+      "checked_at": "2026-10-26T23:03:21Z"
+    }
   },
   {
     "id": 1288,
@@ -38768,7 +38768,7 @@
       "interface": null,
       "subtitles": null,
       "audio": null,
-      "checked_at": "2026-10-25T23:04:20Z"
+      "checked_at": "2026-10-26T23:03:25Z"
     }
   },
   {
@@ -39106,8 +39106,6 @@
     "discovered_at": "2026-10-10 08:05:38",
     "recommendations_total": 357,
     "recommendations_updated_at": "2026-10-25T23:04:23Z",
-    "type": "game",
-    "release_date": "4 Dec, 2025",
     "localizations": {
       "supported": [
         "English",
@@ -39125,15 +39123,19 @@
       "subtitles": [],
       "audio": [],
       "checked_at": "2026-10-25T23:04:23Z"
-    }
+    },
+    "type": "game",
+    "release_date": "4 Dec, 2025"
   },
   {
     "id": 1310,
     "appid": 1084160,
     "name": "Jagged Alliance 3",
     "discovered_at": "2026-10-11 03:29:28",
-    "recommendations_total": 11142,
-    "recommendations_updated_at": "2026-10-11T22:05:39Z",
+    "recommendations_total": 11273,
+    "recommendations_updated_at": "2026-10-26T23:03:29Z",
+    "type": "game",
+    "release_date": "14 Jul, 2023",
     "localizations": {
       "supported": [
         "English",
@@ -39150,10 +39152,8 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-11T22:05:39Z"
-    },
-    "type": "game",
-    "release_date": "14 Jul, 2023"
+      "checked_at": "2026-10-26T23:03:29Z"
+    }
   },
   {
     "id": 1311,
