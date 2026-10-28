@@ -15732,8 +15732,8 @@
     "appid": 1092790,
     "name": "Inscryption",
     "discovered_at": "2025-10-20 03:31:14",
-    "recommendations_total": 135779,
-    "recommendations_updated_at": "2026-10-22T02:06:00Z",
+    "recommendations_total": 135892,
+    "recommendations_updated_at": "2026-10-28T12:28:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -38516,8 +38516,8 @@
     "appid": 1449690,
     "name": "The Walking Dead: The Telltale Definitive Series",
     "discovered_at": "2026-09-25 06:33:38",
-    "recommendations_total": 37307,
-    "recommendations_updated_at": "2026-10-26T19:50:36Z",
+    "recommendations_total": 37385,
+    "recommendations_updated_at": "2026-10-28T01:00:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -38533,7 +38533,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-10-11T22:05:32Z"
+      "checked_at": "2026-10-28T01:00:06Z"
     },
     "type": "game",
     "release_date": "29 Oct, 2020"
