@@ -15732,8 +15732,8 @@
     "appid": 1092790,
     "name": "Inscryption",
     "discovered_at": "2025-10-20 03:31:14",
-    "recommendations_total": 135994,
-    "recommendations_updated_at": "2026-10-31T12:33:10Z",
+    "recommendations_total": 136108,
+    "recommendations_updated_at": "2026-11-03T12:53:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -16156,8 +16156,8 @@
     "appid": 1154030,
     "name": "Titan Quest II",
     "discovered_at": "2025-10-20 07:09:45",
-    "recommendations_total": 17677,
-    "recommendations_updated_at": "2026-10-24T10:32:14Z",
+    "recommendations_total": 17771,
+    "recommendations_updated_at": "2026-11-03T11:15:51Z",
     "localizations": {
       "supported": [
         "English",
@@ -24228,8 +24228,8 @@
     "appid": 3949040,
     "name": "RV There Yet?",
     "discovered_at": "2025-10-31 13:22:04",
-    "recommendations_total": 76308,
-    "recommendations_updated_at": "2026-10-24T10:33:59Z",
+    "recommendations_total": 76899,
+    "recommendations_updated_at": "2026-11-03T11:17:35Z",
     "localizations": {
       "supported": [
         "English",
@@ -29073,8 +29073,8 @@
     "appid": 4197610,
     "name": "Librarian: Tidy Up the Arcane Library!",
     "discovered_at": "2026-05-27 10:19:07",
-    "recommendations_total": 25854,
-    "recommendations_updated_at": "2026-10-20T18:35:31Z",
+    "recommendations_total": 26209,
+    "recommendations_updated_at": "2026-11-02T23:02:24Z",
     "localizations": {
       "supported": [
         "English",
@@ -29641,8 +29641,8 @@
     "appid": 4304930,
     "name": "Chef Knight",
     "discovered_at": "2026-06-14 01:45:36",
-    "recommendations_total": 2763,
-    "recommendations_updated_at": "2026-10-20T18:36:53Z",
+    "recommendations_total": 2899,
+    "recommendations_updated_at": "2026-11-03T00:20:17Z",
     "localizations": {
       "supported": [
         "English",
@@ -30370,7 +30370,7 @@
     "name": "Control, I'm Not Coming Back",
     "discovered_at": "2026-07-14 21:20:10",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-10-20T18:38:31Z",
+    "recommendations_updated_at": "2026-11-03T04:06:36Z",
     "localizations": {
       "supported": [
         "English",
@@ -31954,8 +31954,8 @@
     "appid": 1643320,
     "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "discovered_at": "2026-07-20 00:30:20",
-    "recommendations_total": 108842,
-    "recommendations_updated_at": "2026-10-24T10:37:47Z",
+    "recommendations_total": 109272,
+    "recommendations_updated_at": "2026-11-03T11:21:35Z",
     "localizations": {
       "supported": [
         "English",
@@ -32287,8 +32287,8 @@
     "appid": 1455840,
     "name": "Dorfromantik",
     "discovered_at": "2026-07-20 01:43:51",
-    "recommendations_total": 27516,
-    "recommendations_updated_at": "2026-10-24T10:37:35Z",
+    "recommendations_total": 27536,
+    "recommendations_updated_at": "2026-11-03T11:21:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -32351,7 +32351,7 @@
     "name": "Deadlock",
     "discovered_at": "2026-07-20 01:56:31",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-10-22T01:56:26Z",
+    "recommendations_updated_at": "2026-11-03T11:21:19Z",
     "localizations": {
       "supported": [
         "English",
@@ -32974,8 +32974,8 @@
     "appid": 1137300,
     "name": "Sherlock Holmes Chapter One",
     "discovered_at": "2026-07-20 03:33:19",
-    "recommendations_total": 4234,
-    "recommendations_updated_at": "2026-10-24T10:37:18Z",
+    "recommendations_total": 4250,
+    "recommendations_updated_at": "2026-11-03T11:21:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -33096,8 +33096,8 @@
     "appid": 739630,
     "name": "Phasmophobia",
     "discovered_at": "2026-07-20 05:37:03",
-    "recommendations_total": 686017,
-    "recommendations_updated_at": "2026-10-24T10:36:43Z",
+    "recommendations_total": 686631,
+    "recommendations_updated_at": "2026-11-03T11:20:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -34730,8 +34730,8 @@
     "appid": 40700,
     "name": "Machinarium",
     "discovered_at": "2026-07-20 07:18:25",
-    "recommendations_total": 18095,
-    "recommendations_updated_at": "2026-10-24T10:35:07Z",
+    "recommendations_total": 18190,
+    "recommendations_updated_at": "2026-11-03T11:18:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -34973,8 +34973,8 @@
     "appid": 730,
     "name": "Counter-Strike 2",
     "discovered_at": "2026-07-20 07:19:29",
-    "recommendations_total": 5324067,
-    "recommendations_updated_at": "2026-10-24T10:35:02Z",
+    "recommendations_total": 5337741,
+    "recommendations_updated_at": "2026-11-03T11:18:45Z",
     "localizations": {
       "supported": [
         "Czech",
@@ -35052,8 +35052,8 @@
     "appid": 620,
     "name": "Portal 2",
     "discovered_at": "2026-07-20 07:19:51",
-    "recommendations_total": 392328,
-    "recommendations_updated_at": "2026-10-24T10:34:59Z",
+    "recommendations_total": 392668,
+    "recommendations_updated_at": "2026-11-03T11:18:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -35159,8 +35159,8 @@
     "appid": 570,
     "name": "Dota 2",
     "discovered_at": "2026-07-20 07:20:04",
-    "recommendations_total": 14370,
-    "recommendations_updated_at": "2026-10-24T10:34:57Z",
+    "recommendations_total": 14372,
+    "recommendations_updated_at": "2026-11-03T11:18:40Z",
     "localizations": {
       "supported": [
         "Bulgarian",
@@ -35238,8 +35238,8 @@
     "appid": 500,
     "name": "Left 4 Dead",
     "discovered_at": "2026-07-20 07:20:25",
-    "recommendations_total": 58618,
-    "recommendations_updated_at": "2026-10-24T10:34:52Z",
+    "recommendations_total": 58717,
+    "recommendations_updated_at": "2026-11-03T11:18:36Z",
     "localizations": {
       "supported": [
         "English",
@@ -35423,8 +35423,8 @@
     "appid": 400,
     "name": "Portal",
     "discovered_at": "2026-07-20 07:20:49",
-    "recommendations_total": 175104,
-    "recommendations_updated_at": "2026-10-24T10:34:49Z",
+    "recommendations_total": 175389,
+    "recommendations_updated_at": "2026-11-03T11:18:32Z",
     "localizations": {
       "supported": [
         "English",
@@ -35531,8 +35531,8 @@
     "appid": 220,
     "name": "Half-Life 2",
     "discovered_at": "2026-07-20 07:21:01",
-    "recommendations_total": 204368,
-    "recommendations_updated_at": "2026-10-24T10:34:47Z",
+    "recommendations_total": 204760,
+    "recommendations_updated_at": "2026-11-03T11:18:29Z",
     "localizations": {
       "supported": [
         "English",
@@ -35993,8 +35993,8 @@
     "appid": 4834070,
     "name": "Don't Sleep With The Fishes",
     "discovered_at": "2026-07-24 16:13:00",
-    "recommendations_total": 850,
-    "recommendations_updated_at": "2026-10-20T18:47:07Z",
+    "recommendations_total": 881,
+    "recommendations_updated_at": "2026-11-03T11:56:59Z",
     "localizations": {
       "supported": [
         "English"
@@ -36810,8 +36810,8 @@
     "appid": 4502710,
     "name": "Stonewards",
     "discovered_at": "2026-08-13 06:59:27",
-    "recommendations_total": 914,
-    "recommendations_updated_at": "2026-10-20T18:49:02Z",
+    "recommendations_total": 928,
+    "recommendations_updated_at": "2026-11-03T03:45:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -36872,7 +36872,7 @@
     "name": "Project Threshold",
     "discovered_at": "2026-08-14 21:02:16",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-10-20T18:49:10Z",
+    "recommendations_updated_at": "2026-11-03T11:33:37Z",
     "localizations": {
       "supported": [
         "English"
@@ -37590,8 +37590,8 @@
     "appid": 4935510,
     "name": "Cellar Keeper",
     "discovered_at": "2026-08-31 18:13:25",
-    "recommendations_total": 1110,
-    "recommendations_updated_at": "2026-10-20T18:50:50Z",
+    "recommendations_total": 1182,
+    "recommendations_updated_at": "2026-11-03T14:58:38Z",
     "localizations": {
       "supported": [
         "English",
@@ -39322,8 +39322,8 @@
     "appid": 2163330,
     "name": "Yet Another Zombie Survivors",
     "discovered_at": "2026-11-01 11:11:09",
-    "recommendations_total": 14728,
-    "recommendations_updated_at": "2026-11-01T21:08:09Z",
+    "recommendations_total": 14737,
+    "recommendations_updated_at": "2026-11-03T01:00:31Z",
     "localizations": {
       "supported": [
         "English",
@@ -39340,7 +39340,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-03T01:00:31Z"
     },
     "type": "game",
     "release_date": "20 Aug, 2026"
@@ -39351,7 +39351,7 @@
     "name": "Travis Strikes Again: No More Heroes Complete Edition",
     "discovered_at": "2026-11-02 15:07:49",
     "recommendations_total": 506,
-    "recommendations_updated_at": "2026-11-01T20:40:00Z",
+    "recommendations_updated_at": "2026-11-03T01:01:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -39369,7 +39369,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-03T01:01:09Z"
     },
     "type": "game",
     "release_date": "17 Oct, 2019"
@@ -39379,8 +39379,8 @@
     "appid": 1546970,
     "name": "Grand Theft Auto III – The Definitive Edition",
     "discovered_at": "2026-11-02 15:18:48",
-    "recommendations_total": 7773,
-    "recommendations_updated_at": "2026-11-01T21:07:43Z",
+    "recommendations_total": 7780,
+    "recommendations_updated_at": "2026-11-03T01:01:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -39400,9 +39400,70 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-03T01:01:08Z"
     },
     "type": "game",
     "release_date": "19 Jan, 2023"
+  },
+  {
+    "id": 1319,
+    "appid": 3740090,
+    "name": "Bruisers 2D Boxing",
+    "discovered_at": "2026-11-03 17:23:55",
+    "recommendations_total": 512,
+    "recommendations_updated_at": "2026-11-03T17:23:49Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Portuguese - Brazil",
+        "Spanish - Latin America",
+        "Japanese",
+        "Korean",
+        "Russian",
+        "Simplified Chinese",
+        "Traditional Chinese",
+        "Turkish"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "21 Oct, 2026"
+  },
+  {
+    "id": 1320,
+    "appid": 3569420,
+    "name": "Chained Beasts",
+    "discovered_at": "2026-11-03 21:29:28",
+    "recommendations_total": 1035,
+    "recommendations_updated_at": "2026-11-02T16:57:58Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Japanese",
+        "Korean",
+        "Portuguese - Brazil",
+        "Simplified Chinese",
+        "Spanish - Latin America",
+        "Traditional Chinese",
+        "Russian",
+        "Turkish"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "15 Oct, 2026"
   }
 ]
