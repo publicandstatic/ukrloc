@@ -452,7 +452,7 @@
     "name": "R.E.P.O.",
     "release_date": "26 Feb, 2025",
     "release_iso": "2025-02-26",
-    "recommendations_total": 349127,
+    "recommendations_total": 349841,
     "locations": [
       "family"
     ],
@@ -2196,7 +2196,7 @@
     "name": "Content Warning",
     "release_date": "1 Apr, 2024",
     "release_iso": "2024-04-01",
-    "recommendations_total": 73212,
+    "recommendations_total": 73279,
     "locations": [
       "library"
     ],
@@ -7876,7 +7876,7 @@
     "name": "Hellblade II: Senua’s Saga",
     "release_date": "21 May, 2024",
     "release_iso": "2024-05-21",
-    "recommendations_total": 9626,
+    "recommendations_total": 9632,
     "locations": [
       "family"
     ],
@@ -9572,7 +9572,7 @@
     "name": "Keep Driving",
     "release_date": "6 Feb, 2025",
     "release_iso": "2025-02-06",
-    "recommendations_total": 6417,
+    "recommendations_total": 6416,
     "locations": [
       "family"
     ],
@@ -9812,7 +9812,7 @@
     "name": "FlipWitch - Forbidden Sex Hex",
     "release_date": "17 Nov, 2023",
     "release_iso": "2023-11-17",
-    "recommendations_total": 5611,
+    "recommendations_total": 5612,
     "locations": [
       "family"
     ],
@@ -10148,7 +10148,7 @@
     "name": "Resonance: A Plague Tale Legacy",
     "release_date": "27 Aug, 2026",
     "release_iso": "2026-08-27",
-    "recommendations_total": 4582,
+    "recommendations_total": 4621,
     "locations": [
       "family"
     ],
@@ -10768,6 +10768,22 @@
     "request_topic": null
   },
   {
+    "appid": 203750,
+    "name": "Binary Domain",
+    "release_date": "26 Apr, 2012",
+    "release_iso": "2012-04-26",
+    "recommendations_total": 3623,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835253679",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 259550,
     "name": "Hero of the Kingdom",
     "release_date": "14 Nov, 2013",
@@ -11376,6 +11392,22 @@
     "request_topic": null
   },
   {
+    "appid": 2828710,
+    "name": "Valor Mortis",
+    "release_date": "13 Oct, 2026",
+    "release_iso": "2026-10-13",
+    "recommendations_total": 2836,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2878600,
     "name": "Harry Potter: Quidditch Champions",
     "release_date": "3 Sep, 2024",
@@ -11440,22 +11472,6 @@
     "request_topic": null
   },
   {
-    "appid": 2828710,
-    "name": "Valor Mortis",
-    "release_date": "13 Oct, 2026",
-    "release_iso": "2026-10-13",
-    "recommendations_total": 2788,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1949030,
     "name": "Sherlock Holmes The Awakened",
     "release_date": "11 Apr, 2023",
@@ -11484,6 +11500,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2985721146",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 39200,
+    "name": "Dungeon Siege II",
+    "release_date": "16 Aug, 2005",
+    "release_iso": "2005-08-16",
+    "recommendations_total": 2666,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835970989",
     "request_url": null,
     "request_topic": null
   },
@@ -11568,6 +11600,22 @@
     "request_topic": "Ukrainian subtitles"
   },
   {
+    "appid": 2644610,
+    "name": "Menace from the Deep",
+    "release_date": "11 Nov, 2024",
+    "release_iso": "2024-11-11",
+    "recommendations_total": 2524,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 232770,
     "name": "POSTAL",
     "release_date": "14 Nov, 1997",
@@ -11600,22 +11648,6 @@
     "request_topic": null
   },
   {
-    "appid": 2644610,
-    "name": "Menace from the Deep",
-    "release_date": "11 Nov, 2024",
-    "release_iso": "2024-11-11",
-    "recommendations_total": 2521,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 520720,
     "name": "Dear Esther: Landmark Edition",
     "release_date": "14 Feb, 2017",
@@ -11632,6 +11664,22 @@
     "request_topic": null
   },
   {
+    "appid": 3209480,
+    "name": "Last Report",
+    "release_date": "11 Jul, 2025",
+    "release_iso": "2025-07-11",
+    "recommendations_total": 2492,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 610180,
     "name": "The Jackbox Party Pack 4",
     "release_date": "18 Oct, 2017",
@@ -11644,22 +11692,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3043079862",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 3209480,
-    "name": "Last Report",
-    "release_date": "11 Jul, 2025",
-    "release_iso": "2025-07-11",
-    "recommendations_total": 2489,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -12132,7 +12164,7 @@
     "name": "Mosa Lina",
     "release_date": "17 Oct, 2023",
     "release_iso": "2023-10-17",
-    "recommendations_total": 2046,
+    "recommendations_total": 2047,
     "locations": [
       "family"
     ],
@@ -12468,7 +12500,7 @@
     "name": "Gnomes",
     "release_date": "4 Apr, 2025",
     "release_iso": "2025-04-04",
-    "recommendations_total": 1791,
+    "recommendations_total": 1794,
     "locations": [
       "family"
     ],
@@ -12516,7 +12548,7 @@
     "name": "The Sinking City 2",
     "release_date": "18 Aug, 2026",
     "release_iso": "2026-08-18",
-    "recommendations_total": 1742,
+    "recommendations_total": 1757,
     "locations": [
       "library"
     ],
@@ -12836,7 +12868,7 @@
     "name": "BOKURA: planet",
     "release_date": "24 Apr, 2025",
     "release_iso": "2025-04-24",
-    "recommendations_total": 1484,
+    "recommendations_total": 1487,
     "locations": [
       "library"
     ],
@@ -13572,7 +13604,7 @@
     "name": "Fork Road",
     "release_date": "11 Jun, 2024",
     "release_iso": "2024-06-11",
-    "recommendations_total": 911,
+    "recommendations_total": 912,
     "locations": [
       "family"
     ],
@@ -14228,7 +14260,7 @@
     "name": "The Trolley Solution",
     "release_date": "12 Sep, 2025",
     "release_iso": "2025-09-12",
-    "recommendations_total": 587,
+    "recommendations_total": 588,
     "locations": [
       "family"
     ],
@@ -14308,7 +14340,7 @@
     "name": "Fear The Timeloop",
     "release_date": "30 Jan, 2026",
     "release_iso": "2026-01-30",
-    "recommendations_total": 521,
+    "recommendations_total": 522,
     "locations": [
       "family"
     ],
@@ -14388,7 +14420,7 @@
     "name": "Hero of the Kingdom: The Lost Tales 3",
     "release_date": "26 Nov, 2024",
     "release_iso": "2024-11-26",
-    "recommendations_total": 493,
+    "recommendations_total": 495,
     "locations": [
       "family"
     ],
@@ -14436,7 +14468,7 @@
     "name": "The Ouroboros King",
     "release_date": "27 Feb, 2023",
     "release_iso": "2023-02-27",
-    "recommendations_total": 479,
+    "recommendations_total": 480,
     "locations": [
       "family"
     ],
@@ -14734,6 +14766,22 @@
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/1822240/discussions/search/?q=Ukrainian",
     "request_topic": "Is there a Ukrainian localization or a mod that adds it?"
+  },
+  {
+    "appid": 1444920,
+    "name": "Doctor Who: The Edge of Reality",
+    "release_date": "13 Oct, 2021",
+    "release_iso": "2021-10-13",
+    "recommendations_total": 278,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835360952",
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 3232610,

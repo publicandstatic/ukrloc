@@ -23943,8 +23943,8 @@
     "appid": 3241660,
     "name": "R.E.P.O.",
     "discovered_at": "2025-10-29 23:07:45",
-    "recommendations_total": 349127,
-    "recommendations_updated_at": "2026-11-06T09:12:35Z",
+    "recommendations_total": 349841,
+    "recommendations_updated_at": "2026-11-08T21:17:59Z",
     "localizations": {
       "supported": [
         "English",
@@ -38442,8 +38442,8 @@
     "appid": 2713000,
     "name": "Resonance: A Plague Tale Legacy",
     "discovered_at": "2026-09-24 12:06:31",
-    "recommendations_total": 4582,
-    "recommendations_updated_at": "2026-11-06T09:47:00Z",
+    "recommendations_total": 4621,
+    "recommendations_updated_at": "2026-11-08T01:09:53Z",
     "localizations": {
       "supported": [
         "English",
@@ -38509,7 +38509,7 @@
         "Spanish - Spain",
         "Simplified Chinese"
       ],
-      "checked_at": "2026-10-19T23:13:34Z"
+      "checked_at": "2026-11-08T01:09:56Z"
     },
     "type": "game",
     "release_date": "27 Aug, 2026"
@@ -39772,8 +39772,8 @@
     "appid": 1340480,
     "name": "The Cosmic Wheel Sisterhood",
     "discovered_at": "2026-11-07 03:54:08",
-    "recommendations_total": 5700,
-    "recommendations_updated_at": "2026-11-05T08:04:41Z",
+    "recommendations_total": 5704,
+    "recommendations_updated_at": "2026-11-08T01:00:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -39787,7 +39787,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-08T01:00:15Z"
     },
     "type": "game",
     "release_date": "16 Aug, 2023"
@@ -39926,5 +39926,109 @@
     },
     "type": "game",
     "release_date": "21 Aug, 2018"
+  },
+  {
+    "id": 1338,
+    "appid": 476600,
+    "name": "Call of Duty®: WWII",
+    "discovered_at": "2026-11-08 00:36:40",
+    "recommendations_total": 33975,
+    "recommendations_updated_at": "2026-11-08T01:00:18Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Japanese",
+        "Korean",
+        "Polish",
+        "Portuguese - Brazil",
+        "Russian",
+        "Simplified Chinese",
+        "Traditional Chinese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": "2026-11-08T01:00:18Z"
+    },
+    "type": "game",
+    "release_date": "2 Nov, 2017"
+  },
+  {
+    "id": 1339,
+    "appid": 219990,
+    "name": "Grim Dawn",
+    "discovered_at": "2026-11-08 03:59:27",
+    "recommendations_total": 93734,
+    "recommendations_updated_at": "2026-11-07T20:19:28Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "German",
+        "Spanish - Spain",
+        "Czech",
+        "Japanese",
+        "Russian",
+        "Simplified Chinese",
+        "Portuguese - Brazil",
+        "Italian",
+        "Korean",
+        "Vietnamese",
+        "Polish"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "25 Feb, 2016"
+  },
+  {
+    "id": 1340,
+    "appid": 110800,
+    "name": "L.A. Noire",
+    "discovered_at": "2026-11-08 04:07:14",
+    "recommendations_total": 31397,
+    "recommendations_updated_at": "2026-11-07T19:57:38Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Russian",
+        "Spanish - Spain"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "8 Nov, 2011"
+  },
+  {
+    "id": 1341,
+    "appid": 18040,
+    "name": "DeathSpank",
+    "discovered_at": "2026-11-08 04:29:51",
+    "recommendations_total": 720,
+    "recommendations_updated_at": "2026-11-07T20:12:37Z",
+    "localizations": {
+      "supported": [
+        "English"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "25 Oct, 2010"
   }
 ]
