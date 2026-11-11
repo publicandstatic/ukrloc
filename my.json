@@ -1636,7 +1636,7 @@
     "name": "V Rising",
     "release_date": "8 May, 2024",
     "release_iso": "2024-05-08",
-    "recommendations_total": 111126,
+    "recommendations_total": 111174,
     "locations": [
       "family"
     ],
@@ -3820,6 +3820,22 @@
     "has_patch": false,
     "has_request": false,
     "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 939960,
+    "name": "Far Cry® New Dawn",
+    "release_date": "15 Feb, 2019",
+    "release_iso": "2019-02-15",
+    "recommendations_total": 32466,
+    "locations": [
+      "library"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3630948937",
     "request_url": null,
     "request_topic": null
   },
@@ -7808,6 +7824,22 @@
     "request_topic": null
   },
   {
+    "appid": 3293010,
+    "name": "Easy Delivery Co.",
+    "release_date": "18 Sep, 2025",
+    "release_iso": "2025-09-18",
+    "recommendations_total": 9863,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 418340,
     "name": "RWBY: Grimm Eclipse",
     "release_date": "5 Jul, 2016",
@@ -7820,22 +7852,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2493362572",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 3293010,
-    "name": "Easy Delivery Co.",
-    "release_date": "18 Sep, 2025",
-    "release_iso": "2025-09-18",
-    "recommendations_total": 9830,
-    "locations": [
-      "wishlist"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -9664,6 +9680,22 @@
     "request_topic": null
   },
   {
+    "appid": 8140,
+    "name": "Tomb Raider: Underworld",
+    "release_date": "21 Nov, 2008",
+    "release_iso": "2008-11-21",
+    "recommendations_total": 6259,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837913701",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 6220,
     "name": "FlatOut",
     "release_date": "2 Feb, 2007",
@@ -9812,7 +9844,7 @@
     "name": "FlipWitch - Forbidden Sex Hex",
     "release_date": "17 Nov, 2023",
     "release_iso": "2023-11-17",
-    "recommendations_total": 5612,
+    "recommendations_total": 5614,
     "locations": [
       "family"
     ],
@@ -10084,7 +10116,7 @@
     "name": "World of Goo",
     "release_date": "13 Oct, 2008",
     "release_iso": "2008-10-13",
-    "recommendations_total": 4856,
+    "recommendations_total": 4862,
     "locations": [
       "library"
     ],
@@ -13956,7 +13988,7 @@
     "name": "Hexologic",
     "release_date": "29 May, 2018",
     "release_iso": "2018-05-29",
-    "recommendations_total": 694,
+    "recommendations_total": 695,
     "locations": [
       "library"
     ],
@@ -14100,7 +14132,7 @@
     "name": "No Players Online",
     "release_date": "6 Nov, 2025",
     "release_iso": "2025-11-06",
-    "recommendations_total": 645,
+    "recommendations_total": 646,
     "locations": [
       "wishlist"
     ],
