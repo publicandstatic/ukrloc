@@ -15735,8 +15735,8 @@
     "appid": 1092790,
     "name": "Inscryption",
     "discovered_at": "2025-10-20 03:31:14",
-    "recommendations_total": 136341,
-    "recommendations_updated_at": "2026-11-09T13:35:14Z",
+    "recommendations_total": 136426,
+    "recommendations_updated_at": "2026-11-12T13:49:31Z",
     "localizations": {
       "supported": [
         "English",
@@ -34624,8 +34624,8 @@
     "appid": 108600,
     "name": "Project Zomboid",
     "discovered_at": "2026-07-20 07:17:18",
-    "recommendations_total": 371123,
-    "recommendations_updated_at": "2026-10-23T18:02:31Z",
+    "recommendations_total": 373833,
+    "recommendations_updated_at": "2026-11-11T23:50:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -35164,8 +35164,8 @@
     "appid": 570,
     "name": "Dota 2",
     "discovered_at": "2026-07-20 07:20:04",
-    "recommendations_total": 14372,
-    "recommendations_updated_at": "2026-11-03T11:18:40Z",
+    "recommendations_total": 14373,
+    "recommendations_updated_at": "2026-11-11T23:50:16Z",
     "localizations": {
       "supported": [
         "Bulgarian",
@@ -40180,7 +40180,7 @@
     "name": "MyVoiceZoo",
     "discovered_at": "2026-11-10 04:38:00",
     "recommendations_total": 3476,
-    "recommendations_updated_at": "2026-11-10T22:30:45Z",
+    "recommendations_updated_at": "2026-11-12T01:00:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -40202,7 +40202,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-12T01:00:07Z"
     },
     "type": "game",
     "release_date": "26 Sep, 2025"
@@ -40243,8 +40243,8 @@
     "appid": 3699590,
     "name": "Well Dweller",
     "discovered_at": "2026-11-11 03:36:46",
-    "recommendations_total": 4240,
-    "recommendations_updated_at": "2026-11-02T19:23:22Z",
+    "recommendations_total": 4499,
+    "recommendations_updated_at": "2026-11-12T01:00:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -40261,7 +40261,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-12T01:00:08Z"
     },
     "type": "game",
     "release_date": "22 Sep, 2026"

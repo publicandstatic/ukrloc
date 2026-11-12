@@ -900,7 +900,7 @@
     "name": "Clair Obscur: Expedition 33",
     "release_date": "24 Apr, 2025",
     "release_iso": "2025-04-24",
-    "recommendations_total": 184148,
+    "recommendations_total": 184387,
     "locations": [
       "family"
     ],
@@ -1268,7 +1268,7 @@
     "name": "Inscryption",
     "release_date": "19 Oct, 2021",
     "release_iso": "2021-10-19",
-    "recommendations_total": 136341,
+    "recommendations_total": 136426,
     "locations": [
       "wishlist"
     ],
@@ -4580,7 +4580,7 @@
     "name": "BALL x PIT",
     "release_date": "15 Oct, 2025",
     "release_iso": "2025-10-15",
-    "recommendations_total": 25385,
+    "recommendations_total": 25436,
     "locations": [
       "family"
     ],
@@ -6404,7 +6404,7 @@
     "name": "Dota 2",
     "release_date": "9 Jul, 2013",
     "release_iso": "2013-07-09",
-    "recommendations_total": 14372,
+    "recommendations_total": 14373,
     "locations": [
       "library"
     ],
@@ -8304,6 +8304,22 @@
     "request_topic": null
   },
   {
+    "appid": 3834090,
+    "name": "YAPYAP",
+    "release_date": "3 Feb, 2026",
+    "release_iso": "2026-02-03",
+    "recommendations_total": 8811,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 686200,
     "name": "Door Kickers: Action Squad",
     "release_date": "10 Sep, 2018",
@@ -8316,22 +8332,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2903743303",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 3834090,
-    "name": "YAPYAP",
-    "release_date": "3 Feb, 2026",
-    "release_iso": "2026-02-03",
-    "recommendations_total": 8758,
-    "locations": [
-      "library"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -9236,7 +9236,7 @@
     "name": "Tiny Bookshop",
     "release_date": "7 Aug, 2025",
     "release_iso": "2025-08-07",
-    "recommendations_total": 7226,
+    "recommendations_total": 7258,
     "locations": [
       "library"
     ],
@@ -9844,7 +9844,7 @@
     "name": "FlipWitch - Forbidden Sex Hex",
     "release_date": "17 Nov, 2023",
     "release_iso": "2023-11-17",
-    "recommendations_total": 5614,
+    "recommendations_total": 5615,
     "locations": [
       "family"
     ],
@@ -10060,6 +10060,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2534585199",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 848350,
+    "name": "Katamari Damacy REROLL",
+    "release_date": "6 Dec, 2018",
+    "release_iso": "2018-12-06",
+    "recommendations_total": 4971,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837363374",
     "request_url": null,
     "request_topic": null
   },
@@ -11252,7 +11268,7 @@
     "name": "HELLION",
     "release_date": "21 Oct, 2019",
     "release_iso": "2019-10-21",
-    "recommendations_total": 3004,
+    "recommendations_total": 3003,
     "locations": [
       "library"
     ],
@@ -12228,7 +12244,7 @@
     "name": "The Legend of Khiimori",
     "release_date": "3 Mar, 2026",
     "release_iso": "2026-03-03",
-    "recommendations_total": 2026,
+    "recommendations_total": 2037,
     "locations": [
       "wishlist"
     ],
@@ -12452,7 +12468,7 @@
     "name": "Rebooted Fate",
     "release_date": "25 Feb, 2026",
     "release_iso": "2026-02-25",
-    "recommendations_total": 1855,
+    "recommendations_total": 1851,
     "locations": [
       "wishlist"
     ],
@@ -12548,7 +12564,7 @@
     "name": "Say No! More",
     "release_date": "9 Apr, 2021",
     "release_iso": "2021-04-09",
-    "recommendations_total": 1780,
+    "recommendations_total": 1779,
     "locations": [
       "library"
     ],
@@ -13364,7 +13380,7 @@
     "name": "Evil School",
     "release_date": "13 Aug, 2026",
     "release_iso": "2026-08-13",
-    "recommendations_total": 1128,
+    "recommendations_total": 1134,
     "locations": [
       "wishlist"
     ],
@@ -14212,7 +14228,7 @@
     "name": "Forest Escape: Last Train",
     "release_date": "10 Jul, 2026",
     "release_iso": "2026-07-10",
-    "recommendations_total": 600,
+    "recommendations_total": 602,
     "locations": [
       "family"
     ],
@@ -14231,6 +14247,22 @@
     "recommendations_total": 600,
     "locations": [
       "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4258770,
+    "name": "Dread Fields",
+    "release_date": "28 May, 2026",
+    "release_iso": "2026-05-28",
+    "recommendations_total": 597,
+    "locations": [
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -14268,22 +14300,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3659984825",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 4258770,
-    "name": "Dread Fields",
-    "release_date": "28 May, 2026",
-    "release_iso": "2026-05-28",
-    "recommendations_total": 591,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -14464,13 +14480,13 @@
     "request_topic": null
   },
   {
-    "appid": 3340810,
-    "name": "Hero of the Kingdom: The Lost Tales 3",
-    "release_date": "26 Nov, 2024",
-    "release_iso": "2024-11-26",
-    "recommendations_total": 495,
+    "appid": 4181110,
+    "name": "THE VIG",
+    "release_date": "5 Mar, 2026",
+    "release_iso": "2026-03-05",
+    "recommendations_total": 496,
     "locations": [
-      "family"
+      "wishlist"
     ],
     "has_official": true,
     "has_patch": false,
@@ -14480,13 +14496,13 @@
     "request_topic": null
   },
   {
-    "appid": 4181110,
-    "name": "THE VIG",
-    "release_date": "5 Mar, 2026",
-    "release_iso": "2026-03-05",
-    "recommendations_total": 493,
+    "appid": 3340810,
+    "name": "Hero of the Kingdom: The Lost Tales 3",
+    "release_date": "26 Nov, 2024",
+    "release_iso": "2024-11-26",
+    "recommendations_total": 495,
     "locations": [
-      "wishlist"
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
