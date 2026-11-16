@@ -4,8 +4,8 @@
     "appid": 10,
     "name": "Counter-Strike",
     "discovered_at": "2025-10-17 22:36:44",
-    "recommendations_total": 170685,
-    "recommendations_updated_at": "2026-11-15T08:12:39Z",
+    "recommendations_total": 170705,
+    "recommendations_updated_at": "2026-11-16T18:31:57Z",
     "localizations": {
       "supported": [
         "English",
@@ -30,8 +30,8 @@
     "appid": 50,
     "name": "Half-Life: Opposing Force",
     "discovered_at": "2025-10-17 22:37:05",
-    "recommendations_total": 25769,
-    "recommendations_updated_at": "2026-11-15T08:12:44Z",
+    "recommendations_total": 25778,
+    "recommendations_updated_at": "2026-11-16T18:32:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -52,8 +52,8 @@
     "appid": 70,
     "name": "Half-Life",
     "discovered_at": "2025-10-17 22:37:15",
-    "recommendations_total": 118648,
-    "recommendations_updated_at": "2026-11-15T08:12:48Z",
+    "recommendations_total": 118673,
+    "recommendations_updated_at": "2026-11-16T19:58:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -78,8 +78,8 @@
     "appid": 100,
     "name": "Counter-Strike: Condition Zero",
     "discovered_at": "2025-10-17 22:37:30",
-    "recommendations_total": 21581,
-    "recommendations_updated_at": "2026-11-15T08:12:53Z",
+    "recommendations_total": 21585,
+    "recommendations_updated_at": "2026-11-16T19:58:47Z",
     "localizations": {
       "supported": [
         "English",
@@ -104,8 +104,8 @@
     "appid": 130,
     "name": "Half-Life: Blue Shift",
     "discovered_at": "2025-10-17 22:37:37",
-    "recommendations_total": 18896,
-    "recommendations_updated_at": "2026-11-15T08:12:58Z",
+    "recommendations_total": 18901,
+    "recommendations_updated_at": "2026-11-16T19:58:49Z",
     "localizations": {
       "supported": [
         "English",
@@ -125,8 +125,8 @@
     "appid": 240,
     "name": "Counter-Strike: Source",
     "discovered_at": "2025-10-17 22:37:58",
-    "recommendations_total": 136235,
-    "recommendations_updated_at": "2026-11-15T08:13:02Z",
+    "recommendations_total": 136258,
+    "recommendations_updated_at": "2026-11-16T19:58:52Z",
     "localizations": {
       "supported": [
         "English",
@@ -156,7 +156,7 @@
     "name": "Half-Life: Source",
     "discovered_at": "2025-10-17 22:38:10",
     "recommendations_total": 14699,
-    "recommendations_updated_at": "2026-11-15T08:13:06Z",
+    "recommendations_updated_at": "2026-11-16T19:58:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -184,8 +184,8 @@
     "appid": 1250,
     "name": "Killing Floor",
     "discovered_at": "2025-10-17 22:42:52",
-    "recommendations_total": 40225,
-    "recommendations_updated_at": "2026-11-15T08:13:10Z",
+    "recommendations_total": 40229,
+    "recommendations_updated_at": "2026-11-16T21:03:31Z",
     "localizations": {
       "supported": [
         "English",
@@ -210,8 +210,8 @@
     "appid": 1700,
     "name": "Arx Fatalis",
     "discovered_at": "2025-10-17 22:44:30",
-    "recommendations_total": 2476,
-    "recommendations_updated_at": "2026-11-15T08:13:15Z",
+    "recommendations_total": 2478,
+    "recommendations_updated_at": "2026-11-16T21:03:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -234,8 +234,8 @@
     "appid": 2100,
     "name": "Dark Messiah of Might & Magic",
     "discovered_at": "2025-10-17 22:44:55",
-    "recommendations_total": 9427,
-    "recommendations_updated_at": "2026-11-15T08:13:19Z",
+    "recommendations_total": 9429,
+    "recommendations_updated_at": "2026-11-16T21:03:46Z",
     "localizations": {
       "supported": [
         "English",
@@ -257,8 +257,8 @@
     "appid": 2280,
     "name": "DOOM + DOOM II",
     "discovered_at": "2025-10-17 22:45:34",
-    "recommendations_total": 25781,
-    "recommendations_updated_at": "2026-11-15T08:13:23Z",
+    "recommendations_total": 25790,
+    "recommendations_updated_at": "2026-11-16T19:59:03Z",
     "localizations": {
       "supported": [
         "English",
@@ -288,7 +288,7 @@
     "name": "Quake",
     "discovered_at": "2025-10-17 22:45:38",
     "recommendations_total": 14139,
-    "recommendations_updated_at": "2026-11-15T08:13:27Z",
+    "recommendations_updated_at": "2026-11-16T21:04:00Z",
     "localizations": {
       "supported": [
         "English",
@@ -311,8 +311,8 @@
     "appid": 2320,
     "name": "Quake II",
     "discovered_at": "2025-10-17 22:45:49",
-    "recommendations_total": 8607,
-    "recommendations_updated_at": "2026-11-15T08:13:32Z",
+    "recommendations_total": 8610,
+    "recommendations_updated_at": "2026-11-16T21:04:03Z",
     "localizations": {
       "supported": [
         "English",
@@ -335,8 +335,8 @@
     "appid": 2630,
     "name": "Call of Duty® 2",
     "discovered_at": "2025-10-17 22:47:01",
-    "recommendations_total": 9329,
-    "recommendations_updated_at": "2026-11-15T08:13:36Z",
+    "recommendations_total": 9333,
+    "recommendations_updated_at": "2026-11-16T21:04:19Z",
     "localizations": {
       "supported": [
         "English",
@@ -358,8 +358,8 @@
     "appid": 2990,
     "name": "FlatOut 2",
     "discovered_at": "2025-10-17 22:48:31",
-    "recommendations_total": 19748,
-    "recommendations_updated_at": "2026-11-15T08:13:41Z",
+    "recommendations_total": 19756,
+    "recommendations_updated_at": "2026-11-16T21:04:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -387,8 +387,8 @@
     "appid": 3270,
     "name": "Painkiller Overdose",
     "discovered_at": "2025-10-17 22:49:18",
-    "recommendations_total": 955,
-    "recommendations_updated_at": "2026-11-15T08:13:46Z",
+    "recommendations_total": 956,
+    "recommendations_updated_at": "2026-11-16T21:04:27Z",
     "localizations": {
       "supported": [
         "English",
@@ -426,8 +426,8 @@
     "appid": 3920,
     "name": "Sid Meier's Pirates!",
     "discovered_at": "2025-10-17 22:53:24",
-    "recommendations_total": 6263,
-    "recommendations_updated_at": "2026-11-15T08:13:56Z",
+    "recommendations_total": 6265,
+    "recommendations_updated_at": "2026-11-16T21:04:42Z",
     "localizations": {
       "supported": [
         "English"
@@ -445,8 +445,8 @@
     "appid": 4570,
     "name": "Warhammer 40,000: Dawn of War - Anniversary Edition (Classic)",
     "discovered_at": "2025-10-17 22:55:06",
-    "recommendations_total": 8856,
-    "recommendations_updated_at": "2026-11-15T08:14:01Z",
+    "recommendations_total": 8858,
+    "recommendations_updated_at": "2026-11-16T21:04:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -473,8 +473,8 @@
     "appid": 4580,
     "name": "Warhammer® 40,000: Dawn of War® - Dark Crusade",
     "discovered_at": "2025-10-17 22:55:13",
-    "recommendations_total": 7690,
-    "recommendations_updated_at": "2026-11-15T08:14:05Z",
+    "recommendations_total": 7691,
+    "recommendations_updated_at": "2026-11-16T21:04:51Z",
     "localizations": {
       "supported": [
         "English",
@@ -496,8 +496,8 @@
     "appid": 4720,
     "name": "Condemned: Criminal Origins",
     "discovered_at": "2025-10-17 22:55:33",
-    "recommendations_total": 3015,
-    "recommendations_updated_at": "2026-11-15T08:14:11Z",
+    "recommendations_total": 3016,
+    "recommendations_updated_at": "2026-11-16T21:04:53Z",
     "localizations": {
       "supported": [
         "English",
@@ -520,7 +520,7 @@
     "name": "Heroes of Annihilated Empires",
     "discovered_at": "2025-10-17 22:56:01",
     "recommendations_total": 595,
-    "recommendations_updated_at": "2026-11-15T08:14:16Z",
+    "recommendations_updated_at": "2026-11-16T21:04:56Z",
     "localizations": {
       "supported": [
         "English",
@@ -541,8 +541,8 @@
     "appid": 4850,
     "name": "Cossacks: Back to War",
     "discovered_at": "2025-10-17 22:56:14",
-    "recommendations_total": 2677,
-    "recommendations_updated_at": "2026-11-15T08:14:20Z",
+    "recommendations_total": 2678,
+    "recommendations_updated_at": "2026-11-16T21:04:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -564,7 +564,7 @@
     "name": "Cossacks: European Wars",
     "discovered_at": "2025-10-17 22:56:28",
     "recommendations_total": 545,
-    "recommendations_updated_at": "2026-11-15T08:14:26Z",
+    "recommendations_updated_at": "2026-11-16T21:05:02Z",
     "localizations": {
       "supported": [
         "English"
@@ -582,8 +582,8 @@
     "appid": 4890,
     "name": "Cossacks II: Battle for Europe",
     "discovered_at": "2025-10-17 22:56:37",
-    "recommendations_total": 1077,
-    "recommendations_updated_at": "2026-11-15T08:14:31Z",
+    "recommendations_total": 1079,
+    "recommendations_updated_at": "2026-11-16T21:05:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -602,8 +602,8 @@
     "appid": 6000,
     "name": "STAR WARS™ Republic Commando™",
     "discovered_at": "2025-10-17 23:20:55",
-    "recommendations_total": 14757,
-    "recommendations_updated_at": "2026-11-15T08:14:35Z",
+    "recommendations_total": 14761,
+    "recommendations_updated_at": "2026-11-16T21:05:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -624,8 +624,8 @@
     "appid": 6020,
     "name": "STAR WARS™ Jedi Knight - Jedi Academy™",
     "discovered_at": "2025-10-17 23:21:15",
-    "recommendations_total": 11320,
-    "recommendations_updated_at": "2026-11-15T08:14:41Z",
+    "recommendations_total": 11322,
+    "recommendations_updated_at": "2026-11-16T21:05:12Z",
     "localizations": {
       "supported": [
         "English",
@@ -647,7 +647,7 @@
     "name": "STAR WARS™ Jedi Knight II - Jedi Outcast™",
     "discovered_at": "2025-10-17 23:21:19",
     "recommendations_total": 4065,
-    "recommendations_updated_at": "2026-11-15T08:14:46Z",
+    "recommendations_updated_at": "2026-11-16T19:59:21Z",
     "localizations": {
       "supported": [
         "English",
@@ -669,8 +669,8 @@
     "appid": 6120,
     "name": "Shank",
     "discovered_at": "2025-10-17 23:21:49",
-    "recommendations_total": 3049,
-    "recommendations_updated_at": "2026-11-15T08:14:50Z",
+    "recommendations_total": 3048,
+    "recommendations_updated_at": "2026-11-16T19:59:26Z",
     "localizations": {
       "supported": [
         "English"
@@ -688,8 +688,8 @@
     "appid": 6220,
     "name": "FlatOut",
     "discovered_at": "2025-10-17 23:22:24",
-    "recommendations_total": 5993,
-    "recommendations_updated_at": "2026-11-15T08:14:56Z",
+    "recommendations_total": 5996,
+    "recommendations_updated_at": "2026-11-16T21:05:17Z",
     "localizations": {
       "supported": [
         "English",
@@ -717,8 +717,8 @@
     "appid": 6830,
     "name": "Commandos 2: Men of Courage",
     "discovered_at": "2025-10-17 23:24:04",
-    "recommendations_total": 2414,
-    "recommendations_updated_at": "2026-11-15T08:15:02Z",
+    "recommendations_total": 2415,
+    "recommendations_updated_at": "2026-11-16T21:05:30Z",
     "localizations": {
       "supported": [
         "English",
@@ -757,7 +757,7 @@
     "name": "Hitman 2: Silent Assassin",
     "discovered_at": "2025-10-17 23:24:18",
     "recommendations_total": 3794,
-    "recommendations_updated_at": "2026-11-15T08:15:10Z",
+    "recommendations_updated_at": "2026-11-16T21:05:31Z",
     "localizations": {
       "supported": [
         "English"
@@ -776,7 +776,7 @@
     "name": "Hitman: Blood Money",
     "discovered_at": "2025-10-17 23:24:26",
     "recommendations_total": 13858,
-    "recommendations_updated_at": "2026-11-15T08:15:16Z",
+    "recommendations_updated_at": "2026-11-16T21:05:35Z",
     "localizations": {
       "supported": [
         "English"
@@ -794,8 +794,8 @@
     "appid": 6900,
     "name": "Hitman: Codename 47",
     "discovered_at": "2025-10-17 23:24:43",
-    "recommendations_total": 4312,
-    "recommendations_updated_at": "2026-11-15T08:15:20Z",
+    "recommendations_total": 4313,
+    "recommendations_updated_at": "2026-11-16T21:05:36Z",
     "localizations": {
       "supported": [
         "English",
@@ -818,7 +818,7 @@
     "name": "Deus Ex: Game of the Year Edition",
     "discovered_at": "2025-10-17 23:24:55",
     "recommendations_total": 13871,
-    "recommendations_updated_at": "2026-11-15T08:15:26Z",
+    "recommendations_updated_at": "2026-11-16T21:05:39Z",
     "localizations": {
       "supported": [
         "English"
@@ -836,8 +836,8 @@
     "appid": 6980,
     "name": "Thief: Deadly Shadows",
     "discovered_at": "2025-10-17 23:25:15",
-    "recommendations_total": 2365,
-    "recommendations_updated_at": "2026-11-15T08:15:31Z",
+    "recommendations_total": 2366,
+    "recommendations_updated_at": "2026-11-16T21:05:44Z",
     "localizations": {
       "supported": [
         "English"
@@ -855,8 +855,8 @@
     "appid": 7110,
     "name": "Jade Empire™: Special Edition",
     "discovered_at": "2025-10-17 23:25:53",
-    "recommendations_total": 1908,
-    "recommendations_updated_at": "2026-11-15T08:15:34Z",
+    "recommendations_total": 1909,
+    "recommendations_updated_at": "2026-11-16T21:05:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -878,8 +878,8 @@
     "appid": 7670,
     "name": "BioShock™",
     "discovered_at": "2025-10-17 23:27:45",
-    "recommendations_total": 25298,
-    "recommendations_updated_at": "2026-11-15T08:15:41Z",
+    "recommendations_total": 25297,
+    "recommendations_updated_at": "2026-11-16T21:05:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -925,8 +925,8 @@
     "appid": 8870,
     "name": "BioShock Infinite",
     "discovered_at": "2025-10-17 23:31:54",
-    "recommendations_total": 110048,
-    "recommendations_updated_at": "2026-11-15T08:15:50Z",
+    "recommendations_total": 110061,
+    "recommendations_updated_at": "2026-11-16T21:06:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -983,7 +983,7 @@
     "name": "RAGE",
     "discovered_at": "2025-10-17 23:33:18",
     "recommendations_total": 12272,
-    "recommendations_updated_at": "2026-11-15T08:16:01Z",
+    "recommendations_updated_at": "2026-11-16T21:06:29Z",
     "localizations": {
       "supported": [
         "English",
@@ -1009,8 +1009,8 @@
     "appid": 9310,
     "name": "Warhammer® 40,000: Dawn of War® – Winter Assault",
     "discovered_at": "2025-10-17 23:33:42",
-    "recommendations_total": 1980,
-    "recommendations_updated_at": "2026-11-15T08:16:05Z",
+    "recommendations_total": 1981,
+    "recommendations_updated_at": "2026-11-16T21:06:32Z",
     "localizations": {
       "supported": [
         "English",
@@ -1111,8 +1111,8 @@
     "appid": 11450,
     "name": "Overlord™",
     "discovered_at": "2025-10-17 23:41:37",
-    "recommendations_total": 5051,
-    "recommendations_updated_at": "2026-11-15T08:16:26Z",
+    "recommendations_total": 5053,
+    "recommendations_updated_at": "2026-11-16T21:06:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -1133,8 +1133,8 @@
     "appid": 12130,
     "name": "Manhunt",
     "discovered_at": "2025-10-17 23:42:21",
-    "recommendations_total": 8368,
-    "recommendations_updated_at": "2026-11-15T19:32:24Z",
+    "recommendations_total": 8373,
+    "recommendations_updated_at": "2026-11-16T21:07:11Z",
     "localizations": {
       "supported": [
         "English",
@@ -1156,8 +1156,8 @@
     "appid": 12150,
     "name": "Max Payne 2: The Fall of Max Payne",
     "discovered_at": "2025-10-17 23:42:27",
-    "recommendations_total": 12378,
-    "recommendations_updated_at": "2026-11-15T19:32:43Z",
+    "recommendations_total": 12380,
+    "recommendations_updated_at": "2026-11-16T21:07:12Z",
     "localizations": {
       "supported": [
         "English"
@@ -1175,8 +1175,8 @@
     "appid": 12200,
     "name": "Bully: Scholarship Edition",
     "discovered_at": "2025-10-17 23:42:34",
-    "recommendations_total": 38164,
-    "recommendations_updated_at": "2026-11-15T19:32:49Z",
+    "recommendations_total": 38171,
+    "recommendations_updated_at": "2026-11-16T19:59:50Z",
     "localizations": {
       "supported": [
         "Italian",
@@ -1198,8 +1198,8 @@
     "appid": 12210,
     "name": "Grand Theft Auto IV: The Complete Edition",
     "discovered_at": "2025-10-17 23:42:48",
-    "recommendations_total": 185174,
-    "recommendations_updated_at": "2026-11-15T19:32:54Z",
+    "recommendations_total": 185302,
+    "recommendations_updated_at": "2026-11-16T19:59:51Z",
     "localizations": {
       "supported": [
         "English",
@@ -1221,8 +1221,8 @@
     "appid": 12360,
     "name": "FlatOut: Ultimate Carnage Collector's Edition",
     "discovered_at": "2025-10-17 23:43:24",
-    "recommendations_total": 6867,
-    "recommendations_updated_at": "2026-11-15T19:33:00Z",
+    "recommendations_total": 6871,
+    "recommendations_updated_at": "2026-11-16T21:07:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -1251,7 +1251,7 @@
     "name": "Overlord™: Raising Hell",
     "discovered_at": "2025-10-17 23:45:54",
     "recommendations_total": 2011,
-    "recommendations_updated_at": "2026-11-15T19:33:05Z",
+    "recommendations_updated_at": "2026-11-16T21:07:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -1274,7 +1274,7 @@
     "name": "Far Cry®",
     "discovered_at": "2025-10-17 23:47:01",
     "recommendations_total": 11236,
-    "recommendations_updated_at": "2026-11-15T19:33:11Z",
+    "recommendations_updated_at": "2026-11-16T21:07:34Z",
     "localizations": {
       "supported": [
         "English",
@@ -1313,8 +1313,8 @@
     "appid": 15100,
     "name": "Assassin's Creed™: Director's Cut Edition",
     "discovered_at": "2025-10-17 23:48:20",
-    "recommendations_total": 24155,
-    "recommendations_updated_at": "2026-11-15T19:33:23Z",
+    "recommendations_total": 24157,
+    "recommendations_updated_at": "2026-11-16T21:07:55Z",
     "localizations": {
       "supported": [
         "English",
@@ -1405,8 +1405,8 @@
     "appid": 16450,
     "name": "F.E.A.R. 2: Project Origin",
     "discovered_at": "2025-10-17 23:54:04",
-    "recommendations_total": 5692,
-    "recommendations_updated_at": "2026-11-15T19:33:45Z",
+    "recommendations_total": 5695,
+    "recommendations_updated_at": "2026-11-16T21:08:21Z",
     "localizations": {
       "supported": [
         "English",
@@ -1459,8 +1459,8 @@
     "appid": 17390,
     "name": "SPORE™",
     "discovered_at": "2025-10-17 23:56:59",
-    "recommendations_total": 67426,
-    "recommendations_updated_at": "2026-11-15T19:33:56Z",
+    "recommendations_total": 67430,
+    "recommendations_updated_at": "2026-11-16T21:08:29Z",
     "localizations": {
       "supported": [
         "English",
@@ -1492,8 +1492,8 @@
     "appid": 17410,
     "name": "Mirror's Edge™",
     "discovered_at": "2025-10-17 23:57:09",
-    "recommendations_total": 31386,
-    "recommendations_updated_at": "2026-11-15T19:34:01Z",
+    "recommendations_total": 31389,
+    "recommendations_updated_at": "2026-11-16T19:59:56Z",
     "localizations": {
       "supported": [
         "English",
@@ -1520,8 +1520,8 @@
     "appid": 17470,
     "name": "Dead Space (2008)",
     "discovered_at": "2025-10-17 23:57:28",
-    "recommendations_total": 23088,
-    "recommendations_updated_at": "2026-11-15T19:34:07Z",
+    "recommendations_total": 23093,
+    "recommendations_updated_at": "2026-11-16T21:08:34Z",
     "localizations": {
       "supported": [
         "English",
@@ -1543,8 +1543,8 @@
     "appid": 19680,
     "name": "Alice: Madness Returns",
     "discovered_at": "2025-10-18 00:01:44",
-    "recommendations_total": 28387,
-    "recommendations_updated_at": "2026-11-15T19:34:12Z",
+    "recommendations_total": 28395,
+    "recommendations_updated_at": "2026-11-16T19:59:59Z",
     "localizations": {
       "supported": [
         "English",
@@ -1568,7 +1568,7 @@
     "name": "Far Cry® 2",
     "discovered_at": "2025-10-18 00:02:09",
     "recommendations_total": 17592,
-    "recommendations_updated_at": "2026-11-15T19:34:19Z",
+    "recommendations_updated_at": "2026-11-16T21:08:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -1591,7 +1591,7 @@
     "name": "LEGO® Batman™: The Videogame",
     "discovered_at": "2025-10-18 00:04:01",
     "recommendations_total": 13090,
-    "recommendations_updated_at": "2026-11-15T19:34:24Z",
+    "recommendations_updated_at": "2026-11-16T21:09:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -1611,8 +1611,8 @@
     "appid": 21090,
     "name": "F.E.A.R.",
     "discovered_at": "2025-10-18 00:04:35",
-    "recommendations_total": 14229,
-    "recommendations_updated_at": "2026-11-15T19:34:30Z",
+    "recommendations_total": 14232,
+    "recommendations_updated_at": "2026-11-16T21:09:17Z",
     "localizations": {
       "supported": [
         "English"
@@ -1630,8 +1630,8 @@
     "appid": 21110,
     "name": "F.E.A.R.",
     "discovered_at": "2025-10-18 00:04:52",
-    "recommendations_total": 14229,
-    "recommendations_updated_at": "2026-11-15T19:34:35Z",
+    "recommendations_total": 14232,
+    "recommendations_updated_at": "2026-11-16T21:09:22Z",
     "localizations": {
       "supported": [
         "English"
@@ -1649,8 +1649,8 @@
     "appid": 21120,
     "name": "F.E.A.R.",
     "discovered_at": "2025-10-18 00:05:04",
-    "recommendations_total": 14229,
-    "recommendations_updated_at": "2026-11-15T19:34:41Z",
+    "recommendations_total": 14232,
+    "recommendations_updated_at": "2026-11-16T21:09:23Z",
     "localizations": {
       "supported": [
         "English"
@@ -1669,7 +1669,7 @@
     "name": "Bionic Commando",
     "discovered_at": "2025-10-18 00:05:59",
     "recommendations_total": 1405,
-    "recommendations_updated_at": "2026-11-15T19:34:46Z",
+    "recommendations_updated_at": "2026-11-16T21:09:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -1697,7 +1697,7 @@
     "name": "Driver® Parallel Lines",
     "discovered_at": "2025-10-18 00:06:27",
     "recommendations_total": 1520,
-    "recommendations_updated_at": "2026-11-15T19:34:52Z",
+    "recommendations_updated_at": "2026-11-16T21:09:36Z",
     "localizations": {
       "supported": [
         "English",
@@ -1742,8 +1742,8 @@
     "appid": 22140,
     "name": "Penumbra: Requiem",
     "discovered_at": "2025-10-18 00:07:50",
-    "recommendations_total": 1104,
-    "recommendations_updated_at": "2026-11-15T19:35:04Z",
+    "recommendations_total": 1105,
+    "recommendations_updated_at": "2026-11-16T21:09:46Z",
     "localizations": {
       "supported": [
         "English"
@@ -1762,7 +1762,7 @@
     "name": "Penumbra Overture",
     "discovered_at": "2025-10-18 00:08:04",
     "recommendations_total": 3846,
-    "recommendations_updated_at": "2026-11-15T19:35:08Z",
+    "recommendations_updated_at": "2026-11-16T21:09:47Z",
     "localizations": {
       "supported": [
         "English"
@@ -1781,7 +1781,7 @@
     "name": "Zeno Clash",
     "discovered_at": "2025-10-18 00:08:13",
     "recommendations_total": 2184,
-    "recommendations_updated_at": "2026-11-15T19:35:15Z",
+    "recommendations_updated_at": "2026-11-16T21:09:50Z",
     "localizations": {
       "supported": [
         "English[b][/b]",
@@ -1804,8 +1804,8 @@
     "appid": 22320,
     "name": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
     "discovered_at": "2025-10-18 00:08:45",
-    "recommendations_total": 22498,
-    "recommendations_updated_at": "2026-11-15T19:35:19Z",
+    "recommendations_total": 22499,
+    "recommendations_updated_at": "2026-11-16T21:09:52Z",
     "localizations": {
       "supported": [
         "English",
@@ -1825,8 +1825,8 @@
     "appid": 22330,
     "name": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
     "discovered_at": "2025-10-18 00:08:52",
-    "recommendations_total": 43140,
-    "recommendations_updated_at": "2026-11-15T19:35:26Z",
+    "recommendations_total": 43143,
+    "recommendations_updated_at": "2026-11-16T21:09:55Z",
     "localizations": {
       "supported": [
         "English",
@@ -1849,7 +1849,7 @@
     "name": "Call of Cthulhu®: Dark Corners of the Earth",
     "discovered_at": "2025-10-18 00:09:03",
     "recommendations_total": 2876,
-    "recommendations_updated_at": "2026-11-15T19:35:31Z",
+    "recommendations_updated_at": "2026-11-16T21:09:57Z",
     "localizations": {
       "supported": [
         "English"
@@ -1867,8 +1867,8 @@
     "appid": 22370,
     "name": "Fallout 3: Game of the Year Edition",
     "discovered_at": "2025-10-18 00:09:38",
-    "recommendations_total": 44291,
-    "recommendations_updated_at": "2026-11-15T19:35:37Z",
+    "recommendations_total": 44295,
+    "recommendations_updated_at": "2026-11-16T21:10:00Z",
     "localizations": {
       "supported": [
         "English",
@@ -1890,8 +1890,8 @@
     "appid": 22490,
     "name": "Fallout: New Vegas",
     "discovered_at": "2025-10-18 00:10:20",
-    "recommendations_total": 12975,
-    "recommendations_updated_at": "2026-11-15T19:35:42Z",
+    "recommendations_total": 12978,
+    "recommendations_updated_at": "2026-11-16T21:10:05Z",
     "localizations": {
       "supported": [
         "English",
@@ -1912,8 +1912,8 @@
     "appid": 24880,
     "name": "The Saboteur™",
     "discovered_at": "2025-10-18 00:19:55",
-    "recommendations_total": 2883,
-    "recommendations_updated_at": "2026-11-15T19:35:48Z",
+    "recommendations_total": 2884,
+    "recommendations_updated_at": "2026-11-16T21:10:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -1963,8 +1963,8 @@
     "appid": 32370,
     "name": "STAR WARS™ Knights of the Old Republic™",
     "discovered_at": "2025-10-18 00:33:03",
-    "recommendations_total": 28709,
-    "recommendations_updated_at": "2026-11-15T19:35:59Z",
+    "recommendations_total": 28714,
+    "recommendations_updated_at": "2026-11-16T21:10:35Z",
     "localizations": {
       "supported": [
         "English",
@@ -2006,8 +2006,8 @@
     "appid": 33230,
     "name": "Assassin's Creed 2",
     "discovered_at": "2025-10-18 00:36:45",
-    "recommendations_total": 58584,
-    "recommendations_updated_at": "2026-11-15T19:36:12Z",
+    "recommendations_total": 58599,
+    "recommendations_updated_at": "2026-11-16T20:00:05Z",
     "localizations": {
       "supported": [
         "English",
@@ -2112,7 +2112,7 @@
     "name": "Mini Ninjas",
     "discovered_at": "2025-10-18 00:44:42",
     "recommendations_total": 3696,
-    "recommendations_updated_at": "2026-11-15T19:36:30Z",
+    "recommendations_updated_at": "2026-11-16T21:10:59Z",
     "localizations": {
       "supported": [
         "English"
@@ -2130,8 +2130,8 @@
     "appid": 35140,
     "name": "Batman: Arkham Asylum Game of the Year Edition",
     "discovered_at": "2025-10-18 00:46:13",
-    "recommendations_total": 63302,
-    "recommendations_updated_at": "2026-11-15T19:36:35Z",
+    "recommendations_total": 63317,
+    "recommendations_updated_at": "2026-11-16T20:00:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -2209,8 +2209,8 @@
     "appid": 38400,
     "name": "Fallout: A Post Nuclear Role Playing Game",
     "discovered_at": "2025-10-18 00:53:39",
-    "recommendations_total": 16878,
-    "recommendations_updated_at": "2026-11-15T19:36:48Z",
+    "recommendations_total": 16879,
+    "recommendations_updated_at": "2026-11-16T21:11:02Z",
     "localizations": {
       "supported": [
         "English",
@@ -2231,8 +2231,8 @@
     "appid": 38410,
     "name": "Fallout 2: A Post Nuclear Role Playing Game",
     "discovered_at": "2025-10-18 00:53:47",
-    "recommendations_total": 13988,
-    "recommendations_updated_at": "2026-11-15T19:36:53Z",
+    "recommendations_total": 13990,
+    "recommendations_updated_at": "2026-11-16T21:11:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -2273,8 +2273,8 @@
     "appid": 39500,
     "name": "Gothic 3 Classic",
     "discovered_at": "2025-10-18 00:56:55",
-    "recommendations_total": 9170,
-    "recommendations_updated_at": "2026-11-15T19:37:02Z",
+    "recommendations_total": 9175,
+    "recommendations_updated_at": "2026-11-16T21:11:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -2298,8 +2298,8 @@
     "appid": 39510,
     "name": "Gothic II: Gold Edition",
     "discovered_at": "2025-10-18 00:57:02",
-    "recommendations_total": 12769,
-    "recommendations_updated_at": "2026-11-13T20:41:03Z",
+    "recommendations_total": 12774,
+    "recommendations_updated_at": "2026-11-16T21:11:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -2323,8 +2323,8 @@
     "appid": 39530,
     "name": "Painkiller: Black Edition",
     "discovered_at": "2025-10-18 00:57:11",
-    "recommendations_total": 1949,
-    "recommendations_updated_at": "2026-11-13T20:41:06Z",
+    "recommendations_total": 1950,
+    "recommendations_updated_at": "2026-11-16T21:11:23Z",
     "localizations": {
       "supported": [
         "English",
@@ -2345,8 +2345,8 @@
     "appid": 40800,
     "name": "Super Meat Boy",
     "discovered_at": "2025-10-18 01:01:10",
-    "recommendations_total": 30367,
-    "recommendations_updated_at": "2026-11-13T20:41:13Z",
+    "recommendations_total": 30388,
+    "recommendations_updated_at": "2026-11-16T21:11:31Z",
     "localizations": {
       "supported": [
         "English",
@@ -2365,8 +2365,8 @@
     "appid": 40950,
     "name": "Stronghold HD (2012)",
     "discovered_at": "2025-10-18 01:01:26",
-    "recommendations_total": 8707,
-    "recommendations_updated_at": "2026-11-13T20:41:16Z",
+    "recommendations_total": 8711,
+    "recommendations_updated_at": "2026-11-16T21:11:33Z",
     "localizations": {
       "supported": [
         "English",
@@ -2393,8 +2393,8 @@
     "appid": 40990,
     "name": "Mafia",
     "discovered_at": "2025-10-18 01:01:51",
-    "recommendations_total": 8956,
-    "recommendations_updated_at": "2026-11-13T19:44:27Z",
+    "recommendations_total": 8955,
+    "recommendations_updated_at": "2026-11-16T20:00:25Z",
     "localizations": {
       "supported": [
         "English",
@@ -2419,8 +2419,8 @@
     "appid": 41000,
     "name": "Serious Sam HD: The First Encounter",
     "discovered_at": "2025-10-18 01:02:04",
-    "recommendations_total": 7453,
-    "recommendations_updated_at": "2026-11-13T20:41:18Z",
+    "recommendations_total": 7459,
+    "recommendations_updated_at": "2026-11-16T21:11:36Z",
     "localizations": {
       "supported": [
         "English",
@@ -2443,8 +2443,8 @@
     "appid": 41050,
     "name": "Serious Sam Classic: The First Encounter",
     "discovered_at": "2025-10-18 01:02:48",
-    "recommendations_total": 3112,
-    "recommendations_updated_at": "2026-11-13T20:41:21Z",
+    "recommendations_total": 3116,
+    "recommendations_updated_at": "2026-11-16T21:11:38Z",
     "localizations": {
       "supported": [
         "English"
@@ -2462,8 +2462,8 @@
     "appid": 41060,
     "name": "Serious Sam Classic: The Second Encounter",
     "discovered_at": "2025-10-18 01:03:03",
-    "recommendations_total": 1813,
-    "recommendations_updated_at": "2026-11-13T20:41:22Z",
+    "recommendations_total": 1815,
+    "recommendations_updated_at": "2026-11-16T21:11:41Z",
     "localizations": {
       "supported": [
         "English"
@@ -2481,8 +2481,8 @@
     "appid": 41070,
     "name": "Serious Sam 3: BFE",
     "discovered_at": "2025-10-18 01:03:12",
-    "recommendations_total": 21921,
-    "recommendations_updated_at": "2026-11-13T20:41:26Z",
+    "recommendations_total": 21927,
+    "recommendations_updated_at": "2026-11-16T21:11:43Z",
     "localizations": {
       "supported": [
         "English",
@@ -2508,8 +2508,8 @@
     "appid": 46500,
     "name": "Syberia",
     "discovered_at": "2025-10-18 01:13:02",
-    "recommendations_total": 3951,
-    "recommendations_updated_at": "2026-11-13T19:44:34Z",
+    "recommendations_total": 3955,
+    "recommendations_updated_at": "2026-11-16T20:00:33Z",
     "localizations": {
       "supported": [
         "English",
@@ -2534,8 +2534,8 @@
     "appid": 46510,
     "name": "Syberia II",
     "discovered_at": "2025-10-18 01:13:10",
-    "recommendations_total": 1715,
-    "recommendations_updated_at": "2026-11-13T19:44:37Z",
+    "recommendations_total": 1716,
+    "recommendations_updated_at": "2026-11-16T20:00:34Z",
     "localizations": {
       "supported": [
         "English",
@@ -2559,8 +2559,8 @@
     "appid": 47780,
     "name": "Dead Space™ 2",
     "discovered_at": "2025-10-18 01:15:42",
-    "recommendations_total": 26450,
-    "recommendations_updated_at": "2026-11-13T20:41:51Z",
+    "recommendations_total": 26475,
+    "recommendations_updated_at": "2026-11-16T21:12:10Z",
     "localizations": {
       "supported": [
         "French",
@@ -2584,8 +2584,8 @@
     "appid": 47810,
     "name": "Dragon Age: Origins - Ultimate Edition",
     "discovered_at": "2025-10-18 01:16:00",
-    "recommendations_total": 29048,
-    "recommendations_updated_at": "2026-11-13T20:41:54Z",
+    "recommendations_total": 29062,
+    "recommendations_updated_at": "2026-11-16T21:12:11Z",
     "localizations": {
       "supported": [
         "English",
@@ -2606,8 +2606,8 @@
     "appid": 48000,
     "name": "LIMBO",
     "discovered_at": "2025-10-18 01:16:55",
-    "recommendations_total": 41040,
-    "recommendations_updated_at": "2026-11-13T19:44:39Z",
+    "recommendations_total": 41060,
+    "recommendations_updated_at": "2026-11-16T20:00:38Z",
     "localizations": {
       "supported": [
         "English",
@@ -2638,8 +2638,8 @@
     "appid": 48190,
     "name": "Assassin’s Creed® Brotherhood",
     "discovered_at": "2025-10-18 01:17:48",
-    "recommendations_total": 25385,
-    "recommendations_updated_at": "2026-11-13T19:44:42Z",
+    "recommendations_total": 25406,
+    "recommendations_updated_at": "2026-11-16T20:00:39Z",
     "localizations": {
       "supported": [
         "Danish",
@@ -2696,8 +2696,8 @@
     "appid": 48700,
     "name": "Mount & Blade: Warband",
     "discovered_at": "2025-10-18 01:18:29",
-    "recommendations_total": 135895,
-    "recommendations_updated_at": "2026-11-13T20:41:56Z",
+    "recommendations_total": 135911,
+    "recommendations_updated_at": "2026-11-16T21:12:14Z",
     "localizations": {
       "supported": [
         "English",
@@ -2724,8 +2724,8 @@
     "appid": 48720,
     "name": "Mount & Blade: With Fire & Sword",
     "discovered_at": "2025-10-18 01:18:38",
-    "recommendations_total": 11261,
-    "recommendations_updated_at": "2026-11-13T20:41:59Z",
+    "recommendations_total": 11260,
+    "recommendations_updated_at": "2026-11-16T21:12:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -2752,8 +2752,8 @@
     "appid": 49520,
     "name": "Borderlands 2",
     "discovered_at": "2025-10-18 01:19:41",
-    "recommendations_total": 216110,
-    "recommendations_updated_at": "2026-11-13T20:42:01Z",
+    "recommendations_total": 216174,
+    "recommendations_updated_at": "2026-11-16T21:12:19Z",
     "localizations": {
       "supported": [
         "English",
@@ -2778,8 +2778,8 @@
     "appid": 50130,
     "name": "Mafia II (Classic)",
     "discovered_at": "2025-10-18 01:20:33",
-    "recommendations_total": 36636,
-    "recommendations_updated_at": "2026-11-13T19:44:43Z",
+    "recommendations_total": 36643,
+    "recommendations_updated_at": "2026-11-16T20:00:43Z",
     "localizations": {
       "supported": [
         "English",
@@ -2804,8 +2804,8 @@
     "appid": 55150,
     "name": "Warhammer 40,000: Space Marine - Anniversary Edition",
     "discovered_at": "2025-10-18 01:24:05",
-    "recommendations_total": 18688,
-    "recommendations_updated_at": "2026-11-13T19:44:51Z",
+    "recommendations_total": 18700,
+    "recommendations_updated_at": "2026-11-16T20:00:49Z",
     "localizations": {
       "supported": [
         "English",
@@ -2831,8 +2831,8 @@
     "appid": 57300,
     "name": "Amnesia: The Dark Descent",
     "discovered_at": "2025-10-18 01:26:44",
-    "recommendations_total": 20588,
-    "recommendations_updated_at": "2026-11-13T19:44:53Z",
+    "recommendations_total": 20601,
+    "recommendations_updated_at": "2026-11-16T20:00:52Z",
     "localizations": {
       "supported": [
         "English",
@@ -2856,8 +2856,8 @@
     "appid": 63380,
     "name": "Sniper Elite V2",
     "discovered_at": "2025-10-18 01:30:52",
-    "recommendations_total": 6301,
-    "recommendations_updated_at": "2026-11-13T19:44:56Z",
+    "recommendations_total": 6303,
+    "recommendations_updated_at": "2026-11-16T20:00:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -2906,8 +2906,8 @@
     "appid": 65540,
     "name": "Gothic 1 Classic",
     "discovered_at": "2025-10-18 01:34:28",
-    "recommendations_total": 13276,
-    "recommendations_updated_at": "2026-11-13T20:42:15Z",
+    "recommendations_total": 13287,
+    "recommendations_updated_at": "2026-11-16T21:12:34Z",
     "localizations": {
       "supported": [
         "English",
@@ -2960,8 +2960,8 @@
     "appid": 67370,
     "name": "The Darkness II",
     "discovered_at": "2025-10-18 01:36:02",
-    "recommendations_total": 8321,
-    "recommendations_updated_at": "2026-11-13T19:45:03Z",
+    "recommendations_total": 8322,
+    "recommendations_updated_at": "2026-11-16T20:01:02Z",
     "localizations": {
       "supported": [
         "English",
@@ -2985,8 +2985,8 @@
     "appid": 71250,
     "name": "Sonic Adventure DX",
     "discovered_at": "2025-10-18 01:37:45",
-    "recommendations_total": 15869,
-    "recommendations_updated_at": "2026-11-13T20:42:39Z",
+    "recommendations_total": 15875,
+    "recommendations_updated_at": "2026-11-16T21:12:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -3009,7 +3009,7 @@
     "name": "Defy Gravity Extended",
     "discovered_at": "2025-10-18 02:29:00",
     "recommendations_total": 6764,
-    "recommendations_updated_at": "2026-11-13T20:42:54Z",
+    "recommendations_updated_at": "2026-11-16T21:13:10Z",
     "localizations": {
       "supported": [
         "English"
@@ -3028,7 +3028,7 @@
     "name": "Shank 2",
     "discovered_at": "2025-10-18 02:33:25",
     "recommendations_total": 2589,
-    "recommendations_updated_at": "2026-11-13T19:45:12Z",
+    "recommendations_updated_at": "2026-11-16T20:01:11Z",
     "localizations": {
       "supported": [
         "English"
@@ -3046,8 +3046,8 @@
     "appid": 105600,
     "name": "Terraria",
     "discovered_at": "2025-10-18 02:34:45",
-    "recommendations_total": 1250735,
-    "recommendations_updated_at": "2026-11-13T20:43:03Z",
+    "recommendations_total": 1251244,
+    "recommendations_updated_at": "2026-11-16T21:13:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -3076,8 +3076,8 @@
     "appid": 107100,
     "name": "Bastion",
     "discovered_at": "2025-10-18 02:35:23",
-    "recommendations_total": 28268,
-    "recommendations_updated_at": "2026-11-13T20:43:06Z",
+    "recommendations_total": 28270,
+    "recommendations_updated_at": "2026-11-16T21:13:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -3176,8 +3176,8 @@
     "appid": 108710,
     "name": "Alan Wake",
     "discovered_at": "2025-10-18 02:36:34",
-    "recommendations_total": 46758,
-    "recommendations_updated_at": "2026-11-13T19:45:15Z",
+    "recommendations_total": 46802,
+    "recommendations_updated_at": "2026-11-16T20:01:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -3272,8 +3272,8 @@
     "appid": 200260,
     "name": "Batman: Arkham City - Game of the Year Edition",
     "discovered_at": "2025-10-18 02:41:38",
-    "recommendations_total": 56770,
-    "recommendations_updated_at": "2026-11-13T19:45:17Z",
+    "recommendations_total": 56798,
+    "recommendations_updated_at": "2026-11-16T20:01:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -3297,8 +3297,8 @@
     "appid": 201870,
     "name": "Assassin's Creed® Revelations",
     "discovered_at": "2025-10-18 02:45:34",
-    "recommendations_total": 19505,
-    "recommendations_updated_at": "2026-11-13T19:45:20Z",
+    "recommendations_total": 19520,
+    "recommendations_updated_at": "2026-11-16T20:01:18Z",
     "localizations": {
       "supported": [
         "Danish",
@@ -3330,8 +3330,8 @@
     "appid": 202750,
     "name": "Alan Wake's American Nightmare",
     "discovered_at": "2025-10-18 02:48:10",
-    "recommendations_total": 8562,
-    "recommendations_updated_at": "2026-11-13T19:45:25Z",
+    "recommendations_total": 8572,
+    "recommendations_updated_at": "2026-11-16T20:01:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -3381,8 +3381,8 @@
     "appid": 203160,
     "name": "Tomb Raider Game of the Year",
     "discovered_at": "2025-10-18 02:48:57",
-    "recommendations_total": 175835,
-    "recommendations_updated_at": "2026-11-13T19:45:27Z",
+    "recommendations_total": 175981,
+    "recommendations_updated_at": "2026-11-16T20:01:25Z",
     "localizations": {
       "supported": [
         "English",
@@ -3412,8 +3412,8 @@
     "appid": 204030,
     "name": "Fable - The Lost Chapters",
     "discovered_at": "2025-10-18 02:50:51",
-    "recommendations_total": 7502,
-    "recommendations_updated_at": "2026-11-13T20:43:50Z",
+    "recommendations_total": 7507,
+    "recommendations_updated_at": "2026-11-16T21:14:05Z",
     "localizations": {
       "supported": [
         "English",
@@ -3438,8 +3438,8 @@
     "appid": 204100,
     "name": "Max Payne 3",
     "discovered_at": "2025-10-18 02:51:06",
-    "recommendations_total": 55863,
-    "recommendations_updated_at": "2026-11-13T19:45:35Z",
+    "recommendations_total": 55887,
+    "recommendations_updated_at": "2026-11-16T20:01:32Z",
     "localizations": {
       "supported": [
         "English",
@@ -3466,8 +3466,8 @@
     "appid": 204340,
     "name": "Serious Sam II",
     "discovered_at": "2025-10-18 02:52:16",
-    "recommendations_total": 12095,
-    "recommendations_updated_at": "2026-11-13T20:43:54Z",
+    "recommendations_total": 12110,
+    "recommendations_updated_at": "2026-11-16T21:14:10Z",
     "localizations": {
       "supported": [
         "English"
@@ -3485,8 +3485,8 @@
     "appid": 204450,
     "name": "Call of Juarez: Gunslinger",
     "discovered_at": "2025-10-18 02:53:02",
-    "recommendations_total": 21114,
-    "recommendations_updated_at": "2026-11-13T20:43:59Z",
+    "recommendations_total": 21118,
+    "recommendations_updated_at": "2026-11-16T21:14:14Z",
     "localizations": {
       "supported": [
         "English",
@@ -3512,8 +3512,8 @@
     "appid": 204880,
     "name": "Sins of a Solar Empire®: Rebellion",
     "discovered_at": "2025-10-18 02:53:52",
-    "recommendations_total": 10260,
-    "recommendations_updated_at": "2026-11-13T19:45:36Z",
+    "recommendations_total": 10261,
+    "recommendations_updated_at": "2026-11-16T20:01:35Z",
     "localizations": {
       "supported": [
         "English",
@@ -3538,8 +3538,8 @@
     "appid": 207490,
     "name": "Rayman® Origins",
     "discovered_at": "2025-10-18 02:59:58",
-    "recommendations_total": 5868,
-    "recommendations_updated_at": "2026-11-13T20:44:18Z",
+    "recommendations_total": 5872,
+    "recommendations_updated_at": "2026-11-16T21:14:34Z",
     "localizations": {
       "supported": [
         "Czech",
@@ -3568,8 +3568,8 @@
     "appid": 207610,
     "name": "The Walking Dead",
     "discovered_at": "2025-10-18 03:00:18",
-    "recommendations_total": 54166,
-    "recommendations_updated_at": "2026-11-13T20:44:20Z",
+    "recommendations_total": 54192,
+    "recommendations_updated_at": "2026-11-16T21:14:37Z",
     "localizations": {
       "supported": [
         "English",
@@ -3591,8 +3591,8 @@
     "appid": 208200,
     "name": "DOOM 3",
     "discovered_at": "2025-10-18 03:02:00",
-    "recommendations_total": 9235,
-    "recommendations_updated_at": "2026-11-13T20:44:23Z",
+    "recommendations_total": 9238,
+    "recommendations_updated_at": "2026-11-16T21:14:38Z",
     "localizations": {
       "supported": [
         "English",
@@ -3615,8 +3615,8 @@
     "appid": 209000,
     "name": "Batman™: Arkham Origins",
     "discovered_at": "2025-10-18 03:06:11",
-    "recommendations_total": 46178,
-    "recommendations_updated_at": "2026-11-13T19:45:46Z",
+    "recommendations_total": 46211,
+    "recommendations_updated_at": "2026-11-16T20:01:45Z",
     "localizations": {
       "supported": [
         "English",
@@ -3670,7 +3670,7 @@
     "name": "Sanctum 2",
     "discovered_at": "2025-10-18 03:12:03",
     "recommendations_total": 7462,
-    "recommendations_updated_at": "2026-11-13T19:45:54Z",
+    "recommendations_updated_at": "2026-11-16T20:01:51Z",
     "localizations": {
       "supported": [
         "English",
@@ -3734,8 +3734,8 @@
     "appid": 211740,
     "name": "Thief II: The Metal Age",
     "discovered_at": "2025-10-18 03:14:33",
-    "recommendations_total": 1950,
-    "recommendations_updated_at": "2026-11-13T20:44:34Z",
+    "recommendations_total": 1949,
+    "recommendations_updated_at": "2026-11-16T21:14:51Z",
     "localizations": {
       "supported": [
         "English"
@@ -3753,8 +3753,8 @@
     "appid": 211820,
     "name": "Starbound",
     "discovered_at": "2025-10-18 03:14:55",
-    "recommendations_total": 120668,
-    "recommendations_updated_at": "2026-11-13T20:44:38Z",
+    "recommendations_total": 120666,
+    "recommendations_updated_at": "2026-11-16T21:14:53Z",
     "localizations": {
       "supported": [
         "English"
@@ -3829,8 +3829,8 @@
     "appid": 213330,
     "name": "LEGO® Batman™ 2: DC Super Heroes",
     "discovered_at": "2025-10-18 03:18:16",
-    "recommendations_total": 7586,
-    "recommendations_updated_at": "2026-11-13T20:44:44Z",
+    "recommendations_total": 7590,
+    "recommendations_updated_at": "2026-11-16T21:15:01Z",
     "localizations": {
       "supported": [
         "Danish",
@@ -3857,8 +3857,8 @@
     "appid": 213670,
     "name": "South Park™: The Stick of Truth™",
     "discovered_at": "2025-10-18 03:19:06",
-    "recommendations_total": 61520,
-    "recommendations_updated_at": "2026-11-13T19:45:59Z",
+    "recommendations_total": 61541,
+    "recommendations_updated_at": "2026-11-16T20:01:56Z",
     "localizations": {
       "supported": [
         "English",
@@ -3884,7 +3884,7 @@
     "name": "Divine Divinity",
     "discovered_at": "2025-10-18 03:19:36",
     "recommendations_total": 3657,
-    "recommendations_updated_at": "2026-11-13T20:44:49Z",
+    "recommendations_updated_at": "2026-11-16T21:15:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -3928,8 +3928,8 @@
     "appid": 214490,
     "name": "Alien: Isolation",
     "discovered_at": "2025-10-18 03:20:11",
-    "recommendations_total": 49099,
-    "recommendations_updated_at": "2026-11-13T19:46:03Z",
+    "recommendations_total": 49129,
+    "recommendations_updated_at": "2026-11-16T20:02:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -3982,8 +3982,8 @@
     "appid": 217980,
     "name": "Dishonored",
     "discovered_at": "2025-10-18 03:29:04",
-    "recommendations_total": 12546,
-    "recommendations_updated_at": "2026-11-13T20:45:13Z",
+    "recommendations_total": 12555,
+    "recommendations_updated_at": "2026-11-16T21:15:30Z",
     "localizations": {
       "supported": [
         "English",
@@ -4005,8 +4005,8 @@
     "appid": 218620,
     "name": "PAYDAY 2",
     "discovered_at": "2025-10-18 03:30:25",
-    "recommendations_total": 446043,
-    "recommendations_updated_at": "2026-11-13T19:46:10Z",
+    "recommendations_total": 446081,
+    "recommendations_updated_at": "2026-11-16T20:02:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -4035,8 +4035,8 @@
     "appid": 219150,
     "name": "Hotline Miami",
     "discovered_at": "2025-10-18 03:31:54",
-    "recommendations_total": 111130,
-    "recommendations_updated_at": "2026-11-13T19:46:15Z",
+    "recommendations_total": 111180,
+    "recommendations_updated_at": "2026-11-16T20:02:14Z",
     "localizations": {
       "supported": [
         "English",
@@ -4141,8 +4141,8 @@
     "appid": 220440,
     "name": "DmC: Devil May Cry",
     "discovered_at": "2025-10-18 03:34:12",
-    "recommendations_total": 21136,
-    "recommendations_updated_at": "2026-11-13T20:45:37Z",
+    "recommendations_total": 21145,
+    "recommendations_updated_at": "2026-11-16T21:15:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -4168,8 +4168,8 @@
     "appid": 221040,
     "name": "Resident Evil 6",
     "discovered_at": "2025-10-18 03:35:38",
-    "recommendations_total": 52691,
-    "recommendations_updated_at": "2026-11-13T20:45:42Z",
+    "recommendations_total": 52753,
+    "recommendations_updated_at": "2026-11-16T21:15:59Z",
     "localizations": {
       "supported": [
         "English",
@@ -4224,8 +4224,8 @@
     "appid": 222480,
     "name": "Resident Evil Revelations",
     "discovered_at": "2025-10-18 03:38:01",
-    "recommendations_total": 11959,
-    "recommendations_updated_at": "2026-11-13T19:46:19Z",
+    "recommendations_total": 11971,
+    "recommendations_updated_at": "2026-11-16T20:02:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -4319,7 +4319,7 @@
     "name": "FEZ",
     "discovered_at": "2025-10-18 03:45:23",
     "recommendations_total": 11759,
-    "recommendations_updated_at": "2026-11-13T20:45:56Z",
+    "recommendations_updated_at": "2026-11-16T21:16:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -4345,8 +4345,8 @@
     "appid": 225080,
     "name": "Brothers - A Tale of Two Sons",
     "discovered_at": "2025-10-18 03:46:06",
-    "recommendations_total": 33754,
-    "recommendations_updated_at": "2026-11-13T20:46:12Z",
+    "recommendations_total": 33755,
+    "recommendations_updated_at": "2026-11-16T21:16:29Z",
     "localizations": {
       "supported": [
         "English",
@@ -4373,7 +4373,7 @@
     "name": "Sven Co-op",
     "discovered_at": "2025-10-18 03:47:40",
     "recommendations_total": 272,
-    "recommendations_updated_at": "2026-11-13T19:46:32Z",
+    "recommendations_updated_at": "2026-11-16T20:02:30Z",
     "localizations": {
       "supported": [
         "English"
@@ -4391,8 +4391,8 @@
     "appid": 227600,
     "name": "Castle of Illusion",
     "discovered_at": "2025-10-18 03:51:08",
-    "recommendations_total": 3553,
-    "recommendations_updated_at": "2026-11-13T20:46:31Z",
+    "recommendations_total": 3555,
+    "recommendations_updated_at": "2026-11-16T21:16:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -4415,8 +4415,8 @@
     "appid": 227780,
     "name": "Serious Sam Classics: Revolution",
     "discovered_at": "2025-10-18 03:51:27",
-    "recommendations_total": 3320,
-    "recommendations_updated_at": "2026-11-13T20:46:34Z",
+    "recommendations_total": 3323,
+    "recommendations_updated_at": "2026-11-16T21:16:51Z",
     "localizations": {
       "supported": [
         "English",
@@ -4471,8 +4471,8 @@
     "appid": 228200,
     "name": "Company of Heroes",
     "discovered_at": "2025-10-18 03:51:49",
-    "recommendations_total": 12777,
-    "recommendations_updated_at": "2026-11-13T19:46:42Z",
+    "recommendations_total": 12801,
+    "recommendations_updated_at": "2026-11-16T20:02:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -4500,8 +4500,8 @@
     "appid": 228300,
     "name": "Remember Me",
     "discovered_at": "2025-10-18 03:52:13",
-    "recommendations_total": 11196,
-    "recommendations_updated_at": "2026-11-13T20:46:36Z",
+    "recommendations_total": 11198,
+    "recommendations_updated_at": "2026-11-16T21:16:53Z",
     "localizations": {
       "supported": [
         "English",
@@ -4557,8 +4557,8 @@
     "appid": 230230,
     "name": "Divinity: Original Sin (Classic)",
     "discovered_at": "2025-10-18 03:55:24",
-    "recommendations_total": 8205,
-    "recommendations_updated_at": "2026-11-13T19:46:45Z",
+    "recommendations_total": 8206,
+    "recommendations_updated_at": "2026-11-16T20:02:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -4607,8 +4607,8 @@
     "appid": 232090,
     "name": "Killing Floor 2",
     "discovered_at": "2025-10-18 03:59:12",
-    "recommendations_total": 88244,
-    "recommendations_updated_at": "2026-11-13T20:46:54Z",
+    "recommendations_total": 88257,
+    "recommendations_updated_at": "2026-11-16T21:17:10Z",
     "localizations": {
       "supported": [
         "English",
@@ -4665,7 +4665,7 @@
     "name": "POSTAL",
     "discovered_at": "2025-10-18 04:00:03",
     "recommendations_total": 2525,
-    "recommendations_updated_at": "2026-11-13T19:46:50Z",
+    "recommendations_updated_at": "2026-11-16T20:02:49Z",
     "localizations": {
       "supported": [
         "English"
@@ -4683,8 +4683,8 @@
     "appid": 233130,
     "name": "Shadow Warrior",
     "discovered_at": "2025-10-18 04:00:47",
-    "recommendations_total": 16027,
-    "recommendations_updated_at": "2026-11-13T20:46:55Z",
+    "recommendations_total": 16029,
+    "recommendations_updated_at": "2026-11-16T21:17:12Z",
     "localizations": {
       "supported": [
         "English",
@@ -4712,8 +4712,8 @@
     "appid": 233290,
     "name": "Murdered: Soul Suspect",
     "discovered_at": "2025-10-18 04:01:13",
-    "recommendations_total": 12129,
-    "recommendations_updated_at": "2026-11-13T20:46:58Z",
+    "recommendations_total": 12132,
+    "recommendations_updated_at": "2026-11-16T21:17:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -4737,8 +4737,8 @@
     "appid": 233860,
     "name": "Kenshi",
     "discovered_at": "2025-10-18 04:02:46",
-    "recommendations_total": 99599,
-    "recommendations_updated_at": "2026-11-13T20:47:05Z",
+    "recommendations_total": 99662,
+    "recommendations_updated_at": "2026-11-16T21:17:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -4764,8 +4764,8 @@
     "appid": 234080,
     "name": "Castlevania: Lords of Shadow – Ultimate Edition",
     "discovered_at": "2025-10-18 04:03:21",
-    "recommendations_total": 8106,
-    "recommendations_updated_at": "2026-11-13T20:47:08Z",
+    "recommendations_total": 8111,
+    "recommendations_updated_at": "2026-11-16T21:17:25Z",
     "localizations": {
       "supported": [
         "English",
@@ -4788,8 +4788,8 @@
     "appid": 234140,
     "name": "Mad Max",
     "discovered_at": "2025-10-18 04:03:34",
-    "recommendations_total": 58213,
-    "recommendations_updated_at": "2026-11-13T19:46:53Z",
+    "recommendations_total": 58248,
+    "recommendations_updated_at": "2026-11-16T20:02:52Z",
     "localizations": {
       "supported": [
         "English",
@@ -4815,8 +4815,8 @@
     "appid": 235460,
     "name": "METAL GEAR RISING: REVENGEANCE",
     "discovered_at": "2025-10-18 04:06:18",
-    "recommendations_total": 69448,
-    "recommendations_updated_at": "2026-11-13T20:47:27Z",
+    "recommendations_total": 69458,
+    "recommendations_updated_at": "2026-11-16T21:17:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -4840,8 +4840,8 @@
     "appid": 236090,
     "name": "Dust: An Elysian Tail",
     "discovered_at": "2025-10-18 04:07:27",
-    "recommendations_total": 14290,
-    "recommendations_updated_at": "2026-11-13T19:46:59Z",
+    "recommendations_total": 14291,
+    "recommendations_updated_at": "2026-11-16T20:02:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -4886,8 +4886,8 @@
     "appid": 237630,
     "name": "DuckTales: Remastered",
     "discovered_at": "2025-10-18 04:10:10",
-    "recommendations_total": 6658,
-    "recommendations_updated_at": "2026-11-13T20:47:38Z",
+    "recommendations_total": 6664,
+    "recommendations_updated_at": "2026-11-16T21:17:55Z",
     "localizations": {
       "supported": [
         "English",
@@ -4911,7 +4911,7 @@
     "name": "Might & Magic X - Legacy",
     "discovered_at": "2025-10-18 04:12:27",
     "recommendations_total": 3189,
-    "recommendations_updated_at": "2026-11-13T20:47:48Z",
+    "recommendations_updated_at": "2026-11-16T21:18:05Z",
     "localizations": {
       "supported": [
         "English",
@@ -4970,8 +4970,8 @@
     "appid": 239140,
     "name": "Dying Light",
     "discovered_at": "2025-10-18 04:13:11",
-    "recommendations_total": 382162,
-    "recommendations_updated_at": "2026-11-13T19:47:14Z",
+    "recommendations_total": 382387,
+    "recommendations_updated_at": "2026-11-16T20:03:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -5005,8 +5005,8 @@
     "appid": 239160,
     "name": "Thief",
     "discovered_at": "2025-10-18 04:13:21",
-    "recommendations_total": 17469,
-    "recommendations_updated_at": "2026-11-13T19:47:17Z",
+    "recommendations_total": 17471,
+    "recommendations_updated_at": "2026-11-16T20:03:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -5032,7 +5032,7 @@
     "name": "Amnesia: A Machine for Pigs",
     "discovered_at": "2025-10-18 04:13:29",
     "recommendations_total": 7333,
-    "recommendations_updated_at": "2026-11-13T19:47:19Z",
+    "recommendations_updated_at": "2026-11-16T20:03:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -5059,8 +5059,8 @@
     "appid": 239250,
     "name": "Castlevania: Lords of Shadow 2",
     "discovered_at": "2025-10-18 04:13:42",
-    "recommendations_total": 4933,
-    "recommendations_updated_at": "2026-11-13T20:47:51Z",
+    "recommendations_total": 4936,
+    "recommendations_updated_at": "2026-11-16T21:18:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -5130,8 +5130,8 @@
     "appid": 241930,
     "name": "Middle-earth™: Shadow of Mordor™",
     "discovered_at": "2025-10-18 04:18:31",
-    "recommendations_total": 64311,
-    "recommendations_updated_at": "2026-11-13T20:48:24Z",
+    "recommendations_total": 64337,
+    "recommendations_updated_at": "2026-11-16T21:18:19Z",
     "localizations": {
       "supported": [
         "English",
@@ -5272,8 +5272,8 @@
     "appid": 242760,
     "name": "The Forest",
     "discovered_at": "2025-10-18 04:20:14",
-    "recommendations_total": 585765,
-    "recommendations_updated_at": "2026-11-13T19:47:23Z",
+    "recommendations_total": 585927,
+    "recommendations_updated_at": "2026-11-16T20:03:23Z",
     "localizations": {
       "supported": [
         "English",
@@ -5398,7 +5398,7 @@
     "name": "Divinity: Dragon Commander",
     "discovered_at": "2025-10-18 04:22:36",
     "recommendations_total": 1985,
-    "recommendations_updated_at": "2026-11-13T20:48:43Z",
+    "recommendations_updated_at": "2026-11-16T21:18:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -5482,8 +5482,8 @@
     "appid": 247430,
     "name": "Hitman: Contracts",
     "discovered_at": "2025-10-18 04:29:13",
-    "recommendations_total": 3149,
-    "recommendations_updated_at": "2026-11-13T20:49:12Z",
+    "recommendations_total": 3151,
+    "recommendations_updated_at": "2026-11-16T21:41:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -5506,7 +5506,7 @@
     "name": "Deadly Premonition: The Director's Cut",
     "discovered_at": "2025-10-18 04:29:30",
     "recommendations_total": 3267,
-    "recommendations_updated_at": "2026-11-13T20:49:14Z",
+    "recommendations_updated_at": "2026-11-16T21:41:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -5568,8 +5568,8 @@
     "appid": 250900,
     "name": "The Binding of Isaac: Rebirth",
     "discovered_at": "2025-10-18 04:36:00",
-    "recommendations_total": 426142,
-    "recommendations_updated_at": "2026-11-13T19:47:33Z",
+    "recommendations_total": 426645,
+    "recommendations_updated_at": "2026-11-16T20:03:32Z",
     "localizations": {
       "supported": [
         "English"
@@ -5587,8 +5587,8 @@
     "appid": 251570,
     "name": "7 Days to Die",
     "discovered_at": "2025-10-18 04:37:40",
-    "recommendations_total": 281089,
-    "recommendations_updated_at": "2026-11-13T19:47:41Z",
+    "recommendations_total": 281170,
+    "recommendations_updated_at": "2026-11-16T20:03:40Z",
     "localizations": {
       "supported": [
         "English",
@@ -5648,8 +5648,8 @@
     "appid": 252330,
     "name": "Slender: The Arrival",
     "discovered_at": "2025-10-18 04:39:46",
-    "recommendations_total": 7998,
-    "recommendations_updated_at": "2026-11-13T20:49:31Z",
+    "recommendations_total": 8001,
+    "recommendations_updated_at": "2026-11-16T21:42:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -5677,7 +5677,7 @@
     "name": "SteamWorld Dig",
     "discovered_at": "2025-10-18 04:40:04",
     "recommendations_total": 6535,
-    "recommendations_updated_at": "2026-11-13T19:47:46Z",
+    "recommendations_updated_at": "2026-11-16T20:03:45Z",
     "localizations": {
       "supported": [
         "English",
@@ -5725,7 +5725,7 @@
     "name": "Enclave",
     "discovered_at": "2025-10-18 04:43:56",
     "recommendations_total": 1860,
-    "recommendations_updated_at": "2026-11-13T20:49:41Z",
+    "recommendations_updated_at": "2026-11-16T21:42:19Z",
     "localizations": {
       "supported": [
         "English",
@@ -5748,8 +5748,8 @@
     "appid": 254700,
     "name": "Resident Evil 4 (2005)",
     "discovered_at": "2025-10-18 04:45:37",
-    "recommendations_total": 79751,
-    "recommendations_updated_at": "2026-11-13T20:49:50Z",
+    "recommendations_total": 79811,
+    "recommendations_updated_at": "2026-11-16T21:42:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -5771,8 +5771,8 @@
     "appid": 255710,
     "name": "Cities: Skylines",
     "discovered_at": "2025-10-18 04:47:39",
-    "recommendations_total": 228769,
-    "recommendations_updated_at": "2026-11-13T19:47:55Z",
+    "recommendations_total": 228814,
+    "recommendations_updated_at": "2026-11-16T20:03:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -5822,8 +5822,8 @@
     "appid": 257420,
     "name": "Serious Sam 4",
     "discovered_at": "2025-10-18 04:51:11",
-    "recommendations_total": 15745,
-    "recommendations_updated_at": "2026-11-13T20:50:02Z",
+    "recommendations_total": 15754,
+    "recommendations_updated_at": "2026-11-16T21:42:40Z",
     "localizations": {
       "supported": [
         "English",
@@ -5853,8 +5853,8 @@
     "appid": 257510,
     "name": "The Talos Principle",
     "discovered_at": "2025-10-18 04:51:24",
-    "recommendations_total": 29401,
-    "recommendations_updated_at": "2026-11-13T20:50:05Z",
+    "recommendations_total": 29405,
+    "recommendations_updated_at": "2026-11-16T21:42:43Z",
     "localizations": {
       "supported": [
         "English",
@@ -5884,8 +5884,8 @@
     "appid": 257850,
     "name": "Hyper Light Drifter",
     "discovered_at": "2025-10-18 04:52:16",
-    "recommendations_total": 15676,
-    "recommendations_updated_at": "2026-11-13T20:50:10Z",
+    "recommendations_total": 15679,
+    "recommendations_updated_at": "2026-11-16T21:42:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -5933,8 +5933,8 @@
     "appid": 260230,
     "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
     "discovered_at": "2025-10-18 04:59:27",
-    "recommendations_total": 24714,
-    "recommendations_updated_at": "2026-11-13T20:59:10Z",
+    "recommendations_total": 24729,
+    "recommendations_updated_at": "2026-11-16T21:43:02Z",
     "localizations": {
       "supported": [
         "English",
@@ -5961,8 +5961,8 @@
     "appid": 260750,
     "name": "Neighbours from Hell Compilation",
     "discovered_at": "2025-10-18 05:01:26",
-    "recommendations_total": 2321,
-    "recommendations_updated_at": "2026-11-13T20:59:12Z",
+    "recommendations_total": 2323,
+    "recommendations_updated_at": "2026-11-16T21:43:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -6019,8 +6019,8 @@
     "appid": 261570,
     "name": "Ori and the Blind Forest",
     "discovered_at": "2025-10-18 05:02:54",
-    "recommendations_total": 51255,
-    "recommendations_updated_at": "2026-11-13T19:48:05Z",
+    "recommendations_total": 51263,
+    "recommendations_updated_at": "2026-11-16T20:04:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -6046,8 +6046,8 @@
     "appid": 262060,
     "name": "Darkest Dungeon®",
     "discovered_at": "2025-10-18 05:03:56",
-    "recommendations_total": 141950,
-    "recommendations_updated_at": "2026-11-13T20:59:21Z",
+    "recommendations_total": 141993,
+    "recommendations_updated_at": "2026-11-16T21:43:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -6076,8 +6076,8 @@
     "appid": 266840,
     "name": "Age of Mythology: Extended Edition",
     "discovered_at": "2025-10-18 05:14:48",
-    "recommendations_total": 31967,
-    "recommendations_updated_at": "2026-11-13T20:59:39Z",
+    "recommendations_total": 31971,
+    "recommendations_updated_at": "2026-11-16T21:43:31Z",
     "localizations": {
       "supported": [
         "English",
@@ -6102,8 +6102,8 @@
     "appid": 268050,
     "name": "The Evil Within",
     "discovered_at": "2025-10-18 05:17:50",
-    "recommendations_total": 21764,
-    "recommendations_updated_at": "2026-11-13T20:59:45Z",
+    "recommendations_total": 21784,
+    "recommendations_updated_at": "2026-11-16T21:43:37Z",
     "localizations": {
       "supported": [
         "English",
@@ -6127,8 +6127,8 @@
     "appid": 268500,
     "name": "XCOM® 2",
     "discovered_at": "2025-10-18 05:19:18",
-    "recommendations_total": 80577,
-    "recommendations_updated_at": "2026-11-13T20:59:50Z",
+    "recommendations_total": 80603,
+    "recommendations_updated_at": "2026-11-16T21:43:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -6156,8 +6156,8 @@
     "appid": 268910,
     "name": "Cuphead",
     "discovered_at": "2025-10-18 05:20:17",
-    "recommendations_total": 201225,
-    "recommendations_updated_at": "2026-11-13T19:48:15Z",
+    "recommendations_total": 201331,
+    "recommendations_updated_at": "2026-11-16T20:04:14Z",
     "localizations": {
       "supported": [
         "English",
@@ -6215,8 +6215,8 @@
     "appid": 271590,
     "name": "Grand Theft Auto V Legacy",
     "discovered_at": "2025-10-18 05:26:28",
-    "recommendations_total": 1901184,
-    "recommendations_updated_at": "2026-11-13T19:48:19Z",
+    "recommendations_total": 1901640,
+    "recommendations_updated_at": "2026-11-16T20:04:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -6246,8 +6246,8 @@
     "appid": 274170,
     "name": "Hotline Miami 2: Wrong Number",
     "discovered_at": "2025-10-18 05:31:47",
-    "recommendations_total": 70454,
-    "recommendations_updated_at": "2026-11-13T19:48:29Z",
+    "recommendations_total": 70495,
+    "recommendations_updated_at": "2026-11-16T20:04:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -6271,8 +6271,8 @@
     "appid": 274520,
     "name": "Darkwood",
     "discovered_at": "2025-10-18 05:32:35",
-    "recommendations_total": 22612,
-    "recommendations_updated_at": "2026-11-13T22:24:07Z",
+    "recommendations_total": 22626,
+    "recommendations_updated_at": "2026-11-16T22:44:19Z",
     "localizations": {
       "supported": [
         "English",
@@ -6384,8 +6384,8 @@
     "appid": 282070,
     "name": "This War of Mine",
     "discovered_at": "2025-10-18 05:48:44",
-    "recommendations_total": 89593,
-    "recommendations_updated_at": "2026-11-13T19:48:40Z",
+    "recommendations_total": 89636,
+    "recommendations_updated_at": "2026-11-16T20:04:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -6414,8 +6414,8 @@
     "appid": 282440,
     "name": "Quake Live",
     "discovered_at": "2025-10-18 05:49:33",
-    "recommendations_total": 4401,
-    "recommendations_updated_at": "2026-11-13T19:48:43Z",
+    "recommendations_total": 4404,
+    "recommendations_updated_at": "2026-11-16T20:04:42Z",
     "localizations": {
       "supported": [
         "English"
@@ -6434,7 +6434,7 @@
     "name": "Nosferatu: The Wrath of Malachi",
     "discovered_at": "2025-10-18 05:51:29",
     "recommendations_total": 1593,
-    "recommendations_updated_at": "2026-11-13T22:24:27Z",
+    "recommendations_updated_at": "2026-11-16T22:44:48Z",
     "localizations": {
       "supported": [
         "English"
@@ -6498,8 +6498,8 @@
     "appid": 288160,
     "name": "The Room",
     "discovered_at": "2025-10-18 06:03:47",
-    "recommendations_total": 30567,
-    "recommendations_updated_at": "2026-11-13T22:24:41Z",
+    "recommendations_total": 30571,
+    "recommendations_updated_at": "2026-11-16T22:45:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -6550,8 +6550,8 @@
     "appid": 289070,
     "name": "Sid Meier’s Civilization® VI",
     "discovered_at": "2025-10-18 06:06:12",
-    "recommendations_total": 277694,
-    "recommendations_updated_at": "2026-11-13T22:24:44Z",
+    "recommendations_total": 277785,
+    "recommendations_updated_at": "2026-11-16T22:45:14Z",
     "localizations": {
       "supported": [
         "English",
@@ -6634,7 +6634,7 @@
     "name": "Pillars of Eternity",
     "discovered_at": "2025-10-18 06:13:17",
     "recommendations_total": 17064,
-    "recommendations_updated_at": "2026-11-13T22:24:49Z",
+    "recommendations_updated_at": "2026-11-16T22:45:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -6677,8 +6677,8 @@
     "appid": 297130,
     "name": "Titan Souls",
     "discovered_at": "2025-10-18 06:28:38",
-    "recommendations_total": 8120,
-    "recommendations_updated_at": "2026-11-13T19:49:12Z",
+    "recommendations_total": 8123,
+    "recommendations_updated_at": "2026-11-16T20:05:11Z",
     "localizations": {
       "supported": [
         "English",
@@ -6737,7 +6737,7 @@
     "name": "Saints Row: Gat out of Hell",
     "discovered_at": "2025-10-18 06:42:08",
     "recommendations_total": 7720,
-    "recommendations_updated_at": "2026-11-13T22:25:20Z",
+    "recommendations_updated_at": "2026-11-16T22:46:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -6785,8 +6785,8 @@
     "appid": 302510,
     "name": "Ryse: Son of Rome",
     "discovered_at": "2025-10-18 06:44:34",
-    "recommendations_total": 38656,
-    "recommendations_updated_at": "2026-11-13T22:25:21Z",
+    "recommendations_total": 38669,
+    "recommendations_updated_at": "2026-11-16T22:46:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -6834,8 +6834,8 @@
     "appid": 304240,
     "name": "Resident Evil",
     "discovered_at": "2025-10-18 06:48:43",
-    "recommendations_total": 28252,
-    "recommendations_updated_at": "2026-11-13T22:25:24Z",
+    "recommendations_total": 28278,
+    "recommendations_updated_at": "2026-11-16T22:46:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -6860,8 +6860,8 @@
     "appid": 304430,
     "name": "INSIDE",
     "discovered_at": "2025-10-18 06:49:15",
-    "recommendations_total": 70485,
-    "recommendations_updated_at": "2026-11-13T19:49:22Z",
+    "recommendations_total": 70509,
+    "recommendations_updated_at": "2026-11-16T20:05:21Z",
     "localizations": {
       "supported": [
         "English",
@@ -6893,7 +6893,7 @@
     "name": "Unturned",
     "discovered_at": "2025-10-18 06:50:41",
     "recommendations_total": 7486,
-    "recommendations_updated_at": "2026-11-13T22:25:28Z",
+    "recommendations_updated_at": "2026-11-16T22:46:18Z",
     "localizations": {
       "supported": [
         "English"
@@ -6911,8 +6911,8 @@
     "appid": 307690,
     "name": "Sleeping Dogs: Definitive Edition",
     "discovered_at": "2025-10-18 06:58:52",
-    "recommendations_total": 71483,
-    "recommendations_updated_at": "2026-11-13T22:25:36Z",
+    "recommendations_total": 71529,
+    "recommendations_updated_at": "2026-11-16T22:46:30Z",
     "localizations": {
       "supported": [
         "English",
@@ -7100,8 +7100,8 @@
     "appid": 312520,
     "name": "Rain World",
     "discovered_at": "2025-10-18 07:09:14",
-    "recommendations_total": 48037,
-    "recommendations_updated_at": "2026-11-13T22:25:41Z",
+    "recommendations_total": 48098,
+    "recommendations_updated_at": "2026-11-16T22:46:37Z",
     "localizations": {
       "supported": [
         "English",
@@ -7182,8 +7182,8 @@
     "appid": 314660,
     "name": "Oddworld: New 'n' Tasty",
     "discovered_at": "2025-10-18 07:17:01",
-    "recommendations_total": 2918,
-    "recommendations_updated_at": "2026-11-13T22:25:57Z",
+    "recommendations_total": 2919,
+    "recommendations_updated_at": "2026-11-16T22:47:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -7210,8 +7210,8 @@
     "appid": 319630,
     "name": "Life is Strange - Episode 1",
     "discovered_at": "2025-10-18 07:32:17",
-    "recommendations_total": 125828,
-    "recommendations_updated_at": "2026-11-13T19:49:43Z",
+    "recommendations_total": 125852,
+    "recommendations_updated_at": "2026-11-16T20:05:40Z",
     "localizations": {
       "supported": [
         "English",
@@ -7265,8 +7265,8 @@
     "appid": 322330,
     "name": "Don't Starve Together",
     "discovered_at": "2025-10-18 07:40:45",
-    "recommendations_total": 378768,
-    "recommendations_updated_at": "2026-11-13T19:49:51Z",
+    "recommendations_total": 378915,
+    "recommendations_updated_at": "2026-11-16T20:05:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -7295,8 +7295,8 @@
     "appid": 322500,
     "name": "SUPERHOT",
     "discovered_at": "2025-10-18 07:41:12",
-    "recommendations_total": 27910,
-    "recommendations_updated_at": "2026-11-13T22:26:10Z",
+    "recommendations_total": 27913,
+    "recommendations_updated_at": "2026-11-16T22:47:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -7328,8 +7328,8 @@
     "appid": 323190,
     "name": "Frostpunk",
     "discovered_at": "2025-10-18 07:43:04",
-    "recommendations_total": 115504,
-    "recommendations_updated_at": "2026-11-13T22:26:11Z",
+    "recommendations_total": 115634,
+    "recommendations_updated_at": "2026-11-16T22:47:23Z",
     "localizations": {
       "supported": [
         "English",
@@ -7358,8 +7358,8 @@
     "appid": 323580,
     "name": "Jotun: Valhalla Edition",
     "discovered_at": "2025-10-18 07:44:19",
-    "recommendations_total": 2225,
-    "recommendations_updated_at": "2026-11-13T19:49:52Z",
+    "recommendations_total": 2226,
+    "recommendations_updated_at": "2026-11-16T20:05:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -7409,8 +7409,8 @@
     "appid": 329050,
     "name": "Devil May Cry 4 Special Edition",
     "discovered_at": "2025-10-18 08:01:27",
-    "recommendations_total": 17241,
-    "recommendations_updated_at": "2026-11-13T22:26:22Z",
+    "recommendations_total": 17255,
+    "recommendations_updated_at": "2026-11-16T22:47:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -7547,7 +7547,7 @@
     "name": "Oceanhorn: Monster of Uncharted Seas",
     "discovered_at": "2025-10-18 08:34:03",
     "recommendations_total": 1345,
-    "recommendations_updated_at": "2026-11-13T22:26:40Z",
+    "recommendations_updated_at": "2026-11-16T22:48:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -7576,8 +7576,8 @@
     "appid": 339340,
     "name": "Resident Evil 0",
     "discovered_at": "2025-10-18 08:34:37",
-    "recommendations_total": 14885,
-    "recommendations_updated_at": "2026-11-13T22:26:43Z",
+    "recommendations_total": 14905,
+    "recommendations_updated_at": "2026-11-16T22:48:11Z",
     "localizations": {
       "supported": [
         "English",
@@ -7602,8 +7602,8 @@
     "appid": 341940,
     "name": "Hatred",
     "discovered_at": "2025-10-18 08:44:58",
-    "recommendations_total": 26218,
-    "recommendations_updated_at": "2026-11-13T22:26:46Z",
+    "recommendations_total": 26236,
+    "recommendations_updated_at": "2026-11-16T22:48:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -7656,8 +7656,8 @@
     "appid": 343710,
     "name": "Kholat",
     "discovered_at": "2025-10-18 08:51:05",
-    "recommendations_total": 2045,
-    "recommendations_updated_at": "2026-11-13T19:50:10Z",
+    "recommendations_total": 2046,
+    "recommendations_updated_at": "2026-11-16T20:06:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -7688,8 +7688,8 @@
     "appid": 346010,
     "name": "Besiege",
     "discovered_at": "2025-10-18 08:59:50",
-    "recommendations_total": 48218,
-    "recommendations_updated_at": "2026-11-13T22:26:51Z",
+    "recommendations_total": 48226,
+    "recommendations_updated_at": "2026-11-16T22:48:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -7745,8 +7745,8 @@
     "appid": 348550,
     "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
     "discovered_at": "2025-10-18 09:09:31",
-    "recommendations_total": 5607,
-    "recommendations_updated_at": "2026-11-13T22:26:56Z",
+    "recommendations_total": 5611,
+    "recommendations_updated_at": "2026-11-16T22:48:30Z",
     "localizations": {
       "supported": [
         "English",
@@ -7771,8 +7771,8 @@
     "appid": 350080,
     "name": "Wolfenstein: The Old Blood",
     "discovered_at": "2025-10-18 09:15:06",
-    "recommendations_total": 18360,
-    "recommendations_updated_at": "2026-11-13T22:26:59Z",
+    "recommendations_total": 18377,
+    "recommendations_updated_at": "2026-11-16T22:48:35Z",
     "localizations": {
       "supported": [
         "English",
@@ -7825,8 +7825,8 @@
     "appid": 355790,
     "name": "Styx: Shards of Darkness",
     "discovered_at": "2025-10-18 09:34:33",
-    "recommendations_total": 5182,
-    "recommendations_updated_at": "2026-11-13T19:50:15Z",
+    "recommendations_total": 5188,
+    "recommendations_updated_at": "2026-11-16T20:06:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -7851,8 +7851,8 @@
     "appid": 356500,
     "name": "STAR WARS™ Galactic Battlegrounds Saga",
     "discovered_at": "2025-10-18 09:37:24",
-    "recommendations_total": 3991,
-    "recommendations_updated_at": "2026-11-13T22:27:07Z",
+    "recommendations_total": 3994,
+    "recommendations_updated_at": "2026-11-16T22:48:46Z",
     "localizations": {
       "supported": [
         "English",
@@ -7874,7 +7874,7 @@
     "name": "Q.U.B.E. 2",
     "discovered_at": "2025-10-18 09:45:18",
     "recommendations_total": 1018,
-    "recommendations_updated_at": "2026-11-13T19:50:18Z",
+    "recommendations_updated_at": "2026-11-16T20:06:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -7900,8 +7900,8 @@
     "appid": 359550,
     "name": "Tom Clancy's Rainbow Six Siege",
     "discovered_at": "2025-10-18 09:47:10",
-    "recommendations_total": 1258597,
-    "recommendations_updated_at": "2026-11-13T19:50:19Z",
+    "recommendations_total": 1258892,
+    "recommendations_updated_at": "2026-11-16T20:06:23Z",
     "localizations": {
       "supported": [
         "English",
@@ -7934,8 +7934,8 @@
     "appid": 360430,
     "name": "Mafia III: Definitive Edition",
     "discovered_at": "2025-10-18 09:50:18",
-    "recommendations_total": 42296,
-    "recommendations_updated_at": "2026-11-13T22:27:18Z",
+    "recommendations_total": 42332,
+    "recommendations_updated_at": "2026-11-16T22:49:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -7967,7 +7967,7 @@
     "name": "Downwell",
     "discovered_at": "2025-10-18 09:51:23",
     "recommendations_total": 7943,
-    "recommendations_updated_at": "2026-11-13T22:27:20Z",
+    "recommendations_updated_at": "2026-11-16T22:49:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -8067,8 +8067,8 @@
     "appid": 366250,
     "name": "METAL SLUG",
     "discovered_at": "2025-10-18 10:10:57",
-    "recommendations_total": 4547,
-    "recommendations_updated_at": "2026-11-13T22:27:26Z",
+    "recommendations_total": 4549,
+    "recommendations_updated_at": "2026-11-16T22:49:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -8093,8 +8093,8 @@
     "appid": 367520,
     "name": "Hollow Knight",
     "discovered_at": "2025-10-18 10:15:36",
-    "recommendations_total": 509127,
-    "recommendations_updated_at": "2026-11-13T19:50:35Z",
+    "recommendations_total": 509457,
+    "recommendations_updated_at": "2026-11-16T20:06:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -8122,8 +8122,8 @@
     "appid": 368260,
     "name": "Marvel's Midnight Suns",
     "discovered_at": "2025-10-18 10:17:46",
-    "recommendations_total": 17291,
-    "recommendations_updated_at": "2026-11-13T22:27:29Z",
+    "recommendations_total": 17300,
+    "recommendations_updated_at": "2026-11-16T22:49:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -8152,7 +8152,7 @@
     "name": "60 Seconds!",
     "discovered_at": "2025-10-18 10:18:06",
     "recommendations_total": 10502,
-    "recommendations_updated_at": "2026-11-13T19:50:42Z",
+    "recommendations_updated_at": "2026-11-16T20:06:52Z",
     "localizations": {
       "supported": [
         "English",
@@ -8276,8 +8276,8 @@
     "appid": 373420,
     "name": "Divinity: Original Sin - Enhanced Edition",
     "discovered_at": "2025-10-18 10:36:03",
-    "recommendations_total": 27919,
-    "recommendations_updated_at": "2026-11-13T19:50:50Z",
+    "recommendations_total": 27943,
+    "recommendations_updated_at": "2026-11-16T20:07:02Z",
     "localizations": {
       "supported": [
         "English",
@@ -8421,8 +8421,8 @@
     "appid": 377160,
     "name": "Fallout 4",
     "discovered_at": "2025-10-18 10:50:24",
-    "recommendations_total": 292274,
-    "recommendations_updated_at": "2026-11-13T22:27:39Z",
+    "recommendations_total": 292353,
+    "recommendations_updated_at": "2026-11-16T22:49:34Z",
     "localizations": {
       "supported": [
         "English",
@@ -8449,8 +8449,8 @@
     "appid": 377840,
     "name": "FINAL FANTASY IX",
     "discovered_at": "2025-10-18 10:52:40",
-    "recommendations_total": 12617,
-    "recommendations_updated_at": "2026-11-13T22:27:41Z",
+    "recommendations_total": 12625,
+    "recommendations_updated_at": "2026-11-16T22:49:38Z",
     "localizations": {
       "supported": [
         "English",
@@ -8472,8 +8472,8 @@
     "appid": 379720,
     "name": "DOOM",
     "discovered_at": "2025-10-18 10:58:52",
-    "recommendations_total": 156285,
-    "recommendations_updated_at": "2026-11-13T22:27:42Z",
+    "recommendations_total": 156316,
+    "recommendations_updated_at": "2026-11-16T22:49:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -8500,8 +8500,8 @@
     "appid": 381210,
     "name": "Dead by Daylight",
     "discovered_at": "2025-10-18 11:02:41",
-    "recommendations_total": 696247,
-    "recommendations_updated_at": "2026-11-13T22:27:44Z",
+    "recommendations_total": 696622,
+    "recommendations_updated_at": "2026-11-16T22:49:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -8609,8 +8609,8 @@
     "appid": 387290,
     "name": "Ori and the Blind Forest: Definitive Edition",
     "discovered_at": "2025-10-18 11:24:41",
-    "recommendations_total": 63653,
-    "recommendations_updated_at": "2026-11-13T19:51:09Z",
+    "recommendations_total": 63671,
+    "recommendations_updated_at": "2026-11-16T20:07:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -8660,8 +8660,8 @@
     "appid": 388410,
     "name": "Darksiders II Deathinitive Edition",
     "discovered_at": "2025-10-18 11:28:26",
-    "recommendations_total": 16515,
-    "recommendations_updated_at": "2026-11-13T22:27:55Z",
+    "recommendations_total": 16530,
+    "recommendations_updated_at": "2026-11-16T22:49:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -8687,8 +8687,8 @@
     "appid": 388880,
     "name": "Oxenfree",
     "discovered_at": "2025-10-18 11:30:10",
-    "recommendations_total": 9509,
-    "recommendations_updated_at": "2026-11-13T19:39:36Z",
+    "recommendations_total": 9511,
+    "recommendations_updated_at": "2026-11-16T19:55:37Z",
     "localizations": {
       "supported": [
         "English",
@@ -8731,8 +8731,8 @@
     "appid": 391220,
     "name": "Rise of the Tomb Raider™",
     "discovered_at": "2025-10-18 11:39:43",
-    "recommendations_total": 129350,
-    "recommendations_updated_at": "2026-11-13T19:51:19Z",
+    "recommendations_total": 129485,
+    "recommendations_updated_at": "2026-11-16T20:07:32Z",
     "localizations": {
       "supported": [
         "English",
@@ -8763,8 +8763,8 @@
     "appid": 391540,
     "name": "Undertale",
     "discovered_at": "2025-10-18 11:41:04",
-    "recommendations_total": 313738,
-    "recommendations_updated_at": "2026-11-13T22:27:58Z",
+    "recommendations_total": 313980,
+    "recommendations_updated_at": "2026-11-16T22:50:03Z",
     "localizations": {
       "supported": [
         "English",
@@ -8783,8 +8783,8 @@
     "appid": 391720,
     "name": "Layers of Fear (2016)",
     "discovered_at": "2025-10-18 11:41:53",
-    "recommendations_total": 13270,
-    "recommendations_updated_at": "2026-11-13T19:51:22Z",
+    "recommendations_total": 13275,
+    "recommendations_updated_at": "2026-11-16T20:07:37Z",
     "localizations": {
       "supported": [
         "English",
@@ -8813,8 +8813,8 @@
     "appid": 394360,
     "name": "Hearts of Iron IV",
     "discovered_at": "2025-10-18 11:49:38",
-    "recommendations_total": 330168,
-    "recommendations_updated_at": "2026-11-13T19:51:25Z",
+    "recommendations_total": 330462,
+    "recommendations_updated_at": "2026-11-16T20:07:40Z",
     "localizations": {
       "supported": [
         "English",
@@ -8860,8 +8860,8 @@
     "appid": 395170,
     "name": "DISTRAINT: Deluxe Edition",
     "discovered_at": "2025-10-18 11:52:15",
-    "recommendations_total": 7741,
-    "recommendations_updated_at": "2026-11-13T19:51:30Z",
+    "recommendations_total": 7742,
+    "recommendations_updated_at": "2026-11-16T20:07:45Z",
     "localizations": {
       "supported": [
         "English",
@@ -8947,8 +8947,8 @@
     "appid": 403640,
     "name": "Dishonored 2",
     "discovered_at": "2025-10-18 12:23:26",
-    "recommendations_total": 43249,
-    "recommendations_updated_at": "2026-11-13T22:28:16Z",
+    "recommendations_total": 43255,
+    "recommendations_updated_at": "2026-11-16T22:50:30Z",
     "localizations": {
       "supported": [
         "English",
@@ -8975,8 +8975,8 @@
     "appid": 405640,
     "name": "Pony Island",
     "discovered_at": "2025-10-18 12:30:42",
-    "recommendations_total": 14908,
-    "recommendations_updated_at": "2026-11-13T19:51:41Z",
+    "recommendations_total": 14909,
+    "recommendations_updated_at": "2026-11-16T20:07:56Z",
     "localizations": {
       "supported": [
         "English",
@@ -9005,8 +9005,8 @@
     "appid": 405820,
     "name": "Turok",
     "discovered_at": "2025-10-18 12:31:23",
-    "recommendations_total": 3422,
-    "recommendations_updated_at": "2026-11-13T22:28:17Z",
+    "recommendations_total": 3427,
+    "recommendations_updated_at": "2026-11-16T22:50:32Z",
     "localizations": {
       "supported": [
         "English",
@@ -9048,8 +9048,8 @@
     "appid": 409710,
     "name": "BioShock™ Remastered",
     "discovered_at": "2025-10-18 12:44:16",
-    "recommendations_total": 53047,
-    "recommendations_updated_at": "2026-11-13T22:28:27Z",
+    "recommendations_total": 53073,
+    "recommendations_updated_at": "2026-11-16T22:50:46Z",
     "localizations": {
       "supported": [
         "English",
@@ -9073,8 +9073,8 @@
     "appid": 409720,
     "name": "BioShock™ 2 Remastered",
     "discovered_at": "2025-10-18 12:44:31",
-    "recommendations_total": 24615,
-    "recommendations_updated_at": "2026-11-13T22:28:29Z",
+    "recommendations_total": 24630,
+    "recommendations_updated_at": "2026-11-16T22:50:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -9165,8 +9165,8 @@
     "appid": 413150,
     "name": "Stardew Valley",
     "discovered_at": "2025-10-18 12:55:18",
-    "recommendations_total": 904827,
-    "recommendations_updated_at": "2026-11-13T22:28:33Z",
+    "recommendations_total": 905380,
+    "recommendations_updated_at": "2026-11-16T22:50:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -9195,8 +9195,8 @@
     "appid": 413410,
     "name": "Danganronpa: Trigger Happy Havoc",
     "discovered_at": "2025-10-18 12:55:57",
-    "recommendations_total": 37382,
-    "recommendations_updated_at": "2026-11-13T22:28:35Z",
+    "recommendations_total": 37442,
+    "recommendations_updated_at": "2026-11-16T22:50:57Z",
     "localizations": {
       "supported": [
         "English",
@@ -9258,8 +9258,8 @@
     "appid": 414340,
     "name": "Hellblade: Senua's Sacrifice",
     "discovered_at": "2025-10-18 12:59:22",
-    "recommendations_total": 67047,
-    "recommendations_updated_at": "2026-11-13T19:51:44Z",
+    "recommendations_total": 67063,
+    "recommendations_updated_at": "2026-11-16T20:08:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -9297,7 +9297,7 @@
     "name": "Ghost of a Tale",
     "discovered_at": "2025-10-18 13:08:56",
     "recommendations_total": 4235,
-    "recommendations_updated_at": "2026-11-13T22:28:38Z",
+    "recommendations_updated_at": "2026-11-16T22:51:02Z",
     "localizations": {
       "supported": [
         "English",
@@ -9322,7 +9322,7 @@
     "name": "Everybody's Gone to the Rapture",
     "discovered_at": "2025-10-18 13:10:07",
     "recommendations_total": 1866,
-    "recommendations_updated_at": "2026-11-13T22:28:40Z",
+    "recommendations_updated_at": "2026-11-16T22:51:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -9356,8 +9356,8 @@
     "appid": 418240,
     "name": "Shadow Tactics: Blades of the Shogun",
     "discovered_at": "2025-10-18 13:11:47",
-    "recommendations_total": 30937,
-    "recommendations_updated_at": "2026-11-13T22:28:43Z",
+    "recommendations_total": 30939,
+    "recommendations_updated_at": "2026-11-16T22:51:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -9387,8 +9387,8 @@
     "appid": 418340,
     "name": "RWBY: Grimm Eclipse",
     "discovered_at": "2025-10-18 13:12:22",
-    "recommendations_total": 9841,
-    "recommendations_updated_at": "2026-11-13T22:28:45Z",
+    "recommendations_total": 9842,
+    "recommendations_updated_at": "2026-11-16T22:51:12Z",
     "localizations": {
       "supported": [
         "English",
@@ -9469,8 +9469,8 @@
     "appid": 423230,
     "name": "Furi",
     "discovered_at": "2025-10-18 13:26:18",
-    "recommendations_total": 11308,
-    "recommendations_updated_at": "2026-11-13T22:28:51Z",
+    "recommendations_total": 11312,
+    "recommendations_updated_at": "2026-11-16T22:51:21Z",
     "localizations": {
       "supported": [
         "English",
@@ -9540,8 +9540,8 @@
     "appid": 424840,
     "name": "Little Nightmares",
     "discovered_at": "2025-10-18 13:30:27",
-    "recommendations_total": 52451,
-    "recommendations_updated_at": "2026-11-13T19:52:00Z",
+    "recommendations_total": 52458,
+    "recommendations_updated_at": "2026-11-16T20:08:17Z",
     "localizations": {
       "supported": [
         "English",
@@ -9571,8 +9571,8 @@
     "appid": 427290,
     "name": "Vampyr",
     "discovered_at": "2025-10-18 13:37:07",
-    "recommendations_total": 20376,
-    "recommendations_updated_at": "2026-11-13T22:28:59Z",
+    "recommendations_total": 20395,
+    "recommendations_updated_at": "2026-11-16T22:51:33Z",
     "localizations": {
       "supported": [
         "English",
@@ -9625,8 +9625,8 @@
     "appid": 428660,
     "name": "Deliver Us The Moon",
     "discovered_at": "2025-10-18 13:42:36",
-    "recommendations_total": 7585,
-    "recommendations_updated_at": "2026-11-13T19:52:02Z",
+    "recommendations_total": 7588,
+    "recommendations_updated_at": "2026-11-16T20:08:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -9739,8 +9739,8 @@
     "appid": 433340,
     "name": "Slime Rancher",
     "discovered_at": "2025-10-18 13:57:28",
-    "recommendations_total": 140956,
-    "recommendations_updated_at": "2026-11-13T22:29:02Z",
+    "recommendations_total": 141012,
+    "recommendations_updated_at": "2026-11-16T22:51:38Z",
     "localizations": {
       "supported": [
         "English",
@@ -9767,8 +9767,8 @@
     "appid": 434170,
     "name": "The Jackbox Party Pack 3",
     "discovered_at": "2025-10-18 14:01:05",
-    "recommendations_total": 5159,
-    "recommendations_updated_at": "2026-11-13T19:52:08Z",
+    "recommendations_total": 5162,
+    "recommendations_updated_at": "2026-11-16T20:08:28Z",
     "localizations": {
       "supported": [
         "English"
@@ -9786,8 +9786,8 @@
     "appid": 435150,
     "name": "Divinity: Original Sin 2 - Definitive Edition",
     "discovered_at": "2025-10-18 14:06:37",
-    "recommendations_total": 182034,
-    "recommendations_updated_at": "2026-11-13T19:52:13Z",
+    "recommendations_total": 182106,
+    "recommendations_updated_at": "2026-11-16T20:08:33Z",
     "localizations": {
       "supported": [
         "English",
@@ -9817,8 +9817,8 @@
     "appid": 437920,
     "name": "Tricky Towers",
     "discovered_at": "2025-10-18 14:16:57",
-    "recommendations_total": 12435,
-    "recommendations_updated_at": "2026-11-13T22:29:10Z",
+    "recommendations_total": 12441,
+    "recommendations_updated_at": "2026-11-16T22:51:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -9876,8 +9876,8 @@
     "appid": 440880,
     "name": "The Count Lucanor",
     "discovered_at": "2025-10-18 14:26:32",
-    "recommendations_total": 2486,
-    "recommendations_updated_at": "2026-11-13T22:29:12Z",
+    "recommendations_total": 2489,
+    "recommendations_updated_at": "2026-11-16T22:51:52Z",
     "localizations": {
       "supported": [
         "English",
@@ -9908,7 +9908,7 @@
     "name": "Drawful 2",
     "discovered_at": "2025-10-18 14:29:18",
     "recommendations_total": 825,
-    "recommendations_updated_at": "2026-11-13T19:52:32Z",
+    "recommendations_updated_at": "2026-11-16T20:08:52Z",
     "localizations": {
       "supported": [
         "English",
@@ -9983,8 +9983,8 @@
     "appid": 462780,
     "name": "Darksiders Warmastered Edition",
     "discovered_at": "2025-10-18 15:38:41",
-    "recommendations_total": 14186,
-    "recommendations_updated_at": "2026-11-13T22:29:34Z",
+    "recommendations_total": 14202,
+    "recommendations_updated_at": "2026-11-16T22:52:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -10013,8 +10013,8 @@
     "appid": 464340,
     "name": "Syberia 3",
     "discovered_at": "2025-10-18 15:44:50",
-    "recommendations_total": 3255,
-    "recommendations_updated_at": "2026-11-13T22:29:37Z",
+    "recommendations_total": 3256,
+    "recommendations_updated_at": "2026-11-16T22:52:30Z",
     "localizations": {
       "supported": [
         "English",
@@ -10156,8 +10156,8 @@
     "appid": 474960,
     "name": "Quantum Break",
     "discovered_at": "2025-10-18 16:12:00",
-    "recommendations_total": 23422,
-    "recommendations_updated_at": "2026-11-13T22:29:45Z",
+    "recommendations_total": 23436,
+    "recommendations_updated_at": "2026-11-16T22:52:43Z",
     "localizations": {
       "supported": [
         "English",
@@ -10184,8 +10184,8 @@
     "appid": 480490,
     "name": "Prey",
     "discovered_at": "2025-10-18 16:20:14",
-    "recommendations_total": 38043,
-    "recommendations_updated_at": "2026-11-13T22:29:49Z",
+    "recommendations_total": 38048,
+    "recommendations_updated_at": "2026-11-16T22:52:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -10275,7 +10275,7 @@
     "name": "Minion Masters",
     "discovered_at": "2025-10-18 16:40:22",
     "recommendations_total": 1567,
-    "recommendations_updated_at": "2026-11-13T19:52:53Z",
+    "recommendations_updated_at": "2026-11-16T20:09:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -10301,8 +10301,8 @@
     "appid": 489630,
     "name": "Warhammer 40,000: Gladius - Relics of War",
     "discovered_at": "2025-10-18 16:41:01",
-    "recommendations_total": 8201,
-    "recommendations_updated_at": "2026-11-13T19:52:56Z",
+    "recommendations_total": 8202,
+    "recommendations_updated_at": "2026-11-16T20:09:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -10354,8 +10354,8 @@
     "appid": 493900,
     "name": "Dungeons 3",
     "discovered_at": "2025-10-18 16:55:46",
-    "recommendations_total": 12672,
-    "recommendations_updated_at": "2026-11-13T19:53:03Z",
+    "recommendations_total": 12673,
+    "recommendations_updated_at": "2026-11-16T20:09:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -10381,8 +10381,8 @@
     "appid": 495420,
     "name": "State of Decay 2: Juggernaut Edition",
     "discovered_at": "2025-10-18 17:01:12",
-    "recommendations_total": 59595,
-    "recommendations_updated_at": "2026-11-13T22:30:01Z",
+    "recommendations_total": 59629,
+    "recommendations_updated_at": "2026-11-16T22:53:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -10435,8 +10435,8 @@
     "appid": 501300,
     "name": "What Remains of Edith Finch",
     "discovered_at": "2025-10-18 17:22:52",
-    "recommendations_total": 47709,
-    "recommendations_updated_at": "2026-11-13T22:30:08Z",
+    "recommendations_total": 47737,
+    "recommendations_updated_at": "2026-11-16T22:53:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -10464,8 +10464,8 @@
     "appid": 501590,
     "name": "Bulletstorm: Full Clip Edition",
     "discovered_at": "2025-10-18 17:23:59",
-    "recommendations_total": 7958,
-    "recommendations_updated_at": "2026-11-13T22:30:09Z",
+    "recommendations_total": 7971,
+    "recommendations_updated_at": "2026-11-16T22:53:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -10510,8 +10510,8 @@
     "appid": 503560,
     "name": "911 Operator",
     "discovered_at": "2025-10-18 17:31:39",
-    "recommendations_total": 14420,
-    "recommendations_updated_at": "2026-11-13T19:53:08Z",
+    "recommendations_total": 14421,
+    "recommendations_updated_at": "2026-11-16T20:09:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -10540,8 +10540,8 @@
     "appid": 504230,
     "name": "Celeste",
     "discovered_at": "2025-10-18 17:34:05",
-    "recommendations_total": 134444,
-    "recommendations_updated_at": "2026-11-13T22:30:19Z",
+    "recommendations_total": 134541,
+    "recommendations_updated_at": "2026-11-16T22:53:33Z",
     "localizations": {
       "supported": [
         "English",
@@ -10658,8 +10658,8 @@
     "appid": 520720,
     "name": "Dear Esther: Landmark Edition",
     "discovered_at": "2025-10-18 18:32:08",
-    "recommendations_total": 2508,
-    "recommendations_updated_at": "2026-11-13T22:30:24Z",
+    "recommendations_total": 2510,
+    "recommendations_updated_at": "2026-11-16T22:53:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -10722,8 +10722,8 @@
     "appid": 524220,
     "name": "NieR:Automata™",
     "discovered_at": "2025-10-18 18:46:43",
-    "recommendations_total": 116454,
-    "recommendations_updated_at": "2026-11-13T19:53:35Z",
+    "recommendations_total": 116512,
+    "recommendations_updated_at": "2026-11-16T20:09:53Z",
     "localizations": {
       "supported": [
         "English",
@@ -10806,8 +10806,8 @@
     "appid": 534380,
     "name": "Dying Light 2 Stay Human: Reloaded Edition",
     "discovered_at": "2025-10-18 19:25:03",
-    "recommendations_total": 166694,
-    "recommendations_updated_at": "2026-11-13T19:53:41Z",
+    "recommendations_total": 166786,
+    "recommendations_updated_at": "2026-11-16T20:10:00Z",
     "localizations": {
       "supported": [
         "English",
@@ -10841,8 +10841,8 @@
     "appid": 541570,
     "name": "Sally Face - Episode One",
     "discovered_at": "2025-10-18 19:49:15",
-    "recommendations_total": 28404,
-    "recommendations_updated_at": "2026-11-13T22:30:37Z",
+    "recommendations_total": 28449,
+    "recommendations_updated_at": "2026-11-16T22:53:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -10871,8 +10871,8 @@
     "appid": 544330,
     "name": "Snake Pass",
     "discovered_at": "2025-10-18 19:58:58",
-    "recommendations_total": 1186,
-    "recommendations_updated_at": "2026-11-13T19:53:51Z",
+    "recommendations_total": 1187,
+    "recommendations_updated_at": "2026-11-16T20:10:10Z",
     "localizations": {
       "supported": [
         "English",
@@ -10894,8 +10894,8 @@
     "appid": 552520,
     "name": "Far Cry® 5",
     "discovered_at": "2025-10-18 20:29:23",
-    "recommendations_total": 174791,
-    "recommendations_updated_at": "2026-11-13T19:53:59Z",
+    "recommendations_total": 174858,
+    "recommendations_updated_at": "2026-11-16T20:10:17Z",
     "localizations": {
       "supported": [
         "English",
@@ -10927,8 +10927,8 @@
     "appid": 553850,
     "name": "HELLDIVERS™ 2",
     "discovered_at": "2025-10-18 20:35:14",
-    "recommendations_total": 855563,
-    "recommendations_updated_at": "2026-11-13T22:30:58Z",
+    "recommendations_total": 856482,
+    "recommendations_updated_at": "2026-11-16T22:54:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -10982,8 +10982,8 @@
     "appid": 557340,
     "name": "My Friend Pedro",
     "discovered_at": "2025-10-18 20:49:44",
-    "recommendations_total": 24662,
-    "recommendations_updated_at": "2026-11-13T19:54:08Z",
+    "recommendations_total": 24665,
+    "recommendations_updated_at": "2026-11-16T20:10:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -11048,8 +11048,8 @@
     "appid": 564310,
     "name": "Serious Sam Fusion 2017 (beta)",
     "discovered_at": "2025-10-18 21:11:46",
-    "recommendations_total": 4728,
-    "recommendations_updated_at": "2026-11-13T22:31:04Z",
+    "recommendations_total": 4732,
+    "recommendations_updated_at": "2026-11-16T22:54:33Z",
     "localizations": {
       "supported": [
         "English",
@@ -11101,8 +11101,8 @@
     "appid": 570940,
     "name": "DARK SOULS™: REMASTERED",
     "discovered_at": "2025-10-18 21:35:28",
-    "recommendations_total": 102631,
-    "recommendations_updated_at": "2026-11-13T22:31:10Z",
+    "recommendations_total": 102708,
+    "recommendations_updated_at": "2026-11-16T22:54:43Z",
     "localizations": {
       "supported": [
         "English",
@@ -11131,8 +11131,8 @@
     "appid": 571310,
     "name": "SteamWorld Dig 2",
     "discovered_at": "2025-10-18 21:36:37",
-    "recommendations_total": 5757,
-    "recommendations_updated_at": "2026-11-13T22:31:12Z",
+    "recommendations_total": 5762,
+    "recommendations_updated_at": "2026-11-16T22:54:46Z",
     "localizations": {
       "supported": [
         "English",
@@ -11155,8 +11155,8 @@
     "appid": 582160,
     "name": "Assassin's Creed® Origins",
     "discovered_at": "2025-10-18 22:14:40",
-    "recommendations_total": 120975,
-    "recommendations_updated_at": "2026-11-13T19:54:24Z",
+    "recommendations_total": 121033,
+    "recommendations_updated_at": "2026-11-16T20:10:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -11228,7 +11228,7 @@
     "name": "Estranged: The Departure",
     "discovered_at": "2025-10-18 22:17:39",
     "recommendations_total": 342,
-    "recommendations_updated_at": "2026-11-13T19:54:29Z",
+    "recommendations_updated_at": "2026-11-16T20:10:47Z",
     "localizations": {
       "supported": [
         "English",
@@ -11317,8 +11317,8 @@
     "appid": 588650,
     "name": "Dead Cells",
     "discovered_at": "2025-10-18 22:36:14",
-    "recommendations_total": 157614,
-    "recommendations_updated_at": "2026-11-13T22:31:25Z",
+    "recommendations_total": 157680,
+    "recommendations_updated_at": "2026-11-16T22:55:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -11372,8 +11372,8 @@
     "appid": 593280,
     "name": "Cat Quest",
     "discovered_at": "2025-10-18 22:53:32",
-    "recommendations_total": 8436,
-    "recommendations_updated_at": "2026-11-13T22:31:26Z",
+    "recommendations_total": 8440,
+    "recommendations_updated_at": "2026-11-16T22:55:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -11448,8 +11448,8 @@
     "appid": 597820,
     "name": "BIOMUTANT",
     "discovered_at": "2025-10-18 23:10:40",
-    "recommendations_total": 13202,
-    "recommendations_updated_at": "2026-11-13T22:31:29Z",
+    "recommendations_total": 13204,
+    "recommendations_updated_at": "2026-11-16T22:55:12Z",
     "localizations": {
       "supported": [
         "English",
@@ -11480,8 +11480,8 @@
     "appid": 601430,
     "name": "The Evil Within 2",
     "discovered_at": "2025-10-18 23:22:32",
-    "recommendations_total": 19945,
-    "recommendations_updated_at": "2026-11-13T22:31:34Z",
+    "recommendations_total": 19954,
+    "recommendations_updated_at": "2026-11-16T22:55:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -11578,8 +11578,8 @@
     "appid": 606150,
     "name": "Moonlighter",
     "discovered_at": "2025-10-18 23:38:47",
-    "recommendations_total": 17405,
-    "recommendations_updated_at": "2026-11-13T19:54:42Z",
+    "recommendations_total": 17411,
+    "recommendations_updated_at": "2026-11-16T20:11:00Z",
     "localizations": {
       "supported": [
         "English",
@@ -11609,8 +11609,8 @@
     "appid": 606280,
     "name": "Darksiders III",
     "discovered_at": "2025-10-18 23:39:17",
-    "recommendations_total": 12648,
-    "recommendations_updated_at": "2026-11-13T22:31:41Z",
+    "recommendations_total": 12654,
+    "recommendations_updated_at": "2026-11-16T22:55:30Z",
     "localizations": {
       "supported": [
         "English",
@@ -11641,8 +11641,8 @@
     "appid": 607080,
     "name": "Psychonauts 2",
     "discovered_at": "2025-10-18 23:41:50",
-    "recommendations_total": 12448,
-    "recommendations_updated_at": "2026-11-13T22:31:45Z",
+    "recommendations_total": 12456,
+    "recommendations_updated_at": "2026-11-16T22:55:36Z",
     "localizations": {
       "supported": [
         "English",
@@ -11697,8 +11697,8 @@
     "appid": 610180,
     "name": "The Jackbox Party Pack 4",
     "discovered_at": "2025-10-18 23:51:17",
-    "recommendations_total": 2494,
-    "recommendations_updated_at": "2026-11-13T19:54:47Z",
+    "recommendations_total": 2493,
+    "recommendations_updated_at": "2026-11-16T20:11:04Z",
     "localizations": {
       "supported": [
         "English"
@@ -11716,8 +11716,8 @@
     "appid": 610370,
     "name": "Desperados III",
     "discovered_at": "2025-10-18 23:52:01",
-    "recommendations_total": 11983,
-    "recommendations_updated_at": "2026-11-13T22:31:50Z",
+    "recommendations_total": 11990,
+    "recommendations_updated_at": "2026-11-16T22:55:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -11744,8 +11744,8 @@
     "appid": 613830,
     "name": "CHRONO TRIGGER®",
     "discovered_at": "2025-10-19 00:03:54",
-    "recommendations_total": 12352,
-    "recommendations_updated_at": "2026-11-13T22:31:55Z",
+    "recommendations_total": 12361,
+    "recommendations_updated_at": "2026-11-16T22:55:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -11771,8 +11771,8 @@
     "appid": 614570,
     "name": "Dishonored®: Death of the Outsider™",
     "discovered_at": "2025-10-19 00:06:23",
-    "recommendations_total": 9872,
-    "recommendations_updated_at": "2026-11-13T22:31:57Z",
+    "recommendations_total": 9874,
+    "recommendations_updated_at": "2026-11-16T22:55:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -11799,8 +11799,8 @@
     "appid": 617290,
     "name": "Remnant: From the Ashes",
     "discovered_at": "2025-10-19 00:14:58",
-    "recommendations_total": 47657,
-    "recommendations_updated_at": "2026-11-13T22:31:58Z",
+    "recommendations_total": 47676,
+    "recommendations_updated_at": "2026-11-16T22:55:55Z",
     "localizations": {
       "supported": [
         "English",
@@ -11856,8 +11856,8 @@
     "appid": 622650,
     "name": "Bendy and the Ink Machine",
     "discovered_at": "2025-10-19 00:32:44",
-    "recommendations_total": 26748,
-    "recommendations_updated_at": "2026-11-13T22:32:09Z",
+    "recommendations_total": 26773,
+    "recommendations_updated_at": "2026-11-16T22:56:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -11883,8 +11883,8 @@
     "appid": 629820,
     "name": "Maneater",
     "discovered_at": "2025-10-19 00:54:52",
-    "recommendations_total": 22371,
-    "recommendations_updated_at": "2026-11-13T22:32:12Z",
+    "recommendations_total": 22385,
+    "recommendations_updated_at": "2026-11-16T22:56:17Z",
     "localizations": {
       "supported": [
         "English",
@@ -11915,8 +11915,8 @@
     "appid": 631510,
     "name": "Devil May Cry HD Collection",
     "discovered_at": "2025-10-19 00:59:29",
-    "recommendations_total": 20033,
-    "recommendations_updated_at": "2026-11-13T22:32:14Z",
+    "recommendations_total": 20054,
+    "recommendations_updated_at": "2026-11-16T22:56:19Z",
     "localizations": {
       "supported": [
         "English",
@@ -11970,8 +11970,8 @@
     "appid": 632470,
     "name": "Disco Elysium - The Final Cut",
     "discovered_at": "2025-10-19 01:03:02",
-    "recommendations_total": 119451,
-    "recommendations_updated_at": "2026-11-13T22:32:16Z",
+    "recommendations_total": 119509,
+    "recommendations_updated_at": "2026-11-16T22:56:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -12031,8 +12031,8 @@
     "appid": 638230,
     "name": "Journey",
     "discovered_at": "2025-10-19 01:21:00",
-    "recommendations_total": 35133,
-    "recommendations_updated_at": "2026-11-13T22:32:22Z",
+    "recommendations_total": 35149,
+    "recommendations_updated_at": "2026-11-16T22:56:32Z",
     "localizations": {
       "supported": [
         "English",
@@ -12067,8 +12067,8 @@
     "appid": 641990,
     "name": "The Escapists 2",
     "discovered_at": "2025-10-19 01:30:54",
-    "recommendations_total": 26584,
-    "recommendations_updated_at": "2026-11-13T19:55:20Z",
+    "recommendations_total": 26582,
+    "recommendations_updated_at": "2026-11-16T20:11:38Z",
     "localizations": {
       "supported": [
         "English",
@@ -12119,8 +12119,8 @@
     "appid": 645630,
     "name": "Car Mechanic Simulator 2018",
     "discovered_at": "2025-10-19 01:41:16",
-    "recommendations_total": 48450,
-    "recommendations_updated_at": "2026-11-13T19:55:22Z",
+    "recommendations_total": 48454,
+    "recommendations_updated_at": "2026-11-16T20:11:40Z",
     "localizations": {
       "supported": [
         "English",
@@ -12184,8 +12184,8 @@
     "appid": 648800,
     "name": "Raft",
     "discovered_at": "2025-10-19 01:51:18",
-    "recommendations_total": 325698,
-    "recommendations_updated_at": "2026-11-13T22:32:29Z",
+    "recommendations_total": 325820,
+    "recommendations_updated_at": "2026-11-16T22:56:41Z",
     "localizations": {
       "supported": [
         "English",
@@ -12270,8 +12270,8 @@
     "appid": 674940,
     "name": "Stick Fight: The Game",
     "discovered_at": "2025-10-19 03:22:07",
-    "recommendations_total": 100056,
-    "recommendations_updated_at": "2026-11-13T19:55:36Z",
+    "recommendations_total": 100070,
+    "recommendations_updated_at": "2026-11-16T20:11:54Z",
     "localizations": {
       "supported": [
         "English"
@@ -12289,8 +12289,8 @@
     "appid": 677160,
     "name": "We Were Here Too",
     "discovered_at": "2025-10-19 03:30:50",
-    "recommendations_total": 9141,
-    "recommendations_updated_at": "2026-11-13T19:55:39Z",
+    "recommendations_total": 9147,
+    "recommendations_updated_at": "2026-11-16T20:11:57Z",
     "localizations": {
       "supported": [
         "English",
@@ -12360,8 +12360,8 @@
     "appid": 683320,
     "name": "GRIS",
     "discovered_at": "2025-10-19 03:53:35",
-    "recommendations_total": 84412,
-    "recommendations_updated_at": "2026-11-13T22:32:51Z",
+    "recommendations_total": 84441,
+    "recommendations_updated_at": "2026-11-16T22:57:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -12388,8 +12388,8 @@
     "appid": 686200,
     "name": "Door Kickers: Action Squad",
     "discovered_at": "2025-10-19 04:02:47",
-    "recommendations_total": 8808,
-    "recommendations_updated_at": "2026-11-13T19:55:46Z",
+    "recommendations_total": 8809,
+    "recommendations_updated_at": "2026-11-16T20:12:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -12476,8 +12476,8 @@
     "appid": 690040,
     "name": "SUPERHOT: MIND CONTROL DELETE",
     "discovered_at": "2025-10-19 04:16:49",
-    "recommendations_total": 9301,
-    "recommendations_updated_at": "2026-11-13T22:32:54Z",
+    "recommendations_total": 9302,
+    "recommendations_updated_at": "2026-11-16T22:57:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -12541,8 +12541,8 @@
     "appid": 692850,
     "name": "Bloodstained: Ritual of the Night",
     "discovered_at": "2025-10-19 04:25:44",
-    "recommendations_total": 29833,
-    "recommendations_updated_at": "2026-11-13T22:32:56Z",
+    "recommendations_total": 29849,
+    "recommendations_updated_at": "2026-11-16T22:57:22Z",
     "localizations": {
       "supported": [
         "Japanese",
@@ -12570,8 +12570,8 @@
     "appid": 696180,
     "name": "Bullet Witch",
     "discovered_at": "2025-10-19 04:36:36",
-    "recommendations_total": 737,
-    "recommendations_updated_at": "2026-11-13T22:32:57Z",
+    "recommendations_total": 738,
+    "recommendations_updated_at": "2026-11-16T22:57:25Z",
     "localizations": {
       "supported": [
         "English",
@@ -12738,8 +12738,8 @@
     "appid": 704850,
     "name": "Thief Simulator",
     "discovered_at": "2025-10-19 05:05:41",
-    "recommendations_total": 37665,
-    "recommendations_updated_at": "2026-11-13T22:33:01Z",
+    "recommendations_total": 37691,
+    "recommendations_updated_at": "2026-11-16T22:57:30Z",
     "localizations": {
       "supported": [
         "English",
@@ -12770,8 +12770,8 @@
     "appid": 710920,
     "name": "Darksiders Genesis",
     "discovered_at": "2025-10-19 05:25:39",
-    "recommendations_total": 10482,
-    "recommendations_updated_at": "2026-11-13T22:33:04Z",
+    "recommendations_total": 10489,
+    "recommendations_updated_at": "2026-11-16T22:57:34Z",
     "localizations": {
       "supported": [
         "English",
@@ -12799,8 +12799,8 @@
     "appid": 714120,
     "name": "Little Misfortune",
     "discovered_at": "2025-10-19 05:36:24",
-    "recommendations_total": 12009,
-    "recommendations_updated_at": "2026-11-13T22:33:07Z",
+    "recommendations_total": 12019,
+    "recommendations_updated_at": "2026-11-16T22:57:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -12852,8 +12852,8 @@
     "appid": 736260,
     "name": "Baba Is You",
     "discovered_at": "2025-10-19 06:46:42",
-    "recommendations_total": 21179,
-    "recommendations_updated_at": "2026-11-13T22:33:18Z",
+    "recommendations_total": 21187,
+    "recommendations_updated_at": "2026-11-16T22:57:55Z",
     "localizations": {
       "supported": [
         "English",
@@ -12918,8 +12918,8 @@
     "appid": 750920,
     "name": "Shadow of the Tomb Raider: Definitive Edition",
     "discovered_at": "2025-10-19 07:33:31",
-    "recommendations_total": 73760,
-    "recommendations_updated_at": "2026-11-13T22:33:29Z",
+    "recommendations_total": 73843,
+    "recommendations_updated_at": "2026-11-16T22:58:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -13005,8 +13005,8 @@
     "appid": 752590,
     "name": "A Plague Tale: Innocence",
     "discovered_at": "2025-10-19 07:39:07",
-    "recommendations_total": 64711,
-    "recommendations_updated_at": "2026-11-13T22:33:31Z",
+    "recommendations_total": 64785,
+    "recommendations_updated_at": "2026-11-16T22:58:14Z",
     "localizations": {
       "supported": [
         "English",
@@ -13037,8 +13037,8 @@
     "appid": 753640,
     "name": "Outer Wilds",
     "discovered_at": "2025-10-19 07:43:17",
-    "recommendations_total": 91418,
-    "recommendations_updated_at": "2026-11-13T19:39:41Z",
+    "recommendations_total": 91507,
+    "recommendations_updated_at": "2026-11-16T19:55:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -13068,8 +13068,8 @@
     "appid": 757310,
     "name": "Sable",
     "discovered_at": "2025-10-19 07:58:49",
-    "recommendations_total": 5420,
-    "recommendations_updated_at": "2026-11-13T22:33:36Z",
+    "recommendations_total": 5424,
+    "recommendations_updated_at": "2026-11-16T22:58:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -13154,8 +13154,8 @@
     "appid": 764790,
     "name": "The Messenger",
     "discovered_at": "2025-10-19 08:24:33",
-    "recommendations_total": 10813,
-    "recommendations_updated_at": "2026-11-13T22:33:42Z",
+    "recommendations_total": 10816,
+    "recommendations_updated_at": "2026-11-16T22:58:32Z",
     "localizations": {
       "supported": [
         "English",
@@ -13236,8 +13236,8 @@
     "appid": 782330,
     "name": "DOOM Eternal",
     "discovered_at": "2025-10-19 09:23:41",
-    "recommendations_total": 190557,
-    "recommendations_updated_at": "2026-11-13T19:56:24Z",
+    "recommendations_total": 190586,
+    "recommendations_updated_at": "2026-11-16T20:12:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -13267,8 +13267,8 @@
     "appid": 783940,
     "name": "Forgotten Hill Mementoes",
     "discovered_at": "2025-10-19 09:28:27",
-    "recommendations_total": 270,
-    "recommendations_updated_at": "2026-11-13T22:34:01Z",
+    "recommendations_total": 271,
+    "recommendations_updated_at": "2026-11-16T22:59:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -13468,8 +13468,8 @@
     "appid": 813780,
     "name": "Age of Empires II: Definitive Edition",
     "discovered_at": "2025-10-19 11:04:51",
-    "recommendations_total": 160515,
-    "recommendations_updated_at": "2026-11-13T22:34:19Z",
+    "recommendations_total": 160616,
+    "recommendations_updated_at": "2026-11-16T22:59:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -13553,8 +13553,8 @@
     "appid": 815370,
     "name": "Green Hell",
     "discovered_at": "2025-10-19 11:10:36",
-    "recommendations_total": 81314,
-    "recommendations_updated_at": "2026-11-13T22:34:22Z",
+    "recommendations_total": 81390,
+    "recommendations_updated_at": "2026-11-16T22:59:31Z",
     "localizations": {
       "supported": [
         "English",
@@ -13591,8 +13591,8 @@
     "appid": 816090,
     "name": "Space Hulk: Deathwing Enhanced Edition",
     "discovered_at": "2025-10-19 11:12:59",
-    "recommendations_total": 9170,
-    "recommendations_updated_at": "2026-11-13T22:34:24Z",
+    "recommendations_total": 9173,
+    "recommendations_updated_at": "2026-11-16T22:59:34Z",
     "localizations": {
       "supported": [
         "English",
@@ -13701,8 +13701,8 @@
     "appid": 837470,
     "name": "Untitled Goose Game",
     "discovered_at": "2025-10-19 12:17:47",
-    "recommendations_total": 23066,
-    "recommendations_updated_at": "2026-11-13T22:34:35Z",
+    "recommendations_total": 23076,
+    "recommendations_updated_at": "2026-11-16T22:59:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -13733,8 +13733,8 @@
     "appid": 842100,
     "name": "Daymare: 1998",
     "discovered_at": "2025-10-19 12:33:03",
-    "recommendations_total": 3477,
-    "recommendations_updated_at": "2026-11-13T22:34:38Z",
+    "recommendations_total": 3479,
+    "recommendations_updated_at": "2026-11-16T22:59:55Z",
     "localizations": {
       "supported": [
         "English",
@@ -13761,8 +13761,8 @@
     "appid": 850190,
     "name": "Goat Simulator 3",
     "discovered_at": "2025-10-19 13:03:22",
-    "recommendations_total": 14081,
-    "recommendations_updated_at": "2026-11-13T22:34:46Z",
+    "recommendations_total": 14090,
+    "recommendations_updated_at": "2026-11-16T23:00:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -13815,8 +13815,8 @@
     "appid": 855740,
     "name": "Bum Simulator",
     "discovered_at": "2025-10-19 13:21:20",
-    "recommendations_total": 4684,
-    "recommendations_updated_at": "2026-11-13T19:56:53Z",
+    "recommendations_total": 4685,
+    "recommendations_updated_at": "2026-11-16T20:13:11Z",
     "localizations": {
       "supported": [
         "English",
@@ -13967,8 +13967,8 @@
     "appid": 870780,
     "name": "CONTROL Ultimate Edition",
     "discovered_at": "2025-10-19 14:12:52",
-    "recommendations_total": 53178,
-    "recommendations_updated_at": "2026-11-13T19:57:06Z",
+    "recommendations_total": 53237,
+    "recommendations_updated_at": "2026-11-16T20:13:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -14027,8 +14027,8 @@
     "appid": 883710,
     "name": "Resident Evil 2",
     "discovered_at": "2025-10-19 14:55:46",
-    "recommendations_total": 161022,
-    "recommendations_updated_at": "2026-11-13T19:57:07Z",
+    "recommendations_total": 161214,
+    "recommendations_updated_at": "2026-11-16T20:13:25Z",
     "localizations": {
       "supported": [
         "English",
@@ -14528,8 +14528,8 @@
     "appid": 939850,
     "name": "The Dark Pictures Anthology: Man of Medan",
     "discovered_at": "2025-10-19 17:59:16",
-    "recommendations_total": 9348,
-    "recommendations_updated_at": "2026-11-13T19:57:20Z",
+    "recommendations_total": 9356,
+    "recommendations_updated_at": "2026-11-16T20:13:36Z",
     "localizations": {
       "supported": [
         "English",
@@ -14587,8 +14587,8 @@
     "appid": 945360,
     "name": "Among Us",
     "discovered_at": "2025-10-19 18:17:06",
-    "recommendations_total": 663577,
-    "recommendations_updated_at": "2026-11-13T19:57:22Z",
+    "recommendations_total": 663745,
+    "recommendations_updated_at": "2026-11-16T20:13:40Z",
     "localizations": {
       "supported": [
         "English",
@@ -14649,8 +14649,8 @@
     "appid": 952060,
     "name": "Resident Evil 3",
     "discovered_at": "2025-10-19 18:40:55",
-    "recommendations_total": 92373,
-    "recommendations_updated_at": "2026-11-13T19:57:25Z",
+    "recommendations_total": 92461,
+    "recommendations_updated_at": "2026-11-16T20:13:41Z",
     "localizations": {
       "supported": [
         "English",
@@ -14976,8 +14976,8 @@
     "appid": 990080,
     "name": "Hogwarts Legacy",
     "discovered_at": "2025-10-19 20:52:51",
-    "recommendations_total": 278724,
-    "recommendations_updated_at": "2026-11-13T20:31:02Z",
+    "recommendations_total": 278914,
+    "recommendations_updated_at": "2026-11-16T20:59:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -16573,8 +16573,8 @@
     "appid": 1174180,
     "name": "Red Dead Redemption 2",
     "discovered_at": "2025-10-20 08:24:06",
-    "recommendations_total": 861978,
-    "recommendations_updated_at": "2026-11-14T10:33:37Z",
+    "recommendations_total": 862597,
+    "recommendations_updated_at": "2026-11-16T22:44:03Z",
     "localizations": {
       "supported": [
         "English",
@@ -16635,8 +16635,8 @@
     "appid": 1178830,
     "name": "Bright Memory: Infinite",
     "discovered_at": "2025-10-20 08:43:15",
-    "recommendations_total": 36281,
-    "recommendations_updated_at": "2026-11-13T20:31:31Z",
+    "recommendations_total": 36302,
+    "recommendations_updated_at": "2026-11-16T21:00:37Z",
     "localizations": {
       "supported": [
         "English",
@@ -16743,7 +16743,7 @@
     "name": "Deathmatch Classic",
     "discovered_at": "2025-10-20 09:15:05",
     "recommendations_total": 2453,
-    "recommendations_updated_at": "2026-11-13T18:31:07Z",
+    "recommendations_updated_at": "2026-11-16T18:32:05Z",
     "localizations": {
       "supported": [
         "English",
@@ -16769,8 +16769,8 @@
     "appid": 21690,
     "name": "Resident Evil 5",
     "discovered_at": "2025-10-22 10:57:27",
-    "recommendations_total": 49962,
-    "recommendations_updated_at": "2026-11-13T20:39:16Z",
+    "recommendations_total": 50022,
+    "recommendations_updated_at": "2026-11-16T21:09:33Z",
     "localizations": {
       "supported": [
         "English",
@@ -17411,8 +17411,8 @@
     "appid": 1281590,
     "name": "The Dark Pictures Anthology: House of Ashes",
     "discovered_at": "2025-10-25 00:30:47",
-    "recommendations_total": 7490,
-    "recommendations_updated_at": "2026-11-13T20:31:44Z",
+    "recommendations_total": 7496,
+    "recommendations_updated_at": "2026-11-16T21:00:56Z",
     "localizations": {
       "supported": [
         "English",
@@ -18497,8 +18497,8 @@
     "appid": 1426210,
     "name": "It Takes Two",
     "discovered_at": "2025-10-25 08:55:51",
-    "recommendations_total": 221155,
-    "recommendations_updated_at": "2026-11-13T20:32:00Z",
+    "recommendations_total": 221259,
+    "recommendations_updated_at": "2026-11-16T21:01:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -18974,8 +18974,8 @@
     "appid": 1547000,
     "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
     "discovered_at": "2025-10-25 16:20:41",
-    "recommendations_total": 16719,
-    "recommendations_updated_at": "2026-11-14T11:37:24Z",
+    "recommendations_total": 16808,
+    "recommendations_updated_at": "2026-11-16T22:44:10Z",
     "localizations": {
       "supported": [
         "English",
@@ -19553,8 +19553,8 @@
     "appid": 1671210,
     "name": "DELTARUNE",
     "discovered_at": "2025-10-26 00:03:40",
-    "recommendations_total": 129903,
-    "recommendations_updated_at": "2026-11-13T19:40:10Z",
+    "recommendations_total": 130110,
+    "recommendations_updated_at": "2026-11-16T19:56:10Z",
     "localizations": {
       "supported": [
         "English",
@@ -19740,8 +19740,8 @@
     "appid": 1708010,
     "name": "The Expanse: A Telltale Series",
     "discovered_at": "2025-10-26 03:00:31",
-    "recommendations_total": 2420,
-    "recommendations_updated_at": "2026-11-13T20:32:22Z",
+    "recommendations_total": 2425,
+    "recommendations_updated_at": "2026-11-16T21:01:53Z",
     "localizations": {
       "supported": [
         "English",
@@ -19865,8 +19865,8 @@
     "appid": 1722860,
     "name": "Munchkin Digital",
     "discovered_at": "2025-10-26 03:58:14",
-    "recommendations_total": 1371,
-    "recommendations_updated_at": "2026-11-13T20:32:24Z",
+    "recommendations_total": 1372,
+    "recommendations_updated_at": "2026-11-16T21:01:55Z",
     "localizations": {
       "supported": [
         "English",
@@ -20022,8 +20022,8 @@
     "appid": 1755580,
     "name": "The Jackbox Party Starter",
     "discovered_at": "2025-10-26 06:03:43",
-    "recommendations_total": 417,
-    "recommendations_updated_at": "2026-11-13T20:32:27Z",
+    "recommendations_total": 419,
+    "recommendations_updated_at": "2026-11-16T21:02:00Z",
     "localizations": {
       "supported": [
         "English",
@@ -20769,8 +20769,8 @@
     "appid": 1931770,
     "name": "Chants of Sennaar",
     "discovered_at": "2025-10-26 17:03:59",
-    "recommendations_total": 31690,
-    "recommendations_updated_at": "2026-11-13T19:40:24Z",
+    "recommendations_total": 31727,
+    "recommendations_updated_at": "2026-11-16T19:56:25Z",
     "localizations": {
       "supported": [
         "English",
@@ -20842,8 +20842,8 @@
     "appid": 1934680,
     "name": "Age of Mythology: Retold",
     "discovered_at": "2025-10-26 17:16:00",
-    "recommendations_total": 21255,
-    "recommendations_updated_at": "2026-11-13T19:40:27Z",
+    "recommendations_total": 21266,
+    "recommendations_updated_at": "2026-11-16T19:56:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -20969,8 +20969,8 @@
     "appid": 1944430,
     "name": "Amnesia: The Bunker",
     "discovered_at": "2025-10-26 17:55:31",
-    "recommendations_total": 10709,
-    "recommendations_updated_at": "2026-11-13T20:32:35Z",
+    "recommendations_total": 10730,
+    "recommendations_updated_at": "2026-11-16T21:02:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -21285,8 +21285,8 @@
     "appid": 2001120,
     "name": "Split Fiction",
     "discovered_at": "2025-10-26 21:43:45",
-    "recommendations_total": 79760,
-    "recommendations_updated_at": "2026-11-13T20:32:38Z",
+    "recommendations_total": 79810,
+    "recommendations_updated_at": "2026-11-16T21:02:17Z",
     "localizations": {
       "supported": [
         "English",
@@ -21985,8 +21985,8 @@
     "appid": 2231450,
     "name": "Pizza Tower",
     "discovered_at": "2025-10-27 10:50:16",
-    "recommendations_total": 66897,
-    "recommendations_updated_at": "2026-11-13T20:32:46Z",
+    "recommendations_total": 66938,
+    "recommendations_updated_at": "2026-11-16T21:02:29Z",
     "localizations": {
       "supported": [
         "English",
@@ -22382,8 +22382,8 @@
     "appid": 2420110,
     "name": "Horizon Forbidden West™ Complete Edition",
     "discovered_at": "2025-10-27 22:47:42",
-    "recommendations_total": 20830,
-    "recommendations_updated_at": "2026-11-13T19:40:43Z",
+    "recommendations_total": 20845,
+    "recommendations_updated_at": "2026-11-16T19:56:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -22425,8 +22425,8 @@
     "appid": 2420660,
     "name": "Neva",
     "discovered_at": "2025-10-27 22:49:48",
-    "recommendations_total": 9631,
-    "recommendations_updated_at": "2026-11-13T19:40:46Z",
+    "recommendations_total": 9641,
+    "recommendations_updated_at": "2026-11-16T19:56:47Z",
     "localizations": {
       "supported": [
         "English",
@@ -22657,8 +22657,8 @@
     "appid": 2623190,
     "name": "The Elder Scrolls IV: Oblivion Remastered",
     "discovered_at": "2025-10-28 10:53:46",
-    "recommendations_total": 60168,
-    "recommendations_updated_at": "2026-11-13T19:41:06Z",
+    "recommendations_total": 60201,
+    "recommendations_updated_at": "2026-11-16T19:57:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -22963,8 +22963,8 @@
     "appid": 2741360,
     "name": "Valiant Hearts: Coming Home",
     "discovered_at": "2025-10-28 17:41:31",
-    "recommendations_total": 555,
-    "recommendations_updated_at": "2026-11-13T20:32:59Z",
+    "recommendations_total": 556,
+    "recommendations_updated_at": "2026-11-16T21:02:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -22999,8 +22999,8 @@
     "appid": 2751000,
     "name": "Prince of Persia The Lost Crown",
     "discovered_at": "2025-10-28 18:14:16",
-    "recommendations_total": 7293,
-    "recommendations_updated_at": "2026-11-13T20:33:02Z",
+    "recommendations_total": 7307,
+    "recommendations_updated_at": "2026-11-16T21:02:53Z",
     "localizations": {
       "supported": [
         "English",
@@ -23032,7 +23032,7 @@
     "name": "Marvel Rivals",
     "discovered_at": "2025-10-28 19:11:43",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-11-13T20:33:06Z",
+    "recommendations_updated_at": "2026-11-16T21:02:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -23832,8 +23832,8 @@
     "appid": 3156770,
     "name": "Witchfire",
     "discovered_at": "2025-10-29 18:07:52",
-    "recommendations_total": 17551,
-    "recommendations_updated_at": "2026-11-06T09:47:24Z",
+    "recommendations_total": 17611,
+    "recommendations_updated_at": "2026-11-16T09:55:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -23899,8 +23899,8 @@
     "appid": 3164500,
     "name": "Schedule I",
     "discovered_at": "2025-10-29 18:35:18",
-    "recommendations_total": 294558,
-    "recommendations_updated_at": "2026-11-13T20:33:20Z",
+    "recommendations_total": 294763,
+    "recommendations_updated_at": "2026-11-16T21:03:20Z",
     "localizations": {
       "supported": [
         "English"
@@ -24013,8 +24013,8 @@
     "appid": 3311740,
     "name": "The Cabin Factory",
     "discovered_at": "2025-10-30 03:00:57",
-    "recommendations_total": 3520,
-    "recommendations_updated_at": "2026-11-02T12:25:20Z",
+    "recommendations_total": 3541,
+    "recommendations_updated_at": "2026-11-16T01:16:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -24044,8 +24044,8 @@
     "appid": 3334550,
     "name": "Cursed Digicam | 呪われたデジカメ",
     "discovered_at": "2025-10-30 04:20:34",
-    "recommendations_total": 617,
-    "recommendations_updated_at": "2026-11-02T12:46:53Z",
+    "recommendations_total": 618,
+    "recommendations_updated_at": "2026-11-16T01:45:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -24198,8 +24198,8 @@
     "appid": 3690010,
     "name": "Who's at the door?",
     "discovered_at": "2025-10-30 23:54:29",
-    "recommendations_total": 1512,
-    "recommendations_updated_at": "2026-11-02T19:13:48Z",
+    "recommendations_total": 1521,
+    "recommendations_updated_at": "2026-11-16T08:27:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -24309,8 +24309,8 @@
     "appid": 21010,
     "name": "Watchmen: The End is Nigh",
     "discovered_at": "2025-10-31 22:26:28",
-    "recommendations_total": 1048,
-    "recommendations_updated_at": "2026-11-13T20:38:54Z",
+    "recommendations_total": 1050,
+    "recommendations_updated_at": "2026-11-16T21:09:12Z",
     "localizations": {
       "supported": [
         "English",
@@ -24333,7 +24333,7 @@
     "name": "Watchmen: The End is Nigh Part 2",
     "discovered_at": "2025-10-31 22:26:40",
     "recommendations_total": 462,
-    "recommendations_updated_at": "2026-11-13T20:38:57Z",
+    "recommendations_updated_at": "2026-11-16T21:09:14Z",
     "localizations": {
       "supported": [
         "English",
@@ -24516,7 +24516,7 @@
     "name": "Overlord II",
     "discovered_at": "2025-11-11 06:18:22",
     "recommendations_total": 4026,
-    "recommendations_updated_at": "2026-11-13T20:37:08Z",
+    "recommendations_updated_at": "2026-11-16T21:07:25Z",
     "localizations": {
       "supported": [
         "English",
@@ -24539,7 +24539,7 @@
     "name": "Dark Sector",
     "discovered_at": "2025-11-11 06:50:29",
     "recommendations_total": 688,
-    "recommendations_updated_at": "2026-11-13T20:40:10Z",
+    "recommendations_updated_at": "2026-11-16T21:10:29Z",
     "localizations": {
       "supported": [
         "English"
@@ -24662,8 +24662,8 @@
     "appid": 1546990,
     "name": "Grand Theft Auto: Vice City – The Definitive Edition",
     "discovered_at": "2025-11-15 15:04:09",
-    "recommendations_total": 9631,
-    "recommendations_updated_at": "2026-11-14T11:37:23Z",
+    "recommendations_total": 9688,
+    "recommendations_updated_at": "2026-11-16T22:44:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -24693,8 +24693,8 @@
     "appid": 1115690,
     "name": "Yes, Your Grace",
     "discovered_at": "2025-11-16 07:53:05",
-    "recommendations_total": 12752,
-    "recommendations_updated_at": "2026-11-13T20:31:21Z",
+    "recommendations_total": 12772,
+    "recommendations_updated_at": "2026-11-16T21:00:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -24860,8 +24860,8 @@
     "appid": 274190,
     "name": "Broforce",
     "discovered_at": "2025-11-19 17:13:53",
-    "recommendations_total": 49643,
-    "recommendations_updated_at": "2026-11-13T21:00:09Z",
+    "recommendations_total": 49647,
+    "recommendations_updated_at": "2026-11-16T21:44:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -24941,8 +24941,8 @@
     "appid": 3660220,
     "name": "Syberia - Remastered",
     "discovered_at": "2025-11-22 13:01:26",
-    "recommendations_total": 749,
-    "recommendations_updated_at": "2026-11-02T18:42:00Z",
+    "recommendations_total": 755,
+    "recommendations_updated_at": "2026-11-16T07:55:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -25076,7 +25076,7 @@
     "name": "Where Winds Meet",
     "discovered_at": "2025-12-04 17:19:26",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-11-02T16:52:15Z",
+    "recommendations_updated_at": "2026-11-16T06:07:02Z",
     "localizations": {
       "supported": [
         "English",
@@ -25139,8 +25139,8 @@
     "appid": 13560,
     "name": "Tom Clancy's Splinter Cell®",
     "discovered_at": "2025-12-08 04:28:08",
-    "recommendations_total": 3906,
-    "recommendations_updated_at": "2026-11-13T20:37:22Z",
+    "recommendations_total": 3910,
+    "recommendations_updated_at": "2026-11-16T21:07:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -25194,7 +25194,7 @@
     "name": "Kingdom: Classic",
     "discovered_at": "2025-12-13 02:52:22",
     "recommendations_total": 5979,
-    "recommendations_updated_at": "2026-11-13T19:50:40Z",
+    "recommendations_updated_at": "2026-11-16T20:06:49Z",
     "localizations": {
       "supported": [
         "English",
@@ -25308,8 +25308,8 @@
     "appid": 1194630,
     "name": "The Dark Pictures Anthology: Little Hope",
     "discovered_at": "2025-12-15 06:51:35",
-    "recommendations_total": 7317,
-    "recommendations_updated_at": "2026-11-13T20:31:34Z",
+    "recommendations_total": 7323,
+    "recommendations_updated_at": "2026-11-16T21:00:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -25359,8 +25359,8 @@
     "appid": 412830,
     "name": "STEINS;GATE",
     "discovered_at": "2025-12-16 14:01:33",
-    "recommendations_total": 25657,
-    "recommendations_updated_at": "2026-11-13T22:28:32Z",
+    "recommendations_total": 25681,
+    "recommendations_updated_at": "2026-11-16T22:50:53Z",
     "localizations": {
       "supported": [
         "English",
@@ -25381,8 +25381,8 @@
     "appid": 3830,
     "name": "Psychonauts",
     "discovered_at": "2025-12-17 08:39:54",
-    "recommendations_total": 12465,
-    "recommendations_updated_at": "2026-11-13T20:34:26Z",
+    "recommendations_total": 12470,
+    "recommendations_updated_at": "2026-11-16T21:04:38Z",
     "localizations": {
       "supported": [
         "English",
@@ -25590,8 +25590,8 @@
     "appid": 3917090,
     "name": "Assetto Corsa Rally",
     "discovered_at": "2026-01-12 22:44:33",
-    "recommendations_total": 9102,
-    "recommendations_updated_at": "2026-11-02T21:35:42Z",
+    "recommendations_total": 9205,
+    "recommendations_updated_at": "2026-11-16T10:47:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -25645,8 +25645,8 @@
     "appid": 208650,
     "name": "Batman™: Arkham Knight",
     "discovered_at": "2026-01-13 06:48:10",
-    "recommendations_total": 112789,
-    "recommendations_updated_at": "2026-11-13T19:45:44Z",
+    "recommendations_total": 112851,
+    "recommendations_updated_at": "2026-11-16T20:01:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -25706,8 +25706,8 @@
     "appid": 3669570,
     "name": "Alchemy Factory",
     "discovered_at": "2026-01-13 13:55:06",
-    "recommendations_total": 2826,
-    "recommendations_updated_at": "2026-11-02T18:51:06Z",
+    "recommendations_total": 2878,
+    "recommendations_updated_at": "2026-11-16T08:04:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -25931,8 +25931,8 @@
     "appid": 329440,
     "name": "Sonic Lost World",
     "discovered_at": "2026-01-15 01:37:17",
-    "recommendations_total": 4173,
-    "recommendations_updated_at": "2026-11-13T22:26:24Z",
+    "recommendations_total": 4176,
+    "recommendations_updated_at": "2026-11-16T22:47:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -26107,8 +26107,8 @@
     "appid": 584400,
     "name": "Sonic Mania",
     "discovered_at": "2026-01-18 15:07:15",
-    "recommendations_total": 24551,
-    "recommendations_updated_at": "2026-11-13T22:31:21Z",
+    "recommendations_total": 24565,
+    "recommendations_updated_at": "2026-11-16T22:55:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -26303,8 +26303,8 @@
     "appid": 242640,
     "name": "Styx: Master of Shadows",
     "discovered_at": "2026-01-20 19:34:42",
-    "recommendations_total": 9713,
-    "recommendations_updated_at": "2026-11-13T20:48:26Z",
+    "recommendations_total": 9721,
+    "recommendations_updated_at": "2026-11-16T21:18:22Z",
     "localizations": {
       "supported": [
         "English",
@@ -26355,8 +26355,8 @@
     "appid": 383150,
     "name": "Dead Island Definitive Edition",
     "discovered_at": "2026-01-22 03:03:12",
-    "recommendations_total": 24297,
-    "recommendations_updated_at": "2026-11-13T19:51:01Z",
+    "recommendations_total": 24299,
+    "recommendations_updated_at": "2026-11-16T20:07:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -26382,7 +26382,7 @@
     "name": "Rustler (Grand Theft Horse)",
     "discovered_at": "2026-01-22 13:31:16",
     "recommendations_total": 1238,
-    "recommendations_updated_at": "2026-11-13T19:56:47Z",
+    "recommendations_updated_at": "2026-11-16T20:13:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -26436,8 +26436,8 @@
     "appid": 405830,
     "name": "Turok 2: Seeds of Evil",
     "discovered_at": "2026-01-30 00:38:14",
-    "recommendations_total": 2411,
-    "recommendations_updated_at": "2026-11-13T22:28:19Z",
+    "recommendations_total": 2415,
+    "recommendations_updated_at": "2026-11-16T22:50:35Z",
     "localizations": {
       "supported": [
         "English",
@@ -26545,8 +26545,8 @@
     "appid": 502820,
     "name": "Batman™: Arkham VR",
     "discovered_at": "2026-02-04 03:26:46",
-    "recommendations_total": 1764,
-    "recommendations_updated_at": "2026-11-13T22:30:16Z",
+    "recommendations_total": 1766,
+    "recommendations_updated_at": "2026-11-16T22:53:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -26612,7 +26612,7 @@
     "name": "Legend of Grimrock",
     "discovered_at": "2026-02-05 12:44:22",
     "recommendations_total": 4869,
-    "recommendations_updated_at": "2026-11-13T20:44:14Z",
+    "recommendations_updated_at": "2026-11-16T21:14:29Z",
     "localizations": {
       "supported": [
         "English"
@@ -26682,8 +26682,8 @@
     "appid": 22230,
     "name": "Rock of Ages",
     "discovered_at": "2026-02-10 14:19:37",
-    "recommendations_total": 3393,
-    "recommendations_updated_at": "2026-11-13T19:44:03Z",
+    "recommendations_total": 3395,
+    "recommendations_updated_at": "2026-11-16T20:00:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -26708,7 +26708,7 @@
     "name": "Erma: The Game",
     "discovered_at": "2026-02-11 16:40:02",
     "recommendations_total": 227,
-    "recommendations_updated_at": "2026-11-02T22:31:24Z",
+    "recommendations_updated_at": "2026-11-16T11:41:44Z",
     "localizations": {
       "supported": [
         "English"
@@ -27053,8 +27053,8 @@
     "appid": 3942480,
     "name": "The NOexistenceN of Morphean Paradox : The Forest of Silver Shallots",
     "discovered_at": "2026-02-24 06:43:15",
-    "recommendations_total": 1756,
-    "recommendations_updated_at": "2026-11-02T21:55:30Z",
+    "recommendations_total": 1761,
+    "recommendations_updated_at": "2026-11-16T11:06:44Z",
     "localizations": {
       "supported": [
         "Simplified Chinese",
@@ -27127,8 +27127,8 @@
     "appid": 249130,
     "name": "LEGO® Marvel™ Super Heroes",
     "discovered_at": "2026-02-26 05:31:41",
-    "recommendations_total": 23186,
-    "recommendations_updated_at": "2026-11-13T20:49:17Z",
+    "recommendations_total": 23199,
+    "recommendations_updated_at": "2026-11-16T21:41:53Z",
     "localizations": {
       "supported": [
         "English",
@@ -27257,8 +27257,8 @@
     "appid": 1567020,
     "name": "The Dark Pictures Anthology: The Devil in Me",
     "discovered_at": "2026-03-06 09:16:37",
-    "recommendations_total": 3851,
-    "recommendations_updated_at": "2026-11-13T20:32:16Z",
+    "recommendations_total": 3854,
+    "recommendations_updated_at": "2026-11-16T21:01:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -27313,8 +27313,8 @@
     "appid": 3020,
     "name": "Call of Juarez",
     "discovered_at": "2026-03-06 21:08:12",
-    "recommendations_total": 3798,
-    "recommendations_updated_at": "2026-11-13T20:34:12Z",
+    "recommendations_total": 3801,
+    "recommendations_updated_at": "2026-11-16T21:04:24Z",
     "localizations": {
       "supported": [
         "English",
@@ -27337,7 +27337,7 @@
     "name": "Shadow Warrior 2",
     "discovered_at": "2026-03-06 23:45:52",
     "recommendations_total": 24201,
-    "recommendations_updated_at": "2026-11-13T22:26:14Z",
+    "recommendations_updated_at": "2026-11-16T22:47:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -27540,8 +27540,8 @@
     "appid": 238010,
     "name": "Deus Ex: Human Revolution - Director's Cut",
     "discovered_at": "2026-03-10 17:37:15",
-    "recommendations_total": 25610,
-    "recommendations_updated_at": "2026-11-13T19:47:08Z",
+    "recommendations_total": 25615,
+    "recommendations_updated_at": "2026-11-16T20:03:06Z",
     "localizations": {
       "supported": [
         "English",
@@ -27665,8 +27665,8 @@
     "appid": 236430,
     "name": "DARK SOULS™ II",
     "discovered_at": "2026-03-13 04:04:13",
-    "recommendations_total": 33519,
-    "recommendations_updated_at": "2026-11-13T20:47:32Z",
+    "recommendations_total": 33527,
+    "recommendations_updated_at": "2026-11-16T21:17:49Z",
     "localizations": {
       "supported": [
         "English",
@@ -27771,8 +27771,8 @@
     "appid": 537800,
     "name": "Bomber Crew",
     "discovered_at": "2026-03-16 01:32:04",
-    "recommendations_total": 10478,
-    "recommendations_updated_at": "2026-11-13T19:53:49Z",
+    "recommendations_total": 10482,
+    "recommendations_updated_at": "2026-11-16T20:10:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -27868,8 +27868,8 @@
     "appid": 1608450,
     "name": "Hellslave",
     "discovered_at": "2026-03-21 11:18:39",
-    "recommendations_total": 717,
-    "recommendations_updated_at": "2026-11-13T20:32:18Z",
+    "recommendations_total": 718,
+    "recommendations_updated_at": "2026-11-16T21:01:46Z",
     "localizations": {
       "supported": [
         "English",
@@ -27891,8 +27891,8 @@
     "appid": 399810,
     "name": "Call of Cthulhu®",
     "discovered_at": "2026-03-21 21:49:45",
-    "recommendations_total": 11080,
-    "recommendations_updated_at": "2026-11-13T22:28:10Z",
+    "recommendations_total": 11090,
+    "recommendations_updated_at": "2026-11-16T22:50:21Z",
     "localizations": {
       "supported": [
         "English",
@@ -27948,8 +27948,8 @@
     "appid": 3862670,
     "name": "Shelldiver",
     "discovered_at": "2026-03-23 15:37:43",
-    "recommendations_total": 17685,
-    "recommendations_updated_at": "2026-11-02T21:11:17Z",
+    "recommendations_total": 17811,
+    "recommendations_updated_at": "2026-11-16T10:24:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -28178,8 +28178,8 @@
     "appid": 3772960,
     "name": "UMIGARI | ウミガリ",
     "discovered_at": "2026-03-28 11:37:58",
-    "recommendations_total": 1061,
-    "recommendations_updated_at": "2026-11-02T20:29:10Z",
+    "recommendations_total": 1063,
+    "recommendations_updated_at": "2026-11-16T09:41:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -28321,8 +28321,8 @@
     "appid": 3280350,
     "name": "DEATH STRANDING 2: ON THE BEACH",
     "discovered_at": "2026-03-31 13:41:20",
-    "recommendations_total": 16175,
-    "recommendations_updated_at": "2026-11-13T19:41:44Z",
+    "recommendations_total": 16209,
+    "recommendations_updated_at": "2026-11-16T19:57:45Z",
     "localizations": {
       "supported": [
         "English",
@@ -28389,8 +28389,8 @@
     "appid": 606160,
     "name": "ROUTINE",
     "discovered_at": "2026-04-02 23:31:51",
-    "recommendations_total": 7852,
-    "recommendations_updated_at": "2026-11-13T22:31:39Z",
+    "recommendations_total": 7877,
+    "recommendations_updated_at": "2026-11-16T22:55:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -28435,8 +28435,8 @@
     "appid": 2624870,
     "name": "Life is Strange: Reunion",
     "discovered_at": "2026-04-03 00:08:01",
-    "recommendations_total": 4751,
-    "recommendations_updated_at": "2026-11-13T19:41:07Z",
+    "recommendations_total": 4755,
+    "recommendations_updated_at": "2026-11-16T19:57:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -28641,8 +28641,8 @@
     "appid": 1466060,
     "name": "Tainted Grail: The Fall of Avalon",
     "discovered_at": "2026-04-08 18:06:57",
-    "recommendations_total": 34533,
-    "recommendations_updated_at": "2026-11-13T19:40:03Z",
+    "recommendations_total": 34571,
+    "recommendations_updated_at": "2026-11-16T19:56:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -28849,8 +28849,8 @@
     "appid": 307780,
     "name": "Mortal Kombat X",
     "discovered_at": "2026-04-21 01:04:14",
-    "recommendations_total": 39732,
-    "recommendations_updated_at": "2026-11-13T19:49:28Z",
+    "recommendations_total": 39746,
+    "recommendations_updated_at": "2026-11-16T20:05:27Z",
     "localizations": {
       "supported": [
         "English",
@@ -29010,8 +29010,8 @@
     "appid": 678950,
     "name": "DRAGON BALL FighterZ",
     "discovered_at": "2026-04-28 13:28:59",
-    "recommendations_total": 55349,
-    "recommendations_updated_at": "2026-11-13T22:32:46Z",
+    "recommendations_total": 55360,
+    "recommendations_updated_at": "2026-11-16T22:57:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -29079,8 +29079,8 @@
     "appid": 4197610,
     "name": "Librarian: Tidy Up the Arcane Library!",
     "discovered_at": "2026-05-27 10:19:07",
-    "recommendations_total": 26209,
-    "recommendations_updated_at": "2026-11-02T23:02:24Z",
+    "recommendations_total": 26509,
+    "recommendations_updated_at": "2026-11-16T12:11:29Z",
     "localizations": {
       "supported": [
         "English",
@@ -29101,8 +29101,8 @@
     "appid": 4157130,
     "name": "Dark Pals: The 1st Floor",
     "discovered_at": "2026-05-27 12:43:00",
-    "recommendations_total": 748,
-    "recommendations_updated_at": "2026-11-02T22:32:22Z",
+    "recommendations_total": 754,
+    "recommendations_updated_at": "2026-11-16T11:42:36Z",
     "localizations": {
       "supported": [
         "English",
@@ -29208,7 +29208,7 @@
     "name": "Shotgun Cop Man",
     "discovered_at": "2026-05-30 06:18:38",
     "recommendations_total": 673,
-    "recommendations_updated_at": "2026-11-13T20:33:12Z",
+    "recommendations_updated_at": "2026-11-16T21:03:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -29482,8 +29482,8 @@
     "appid": 260190,
     "name": "Marc Eckō's Getting Up: Contents Under Pressure",
     "discovered_at": "2026-06-06 11:36:15",
-    "recommendations_total": 2338,
-    "recommendations_updated_at": "2026-11-13T20:50:21Z",
+    "recommendations_total": 2341,
+    "recommendations_updated_at": "2026-11-16T21:42:59Z",
     "localizations": {
       "supported": [
         "English"
@@ -29501,8 +29501,8 @@
     "appid": 246620,
     "name": "Plague Inc: Evolved",
     "discovered_at": "2026-06-06 12:15:10",
-    "recommendations_total": 60002,
-    "recommendations_updated_at": "2026-11-13T20:49:09Z",
+    "recommendations_total": 60053,
+    "recommendations_updated_at": "2026-11-16T21:41:45Z",
     "localizations": {
       "supported": [
         "English",
@@ -29534,8 +29534,8 @@
     "appid": 225540,
     "name": "Just Cause™ 3",
     "discovered_at": "2026-06-06 12:54:12",
-    "recommendations_total": 104637,
-    "recommendations_updated_at": "2026-11-13T19:46:29Z",
+    "recommendations_total": 104656,
+    "recommendations_updated_at": "2026-11-16T20:02:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -29562,8 +29562,8 @@
     "appid": 208580,
     "name": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
     "discovered_at": "2026-06-06 13:25:48",
-    "recommendations_total": 22520,
-    "recommendations_updated_at": "2026-11-13T20:44:25Z",
+    "recommendations_total": 22526,
+    "recommendations_updated_at": "2026-11-16T21:14:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -29604,8 +29604,8 @@
     "appid": 32470,
     "name": "STAR WARS™ Empire at War - Gold Pack",
     "discovered_at": "2026-06-06 15:02:27",
-    "recommendations_total": 36359,
-    "recommendations_updated_at": "2026-11-13T20:40:33Z",
+    "recommendations_total": 36367,
+    "recommendations_updated_at": "2026-11-16T21:10:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -29628,7 +29628,7 @@
     "name": "Velvet Assassin",
     "discovered_at": "2026-06-06 15:27:45",
     "recommendations_total": 2058,
-    "recommendations_updated_at": "2026-11-13T20:38:07Z",
+    "recommendations_updated_at": "2026-11-16T21:08:24Z",
     "localizations": {
       "supported": [
         "English",
@@ -29647,8 +29647,8 @@
     "appid": 4304930,
     "name": "Chef Knight",
     "discovered_at": "2026-06-14 01:45:36",
-    "recommendations_total": 2899,
-    "recommendations_updated_at": "2026-11-03T00:20:17Z",
+    "recommendations_total": 2944,
+    "recommendations_updated_at": "2026-11-16T13:26:56Z",
     "localizations": {
       "supported": [
         "English",
@@ -29706,8 +29706,8 @@
     "appid": 1373090,
     "name": "Yes, Your Grace 2: Snowfall",
     "discovered_at": "2026-06-19 05:56:17",
-    "recommendations_total": 1528,
-    "recommendations_updated_at": "2026-11-13T20:31:54Z",
+    "recommendations_total": 1530,
+    "recommendations_updated_at": "2026-11-16T21:01:10Z",
     "localizations": {
       "supported": [
         "English",
@@ -29843,8 +29843,8 @@
     "appid": 572890,
     "name": "Pikuniku",
     "discovered_at": "2026-06-21 19:35:16",
-    "recommendations_total": 10220,
-    "recommendations_updated_at": "2026-11-13T22:31:13Z",
+    "recommendations_total": 10226,
+    "recommendations_updated_at": "2026-11-16T22:54:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -29872,8 +29872,8 @@
     "appid": 24790,
     "name": "Command & Conquer 3 Tiberium Wars™",
     "discovered_at": "2026-06-22 20:00:44",
-    "recommendations_total": 8871,
-    "recommendations_updated_at": "2026-11-13T20:40:01Z",
+    "recommendations_total": 8873,
+    "recommendations_updated_at": "2026-11-16T21:10:19Z",
     "localizations": {
       "supported": [
         "Dutch",
@@ -29931,8 +29931,8 @@
     "appid": 4704690,
     "name": "MECCHA CHAMELEON",
     "discovered_at": "2026-06-26 19:18:18",
-    "recommendations_total": 81813,
-    "recommendations_updated_at": "2026-11-13T20:33:25Z",
+    "recommendations_total": 81937,
+    "recommendations_updated_at": "2026-11-16T21:03:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -29962,8 +29962,8 @@
     "appid": 2582320,
     "name": "Mixtape",
     "discovered_at": "2026-06-28 21:42:20",
-    "recommendations_total": 7625,
-    "recommendations_updated_at": "2026-11-13T19:41:02Z",
+    "recommendations_total": 7639,
+    "recommendations_updated_at": "2026-11-16T19:57:03Z",
     "localizations": {
       "supported": [
         "English",
@@ -30113,8 +30113,8 @@
     "appid": 435120,
     "name": "Rusty Lake Hotel",
     "discovered_at": "2026-07-12 13:00:12",
-    "recommendations_total": 7440,
-    "recommendations_updated_at": "2026-11-13T22:29:07Z",
+    "recommendations_total": 7444,
+    "recommendations_updated_at": "2026-11-16T22:51:46Z",
     "localizations": {
       "supported": [
         "English",
@@ -30170,8 +30170,8 @@
     "appid": 532110,
     "name": "Rusty Lake: Roots",
     "discovered_at": "2026-07-12 18:16:18",
-    "recommendations_total": 8550,
-    "recommendations_updated_at": "2026-11-13T22:30:30Z",
+    "recommendations_total": 8557,
+    "recommendations_updated_at": "2026-11-16T22:53:49Z",
     "localizations": {
       "supported": [
         "English",
@@ -30202,8 +30202,8 @@
     "appid": 20,
     "name": "Team Fortress Classic",
     "discovered_at": "2026-07-12 20:07:14",
-    "recommendations_total": 7093,
-    "recommendations_updated_at": "2026-11-13T18:31:03Z",
+    "recommendations_total": 7095,
+    "recommendations_updated_at": "2026-11-16T18:32:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -30230,7 +30230,7 @@
     "name": "Venetica - Gold Edition",
     "discovered_at": "2026-07-13 03:35:19",
     "recommendations_total": 698,
-    "recommendations_updated_at": "2026-11-13T22:26:38Z",
+    "recommendations_updated_at": "2026-11-16T22:48:03Z",
     "localizations": {
       "supported": [
         "English",
@@ -30252,8 +30252,8 @@
     "appid": 9010,
     "name": "Return to Castle Wolfenstein",
     "discovered_at": "2026-07-13 04:06:15",
-    "recommendations_total": 8077,
-    "recommendations_updated_at": "2026-11-13T20:36:01Z",
+    "recommendations_total": 8081,
+    "recommendations_updated_at": "2026-11-16T21:06:18Z",
     "localizations": {
       "supported": [
         "English"
@@ -30328,8 +30328,8 @@
     "appid": 7000,
     "name": "Tomb Raider: Legend",
     "discovered_at": "2026-07-13 09:36:28",
-    "recommendations_total": 5510,
-    "recommendations_updated_at": "2026-11-13T20:35:29Z",
+    "recommendations_total": 5516,
+    "recommendations_updated_at": "2026-11-16T21:05:46Z",
     "localizations": {
       "supported": [
         "English",
@@ -30376,7 +30376,7 @@
     "name": "Control, I'm Not Coming Back",
     "discovered_at": "2026-07-14 21:20:10",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-11-03T04:06:36Z",
+    "recommendations_updated_at": "2026-11-16T17:12:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -31028,8 +31028,8 @@
     "appid": 2642760,
     "name": "Back to Hearth",
     "discovered_at": "2026-07-19 16:43:42",
-    "recommendations_total": 358,
-    "recommendations_updated_at": "2026-11-06T09:46:55Z",
+    "recommendations_total": 359,
+    "recommendations_updated_at": "2026-11-16T09:54:39Z",
     "localizations": {
       "supported": [
         "English",
@@ -31661,8 +31661,8 @@
     "appid": 2124490,
     "name": "SILENT HILL 2",
     "discovered_at": "2026-07-19 20:52:37",
-    "recommendations_total": 44853,
-    "recommendations_updated_at": "2026-11-15T19:45:49Z",
+    "recommendations_total": 44860,
+    "recommendations_updated_at": "2026-11-16T09:53:45Z",
     "localizations": {
       "supported": [
         "English",
@@ -31726,8 +31726,8 @@
     "appid": 2101960,
     "name": "Cronos: The New Dawn",
     "discovered_at": "2026-07-19 21:00:49",
-    "recommendations_total": 8161,
-    "recommendations_updated_at": "2026-11-06T09:45:54Z",
+    "recommendations_total": 8255,
+    "recommendations_updated_at": "2026-11-16T09:53:37Z",
     "localizations": {
       "supported": [
         "English",
@@ -31795,7 +31795,7 @@
     "name": "Shatterline",
     "discovered_at": "2026-07-19 21:06:11",
     "recommendations_total": 0,
-    "recommendations_updated_at": "2026-11-06T09:45:50Z",
+    "recommendations_updated_at": "2026-11-16T09:53:32Z",
     "localizations": {
       "supported": [
         "English",
@@ -31832,8 +31832,8 @@
     "appid": 2061230,
     "name": "Chasm: The Rift",
     "discovered_at": "2026-07-19 21:17:38",
-    "recommendations_total": 481,
-    "recommendations_updated_at": "2026-11-06T09:45:45Z",
+    "recommendations_total": 483,
+    "recommendations_updated_at": "2026-11-16T09:53:27Z",
     "localizations": {
       "supported": [
         "English",
@@ -32037,8 +32037,8 @@
     "appid": 1604030,
     "name": "V Rising",
     "discovered_at": "2026-07-20 00:43:14",
-    "recommendations_total": 111174,
-    "recommendations_updated_at": "2026-11-10T23:50:19Z",
+    "recommendations_total": 111221,
+    "recommendations_updated_at": "2026-11-16T09:52:35Z",
     "localizations": {
       "supported": [
         "English",
@@ -32113,8 +32113,8 @@
     "appid": 1549690,
     "name": "SPRAWL",
     "discovered_at": "2026-07-20 01:08:57",
-    "recommendations_total": 2118,
-    "recommendations_updated_at": "2026-11-06T09:44:41Z",
+    "recommendations_total": 2155,
+    "recommendations_updated_at": "2026-11-16T09:52:23Z",
     "localizations": {
       "supported": [
         "English",
@@ -32229,8 +32229,8 @@
     "appid": 1458140,
     "name": "Pacific Drive",
     "discovered_at": "2026-07-20 01:43:04",
-    "recommendations_total": 21851,
-    "recommendations_updated_at": "2026-11-06T09:44:31Z",
+    "recommendations_total": 21933,
+    "recommendations_updated_at": "2026-11-16T09:52:14Z",
     "localizations": {
       "supported": [
         "English",
@@ -32658,7 +32658,7 @@
     "name": "Progressbar95",
     "discovered_at": "2026-07-20 02:32:35",
     "recommendations_total": 3514,
-    "recommendations_updated_at": "2026-11-06T09:44:17Z",
+    "recommendations_updated_at": "2026-11-16T09:51:59Z",
     "localizations": {
       "supported": [
         "English",
@@ -32700,8 +32700,8 @@
     "appid": 1291340,
     "name": "Townscaper",
     "discovered_at": "2026-07-20 02:36:06",
-    "recommendations_total": 20131,
-    "recommendations_updated_at": "2026-11-06T09:44:15Z",
+    "recommendations_total": 20137,
+    "recommendations_updated_at": "2026-11-16T09:51:56Z",
     "localizations": {
       "supported": [
         "English",
@@ -32769,8 +32769,8 @@
     "appid": 1182900,
     "name": "A Plague Tale: Requiem",
     "discovered_at": "2026-07-20 03:11:50",
-    "recommendations_total": 21531,
-    "recommendations_updated_at": "2026-11-06T09:43:58Z",
+    "recommendations_total": 21676,
+    "recommendations_updated_at": "2026-11-16T09:51:41Z",
     "localizations": {
       "supported": [
         "English",
@@ -32916,8 +32916,8 @@
     "appid": 1139900,
     "name": "Ghostrunner",
     "discovered_at": "2026-07-20 03:32:22",
-    "recommendations_total": 47064,
-    "recommendations_updated_at": "2026-11-06T09:43:53Z",
+    "recommendations_total": 47087,
+    "recommendations_updated_at": "2026-11-16T09:51:35Z",
     "localizations": {
       "supported": [
         "English",
@@ -33050,8 +33050,8 @@
     "appid": 1063660,
     "name": "Bendy and the Dark Revival",
     "discovered_at": "2026-07-20 04:00:38",
-    "recommendations_total": 14843,
-    "recommendations_updated_at": "2026-11-06T09:43:47Z",
+    "recommendations_total": 14914,
+    "recommendations_updated_at": "2026-11-16T09:51:27Z",
     "localizations": {
       "supported": [
         "English",
@@ -33179,8 +33179,8 @@
     "appid": 731040,
     "name": "The Invincible",
     "discovered_at": "2026-07-20 05:39:41",
-    "recommendations_total": 10551,
-    "recommendations_updated_at": "2026-11-06T09:43:15Z",
+    "recommendations_total": 10679,
+    "recommendations_updated_at": "2026-11-16T09:50:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -33231,8 +33231,8 @@
     "appid": 692890,
     "name": "Roboquest",
     "discovered_at": "2026-07-20 05:51:09",
-    "recommendations_total": 19315,
-    "recommendations_updated_at": "2026-11-06T09:43:05Z",
+    "recommendations_total": 19343,
+    "recommendations_updated_at": "2026-11-16T09:50:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -33661,8 +33661,8 @@
     "appid": 464060,
     "name": "RUINER",
     "discovered_at": "2026-07-20 06:41:10",
-    "recommendations_total": 10414,
-    "recommendations_updated_at": "2026-11-06T09:42:20Z",
+    "recommendations_total": 10422,
+    "recommendations_updated_at": "2026-11-16T09:49:59Z",
     "localizations": {
       "supported": [
         "English",
@@ -33871,8 +33871,8 @@
     "appid": 412020,
     "name": "Metro Exodus",
     "discovered_at": "2026-07-20 06:50:35",
-    "recommendations_total": 118932,
-    "recommendations_updated_at": "2026-11-06T09:42:15Z",
+    "recommendations_total": 119121,
+    "recommendations_updated_at": "2026-11-16T09:49:55Z",
     "localizations": {
       "supported": [
         "English",
@@ -33986,8 +33986,8 @@
     "appid": 362890,
     "name": "Black Mesa",
     "discovered_at": "2026-07-20 07:00:01",
-    "recommendations_total": 135426,
-    "recommendations_updated_at": "2026-11-06T09:42:10Z",
+    "recommendations_total": 135606,
+    "recommendations_updated_at": "2026-11-16T09:49:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -34181,8 +34181,8 @@
     "appid": 333420,
     "name": "Cossacks 3",
     "discovered_at": "2026-07-20 07:05:01",
-    "recommendations_total": 12494,
-    "recommendations_updated_at": "2026-11-06T09:42:04Z",
+    "recommendations_total": 12507,
+    "recommendations_updated_at": "2026-11-16T09:49:42Z",
     "localizations": {
       "supported": [
         "English",
@@ -34237,8 +34237,8 @@
     "appid": 305620,
     "name": "The Long Dark",
     "discovered_at": "2026-07-20 07:08:32",
-    "recommendations_total": 112708,
-    "recommendations_updated_at": "2026-11-06T09:41:59Z",
+    "recommendations_total": 112883,
+    "recommendations_updated_at": "2026-11-16T09:49:37Z",
     "localizations": {
       "supported": [
         "English",
@@ -34456,8 +34456,8 @@
     "appid": 227300,
     "name": "Euro Truck Simulator 2",
     "discovered_at": "2026-07-20 07:15:22",
-    "recommendations_total": 793587,
-    "recommendations_updated_at": "2026-11-06T09:41:35Z",
+    "recommendations_total": 796102,
+    "recommendations_updated_at": "2026-11-16T09:49:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -34593,8 +34593,8 @@
     "appid": 115200,
     "name": "Cossacks II: Napoleonic Wars",
     "discovered_at": "2026-07-20 07:17:07",
-    "recommendations_total": 573,
-    "recommendations_updated_at": "2026-11-06T09:41:30Z",
+    "recommendations_total": 574,
+    "recommendations_updated_at": "2026-11-16T09:49:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -34692,8 +34692,8 @@
     "appid": 41700,
     "name": "S.T.A.L.K.E.R.: Call of Pripyat",
     "discovered_at": "2026-07-20 07:17:57",
-    "recommendations_total": 25024,
-    "recommendations_updated_at": "2026-11-06T09:41:26Z",
+    "recommendations_total": 25035,
+    "recommendations_updated_at": "2026-11-16T09:49:03Z",
     "localizations": {
       "supported": [
         "German",
@@ -34804,8 +34804,8 @@
     "appid": 20510,
     "name": "S.T.A.L.K.E.R.: Clear Sky",
     "discovered_at": "2026-07-20 07:18:44",
-    "recommendations_total": 17754,
-    "recommendations_updated_at": "2026-11-06T09:41:21Z",
+    "recommendations_total": 17759,
+    "recommendations_updated_at": "2026-11-16T09:48:59Z",
     "localizations": {
       "supported": [
         "English",
@@ -34848,8 +34848,8 @@
     "appid": 4500,
     "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
     "discovered_at": "2026-07-20 07:19:07",
-    "recommendations_total": 38162,
-    "recommendations_updated_at": "2026-11-06T09:41:18Z",
+    "recommendations_total": 38170,
+    "recommendations_updated_at": "2026-11-16T09:48:57Z",
     "localizations": {
       "supported": [
         "English",
@@ -34894,8 +34894,8 @@
     "appid": 4000,
     "name": "Garry's Mod",
     "discovered_at": "2026-07-20 07:19:16",
-    "recommendations_total": 1100264,
-    "recommendations_updated_at": "2026-11-06T09:41:16Z",
+    "recommendations_total": 1101582,
+    "recommendations_updated_at": "2026-11-16T09:48:54Z",
     "localizations": {
       "supported": [
         "English",
@@ -35972,8 +35972,8 @@
     "appid": 787480,
     "name": "Phoenix Wright: Ace Attorney Trilogy",
     "discovered_at": "2026-07-22 22:09:19",
-    "recommendations_total": 36160,
-    "recommendations_updated_at": "2026-11-13T22:34:05Z",
+    "recommendations_total": 36180,
+    "recommendations_updated_at": "2026-11-16T22:59:06Z",
     "localizations": {
       "supported": [
         "Japanese",
@@ -36046,8 +36046,8 @@
     "appid": 2661300,
     "name": "Grounded 2",
     "discovered_at": "2026-07-26 18:14:11",
-    "recommendations_total": 22468,
-    "recommendations_updated_at": "2026-11-13T19:41:15Z",
+    "recommendations_total": 22514,
+    "recommendations_updated_at": "2026-11-16T19:57:16Z",
     "localizations": {
       "supported": [
         "English",
@@ -36246,8 +36246,8 @@
     "appid": 744190,
     "name": "Rusty Lake Paradise",
     "discovered_at": "2026-08-01 19:18:18",
-    "recommendations_total": 7345,
-    "recommendations_updated_at": "2026-11-13T22:33:28Z",
+    "recommendations_total": 7348,
+    "recommendations_updated_at": "2026-11-16T22:58:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -36278,8 +36278,8 @@
     "appid": 253230,
     "name": "A Hat in Time",
     "discovered_at": "2026-08-02 11:27:20",
-    "recommendations_total": 43045,
-    "recommendations_updated_at": "2026-11-13T19:47:51Z",
+    "recommendations_total": 43044,
+    "recommendations_updated_at": "2026-11-16T20:03:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -36365,8 +36365,8 @@
     "appid": 200510,
     "name": "XCOM: Enemy Unknown",
     "discovered_at": "2026-08-02 23:29:00",
-    "recommendations_total": 40512,
-    "recommendations_updated_at": "2026-11-13T20:43:18Z",
+    "recommendations_total": 40516,
+    "recommendations_updated_at": "2026-11-16T21:13:34Z",
     "localizations": {
       "supported": [
         "English",
@@ -36424,7 +36424,7 @@
     "name": "Oddworld: Soulstorm Enhanced Edition",
     "discovered_at": "2026-08-06 05:37:39",
     "recommendations_total": 510,
-    "recommendations_updated_at": "2026-11-13T22:32:03Z",
+    "recommendations_updated_at": "2026-11-16T22:56:03Z",
     "localizations": {
       "supported": [
         "English",
@@ -36616,8 +36616,8 @@
     "appid": 3751950,
     "name": "Assassin's Creed Black Flag Resynced",
     "discovered_at": "2026-08-11 05:39:50",
-    "recommendations_total": 28180,
-    "recommendations_updated_at": "2026-11-13T19:41:58Z",
+    "recommendations_total": 28256,
+    "recommendations_updated_at": "2026-11-16T19:57:56Z",
     "localizations": {
       "supported": [
         "French",
@@ -36647,8 +36647,8 @@
     "appid": 3722330,
     "name": "Shift At Midnight",
     "discovered_at": "2026-08-11 06:03:04",
-    "recommendations_total": 11667,
-    "recommendations_updated_at": "2026-11-02T19:48:29Z",
+    "recommendations_total": 12027,
+    "recommendations_updated_at": "2026-11-16T09:01:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -36674,8 +36674,8 @@
     "appid": 3555980,
     "name": "Caput Mortum",
     "discovered_at": "2026-08-11 08:54:00",
-    "recommendations_total": 389,
-    "recommendations_updated_at": "2026-11-02T16:43:21Z",
+    "recommendations_total": 394,
+    "recommendations_updated_at": "2026-11-16T05:58:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -36704,8 +36704,8 @@
     "appid": 3432480,
     "name": "Shards of Order",
     "discovered_at": "2026-08-11 10:14:31",
-    "recommendations_total": 686,
-    "recommendations_updated_at": "2026-11-02T14:35:10Z",
+    "recommendations_total": 704,
+    "recommendations_updated_at": "2026-11-16T03:48:45Z",
     "localizations": {
       "supported": [
         "English",
@@ -36787,8 +36787,8 @@
     "appid": 674750,
     "name": "Yet Another Zombie Defense HD",
     "discovered_at": "2026-08-13 00:35:44",
-    "recommendations_total": 2563,
-    "recommendations_updated_at": "2026-11-13T19:55:35Z",
+    "recommendations_total": 2562,
+    "recommendations_updated_at": "2026-11-16T20:11:52Z",
     "localizations": {
       "supported": [
         "English",
@@ -36818,8 +36818,8 @@
     "appid": 4502710,
     "name": "Stonewards",
     "discovered_at": "2026-08-13 06:59:27",
-    "recommendations_total": 928,
-    "recommendations_updated_at": "2026-11-03T03:45:44Z",
+    "recommendations_total": 953,
+    "recommendations_updated_at": "2026-11-16T16:46:51Z",
     "localizations": {
       "supported": [
         "English",
@@ -36848,8 +36848,8 @@
     "appid": 3558600,
     "name": "Leafy Corner",
     "discovered_at": "2026-08-14 11:45:29",
-    "recommendations_total": 2891,
-    "recommendations_updated_at": "2026-11-02T16:46:04Z",
+    "recommendations_total": 2983,
+    "recommendations_updated_at": "2026-11-16T06:01:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -37062,8 +37062,8 @@
     "appid": 460950,
     "name": "Katana ZERO",
     "discovered_at": "2026-08-22 01:13:41",
-    "recommendations_total": 66695,
-    "recommendations_updated_at": "2026-11-13T22:29:33Z",
+    "recommendations_total": 66709,
+    "recommendations_updated_at": "2026-11-16T22:52:24Z",
     "localizations": {
       "supported": [
         "English",
@@ -37251,7 +37251,7 @@
     "name": "Gothic 3: Forsaken Gods Enhanced Edition",
     "discovered_at": "2026-08-24 19:54:46",
     "recommendations_total": 1019,
-    "recommendations_updated_at": "2026-11-13T20:42:20Z",
+    "recommendations_updated_at": "2026-11-16T21:12:38Z",
     "localizations": {
       "supported": [
         "English",
@@ -37339,8 +37339,8 @@
     "appid": 204360,
     "name": "Castle Crashers®",
     "discovered_at": "2026-08-26 06:07:46",
-    "recommendations_total": 110350,
-    "recommendations_updated_at": "2026-11-13T20:43:56Z",
+    "recommendations_total": 110385,
+    "recommendations_updated_at": "2026-11-16T21:14:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -37368,8 +37368,8 @@
     "appid": 24810,
     "name": "Command & Conquer™ 3: Kane’s Wrath",
     "discovered_at": "2026-08-26 06:16:01",
-    "recommendations_total": 5584,
-    "recommendations_updated_at": "2026-11-13T20:40:06Z",
+    "recommendations_total": 5585,
+    "recommendations_updated_at": "2026-11-16T21:10:24Z",
     "localizations": {
       "supported": [
         "Dutch",
@@ -37430,8 +37430,8 @@
     "appid": 3734400,
     "name": "Creepy Shift: Uncle Joe’s Motel",
     "discovered_at": "2026-08-26 20:30:15",
-    "recommendations_total": 195,
-    "recommendations_updated_at": "2026-11-02T20:01:31Z",
+    "recommendations_total": 197,
+    "recommendations_updated_at": "2026-11-16T09:14:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -37544,8 +37544,8 @@
     "appid": 1478500,
     "name": "Big Walk",
     "discovered_at": "2026-08-29 04:56:12",
-    "recommendations_total": 43680,
-    "recommendations_updated_at": "2026-11-13T20:32:08Z",
+    "recommendations_total": 44388,
+    "recommendations_updated_at": "2026-11-16T21:01:31Z",
     "localizations": {
       "supported": [
         "English",
@@ -37629,8 +37629,8 @@
     "appid": 3017580,
     "name": "Paragnosia",
     "discovered_at": "2026-09-02 06:36:40",
-    "recommendations_total": 244,
-    "recommendations_updated_at": "2026-11-13T20:33:15Z",
+    "recommendations_total": 245,
+    "recommendations_updated_at": "2026-11-16T21:03:12Z",
     "localizations": {
       "supported": [
         "English",
@@ -37731,8 +37731,8 @@
     "appid": 3659410,
     "name": "Your Big, Cute Monster Farm",
     "discovered_at": "2026-09-05 13:18:46",
-    "recommendations_total": 1220,
-    "recommendations_updated_at": "2026-11-02T18:40:47Z",
+    "recommendations_total": 1232,
+    "recommendations_updated_at": "2026-11-16T07:54:04Z",
     "localizations": {
       "supported": [
         "English",
@@ -37759,8 +37759,8 @@
     "appid": 3552140,
     "name": "Retro Rewind - Video Store Simulator",
     "discovered_at": "2026-09-05 18:29:57",
-    "recommendations_total": 10672,
-    "recommendations_updated_at": "2026-11-02T16:38:22Z",
+    "recommendations_total": 11118,
+    "recommendations_updated_at": "2026-11-16T05:53:24Z",
     "localizations": {
       "supported": [
         "English",
@@ -38002,8 +38002,8 @@
     "appid": 425580,
     "name": "The Room Two",
     "discovered_at": "2026-09-10 20:56:46",
-    "recommendations_total": 21178,
-    "recommendations_updated_at": "2026-11-13T22:28:54Z",
+    "recommendations_total": 21184,
+    "recommendations_updated_at": "2026-11-16T22:51:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -38101,8 +38101,8 @@
     "appid": 288470,
     "name": "Fable Anniversary",
     "discovered_at": "2026-09-12 19:42:35",
-    "recommendations_total": 14902,
-    "recommendations_updated_at": "2026-11-13T22:24:43Z",
+    "recommendations_total": 14907,
+    "recommendations_updated_at": "2026-11-16T22:45:12Z",
     "localizations": {
       "supported": [
         "English",
@@ -38247,8 +38247,8 @@
     "appid": 3612850,
     "name": "The Lightkeeper",
     "discovered_at": "2026-09-17 00:10:36",
-    "recommendations_total": 1148,
-    "recommendations_updated_at": "2026-11-02T17:45:24Z",
+    "recommendations_total": 1160,
+    "recommendations_updated_at": "2026-11-16T06:59:05Z",
     "localizations": {
       "supported": [
         "English"
@@ -38364,8 +38364,8 @@
     "appid": 2638890,
     "name": "Onimusha: Way of the Sword",
     "discovered_at": "2026-09-23 15:46:06",
-    "recommendations_total": 17551,
-    "recommendations_updated_at": "2026-11-13T19:41:10Z",
+    "recommendations_total": 17642,
+    "recommendations_updated_at": "2026-11-16T19:57:11Z",
     "localizations": {
       "supported": [
         "English",
@@ -38444,8 +38444,8 @@
     "appid": 2713000,
     "name": "Resonance: A Plague Tale Legacy",
     "discovered_at": "2026-09-24 12:06:31",
-    "recommendations_total": 4621,
-    "recommendations_updated_at": "2026-11-08T01:09:53Z",
+    "recommendations_total": 4773,
+    "recommendations_updated_at": "2026-11-16T09:54:44Z",
     "localizations": {
       "supported": [
         "English",
@@ -38838,8 +38838,8 @@
     "appid": 337000,
     "name": "Deus Ex: Mankind Divided",
     "discovered_at": "2026-10-05 10:56:57",
-    "recommendations_total": 30848,
-    "recommendations_updated_at": "2026-11-13T22:26:37Z",
+    "recommendations_total": 30852,
+    "recommendations_updated_at": "2026-11-16T22:48:01Z",
     "localizations": {
       "supported": [
         "English",
@@ -38891,8 +38891,8 @@
     "appid": 292120,
     "name": "FINAL FANTASY® XIII",
     "discovered_at": "2026-10-05 11:23:00",
-    "recommendations_total": 16462,
-    "recommendations_updated_at": "2026-11-13T22:24:51Z",
+    "recommendations_total": 16469,
+    "recommendations_updated_at": "2026-11-16T22:45:23Z",
     "localizations": {
       "supported": [
         "English",
@@ -38914,8 +38914,8 @@
     "appid": 245390,
     "name": "I Have No Mouth, and I Must Scream",
     "discovered_at": "2026-10-05 11:53:41",
-    "recommendations_total": 3735,
-    "recommendations_updated_at": "2026-11-13T20:48:53Z",
+    "recommendations_total": 3742,
+    "recommendations_updated_at": "2026-11-16T21:18:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -38937,8 +38937,8 @@
     "appid": 15620,
     "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)",
     "discovered_at": "2026-10-05 12:26:45",
-    "recommendations_total": 8178,
-    "recommendations_updated_at": "2026-11-13T20:37:53Z",
+    "recommendations_total": 8183,
+    "recommendations_updated_at": "2026-11-16T21:08:10Z",
     "localizations": {
       "supported": [
         "English",
@@ -39387,8 +39387,8 @@
     "appid": 1546970,
     "name": "Grand Theft Auto III – The Definitive Edition",
     "discovered_at": "2026-11-02 15:18:48",
-    "recommendations_total": 7900,
-    "recommendations_updated_at": "2026-11-14T11:37:19Z",
+    "recommendations_total": 7946,
+    "recommendations_updated_at": "2026-11-16T22:44:05Z",
     "localizations": {
       "supported": [
         "English",
@@ -39449,8 +39449,8 @@
     "appid": 3569420,
     "name": "Chained Beasts",
     "discovered_at": "2026-11-03 21:29:28",
-    "recommendations_total": 1048,
-    "recommendations_updated_at": "2026-11-04T01:01:39Z",
+    "recommendations_total": 1166,
+    "recommendations_updated_at": "2026-11-16T06:12:49Z",
     "localizations": {
       "supported": [
         "English",
@@ -39479,8 +39479,8 @@
     "appid": 3391450,
     "name": "GORN 2",
     "discovered_at": "2026-11-04 02:54:07",
-    "recommendations_total": 674,
-    "recommendations_updated_at": "2026-11-05T01:04:26Z",
+    "recommendations_total": 682,
+    "recommendations_updated_at": "2026-11-16T03:02:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -39507,8 +39507,8 @@
     "appid": 2668510,
     "name": "Red Dead Redemption",
     "discovered_at": "2026-11-05 03:41:15",
-    "recommendations_total": 21287,
-    "recommendations_updated_at": "2026-11-14T12:51:51Z",
+    "recommendations_total": 21320,
+    "recommendations_updated_at": "2026-11-16T22:44:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -39538,8 +39538,8 @@
     "appid": 2527390,
     "name": "Dead Rising Deluxe Remaster",
     "discovered_at": "2026-11-05 08:39:48",
-    "recommendations_total": 3005,
-    "recommendations_updated_at": "2026-11-13T19:40:58Z",
+    "recommendations_total": 3007,
+    "recommendations_updated_at": "2026-11-16T19:56:58Z",
     "localizations": {
       "supported": [
         "English",
@@ -39799,8 +39799,8 @@
     "appid": 1262560,
     "name": "Need for Speed™ Most Wanted",
     "discovered_at": "2026-11-07 06:17:43",
-    "recommendations_total": 25665,
-    "recommendations_updated_at": "2026-11-13T20:31:39Z",
+    "recommendations_total": 25673,
+    "recommendations_updated_at": "2026-11-16T21:00:48Z",
     "localizations": {
       "supported": [
         "English",
@@ -39828,8 +39828,8 @@
     "appid": 1118240,
     "name": "Lake",
     "discovered_at": "2026-11-07 10:58:38",
-    "recommendations_total": 4559,
-    "recommendations_updated_at": "2026-11-13T20:31:23Z",
+    "recommendations_total": 4565,
+    "recommendations_updated_at": "2026-11-16T21:00:24Z",
     "localizations": {
       "supported": [
         "English",
@@ -39891,8 +39891,8 @@
     "appid": 975370,
     "name": "Dwarf Fortress",
     "discovered_at": "2026-11-07 15:07:42",
-    "recommendations_total": 29462,
-    "recommendations_updated_at": "2026-11-13T19:39:49Z",
+    "recommendations_total": 29465,
+    "recommendations_updated_at": "2026-11-16T19:55:50Z",
     "localizations": {
       "supported": [
         "English"
@@ -39910,8 +39910,8 @@
     "appid": 758330,
     "name": "Shenmue I & II",
     "discovered_at": "2026-11-07 20:01:42",
-    "recommendations_total": 2163,
-    "recommendations_updated_at": "2026-11-13T22:33:37Z",
+    "recommendations_total": 2164,
+    "recommendations_updated_at": "2026-11-16T22:58:24Z",
     "localizations": {
       "supported": [
         "English",
@@ -39964,8 +39964,8 @@
     "appid": 219990,
     "name": "Grim Dawn",
     "discovered_at": "2026-11-08 03:59:27",
-    "recommendations_total": 93777,
-    "recommendations_updated_at": "2026-11-13T20:45:32Z",
+    "recommendations_total": 93801,
+    "recommendations_updated_at": "2026-11-16T21:15:49Z",
     "localizations": {
       "supported": [
         "English",
@@ -39995,8 +39995,8 @@
     "appid": 110800,
     "name": "L.A. Noire",
     "discovered_at": "2026-11-08 04:07:14",
-    "recommendations_total": 31429,
-    "recommendations_updated_at": "2026-11-14T10:06:28Z",
+    "recommendations_total": 31439,
+    "recommendations_updated_at": "2026-11-16T20:59:45Z",
     "localizations": {
       "supported": [
         "English",
@@ -40020,7 +40020,7 @@
     "name": "DeathSpank",
     "discovered_at": "2026-11-08 04:29:51",
     "recommendations_total": 720,
-    "recommendations_updated_at": "2026-11-13T20:38:26Z",
+    "recommendations_updated_at": "2026-11-16T21:08:43Z",
     "localizations": {
       "supported": [
         "English"
@@ -40063,8 +40063,8 @@
     "appid": 4231820,
     "name": "Castlevania: Belmont's Curse",
     "discovered_at": "2026-11-09 13:35:00",
-    "recommendations_total": 9165,
-    "recommendations_updated_at": "2026-11-13T19:42:22Z",
+    "recommendations_total": 9300,
+    "recommendations_updated_at": "2026-11-16T19:58:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -40149,8 +40149,8 @@
     "appid": 4078430,
     "name": "STAR WARS: Galactic Racer™",
     "discovered_at": "2026-11-10 00:33:45",
-    "recommendations_total": 7559,
-    "recommendations_updated_at": "2026-11-13T19:42:10Z",
+    "recommendations_total": 7639,
+    "recommendations_updated_at": "2026-11-16T19:58:09Z",
     "localizations": {
       "supported": [
         "English",
@@ -40245,8 +40245,8 @@
     "appid": 3699590,
     "name": "Well Dweller",
     "discovered_at": "2026-11-11 03:36:46",
-    "recommendations_total": 4499,
-    "recommendations_updated_at": "2026-11-12T01:00:08Z",
+    "recommendations_total": 4666,
+    "recommendations_updated_at": "2026-11-16T08:37:03Z",
     "localizations": {
       "supported": [
         "English",
@@ -40421,5 +40421,79 @@
     },
     "type": "game",
     "release_date": "18 Mar, 2024"
+  },
+  {
+    "id": 1355,
+    "appid": 1740720,
+    "name": "Have a Nice Death",
+    "discovered_at": "2026-11-16 03:48:30",
+    "recommendations_total": 9777,
+    "recommendations_updated_at": "2026-11-14T07:19:26Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Japanese",
+        "Korean",
+        "Portuguese - Brazil",
+        "Russian",
+        "Simplified Chinese",
+        "Traditional Chinese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "22 Mar, 2023"
+  },
+  {
+    "id": 1356,
+    "appid": 1093290,
+    "name": "The Wild at Heart",
+    "discovered_at": "2026-11-16 08:57:37",
+    "recommendations_total": 736,
+    "recommendations_updated_at": "2026-11-10T14:45:39Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Simplified Chinese",
+        "French",
+        "German",
+        "Portuguese - Brazil",
+        "Spanish - Latin America"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "19 May, 2021"
+  },
+  {
+    "id": 1357,
+    "appid": 1318800,
+    "name": "ESC",
+    "discovered_at": "2026-11-16 15:57:00",
+    "recommendations_total": 102,
+    "recommendations_updated_at": "2026-11-05T07:55:40Z",
+    "localizations": {
+      "supported": [
+        "English"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "15 May, 2020"
   }
 ]
