@@ -164,7 +164,7 @@
     "name": "The Witcher 3: Wild Hunt — Remastered",
     "release_date": "18 May, 2015",
     "release_iso": "2015-05-18",
-    "recommendations_total": 852983,
+    "recommendations_total": 853526,
     "locations": [
       "library"
     ],
@@ -452,7 +452,7 @@
     "name": "R.E.P.O.",
     "release_date": "26 Feb, 2025",
     "release_iso": "2025-02-26",
-    "recommendations_total": 349841,
+    "recommendations_total": 351661,
     "locations": [
       "family"
     ],
@@ -1268,7 +1268,7 @@
     "name": "Inscryption",
     "release_date": "19 Oct, 2021",
     "release_iso": "2021-10-19",
-    "recommendations_total": 136500,
+    "recommendations_total": 136559,
     "locations": [
       "wishlist"
     ],
@@ -1796,7 +1796,7 @@
     "name": "Megabonk",
     "release_date": "18 Sep, 2025",
     "release_iso": "2025-09-18",
-    "recommendations_total": 101763,
+    "recommendations_total": 101819,
     "locations": [
       "family"
     ],
@@ -4553,9 +4553,9 @@
       "family"
     ],
     "has_official": false,
-    "has_patch": false,
+    "has_patch": true,
     "has_request": true,
-    "patch_url": null,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840635597",
     "request_url": "https://steamcommunity.com/app/1029690/discussions/search/?q=Ukrainian",
     "request_topic": "Add Ukrainian localization"
   },
@@ -5156,7 +5156,7 @@
     "name": "Mafia: The Old Country",
     "release_date": "7 Aug, 2025",
     "release_iso": "2025-08-07",
-    "recommendations_total": 21439,
+    "recommendations_total": 21464,
     "locations": [
       "library"
     ],
@@ -5652,7 +5652,7 @@
     "name": "S.T.A.L.K.E.R.: Clear Sky",
     "release_date": "15 Sep, 2008",
     "release_iso": "2008-09-15",
-    "recommendations_total": 17759,
+    "recommendations_total": 17758,
     "locations": [
       "family"
     ],
@@ -7358,6 +7358,22 @@
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/1895880/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian Localization | Українська локалізація"
+  },
+  {
+    "appid": 3010850,
+    "name": "Gears of War: E-Day",
+    "release_date": "6 Oct, 2026",
+    "release_iso": "2026-10-06",
+    "recommendations_total": 11629,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/3010850/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization"
   },
   {
     "appid": 6020,
@@ -12004,7 +12020,7 @@
     "name": "Witch Hunt",
     "release_date": "3 Sep, 2018",
     "release_iso": "2018-09-03",
-    "recommendations_total": 2311,
+    "recommendations_total": 2312,
     "locations": [
       "family"
     ],
@@ -12596,7 +12612,7 @@
     "name": "Say No! More",
     "release_date": "9 Apr, 2021",
     "release_iso": "2021-04-09",
-    "recommendations_total": 1781,
+    "recommendations_total": 1783,
     "locations": [
       "library"
     ],
