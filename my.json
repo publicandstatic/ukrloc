@@ -1268,7 +1268,7 @@
     "name": "Inscryption",
     "release_date": "19 Oct, 2021",
     "release_iso": "2021-10-19",
-    "recommendations_total": 136629,
+    "recommendations_total": 136697,
     "locations": [
       "wishlist"
     ],
@@ -2196,7 +2196,7 @@
     "name": "Content Warning",
     "release_date": "1 Apr, 2024",
     "release_iso": "2024-04-01",
-    "recommendations_total": 73447,
+    "recommendations_total": 73494,
     "locations": [
       "library"
     ],
@@ -5172,7 +5172,7 @@
     "name": "Red Dead Redemption",
     "release_date": "29 Oct, 2024",
     "release_iso": "2024-10-29",
-    "recommendations_total": 21388,
+    "recommendations_total": 21406,
     "locations": [
       "wishlist"
     ],
@@ -7136,6 +7136,22 @@
     "request_topic": null
   },
   {
+    "appid": 3010850,
+    "name": "Gears of War: E-Day",
+    "release_date": "6 Oct, 2026",
+    "release_iso": "2026-10-06",
+    "recommendations_total": 12231,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/3010850/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization"
+  },
+  {
     "appid": 1182620,
     "name": "Impostor Factory",
     "release_date": "30 Sep, 2021",
@@ -7326,22 +7342,6 @@
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/826630/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian language"
-  },
-  {
-    "appid": 3010850,
-    "name": "Gears of War: E-Day",
-    "release_date": "6 Oct, 2026",
-    "release_iso": "2026-10-06",
-    "recommendations_total": 11716,
-    "locations": [
-      "wishlist"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/3010850/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization"
   },
   {
     "appid": 6020,
@@ -7904,6 +7904,22 @@
     "request_topic": "Add Ukrainian language in game ( Українська )"
   },
   {
+    "appid": 2461850,
+    "name": "Hellblade II: Senua’s Saga",
+    "release_date": "21 May, 2024",
+    "release_iso": "2024-05-21",
+    "recommendations_total": 9667,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2420660,
     "name": "Neva",
     "release_date": "15 Oct, 2024",
@@ -7918,22 +7934,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3430857952",
     "request_url": "https://steamcommunity.com/app/2420660/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian Localization"
-  },
-  {
-    "appid": 2461850,
-    "name": "Hellblade II: Senua’s Saga",
-    "release_date": "21 May, 2024",
-    "release_iso": "2024-05-21",
-    "recommendations_total": 9657,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
   },
   {
     "appid": 1286350,
@@ -9572,7 +9572,7 @@
     "name": "Keep Driving",
     "release_date": "6 Feb, 2025",
     "release_iso": "2025-02-06",
-    "recommendations_total": 6431,
+    "recommendations_total": 6451,
     "locations": [
       "family"
     ],
@@ -10096,6 +10096,22 @@
     "request_topic": null
   },
   {
+    "appid": 2713000,
+    "name": "Resonance: A Plague Tale Legacy",
+    "release_date": "27 Aug, 2026",
+    "release_iso": "2026-08-27",
+    "recommendations_total": 4902,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1351080,
     "name": "Pharaoh™: A New Era",
     "release_date": "15 Feb, 2023",
@@ -10174,22 +10190,6 @@
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/2624870/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian Language Support / Ukrainian Localization"
-  },
-  {
-    "appid": 2713000,
-    "name": "Resonance: A Plague Tale Legacy",
-    "release_date": "27 Aug, 2026",
-    "release_iso": "2026-08-27",
-    "recommendations_total": 4773,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
   },
   {
     "appid": 564310,
@@ -11152,6 +11152,22 @@
     "request_topic": "Adding Ukrainian localization"
   },
   {
+    "appid": 2828710,
+    "name": "Valor Mortis",
+    "release_date": "13 Oct, 2026",
+    "release_iso": "2026-10-13",
+    "recommendations_total": 3192,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 238750,
     "name": "Might & Magic X - Legacy",
     "release_date": "23 Jan, 2014",
@@ -11239,22 +11255,6 @@
     "recommendations_total": 3061,
     "locations": [
       "library"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 2828710,
-    "name": "Valor Mortis",
-    "release_date": "13 Oct, 2026",
-    "release_iso": "2026-10-13",
-    "recommendations_total": 3019,
-    "locations": [
-      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -11652,7 +11652,7 @@
     "name": "Menace from the Deep",
     "release_date": "11 Nov, 2024",
     "release_iso": "2024-11-11",
-    "recommendations_total": 2535,
+    "recommendations_total": 2541,
     "locations": [
       "family"
     ],
@@ -11716,7 +11716,7 @@
     "name": "Last Report",
     "release_date": "11 Jul, 2025",
     "release_iso": "2025-07-11",
-    "recommendations_total": 2499,
+    "recommendations_total": 2506,
     "locations": [
       "family"
     ],
@@ -12560,13 +12560,13 @@
     "request_topic": null
   },
   {
-    "appid": 3133060,
-    "name": "Gnomes",
-    "release_date": "4 Apr, 2025",
-    "release_iso": "2025-04-04",
-    "recommendations_total": 1805,
+    "appid": 2825860,
+    "name": "The Sinking City 2",
+    "release_date": "18 Aug, 2026",
+    "release_iso": "2026-08-18",
+    "recommendations_total": 1808,
     "locations": [
-      "family"
+      "library"
     ],
     "has_official": true,
     "has_patch": false,
@@ -12576,13 +12576,13 @@
     "request_topic": null
   },
   {
-    "appid": 2825860,
-    "name": "The Sinking City 2",
-    "release_date": "18 Aug, 2026",
-    "release_iso": "2026-08-18",
-    "recommendations_total": 1796,
+    "appid": 3133060,
+    "name": "Gnomes",
+    "release_date": "4 Apr, 2025",
+    "release_iso": "2025-04-04",
+    "recommendations_total": 1807,
     "locations": [
-      "library"
+      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -12900,7 +12900,7 @@
     "name": "BOKURA: planet",
     "release_date": "24 Apr, 2025",
     "release_iso": "2025-04-24",
-    "recommendations_total": 1501,
+    "recommendations_total": 1503,
     "locations": [
       "library"
     ],
@@ -13668,7 +13668,7 @@
     "name": "Fork Road",
     "release_date": "11 Jun, 2024",
     "release_iso": "2024-06-11",
-    "recommendations_total": 915,
+    "recommendations_total": 917,
     "locations": [
       "family"
     ],
@@ -14340,7 +14340,7 @@
     "name": "The Trolley Solution",
     "release_date": "12 Sep, 2025",
     "release_iso": "2025-09-12",
-    "recommendations_total": 589,
+    "recommendations_total": 591,
     "locations": [
       "family"
     ],
@@ -14436,7 +14436,7 @@
     "name": "Fear The Timeloop",
     "release_date": "30 Jan, 2026",
     "release_iso": "2026-01-30",
-    "recommendations_total": 525,
+    "recommendations_total": 527,
     "locations": [
       "family"
     ],
@@ -14532,7 +14532,7 @@
     "name": "Hero of the Kingdom: The Lost Tales 3",
     "release_date": "26 Nov, 2024",
     "release_iso": "2024-11-26",
-    "recommendations_total": 496,
+    "recommendations_total": 497,
     "locations": [
       "family"
     ],
@@ -14832,6 +14832,22 @@
     "request_topic": null
   },
   {
+    "appid": 3810510,
+    "name": "DERELIKT",
+    "release_date": "13 Nov, 2026",
+    "release_iso": "2026-11-13",
+    "recommendations_total": 311,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2357570,
     "name": "Overwatch®",
     "release_date": "10 Aug, 2023",
@@ -14900,7 +14916,7 @@
     "name": "Bendy: Lone Wolf",
     "release_date": "15 Aug, 2025",
     "release_iso": "2025-08-15",
-    "recommendations_total": 273,
+    "recommendations_total": 275,
     "locations": [
       "family"
     ],
