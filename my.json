@@ -84,7 +84,7 @@
     "name": "Garry's Mod",
     "release_date": "29 Nov, 2006",
     "release_iso": "2006-11-29",
-    "recommendations_total": 1101963,
+    "recommendations_total": 1102961,
     "locations": [
       "family"
     ],
@@ -116,7 +116,7 @@
     "name": "Stardew Valley",
     "release_date": "26 Feb, 2016",
     "release_iso": "2016-02-26",
-    "recommendations_total": 906283,
+    "recommendations_total": 907568,
     "locations": [
       "family"
     ],
@@ -132,7 +132,7 @@
     "name": "Red Dead Redemption 2",
     "release_date": "5 Dec, 2019",
     "release_iso": "2019-12-05",
-    "recommendations_total": 864485,
+    "recommendations_total": 874786,
     "locations": [
       "wishlist"
     ],
@@ -148,7 +148,7 @@
     "name": "HELLDIVERS™ 2",
     "release_date": "8 Feb, 2024",
     "release_iso": "2024-02-08",
-    "recommendations_total": 857771,
+    "recommendations_total": 859372,
     "locations": [
       "family"
     ],
@@ -180,7 +180,7 @@
     "name": "ELDEN RING",
     "release_date": "24 Feb, 2022",
     "release_iso": "2022-02-24",
-    "recommendations_total": 836647,
+    "recommendations_total": 839997,
     "locations": [
       "family"
     ],
@@ -212,7 +212,7 @@
     "name": "Euro Truck Simulator 2",
     "release_date": "12 Oct, 2012",
     "release_iso": "2012-10-12",
-    "recommendations_total": 797068,
+    "recommendations_total": 798815,
     "locations": [
       "family"
     ],
@@ -244,7 +244,7 @@
     "name": "Dead by Daylight",
     "release_date": "14 Jun, 2016",
     "release_iso": "2016-06-14",
-    "recommendations_total": 697193,
+    "recommendations_total": 700107,
     "locations": [
       "family"
     ],
@@ -308,7 +308,7 @@
     "name": "Valheim",
     "release_date": "9 Sep, 2026",
     "release_iso": "2026-09-09",
-    "recommendations_total": 478052,
+    "recommendations_total": 494532,
     "locations": [
       "family"
     ],
@@ -356,7 +356,7 @@
     "name": "Palworld",
     "release_date": "9 Jul, 2026",
     "release_iso": "2026-07-09",
-    "recommendations_total": 418584,
+    "recommendations_total": 426107,
     "locations": [
       "family"
     ],
@@ -372,7 +372,7 @@
     "name": "Lethal Company",
     "release_date": "23 Oct, 2023",
     "release_iso": "2023-10-23",
-    "recommendations_total": 412411,
+    "recommendations_total": 412453,
     "locations": [
       "family"
     ],
@@ -382,6 +382,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3097165144",
     "request_url": "https://steamcommunity.com/app/1966720/discussions/search/?q=Ukrainian",
     "request_topic": "I hope the developer sees this. Is it possible to add other languages ​​to the game? Ukrainian language"
+  },
+  {
+    "appid": 1030300,
+    "name": "Hollow Knight: Silksong",
+    "release_date": "4 Sep, 2025",
+    "release_iso": "2025-09-04",
+    "recommendations_total": 396902,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3653017358",
+    "request_url": "https://steamcommunity.com/app/1030300/discussions/search/?q=Ukrainian",
+    "request_topic": "ukrainian localization"
   },
   {
     "appid": 620,
@@ -398,22 +414,6 @@
     "patch_url": null,
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 1030300,
-    "name": "Hollow Knight: Silksong",
-    "release_date": "4 Sep, 2025",
-    "release_iso": "2025-09-04",
-    "recommendations_total": 392356,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3653017358",
-    "request_url": "https://steamcommunity.com/app/1030300/discussions/search/?q=Ukrainian",
-    "request_topic": "ukrainian localization"
   },
   {
     "appid": 239140,
@@ -468,7 +468,7 @@
     "name": "Subnautica",
     "release_date": "23 Jan, 2018",
     "release_iso": "2018-01-23",
-    "recommendations_total": 344871,
+    "recommendations_total": 344892,
     "locations": [
       "family"
     ],
@@ -500,7 +500,7 @@
     "name": "Raft",
     "release_date": "20 Jun, 2022",
     "release_iso": "2022-06-20",
-    "recommendations_total": 325992,
+    "recommendations_total": 326059,
     "locations": [
       "family"
     ],
@@ -512,27 +512,11 @@
     "request_topic": "Ukrainian localization"
   },
   {
-    "appid": 582010,
-    "name": "Monster Hunter: World",
-    "release_date": "8 Aug, 2018",
-    "release_iso": "2018-08-08",
-    "recommendations_total": 323617,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/582010/discussions/search/?q=Ukrainian",
-    "request_topic": "Додайте Українську в текстовий чат / Add Ukrainian to text chat UA"
-  },
-  {
     "appid": 1172620,
     "name": "Sea of Thieves: 2026 Edition",
     "release_date": "3 Jun, 2020",
     "release_iso": "2020-06-03",
-    "recommendations_total": 323491,
+    "recommendations_total": 323820,
     "locations": [
       "family"
     ],
@@ -542,6 +526,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2844775467",
     "request_url": "https://steamcommunity.com/app/1172620/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian localization?/ Українська локалізація?"
+  },
+  {
+    "appid": 582010,
+    "name": "Monster Hunter: World",
+    "release_date": "8 Aug, 2018",
+    "release_iso": "2018-08-08",
+    "recommendations_total": 323688,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/582010/discussions/search/?q=Ukrainian",
+    "request_topic": "Додайте Українську в текстовий чат / Add Ukrainian to text chat UA"
   },
   {
     "appid": 3527290,
@@ -564,7 +564,7 @@
     "name": "Undertale",
     "release_date": "15 Sep, 2015",
     "release_iso": "2015-09-15",
-    "recommendations_total": 314369,
+    "recommendations_total": 314603,
     "locations": [
       "family"
     ],
@@ -612,7 +612,7 @@
     "name": "Fallout 4",
     "release_date": "9 Nov, 2015",
     "release_iso": "2015-11-09",
-    "recommendations_total": 292518,
+    "recommendations_total": 292643,
     "locations": [
       "family"
     ],
@@ -628,7 +628,7 @@
     "name": "Hades",
     "release_date": "17 Sep, 2020",
     "release_iso": "2020-09-17",
-    "recommendations_total": 288170,
+    "recommendations_total": 288277,
     "locations": [
       "family"
     ],
@@ -676,7 +676,7 @@
     "name": "Sid Meier’s Civilization® VI",
     "release_date": "20 Oct, 2016",
     "release_iso": "2016-10-20",
-    "recommendations_total": 277979,
+    "recommendations_total": 278077,
     "locations": [
       "family"
     ],
@@ -692,7 +692,7 @@
     "name": "Vampire Survivors",
     "release_date": "20 Oct, 2022",
     "release_iso": "2022-10-20",
-    "recommendations_total": 253094,
+    "recommendations_total": 254034,
     "locations": [
       "family"
     ],
@@ -708,7 +708,7 @@
     "name": "Halo: The Master Chief Collection",
     "release_date": "3 Dec, 2019",
     "release_iso": "2019-12-03",
-    "recommendations_total": 241432,
+    "recommendations_total": 241553,
     "locations": [
       "family"
     ],
@@ -724,7 +724,7 @@
     "name": "Detroit: Become Human",
     "release_date": "18 Jun, 2020",
     "release_iso": "2020-06-18",
-    "recommendations_total": 233408,
+    "recommendations_total": 233862,
     "locations": [
       "family"
     ],
@@ -772,7 +772,7 @@
     "name": "ULTRAKILL",
     "release_date": "3 Sep, 2020",
     "release_iso": "2020-09-03",
-    "recommendations_total": 218744,
+    "recommendations_total": 220321,
     "locations": [
       "family"
     ],
@@ -836,7 +836,7 @@
     "name": "Resident Evil 4",
     "release_date": "23 Mar, 2023",
     "release_iso": "2023-03-23",
-    "recommendations_total": 196169,
+    "recommendations_total": 196502,
     "locations": [
       "family"
     ],
@@ -852,7 +852,7 @@
     "name": "Slay the Spire",
     "release_date": "23 Jan, 2019",
     "release_iso": "2019-01-23",
-    "recommendations_total": 195205,
+    "recommendations_total": 195375,
     "locations": [
       "family"
     ],
@@ -900,7 +900,7 @@
     "name": "Clair Obscur: Expedition 33",
     "release_date": "24 Apr, 2025",
     "release_iso": "2025-04-24",
-    "recommendations_total": 184598,
+    "recommendations_total": 185485,
     "locations": [
       "family"
     ],
@@ -1060,7 +1060,7 @@
     "name": "Balatro",
     "release_date": "20 Feb, 2024",
     "release_iso": "2024-02-20",
-    "recommendations_total": 163419,
+    "recommendations_total": 163576,
     "locations": [
       "family"
     ],
@@ -1092,7 +1092,7 @@
     "name": "Age of Empires II: Definitive Edition",
     "release_date": "14 Nov, 2019",
     "release_iso": "2019-11-14",
-    "recommendations_total": 160784,
+    "recommendations_total": 161220,
     "locations": [
       "family"
     ],
@@ -1108,7 +1108,7 @@
     "name": "Stray",
     "release_date": "19 Jul, 2022",
     "release_iso": "2022-07-19",
-    "recommendations_total": 159367,
+    "recommendations_total": 159520,
     "locations": [
       "family"
     ],
@@ -1124,7 +1124,7 @@
     "name": "Dead Cells",
     "release_date": "6 Aug, 2018",
     "release_iso": "2018-08-06",
-    "recommendations_total": 157769,
+    "recommendations_total": 157834,
     "locations": [
       "family"
     ],
@@ -1140,7 +1140,7 @@
     "name": "DOOM",
     "release_date": "12 May, 2016",
     "release_iso": "2016-05-12",
-    "recommendations_total": 156384,
+    "recommendations_total": 156420,
     "locations": [
       "family"
     ],
@@ -1156,7 +1156,7 @@
     "name": "Kingdom Come: Deliverance II",
     "release_date": "4 Feb, 2025",
     "release_iso": "2025-02-04",
-    "recommendations_total": 148957,
+    "recommendations_total": 149759,
     "locations": [
       "family"
     ],
@@ -1166,6 +1166,22 @@
     "patch_url": null,
     "request_url": null,
     "request_topic": null
+  },
+  {
+    "appid": 1868140,
+    "name": "DAVE THE DIVER",
+    "release_date": "28 Jun, 2023",
+    "release_iso": "2023-06-28",
+    "recommendations_total": 145657,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3151963745",
+    "request_url": "https://steamcommunity.com/app/1868140/discussions/search/?q=Ukrainian",
+    "request_topic": "Please add Ukrainian localization to Dave The Diver 🙏"
   },
   {
     "appid": 379430,
@@ -1184,27 +1200,11 @@
     "request_topic": null
   },
   {
-    "appid": 1868140,
-    "name": "DAVE THE DIVER",
-    "release_date": "28 Jun, 2023",
-    "release_iso": "2023-06-28",
-    "recommendations_total": 144900,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3151963745",
-    "request_url": "https://steamcommunity.com/app/1868140/discussions/search/?q=Ukrainian",
-    "request_topic": "Please add Ukrainian localization to Dave The Diver 🙏"
-  },
-  {
     "appid": 1057090,
     "name": "Ori and the Will of the Wisps",
     "release_date": "10 Mar, 2020",
     "release_iso": "2020-03-10",
-    "recommendations_total": 143735,
+    "recommendations_total": 143867,
     "locations": [
       "family"
     ],
@@ -1220,7 +1220,7 @@
     "name": "Darkest Dungeon®",
     "release_date": "19 Jan, 2016",
     "release_iso": "2016-01-19",
-    "recommendations_total": 142094,
+    "recommendations_total": 142511,
     "locations": [
       "family"
     ],
@@ -1236,7 +1236,7 @@
     "name": "Slime Rancher",
     "release_date": "1 Aug, 2017",
     "release_iso": "2017-08-01",
-    "recommendations_total": 141090,
+    "recommendations_total": 141131,
     "locations": [
       "family"
     ],
@@ -1252,7 +1252,7 @@
     "name": "Destiny 2",
     "release_date": "1 Oct, 2019",
     "release_iso": "2019-10-01",
-    "recommendations_total": 139930,
+    "recommendations_total": 139975,
     "locations": [
       "family"
     ],
@@ -1296,6 +1296,22 @@
     "request_topic": null
   },
   {
+    "appid": 362890,
+    "name": "Black Mesa",
+    "release_date": "6 Mar, 2020",
+    "release_iso": "2020-03-06",
+    "recommendations_total": 136084,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 48700,
     "name": "Mount & Blade: Warband",
     "release_date": "31 Mar, 2010",
@@ -1312,27 +1328,11 @@
     "request_topic": null
   },
   {
-    "appid": 362890,
-    "name": "Black Mesa",
-    "release_date": "6 Mar, 2020",
-    "release_iso": "2020-03-06",
-    "recommendations_total": 135784,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 504230,
     "name": "Celeste",
     "release_date": "25 Jan, 2018",
     "release_iso": "2018-01-25",
-    "recommendations_total": 134697,
+    "recommendations_total": 134834,
     "locations": [
       "family"
     ],
@@ -1364,7 +1364,7 @@
     "name": "God of War",
     "release_date": "14 Jan, 2022",
     "release_iso": "2022-01-14",
-    "recommendations_total": 131443,
+    "recommendations_total": 131619,
     "locations": [
       "family"
     ],
@@ -1460,7 +1460,7 @@
     "name": "Disco Elysium - The Final Cut",
     "release_date": "15 Oct, 2019",
     "release_iso": "2019-10-15",
-    "recommendations_total": 119614,
+    "recommendations_total": 119698,
     "locations": [
       "family"
     ],
@@ -1472,32 +1472,32 @@
     "request_topic": "Ukrainian localisation"
   },
   {
-    "appid": 1449560,
+    "appid": 412020,
     "name": "Metro Exodus",
     "release_date": "14 Feb, 2020",
     "release_iso": "2020-02-14",
-    "recommendations_total": 119242,
+    "recommendations_total": 119423,
     "locations": [
       "family"
     ],
     "has_official": true,
-    "has_patch": false,
+    "has_patch": true,
     "has_request": false,
     "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
   {
-    "appid": 412020,
+    "appid": 1449560,
     "name": "Metro Exodus",
     "release_date": "14 Feb, 2020",
     "release_iso": "2020-02-14",
-    "recommendations_total": 119183,
+    "recommendations_total": 119423,
     "locations": [
       "family"
     ],
     "has_official": true,
-    "has_patch": true,
+    "has_patch": false,
     "has_request": false,
     "patch_url": null,
     "request_url": null,
@@ -1536,6 +1536,22 @@
     "request_topic": null
   },
   {
+    "appid": 3764200,
+    "name": "Resident Evil Requiem",
+    "release_date": "26 Feb, 2026",
+    "release_iso": "2026-02-26",
+    "recommendations_total": 116578,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805723779",
+    "request_url": "https://steamcommunity.com/app/3764200/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization"
+  },
+  {
     "appid": 1145350,
     "name": "Hades II",
     "release_date": "25 Sep, 2025",
@@ -1556,7 +1572,7 @@
     "name": "Frostpunk",
     "release_date": "24 Apr, 2018",
     "release_iso": "2018-04-24",
-    "recommendations_total": 115760,
+    "recommendations_total": 115811,
     "locations": [
       "family"
     ],
@@ -1572,7 +1588,7 @@
     "name": "Brotato",
     "release_date": "23 Jun, 2023",
     "release_iso": "2023-06-23",
-    "recommendations_total": 114307,
+    "recommendations_total": 115429,
     "locations": [
       "family"
     ],
@@ -1588,7 +1604,7 @@
     "name": "Cult of the Lamb",
     "release_date": "11 Aug, 2022",
     "release_iso": "2022-08-11",
-    "recommendations_total": 113739,
+    "recommendations_total": 114561,
     "locations": [
       "family"
     ],
@@ -1598,6 +1614,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2970973165",
     "request_url": "https://steamcommunity.com/app/1313140/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian Localization"
+  },
+  {
+    "appid": 305620,
+    "name": "The Long Dark",
+    "release_date": "1 Aug, 2017",
+    "release_iso": "2017-08-01",
+    "recommendations_total": 113458,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 208650,
@@ -1614,22 +1646,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3630188682",
     "request_url": "https://steamcommunity.com/app/208650/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian Localization"
-  },
-  {
-    "appid": 305620,
-    "name": "The Long Dark",
-    "release_date": "1 Aug, 2017",
-    "release_iso": "2017-08-01",
-    "recommendations_total": 112938,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
   },
   {
     "appid": 219150,
@@ -1652,7 +1668,7 @@
     "name": "V Rising",
     "release_date": "8 May, 2024",
     "release_iso": "2024-05-08",
-    "recommendations_total": 111250,
+    "recommendations_total": 111298,
     "locations": [
       "family"
     ],
@@ -1662,22 +1678,6 @@
     "patch_url": null,
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 3764200,
-    "name": "Resident Evil Requiem",
-    "release_date": "26 Feb, 2026",
-    "release_iso": "2026-02-26",
-    "recommendations_total": 110917,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805723779",
-    "request_url": "https://steamcommunity.com/app/3764200/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization"
   },
   {
     "appid": 204360,
@@ -1732,7 +1732,7 @@
     "name": "Resident Evil Village",
     "release_date": "6 May, 2021",
     "release_iso": "2021-05-06",
-    "recommendations_total": 108977,
+    "recommendations_total": 109704,
     "locations": [
       "family"
     ],
@@ -1742,6 +1742,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2584372710",
     "request_url": "https://steamcommunity.com/app/1196590/discussions/search/?q=Ukrainian",
     "request_topic": "Request for Ukrainian Language Support"
+  },
+  {
+    "appid": 1817070,
+    "name": "Marvel’s Spider-Man Remastered",
+    "release_date": "12 Aug, 2022",
+    "release_iso": "2022-08-12",
+    "recommendations_total": 104957,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3417621335",
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 225540,
@@ -1760,27 +1776,11 @@
     "request_topic": null
   },
   {
-    "appid": 1817070,
-    "name": "Marvel’s Spider-Man Remastered",
-    "release_date": "12 Aug, 2022",
-    "release_iso": "2022-08-12",
-    "recommendations_total": 104728,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3417621335",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 570940,
     "name": "DARK SOULS™: REMASTERED",
     "release_date": "23 May, 2018",
     "release_iso": "2018-05-23",
-    "recommendations_total": 102841,
+    "recommendations_total": 102972,
     "locations": [
       "family"
     ],
@@ -1796,7 +1796,7 @@
     "name": "Megabonk",
     "release_date": "18 Sep, 2025",
     "release_iso": "2025-09-18",
-    "recommendations_total": 101918,
+    "recommendations_total": 101926,
     "locations": [
       "family"
     ],
@@ -1844,7 +1844,7 @@
     "name": "METRO 2033 Redux",
     "release_date": "27 Aug, 2014",
     "release_iso": "2014-08-27",
-    "recommendations_total": 97028,
+    "recommendations_total": 97173,
     "locations": [
       "family"
     ],
@@ -1860,7 +1860,7 @@
     "name": "Horizon Zero Dawn™ Complete Edition",
     "release_date": "7 Aug, 2020",
     "release_iso": "2020-08-07",
-    "recommendations_total": 95947,
+    "recommendations_total": 95960,
     "locations": [
       "family"
     ],
@@ -1908,7 +1908,7 @@
     "name": "Half-Life: Alyx",
     "release_date": "23 Mar, 2020",
     "release_iso": "2020-03-23",
-    "recommendations_total": 93805,
+    "recommendations_total": 93877,
     "locations": [
       "family"
     ],
@@ -2020,7 +2020,7 @@
     "name": "GRIS",
     "release_date": "13 Dec, 2018",
     "release_iso": "2018-12-13",
-    "recommendations_total": 84486,
+    "recommendations_total": 84506,
     "locations": [
       "family"
     ],
@@ -2036,7 +2036,7 @@
     "name": "Days Gone",
     "release_date": "17 May, 2021",
     "release_iso": "2021-05-17",
-    "recommendations_total": 83725,
+    "recommendations_total": 83872,
     "locations": [
       "family"
     ],
@@ -2052,7 +2052,7 @@
     "name": "Noita",
     "release_date": "15 Oct, 2020",
     "release_iso": "2020-10-15",
-    "recommendations_total": 82163,
+    "recommendations_total": 82213,
     "locations": [
       "family"
     ],
@@ -2068,7 +2068,7 @@
     "name": "Green Hell",
     "release_date": "5 Sep, 2019",
     "release_iso": "2019-09-05",
-    "recommendations_total": 81513,
+    "recommendations_total": 81593,
     "locations": [
       "family"
     ],
@@ -2084,7 +2084,7 @@
     "name": "XCOM® 2",
     "release_date": "4 Feb, 2016",
     "release_iso": "2016-02-04",
-    "recommendations_total": 80636,
+    "recommendations_total": 80658,
     "locations": [
       "family"
     ],
@@ -2092,6 +2092,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3133909807",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 254700,
+    "name": "Resident Evil 4 (2005)",
+    "release_date": "27 Feb, 2014",
+    "release_iso": "2014-02-27",
+    "recommendations_total": 79965,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3304125859",
     "request_url": null,
     "request_topic": null
   },
@@ -2110,22 +2126,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3450244858",
     "request_url": "https://steamcommunity.com/app/2001120/discussions/search/?q=Ukrainian",
     "request_topic": "Add Ukrainian subtitles and text"
-  },
-  {
-    "appid": 254700,
-    "name": "Resident Evil 4 (2005)",
-    "release_date": "27 Feb, 2014",
-    "release_iso": "2014-02-27",
-    "recommendations_total": 79895,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3304125859",
-    "request_url": null,
-    "request_topic": null
   },
   {
     "appid": 3949040,
@@ -2148,7 +2148,7 @@
     "name": "Grounded",
     "release_date": "27 Sep, 2022",
     "release_iso": "2022-09-27",
-    "recommendations_total": 76371,
+    "recommendations_total": 76433,
     "locations": [
       "family"
     ],
@@ -2164,7 +2164,7 @@
     "name": "Shadow of the Tomb Raider: Definitive Edition",
     "release_date": "14 Sep, 2018",
     "release_iso": "2018-09-14",
-    "recommendations_total": 73983,
+    "recommendations_total": 74038,
     "locations": [
       "family"
     ],
@@ -2180,7 +2180,7 @@
     "name": "Papers, Please",
     "release_date": "8 Aug, 2013",
     "release_iso": "2013-08-08",
-    "recommendations_total": 73865,
+    "recommendations_total": 73902,
     "locations": [
       "family"
     ],
@@ -2212,7 +2212,7 @@
     "name": "METRO Last Light Redux",
     "release_date": "27 Aug, 2014",
     "release_iso": "2014-08-27",
-    "recommendations_total": 72977,
+    "recommendations_total": 73092,
     "locations": [
       "family"
     ],
@@ -2292,7 +2292,7 @@
     "name": "DEVOUR",
     "release_date": "28 Jan, 2021",
     "release_iso": "2021-01-28",
-    "recommendations_total": 69082,
+    "recommendations_total": 69158,
     "locations": [
       "family"
     ],
@@ -2308,7 +2308,7 @@
     "name": "The Last of Us™ Part I",
     "release_date": "28 Mar, 2023",
     "release_iso": "2023-03-28",
-    "recommendations_total": 68045,
+    "recommendations_total": 68230,
     "locations": [
       "family"
     ],
@@ -2372,7 +2372,7 @@
     "name": "Katana ZERO",
     "release_date": "18 Apr, 2019",
     "release_iso": "2019-04-18",
-    "recommendations_total": 66735,
+    "recommendations_total": 66745,
     "locations": [
       "family"
     ],
@@ -2388,7 +2388,7 @@
     "name": "A Plague Tale: Innocence",
     "release_date": "14 May, 2019",
     "release_iso": "2019-05-14",
-    "recommendations_total": 64894,
+    "recommendations_total": 64953,
     "locations": [
       "family"
     ],
@@ -2404,7 +2404,7 @@
     "name": "Dead Space",
     "release_date": "27 Jan, 2023",
     "release_iso": "2023-01-27",
-    "recommendations_total": 64762,
+    "recommendations_total": 64934,
     "locations": [
       "family"
     ],
@@ -2468,7 +2468,7 @@
     "name": "Wolcen: Lords of Mayhem",
     "release_date": "13 Feb, 2020",
     "release_iso": "2020-02-13",
-    "recommendations_total": 61889,
+    "recommendations_total": 61888,
     "locations": [
       "family"
     ],
@@ -2500,7 +2500,7 @@
     "name": "HITMAN World of Assassination",
     "release_date": "20 Jan, 2022",
     "release_iso": "2022-01-20",
-    "recommendations_total": 60745,
+    "recommendations_total": 61251,
     "locations": [
       "family"
     ],
@@ -2516,7 +2516,7 @@
     "name": "Plague Inc: Evolved",
     "release_date": "18 Feb, 2016",
     "release_iso": "2016-02-18",
-    "recommendations_total": 60124,
+    "recommendations_total": 60450,
     "locations": [
       "family"
     ],
@@ -2532,7 +2532,7 @@
     "name": "Lies of P",
     "release_date": "18 Sep, 2023",
     "release_iso": "2023-09-18",
-    "recommendations_total": 59851,
+    "recommendations_total": 59956,
     "locations": [
       "family"
     ],
@@ -2548,7 +2548,7 @@
     "name": "State of Decay 2: Juggernaut Edition",
     "release_date": "13 Mar, 2020",
     "release_iso": "2020-03-13",
-    "recommendations_total": 59663,
+    "recommendations_total": 59695,
     "locations": [
       "family"
     ],
@@ -2576,6 +2576,22 @@
     "request_topic": null
   },
   {
+    "appid": 1260320,
+    "name": "Party Animals",
+    "release_date": "20 Sep, 2023",
+    "release_iso": "2023-09-20",
+    "recommendations_total": 58759,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/1260320/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian Localization"
+  },
+  {
     "appid": 33230,
     "name": "Assassin's Creed 2",
     "release_date": "4 Mar, 2010",
@@ -2590,22 +2606,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3050318020",
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 1260320,
-    "name": "Party Animals",
-    "release_date": "20 Sep, 2023",
-    "release_iso": "2023-09-20",
-    "recommendations_total": 58625,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/1260320/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian Localization"
   },
   {
     "appid": 234140,
@@ -2628,7 +2628,7 @@
     "name": "WEBFISHING",
     "release_date": "11 Oct, 2024",
     "release_iso": "2024-10-11",
-    "recommendations_total": 57431,
+    "recommendations_total": 57428,
     "locations": [
       "family"
     ],
@@ -2644,7 +2644,7 @@
     "name": "ICARUS",
     "release_date": "3 Dec, 2021",
     "release_iso": "2021-12-03",
-    "recommendations_total": 56921,
+    "recommendations_total": 57129,
     "locations": [
       "family"
     ],
@@ -2724,7 +2724,7 @@
     "name": "BioShock™ Remastered",
     "release_date": "15 Sep, 2016",
     "release_iso": "2016-09-15",
-    "recommendations_total": 53118,
+    "recommendations_total": 53137,
     "locations": [
       "family"
     ],
@@ -2772,7 +2772,7 @@
     "name": "DEATH STRANDING DIRECTOR'S CUT",
     "release_date": "30 Mar, 2022",
     "release_iso": "2022-03-30",
-    "recommendations_total": 51954,
+    "recommendations_total": 52114,
     "locations": [
       "family"
     ],
@@ -2788,7 +2788,7 @@
     "name": "Street Fighter™ 6",
     "release_date": "1 Jun, 2023",
     "release_iso": "2023-06-01",
-    "recommendations_total": 51816,
+    "recommendations_total": 52102,
     "locations": [
       "family"
     ],
@@ -2816,6 +2816,22 @@
     "request_topic": null
   },
   {
+    "appid": 1290000,
+    "name": "PowerWash Simulator",
+    "release_date": "14 Jul, 2022",
+    "release_iso": "2022-07-14",
+    "recommendations_total": 51182,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/1290000/discussions/search/?q=Ukrainian",
+    "request_topic": "Please add Ukrainian language"
+  },
+  {
     "appid": 1478500,
     "name": "Big Walk",
     "release_date": "4 Aug, 2026",
@@ -2832,27 +2848,11 @@
     "request_topic": "Ukrainian Language Support Request"
   },
   {
-    "appid": 1290000,
-    "name": "PowerWash Simulator",
-    "release_date": "14 Jul, 2022",
-    "release_iso": "2022-07-14",
-    "recommendations_total": 51171,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/1290000/discussions/search/?q=Ukrainian",
-    "request_topic": "Please add Ukrainian language"
-  },
-  {
     "appid": 860510,
     "name": "Little Nightmares II",
     "release_date": "10 Feb, 2021",
     "release_iso": "2021-02-10",
-    "recommendations_total": 50859,
+    "recommendations_total": 50876,
     "locations": [
       "family"
     ],
@@ -2884,7 +2884,7 @@
     "name": "Broforce",
     "release_date": "15 Oct, 2015",
     "release_iso": "2015-10-15",
-    "recommendations_total": 49654,
+    "recommendations_total": 49653,
     "locations": [
       "family"
     ],
@@ -2916,7 +2916,7 @@
     "name": "Liar's Bar",
     "release_date": "2 Oct, 2024",
     "release_iso": "2024-10-02",
-    "recommendations_total": 48992,
+    "recommendations_total": 49052,
     "locations": [
       "family"
     ],
@@ -2948,7 +2948,7 @@
     "name": "TEKKEN 8",
     "release_date": "25 Jan, 2024",
     "release_iso": "2024-01-25",
-    "recommendations_total": 48406,
+    "recommendations_total": 48463,
     "locations": [
       "family"
     ],
@@ -2958,6 +2958,22 @@
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/1778820/discussions/search/?q=Ukrainian",
     "request_topic": "Please add Ukrainian localization to the game."
+  },
+  {
+    "appid": 312520,
+    "name": "Rain World",
+    "release_date": "28 Mar, 2017",
+    "release_iso": "2017-03-28",
+    "recommendations_total": 48280,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3359032317",
+    "request_url": "https://steamcommunity.com/app/312520/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian language for Rain World. Українська мова для Rain World."
   },
   {
     "appid": 346010,
@@ -2976,27 +2992,11 @@
     "request_topic": "Ukrainian Language Support"
   },
   {
-    "appid": 312520,
-    "name": "Rain World",
-    "release_date": "28 Mar, 2017",
-    "release_iso": "2017-03-28",
-    "recommendations_total": 48194,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3359032317",
-    "request_url": "https://steamcommunity.com/app/312520/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian language for Rain World. Українська мова для Rain World."
-  },
-  {
     "appid": 972660,
     "name": "Spiritfarer®: Farewell Edition",
     "release_date": "18 Aug, 2020",
     "release_iso": "2020-08-18",
-    "recommendations_total": 47815,
+    "recommendations_total": 47842,
     "locations": [
       "family"
     ],
@@ -3012,7 +3012,7 @@
     "name": "What Remains of Edith Finch",
     "release_date": "24 Apr, 2017",
     "release_iso": "2017-04-24",
-    "recommendations_total": 47794,
+    "recommendations_total": 47829,
     "locations": [
       "family"
     ],
@@ -3028,7 +3028,7 @@
     "name": "Remnant: From the Ashes",
     "release_date": "19 Aug, 2019",
     "release_iso": "2019-08-19",
-    "recommendations_total": 47693,
+    "recommendations_total": 47701,
     "locations": [
       "family"
     ],
@@ -3044,7 +3044,7 @@
     "name": "REMNANT II®",
     "release_date": "25 Jul, 2023",
     "release_iso": "2023-07-25",
-    "recommendations_total": 47243,
+    "recommendations_total": 47272,
     "locations": [
       "family"
     ],
@@ -3060,7 +3060,7 @@
     "name": "Ghostrunner",
     "release_date": "27 Oct, 2020",
     "release_iso": "2020-10-27",
-    "recommendations_total": 47101,
+    "recommendations_total": 47135,
     "locations": [
       "family"
     ],
@@ -3124,7 +3124,7 @@
     "name": "SILENT HILL 2",
     "release_date": "7 Oct, 2024",
     "release_iso": "2024-10-07",
-    "recommendations_total": 44914,
+    "recommendations_total": 45038,
     "locations": [
       "family"
     ],
@@ -3156,7 +3156,7 @@
     "name": "Dishonored 2",
     "release_date": "11 Nov, 2016",
     "release_iso": "2016-11-11",
-    "recommendations_total": 43285,
+    "recommendations_total": 43302,
     "locations": [
       "family"
     ],
@@ -3204,7 +3204,7 @@
     "name": "Mafia III: Definitive Edition",
     "release_date": "19 May, 2020",
     "release_iso": "2020-05-19",
-    "recommendations_total": 42374,
+    "recommendations_total": 42412,
     "locations": [
       "family"
     ],
@@ -3220,7 +3220,7 @@
     "name": "PC Building Simulator",
     "release_date": "29 Jan, 2019",
     "release_iso": "2019-01-29",
-    "recommendations_total": 42198,
+    "recommendations_total": 42203,
     "locations": [
       "family"
     ],
@@ -3268,7 +3268,23 @@
     "name": "Game Dev Tycoon",
     "release_date": "29 Aug, 2013",
     "release_iso": "2013-08-29",
-    "recommendations_total": 40447,
+    "recommendations_total": 40456,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1062090,
+    "name": "Timberborn",
+    "release_date": "12 Mar, 2026",
+    "release_iso": "2026-03-12",
+    "recommendations_total": 40297,
     "locations": [
       "family"
     ],
@@ -3300,7 +3316,7 @@
     "name": "Marvel’s Spider-Man: Miles Morales",
     "release_date": "18 Nov, 2022",
     "release_iso": "2022-11-18",
-    "recommendations_total": 40163,
+    "recommendations_total": 40240,
     "locations": [
       "family"
     ],
@@ -3324,22 +3340,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3710429250",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1062090,
-    "name": "Timberborn",
-    "release_date": "12 Mar, 2026",
-    "release_iso": "2026-03-12",
-    "recommendations_total": 39564,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -3376,27 +3376,11 @@
     "request_topic": null
   },
   {
-    "appid": 302510,
-    "name": "Ryse: Son of Rome",
-    "release_date": "10 Oct, 2014",
-    "release_iso": "2014-10-10",
-    "recommendations_total": 38701,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2048245015",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1449690,
     "name": "The Walking Dead: The Telltale Definitive Series",
     "release_date": "29 Oct, 2020",
     "release_iso": "2020-10-29",
-    "recommendations_total": 38697,
+    "recommendations_total": 38830,
     "locations": [
       "family"
     ],
@@ -3408,11 +3392,43 @@
     "request_topic": null
   },
   {
+    "appid": 302510,
+    "name": "Ryse: Son of Rome",
+    "release_date": "10 Oct, 2014",
+    "release_iso": "2014-10-10",
+    "recommendations_total": 38725,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2048245015",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3768760,
+    "name": "007 First Light",
+    "release_date": "26 May, 2026",
+    "release_iso": "2026-05-26",
+    "recommendations_total": 38600,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815461934",
+    "request_url": "https://steamcommunity.com/app/3768760/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization"
+  },
+  {
     "appid": 920210,
     "name": "LEGO® Star Wars™: The Skywalker Saga",
     "release_date": "5 Apr, 2022",
     "release_iso": "2022-04-05",
-    "recommendations_total": 38533,
+    "recommendations_total": 38540,
     "locations": [
       "family"
     ],
@@ -3428,7 +3444,7 @@
     "name": "Beyond: Two Souls",
     "release_date": "18 Jun, 2020",
     "release_iso": "2020-06-18",
-    "recommendations_total": 38468,
+    "recommendations_total": 38525,
     "locations": [
       "family"
     ],
@@ -3460,7 +3476,7 @@
     "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
     "release_date": "20 Mar, 2007",
     "release_iso": "2007-03-20",
-    "recommendations_total": 38184,
+    "recommendations_total": 38178,
     "locations": [
       "family"
     ],
@@ -3476,7 +3492,7 @@
     "name": "Prey",
     "release_date": "4 May, 2017",
     "release_iso": "2017-05-04",
-    "recommendations_total": 38061,
+    "recommendations_total": 38075,
     "locations": [
       "family"
     ],
@@ -3492,7 +3508,7 @@
     "name": "Thief Simulator",
     "release_date": "9 Nov, 2018",
     "release_iso": "2018-11-09",
-    "recommendations_total": 37725,
+    "recommendations_total": 37737,
     "locations": [
       "family"
     ],
@@ -3520,20 +3536,20 @@
     "request_topic": "Ukrainian language"
   },
   {
-    "appid": 3768760,
-    "name": "007 First Light",
-    "release_date": "26 May, 2026",
-    "release_iso": "2026-05-26",
-    "recommendations_total": 36560,
+    "appid": 3357650,
+    "name": "PRAGMATA",
+    "release_date": "16 Apr, 2026",
+    "release_iso": "2026-04-16",
+    "recommendations_total": 36459,
     "locations": [
       "family"
     ],
     "has_official": false,
     "has_patch": true,
     "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815461934",
-    "request_url": "https://steamcommunity.com/app/3768760/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization"
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3709304740",
+    "request_url": "https://steamcommunity.com/app/3357650/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian Localization"
   },
   {
     "appid": 32470,
@@ -3552,6 +3568,22 @@
     "request_topic": null
   },
   {
+    "appid": 3159330,
+    "name": "Assassin’s Creed Shadows",
+    "release_date": "19 Mar, 2025",
+    "release_iso": "2025-03-19",
+    "recommendations_total": 36341,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/3159330/discussions/search/?q=Ukrainian",
+    "request_topic": "We need Ukrainian localization."
+  },
+  {
     "appid": 1178830,
     "name": "Bright Memory: Infinite",
     "release_date": "11 Nov, 2021",
@@ -3568,27 +3600,11 @@
     "request_topic": null
   },
   {
-    "appid": 3159330,
-    "name": "Assassin’s Creed Shadows",
-    "release_date": "19 Mar, 2025",
-    "release_iso": "2025-03-19",
-    "recommendations_total": 36295,
-    "locations": [
-      "wishlist"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/3159330/discussions/search/?q=Ukrainian",
-    "request_topic": "We need Ukrainian localization."
-  },
-  {
     "appid": 787480,
     "name": "Phoenix Wright: Ace Attorney Trilogy",
     "release_date": "9 Apr, 2019",
     "release_iso": "2019-04-09",
-    "recommendations_total": 36205,
+    "recommendations_total": 36222,
     "locations": [
       "family"
     ],
@@ -3604,7 +3620,7 @@
     "name": "Marvel's Spider-Man 2",
     "release_date": "30 Jan, 2025",
     "release_iso": "2025-01-30",
-    "recommendations_total": 35460,
+    "recommendations_total": 35569,
     "locations": [
       "family"
     ],
@@ -3620,7 +3636,7 @@
     "name": "The Callisto Protocol™",
     "release_date": "1 Dec, 2022",
     "release_iso": "2022-12-01",
-    "recommendations_total": 35312,
+    "recommendations_total": 35341,
     "locations": [
       "family"
     ],
@@ -3636,7 +3652,7 @@
     "name": "Journey",
     "release_date": "11 Jun, 2020",
     "release_iso": "2020-06-11",
-    "recommendations_total": 35175,
+    "recommendations_total": 35197,
     "locations": [
       "family"
     ],
@@ -3652,7 +3668,7 @@
     "name": "Mortal Kombat 1",
     "release_date": "19 Sep, 2023",
     "release_iso": "2023-09-19",
-    "recommendations_total": 34968,
+    "recommendations_total": 35000,
     "locations": [
       "family"
     ],
@@ -3668,7 +3684,7 @@
     "name": "Halo Infinite",
     "release_date": "15 Nov, 2021",
     "release_iso": "2021-11-15",
-    "recommendations_total": 34920,
+    "recommendations_total": 34925,
     "locations": [
       "family"
     ],
@@ -3678,22 +3694,6 @@
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/1240440/discussions/search/?q=Ukrainian",
     "request_topic": "Add Ukrainian localization"
-  },
-  {
-    "appid": 3357650,
-    "name": "PRAGMATA",
-    "release_date": "16 Apr, 2026",
-    "release_iso": "2026-04-16",
-    "recommendations_total": 34843,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3709304740",
-    "request_url": "https://steamcommunity.com/app/3357650/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian Localization"
   },
   {
     "appid": 1466060,
@@ -3716,7 +3716,7 @@
     "name": "The Stanley Parable: Ultra Deluxe",
     "release_date": "27 Apr, 2022",
     "release_iso": "2022-04-27",
-    "recommendations_total": 34627,
+    "recommendations_total": 34651,
     "locations": [
       "family"
     ],
@@ -3732,7 +3732,7 @@
     "name": "CARRION",
     "release_date": "23 Jul, 2020",
     "release_iso": "2020-07-23",
-    "recommendations_total": 34045,
+    "recommendations_total": 34063,
     "locations": [
       "family"
     ],
@@ -3776,27 +3776,11 @@
     "request_topic": null
   },
   {
-    "appid": 1040200,
-    "name": "Crime Scene Cleaner",
-    "release_date": "14 Aug, 2024",
-    "release_iso": "2024-08-14",
-    "recommendations_total": 33332,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827753222",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 3017860,
     "name": "DOOM: The Dark Ages",
     "release_date": "14 May, 2025",
     "release_iso": "2025-05-14",
-    "recommendations_total": 33241,
+    "recommendations_total": 33489,
     "locations": [
       "family"
     ],
@@ -3808,11 +3792,27 @@
     "request_topic": "Ukrainian localization"
   },
   {
+    "appid": 1040200,
+    "name": "Crime Scene Cleaner",
+    "release_date": "14 Aug, 2024",
+    "release_iso": "2024-08-14",
+    "recommendations_total": 33398,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827753222",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 653530,
     "name": "Return of the Obra Dinn",
     "release_date": "18 Oct, 2018",
     "release_iso": "2018-10-18",
-    "recommendations_total": 33013,
+    "recommendations_total": 33061,
     "locations": [
       "family"
     ],
@@ -3828,7 +3828,7 @@
     "name": "Far Cry® New Dawn",
     "release_date": "15 Feb, 2019",
     "release_iso": "2019-02-15",
-    "recommendations_total": 32544,
+    "recommendations_total": 32565,
     "locations": [
       "library"
     ],
@@ -3844,7 +3844,7 @@
     "name": "Age of Mythology: Extended Edition",
     "release_date": "8 May, 2014",
     "release_iso": "2014-05-08",
-    "recommendations_total": 31974,
+    "recommendations_total": 31979,
     "locations": [
       "family"
     ],
@@ -3876,7 +3876,7 @@
     "name": "SIGNALIS",
     "release_date": "27 Oct, 2022",
     "release_iso": "2022-10-27",
-    "recommendations_total": 31743,
+    "recommendations_total": 31785,
     "locations": [
       "family"
     ],
@@ -3892,7 +3892,7 @@
     "name": "Command & Conquer™ Remastered Collection",
     "release_date": "5 Jun, 2020",
     "release_iso": "2020-06-05",
-    "recommendations_total": 31718,
+    "recommendations_total": 31722,
     "locations": [
       "family"
     ],
@@ -3956,7 +3956,7 @@
     "name": "Halls of Torment",
     "release_date": "24 Sep, 2024",
     "release_iso": "2024-09-24",
-    "recommendations_total": 31105,
+    "recommendations_total": 31155,
     "locations": [
       "family"
     ],
@@ -3972,7 +3972,7 @@
     "name": "Shadow Tactics: Blades of the Shogun",
     "release_date": "6 Dec, 2016",
     "release_iso": "2016-12-06",
-    "recommendations_total": 30953,
+    "recommendations_total": 30955,
     "locations": [
       "family"
     ],
@@ -3988,7 +3988,7 @@
     "name": "Deus Ex: Mankind Divided",
     "release_date": "23 Aug, 2016",
     "release_iso": "2016-08-23",
-    "recommendations_total": 30857,
+    "recommendations_total": 30871,
     "locations": [
       "family"
     ],
@@ -4004,7 +4004,7 @@
     "name": "The Room",
     "release_date": "28 Jul, 2014",
     "release_iso": "2014-07-28",
-    "recommendations_total": 30582,
+    "recommendations_total": 30586,
     "locations": [
       "family"
     ],
@@ -4012,6 +4012,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3197473964",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1659420,
+    "name": "UNCHARTED™: Legacy of Thieves Collection",
+    "release_date": "19 Oct, 2022",
+    "release_iso": "2022-10-19",
+    "recommendations_total": 30467,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3209588998",
     "request_url": null,
     "request_topic": null
   },
@@ -4028,22 +4044,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2933130211",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1659420,
-    "name": "UNCHARTED™: Legacy of Thieves Collection",
-    "release_date": "19 Oct, 2022",
-    "release_iso": "2022-10-19",
-    "recommendations_total": 30373,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3209588998",
     "request_url": null,
     "request_topic": null
   },
@@ -4068,7 +4068,7 @@
     "name": "Bloodstained: Ritual of the Night",
     "release_date": "18 Jun, 2019",
     "release_iso": "2019-06-18",
-    "recommendations_total": 29874,
+    "recommendations_total": 29881,
     "locations": [
       "family"
     ],
@@ -4084,7 +4084,7 @@
     "name": "The Talos Principle",
     "release_date": "11 Dec, 2014",
     "release_iso": "2014-12-11",
-    "recommendations_total": 29424,
+    "recommendations_total": 29428,
     "locations": [
       "family"
     ],
@@ -4132,7 +4132,7 @@
     "name": "RoboCop: Rogue City",
     "release_date": "2 Nov, 2023",
     "release_iso": "2023-11-02",
-    "recommendations_total": 29154,
+    "recommendations_total": 29186,
     "locations": [
       "family"
     ],
@@ -4164,7 +4164,7 @@
     "name": "Superliminal",
     "release_date": "5 Nov, 2020",
     "release_iso": "2020-11-05",
-    "recommendations_total": 28827,
+    "recommendations_total": 28838,
     "locations": [
       "family"
     ],
@@ -4192,11 +4192,27 @@
     "request_topic": "Українська локалізація"
   },
   {
+    "appid": 1297900,
+    "name": "Gothic 1 Remake",
+    "release_date": "5 Jun, 2026",
+    "release_iso": "2026-06-05",
+    "recommendations_total": 28642,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/1297900/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization."
+  },
+  {
     "appid": 541570,
     "name": "Sally Face - Episode One",
     "release_date": "14 Dec, 2016",
     "release_iso": "2016-12-14",
-    "recommendations_total": 28504,
+    "recommendations_total": 28552,
     "locations": [
       "family"
     ],
@@ -4228,7 +4244,7 @@
     "name": "Resident Evil",
     "release_date": "19 Jan, 2015",
     "release_iso": "2015-01-19",
-    "recommendations_total": 28316,
+    "recommendations_total": 28348,
     "locations": [
       "family"
     ],
@@ -4292,7 +4308,7 @@
     "name": "SUPERHOT",
     "release_date": "25 Feb, 2016",
     "release_iso": "2016-02-25",
-    "recommendations_total": 27922,
+    "recommendations_total": 27919,
     "locations": [
       "family"
     ],
@@ -4304,27 +4320,11 @@
     "request_topic": null
   },
   {
-    "appid": 1297900,
-    "name": "Gothic 1 Remake",
-    "release_date": "5 Jun, 2026",
-    "release_iso": "2026-06-05",
-    "recommendations_total": 27681,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/1297900/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization."
-  },
-  {
     "appid": 1817230,
     "name": "Hi-Fi RUSH",
     "release_date": "25 Jan, 2023",
     "release_iso": "2023-01-25",
-    "recommendations_total": 27633,
+    "recommendations_total": 27654,
     "locations": [
       "family"
     ],
@@ -4356,7 +4356,7 @@
     "name": "Bendy and the Ink Machine",
     "release_date": "27 Apr, 2017",
     "release_iso": "2017-04-27",
-    "recommendations_total": 26784,
+    "recommendations_total": 26800,
     "locations": [
       "family"
     ],
@@ -4404,7 +4404,7 @@
     "name": "Hatred",
     "release_date": "1 Jun, 2015",
     "release_iso": "2015-06-01",
-    "recommendations_total": 26266,
+    "recommendations_total": 26299,
     "locations": [
       "family"
     ],
@@ -4436,7 +4436,23 @@
     "name": "Who's Your Daddy?!",
     "release_date": "13 May, 2016",
     "release_iso": "2016-05-13",
-    "recommendations_total": 25895,
+    "recommendations_total": 25909,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2062430,
+    "name": "BALL x PIT",
+    "release_date": "15 Oct, 2025",
+    "release_iso": "2025-10-15",
+    "recommendations_total": 25903,
     "locations": [
       "family"
     ],
@@ -4484,7 +4500,7 @@
     "name": "HELLDIVERS™ Dive Harder Edition",
     "release_date": "7 Dec, 2015",
     "release_iso": "2015-12-07",
-    "recommendations_total": 25792,
+    "recommendations_total": 25813,
     "locations": [
       "family"
     ],
@@ -4512,27 +4528,11 @@
     "request_topic": null
   },
   {
-    "appid": 1029690,
-    "name": "Sniper Elite 5",
-    "release_date": "25 May, 2022",
-    "release_iso": "2022-05-25",
-    "recommendations_total": 25734,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840635597",
-    "request_url": "https://steamcommunity.com/app/1029690/discussions/search/?q=Ukrainian",
-    "request_topic": "Add Ukrainian localization"
-  },
-  {
     "appid": 412830,
     "name": "STEINS;GATE",
     "release_date": "8 Sep, 2016",
     "release_iso": "2016-09-08",
-    "recommendations_total": 25725,
+    "recommendations_total": 25761,
     "locations": [
       "family"
     ],
@@ -4542,6 +4542,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3459198667",
     "request_url": null,
     "request_topic": null
+  },
+  {
+    "appid": 1029690,
+    "name": "Sniper Elite 5",
+    "release_date": "25 May, 2022",
+    "release_iso": "2022-05-25",
+    "recommendations_total": 25755,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840635597",
+    "request_url": "https://steamcommunity.com/app/1029690/discussions/search/?q=Ukrainian",
+    "request_topic": "Add Ukrainian localization"
   },
   {
     "appid": 238010,
@@ -4558,22 +4574,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3678359405",
     "request_url": "https://steamcommunity.com/app/238010/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian Localization"
-  },
-  {
-    "appid": 2062430,
-    "name": "BALL x PIT",
-    "release_date": "15 Oct, 2025",
-    "release_iso": "2025-10-15",
-    "recommendations_total": 25583,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
   },
   {
     "appid": 48190,
@@ -4612,7 +4612,7 @@
     "name": "S.T.A.L.K.E.R.: Call of Pripyat",
     "release_date": "11 Feb, 2010",
     "release_iso": "2010-02-11",
-    "recommendations_total": 25042,
+    "recommendations_total": 25050,
     "locations": [
       "family"
     ],
@@ -4628,7 +4628,7 @@
     "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
     "release_date": "25 Jun, 2014",
     "release_iso": "2014-06-25",
-    "recommendations_total": 24762,
+    "recommendations_total": 24773,
     "locations": [
       "family"
     ],
@@ -4636,6 +4636,38 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3242975709",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1940340,
+    "name": "Darkest Dungeon® II",
+    "release_date": "8 May, 2023",
+    "release_iso": "2023-05-08",
+    "recommendations_total": 24711,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 409720,
+    "name": "BioShock™ 2 Remastered",
+    "release_date": "15 Sep, 2016",
+    "release_iso": "2016-09-15",
+    "recommendations_total": 24670,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2217983996",
     "request_url": null,
     "request_topic": null
   },
@@ -4656,43 +4688,11 @@
     "request_topic": null
   },
   {
-    "appid": 409720,
-    "name": "BioShock™ 2 Remastered",
-    "release_date": "15 Sep, 2016",
-    "release_iso": "2016-09-15",
-    "recommendations_total": 24657,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2217983996",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1940340,
-    "name": "Darkest Dungeon® II",
-    "release_date": "8 May, 2023",
-    "release_iso": "2023-05-08",
-    "recommendations_total": 24626,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 584400,
     "name": "Sonic Mania",
     "release_date": "29 Aug, 2017",
     "release_iso": "2017-08-29",
-    "recommendations_total": 24601,
+    "recommendations_total": 24626,
     "locations": [
       "family"
     ],
@@ -4708,7 +4708,7 @@
     "name": "Dead Island 2",
     "release_date": "22 Apr, 2024",
     "release_iso": "2024-04-22",
-    "recommendations_total": 24390,
+    "recommendations_total": 24466,
     "locations": [
       "family"
     ],
@@ -4718,6 +4718,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3245000230",
     "request_url": "https://steamcommunity.com/app/934700/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian localization"
+  },
+  {
+    "appid": 2075800,
+    "name": "STAR WARS Zero Company™",
+    "release_date": "27 Aug, 2026",
+    "release_iso": "2026-08-27",
+    "recommendations_total": 24446,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3791437732",
+    "request_url": "https://steamcommunity.com/app/2075800/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian Localization"
   },
   {
     "appid": 383150,
@@ -4740,7 +4756,7 @@
     "name": "Shadow Warrior 2",
     "release_date": "13 Oct, 2016",
     "release_iso": "2016-10-13",
-    "recommendations_total": 24212,
+    "recommendations_total": 24210,
     "locations": [
       "family"
     ],
@@ -4768,27 +4784,11 @@
     "request_topic": null
   },
   {
-    "appid": 2075800,
-    "name": "STAR WARS Zero Company™",
-    "release_date": "27 Aug, 2026",
-    "release_iso": "2026-08-27",
-    "recommendations_total": 23761,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3791437732",
-    "request_url": "https://steamcommunity.com/app/2075800/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian Localization"
-  },
-  {
     "appid": 474960,
     "name": "Quantum Break",
     "release_date": "29 Sep, 2016",
     "release_iso": "2016-09-29",
-    "recommendations_total": 23448,
+    "recommendations_total": 23466,
     "locations": [
       "family"
     ],
@@ -4804,7 +4804,7 @@
     "name": "LEGO® Marvel™ Super Heroes",
     "release_date": "15 Nov, 2013",
     "release_iso": "2013-11-15",
-    "recommendations_total": 23231,
+    "recommendations_total": 23252,
     "locations": [
       "family"
     ],
@@ -4820,7 +4820,7 @@
     "name": "ANIMAL WELL",
     "release_date": "9 May, 2024",
     "release_iso": "2024-05-09",
-    "recommendations_total": 23132,
+    "recommendations_total": 23158,
     "locations": [
       "family"
     ],
@@ -4852,7 +4852,7 @@
     "name": "Untitled Goose Game",
     "release_date": "23 Sep, 2020",
     "release_iso": "2020-09-23",
-    "recommendations_total": 23093,
+    "recommendations_total": 23106,
     "locations": [
       "family"
     ],
@@ -4868,7 +4868,7 @@
     "name": "Sonic Frontiers",
     "release_date": "7 Nov, 2022",
     "release_iso": "2022-11-07",
-    "recommendations_total": 22974,
+    "recommendations_total": 23001,
     "locations": [
       "family"
     ],
@@ -4884,7 +4884,7 @@
     "name": "SpeedRunners",
     "release_date": "19 Apr, 2016",
     "release_iso": "2016-04-19",
-    "recommendations_total": 22867,
+    "recommendations_total": 22869,
     "locations": [
       "family"
     ],
@@ -4916,7 +4916,7 @@
     "name": "Darkwood",
     "release_date": "17 Aug, 2017",
     "release_iso": "2017-08-17",
-    "recommendations_total": 22667,
+    "recommendations_total": 22692,
     "locations": [
       "family"
     ],
@@ -4932,7 +4932,7 @@
     "name": "Sifu",
     "release_date": "28 Mar, 2023",
     "release_iso": "2023-03-28",
-    "recommendations_total": 22584,
+    "recommendations_total": 22652,
     "locations": [
       "family"
     ],
@@ -4996,7 +4996,7 @@
     "name": "Maneater",
     "release_date": "25 May, 2021",
     "release_iso": "2021-05-25",
-    "recommendations_total": 22422,
+    "recommendations_total": 22465,
     "locations": [
       "family"
     ],
@@ -5012,7 +5012,7 @@
     "name": "DUSK",
     "release_date": "10 Dec, 2018",
     "release_iso": "2018-12-10",
-    "recommendations_total": 22212,
+    "recommendations_total": 22229,
     "locations": [
       "family"
     ],
@@ -5028,7 +5028,7 @@
     "name": "Pacific Drive",
     "release_date": "21 Feb, 2024",
     "release_iso": "2024-02-21",
-    "recommendations_total": 21950,
+    "recommendations_total": 21998,
     "locations": [
       "family"
     ],
@@ -5060,7 +5060,7 @@
     "name": "The Evil Within",
     "release_date": "13 Oct, 2014",
     "release_iso": "2014-10-13",
-    "recommendations_total": 21807,
+    "recommendations_total": 21825,
     "locations": [
       "family"
     ],
@@ -5076,7 +5076,7 @@
     "name": "NieR Replicant™ ver.1.22474487139...",
     "release_date": "23 Apr, 2021",
     "release_iso": "2021-04-23",
-    "recommendations_total": 21791,
+    "recommendations_total": 21807,
     "locations": [
       "family"
     ],
@@ -5092,7 +5092,7 @@
     "name": "A Plague Tale: Requiem",
     "release_date": "17 Oct, 2022",
     "release_iso": "2022-10-17",
-    "recommendations_total": 21705,
+    "recommendations_total": 21777,
     "locations": [
       "family"
     ],
@@ -5108,7 +5108,7 @@
     "name": "Before Your Eyes",
     "release_date": "8 Apr, 2021",
     "release_iso": "2021-04-08",
-    "recommendations_total": 21638,
+    "recommendations_total": 21650,
     "locations": [
       "family"
     ],
@@ -5152,6 +5152,22 @@
     "request_topic": null
   },
   {
+    "appid": 2668510,
+    "name": "Red Dead Redemption",
+    "release_date": "29 Oct, 2024",
+    "release_iso": "2024-10-29",
+    "recommendations_total": 21434,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820654006",
+    "request_url": "https://steamcommunity.com/app/2668510/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization"
+  },
+  {
     "appid": 410900,
     "name": "Forts",
     "release_date": "19 Apr, 2017",
@@ -5168,27 +5184,11 @@
     "request_topic": null
   },
   {
-    "appid": 2668510,
-    "name": "Red Dead Redemption",
-    "release_date": "29 Oct, 2024",
-    "release_iso": "2024-10-29",
-    "recommendations_total": 21406,
-    "locations": [
-      "wishlist"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820654006",
-    "request_url": "https://steamcommunity.com/app/2668510/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization"
-  },
-  {
     "appid": 1601580,
     "name": "Frostpunk 2",
     "release_date": "20 Sep, 2024",
     "release_iso": "2024-09-20",
-    "recommendations_total": 21274,
+    "recommendations_total": 21344,
     "locations": [
       "family"
     ],
@@ -5204,7 +5204,7 @@
     "name": "Baba Is You",
     "release_date": "13 Mar, 2019",
     "release_iso": "2019-03-13",
-    "recommendations_total": 21208,
+    "recommendations_total": 21217,
     "locations": [
       "family"
     ],
@@ -5220,7 +5220,7 @@
     "name": "The Room Two",
     "release_date": "5 Jul, 2016",
     "release_iso": "2016-07-05",
-    "recommendations_total": 21191,
+    "recommendations_total": 21193,
     "locations": [
       "family"
     ],
@@ -5300,7 +5300,7 @@
     "name": "Vampyr",
     "release_date": "4 Jun, 2018",
     "release_iso": "2018-06-04",
-    "recommendations_total": 20422,
+    "recommendations_total": 20439,
     "locations": [
       "family"
     ],
@@ -5316,7 +5316,7 @@
     "name": "Heroes® of Might & Magic® III - HD Edition",
     "release_date": "28 Jan, 2015",
     "release_iso": "2015-01-28",
-    "recommendations_total": 20314,
+    "recommendations_total": 20329,
     "locations": [
       "family"
     ],
@@ -5332,7 +5332,7 @@
     "name": "Townscaper",
     "release_date": "26 Aug, 2021",
     "release_iso": "2021-08-26",
-    "recommendations_total": 20138,
+    "recommendations_total": 20140,
     "locations": [
       "family"
     ],
@@ -5348,7 +5348,7 @@
     "name": "Devil May Cry HD Collection",
     "release_date": "13 Mar, 2018",
     "release_iso": "2018-03-13",
-    "recommendations_total": 20099,
+    "recommendations_total": 20129,
     "locations": [
       "family"
     ],
@@ -5364,7 +5364,7 @@
     "name": "The Evil Within 2",
     "release_date": "12 Oct, 2017",
     "release_iso": "2017-10-12",
-    "recommendations_total": 19974,
+    "recommendations_total": 19982,
     "locations": [
       "family"
     ],
@@ -5380,7 +5380,7 @@
     "name": "The Ascent",
     "release_date": "29 Jul, 2021",
     "release_iso": "2021-07-29",
-    "recommendations_total": 19807,
+    "recommendations_total": 19815,
     "locations": [
       "family"
     ],
@@ -5412,7 +5412,7 @@
     "name": "SILENT HILL f",
     "release_date": "24 Sep, 2025",
     "release_iso": "2025-09-24",
-    "recommendations_total": 19734,
+    "recommendations_total": 19763,
     "locations": [
       "family"
     ],
@@ -5444,7 +5444,7 @@
     "name": "Roboquest",
     "release_date": "7 Nov, 2023",
     "release_iso": "2023-11-07",
-    "recommendations_total": 19355,
+    "recommendations_total": 19375,
     "locations": [
       "family"
     ],
@@ -5460,7 +5460,7 @@
     "name": "Demonologist",
     "release_date": "25 Sep, 2023",
     "release_iso": "2023-09-25",
-    "recommendations_total": 19256,
+    "recommendations_total": 19280,
     "locations": [
       "family"
     ],
@@ -5504,6 +5504,22 @@
     "request_topic": null
   },
   {
+    "appid": 3191030,
+    "name": "Nubby's Number Factory",
+    "release_date": "7 Mar, 2025",
+    "release_iso": "2025-03-07",
+    "recommendations_total": 18539,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 40700,
     "name": "Machinarium",
     "release_date": "16 Oct, 2009",
@@ -5520,27 +5536,11 @@
     "request_topic": null
   },
   {
-    "appid": 3191030,
-    "name": "Nubby's Number Factory",
-    "release_date": "7 Mar, 2025",
-    "release_iso": "2025-03-07",
-    "recommendations_total": 18449,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 350080,
     "name": "Wolfenstein: The Old Blood",
     "release_date": "4 May, 2015",
     "release_iso": "2015-05-04",
-    "recommendations_total": 18399,
+    "recommendations_total": 18405,
     "locations": [
       "family"
     ],
@@ -5588,7 +5588,7 @@
     "name": "The Last Campfire",
     "release_date": "7 Oct, 2021",
     "release_iso": "2021-10-07",
-    "recommendations_total": 18040,
+    "recommendations_total": 18061,
     "locations": [
       "family"
     ],
@@ -5604,7 +5604,7 @@
     "name": "The Room 4: Old Sins",
     "release_date": "11 Feb, 2021",
     "release_iso": "2021-02-11",
-    "recommendations_total": 17975,
+    "recommendations_total": 17978,
     "locations": [
       "family"
     ],
@@ -5636,13 +5636,45 @@
     "name": "S.T.A.L.K.E.R.: Clear Sky",
     "release_date": "15 Sep, 2008",
     "release_iso": "2008-09-15",
-    "recommendations_total": 17763,
+    "recommendations_total": 17771,
     "locations": [
       "family"
     ],
     "has_official": true,
     "has_patch": true,
     "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3156770,
+    "name": "Witchfire",
+    "release_date": "23 Sep, 2024",
+    "release_iso": "2024-09-23",
+    "recommendations_total": 17758,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 3669870,
+    "name": "CONTROL Resonant",
+    "release_date": "24 Sep, 2026",
+    "release_iso": "2026-09-24",
+    "recommendations_total": 17721,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": true,
     "patch_url": null,
     "request_url": null,
     "request_topic": null
@@ -5664,22 +5696,6 @@
     "request_topic": "Ukrainian Localization"
   },
   {
-    "appid": 3156770,
-    "name": "Witchfire",
-    "release_date": "23 Sep, 2024",
-    "release_iso": "2024-09-23",
-    "recommendations_total": 17638,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 19900,
     "name": "Far Cry® 2",
     "release_date": "22 Oct, 2008",
@@ -5692,6 +5708,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3217210685",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1533420,
+    "name": "Neon White",
+    "release_date": "16 Jun, 2022",
+    "release_iso": "2022-06-16",
+    "recommendations_total": 17485,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3308678876",
     "request_url": null,
     "request_topic": null
   },
@@ -5712,27 +5744,11 @@
     "request_topic": null
   },
   {
-    "appid": 1533420,
-    "name": "Neon White",
-    "release_date": "16 Jun, 2022",
-    "release_iso": "2022-06-16",
-    "recommendations_total": 17469,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3308678876",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 985890,
     "name": "Streets of Rage 4",
     "release_date": "30 Apr, 2020",
     "release_iso": "2020-04-30",
-    "recommendations_total": 17457,
+    "recommendations_total": 17469,
     "locations": [
       "family"
     ],
@@ -5764,7 +5780,7 @@
     "name": "Ravenswatch",
     "release_date": "26 Sep, 2024",
     "release_iso": "2024-09-26",
-    "recommendations_total": 17322,
+    "recommendations_total": 17386,
     "locations": [
       "family"
     ],
@@ -5780,7 +5796,7 @@
     "name": "Marvel's Midnight Suns",
     "release_date": "1 Dec, 2022",
     "release_iso": "2022-12-01",
-    "recommendations_total": 17316,
+    "recommendations_total": 17321,
     "locations": [
       "family"
     ],
@@ -5796,7 +5812,7 @@
     "name": "Devil May Cry 4 Special Edition",
     "release_date": "23 Jun, 2015",
     "release_iso": "2015-06-23",
-    "recommendations_total": 17276,
+    "recommendations_total": 17291,
     "locations": [
       "family"
     ],
@@ -5808,11 +5824,27 @@
     "request_topic": null
   },
   {
+    "appid": 1547000,
+    "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+    "release_date": "19 Jan, 2023",
+    "release_iso": "2023-01-19",
+    "recommendations_total": 17110,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3073210895",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 291650,
     "name": "Pillars of Eternity",
     "release_date": "26 Mar, 2015",
     "release_iso": "2015-03-26",
-    "recommendations_total": 17072,
+    "recommendations_total": 17078,
     "locations": [
       "family"
     ],
@@ -5828,7 +5860,7 @@
     "name": "TUNIC",
     "release_date": "16 Mar, 2022",
     "release_iso": "2022-03-16",
-    "recommendations_total": 17071,
+    "recommendations_total": 17078,
     "locations": [
       "family"
     ],
@@ -5844,7 +5876,7 @@
     "name": "Crysis Remastered",
     "release_date": "17 Sep, 2021",
     "release_iso": "2021-09-17",
-    "recommendations_total": 17018,
+    "recommendations_total": 17055,
     "locations": [
       "family"
     ],
@@ -5852,22 +5884,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3468698138",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1547000,
-    "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
-    "release_date": "19 Jan, 2023",
-    "release_iso": "2023-01-19",
-    "recommendations_total": 17005,
-    "locations": [
-      "wishlist"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3073210895",
     "request_url": null,
     "request_topic": null
   },
@@ -5892,7 +5908,7 @@
     "name": "Kena: Bridge of Spirits",
     "release_date": "26 Sep, 2022",
     "release_iso": "2022-09-26",
-    "recommendations_total": 16877,
+    "recommendations_total": 16878,
     "locations": [
       "family"
     ],
@@ -5908,7 +5924,7 @@
     "name": "Choo-Choo Charles",
     "release_date": "9 Dec, 2022",
     "release_iso": "2022-12-09",
-    "recommendations_total": 16657,
+    "recommendations_total": 16669,
     "locations": [
       "family"
     ],
@@ -5920,11 +5936,27 @@
     "request_topic": null
   },
   {
+    "appid": 2416450,
+    "name": "MOUSE: P.I. For Hire",
+    "release_date": "16 Apr, 2026",
+    "release_iso": "2026-04-16",
+    "recommendations_total": 16609,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 388410,
     "name": "Darksiders II Deathinitive Edition",
     "release_date": "5 Nov, 2015",
     "release_iso": "2015-11-05",
-    "recommendations_total": 16556,
+    "recommendations_total": 16562,
     "locations": [
       "family"
     ],
@@ -5940,7 +5972,7 @@
     "name": "We Were Here Forever",
     "release_date": "10 May, 2022",
     "release_iso": "2022-05-10",
-    "recommendations_total": 16519,
+    "recommendations_total": 16525,
     "locations": [
       "family"
     ],
@@ -5956,7 +5988,7 @@
     "name": "FINAL FANTASY® XIII",
     "release_date": "9 Oct, 2014",
     "release_iso": "2014-10-09",
-    "recommendations_total": 16490,
+    "recommendations_total": 16503,
     "locations": [
       "family"
     ],
@@ -5972,7 +6004,7 @@
     "name": "Move or Die",
     "release_date": "21 Jan, 2016",
     "release_iso": "2016-01-21",
-    "recommendations_total": 16464,
+    "recommendations_total": 16459,
     "locations": [
       "library"
     ],
@@ -5988,7 +6020,7 @@
     "name": "Trepang2",
     "release_date": "21 Jun, 2023",
     "release_iso": "2023-06-21",
-    "recommendations_total": 16351,
+    "recommendations_total": 16378,
     "locations": [
       "family"
     ],
@@ -6004,7 +6036,7 @@
     "name": "Warhammer 40,000: Boltgun",
     "release_date": "23 May, 2023",
     "release_iso": "2023-05-23",
-    "recommendations_total": 16083,
+    "recommendations_total": 16099,
     "locations": [
       "family"
     ],
@@ -6032,6 +6064,22 @@
     "request_topic": null
   },
   {
+    "appid": 1601570,
+    "name": "The Alters",
+    "release_date": "13 Jun, 2025",
+    "release_iso": "2025-06-13",
+    "recommendations_total": 15981,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 71250,
     "name": "Sonic Adventure DX",
     "release_date": "4 Mar, 2011",
@@ -6048,27 +6096,11 @@
     "request_topic": null
   },
   {
-    "appid": 1601570,
-    "name": "The Alters",
-    "release_date": "13 Jun, 2025",
-    "release_iso": "2025-06-13",
-    "recommendations_total": 15881,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 257420,
     "name": "Serious Sam 4",
     "release_date": "24 Sep, 2020",
     "release_iso": "2020-09-24",
-    "recommendations_total": 15761,
+    "recommendations_total": 15766,
     "locations": [
       "family"
     ],
@@ -6084,7 +6116,7 @@
     "name": "Hyper Light Drifter",
     "release_date": "31 Mar, 2016",
     "release_iso": "2016-03-31",
-    "recommendations_total": 15698,
+    "recommendations_total": 15718,
     "locations": [
       "family"
     ],
@@ -6100,7 +6132,7 @@
     "name": "Aliens: Dark Descent",
     "release_date": "19 Jun, 2023",
     "release_iso": "2023-06-19",
-    "recommendations_total": 15558,
+    "recommendations_total": 15562,
     "locations": [
       "family"
     ],
@@ -6116,7 +6148,7 @@
     "name": "Baldur's Gate: Enhanced Edition",
     "release_date": "16 Jan, 2013",
     "release_iso": "2013-01-16",
-    "recommendations_total": 15534,
+    "recommendations_total": 15545,
     "locations": [
       "family"
     ],
@@ -6128,27 +6160,27 @@
     "request_topic": null
   },
   {
-    "appid": 3669870,
-    "name": "CONTROL Resonant",
-    "release_date": "24 Sep, 2026",
-    "release_iso": "2026-09-24",
-    "recommendations_total": 15327,
+    "appid": 2163330,
+    "name": "Yet Another Zombie Survivors",
+    "release_date": "20 Aug, 2026",
+    "release_iso": "2026-08-20",
+    "recommendations_total": 15448,
     "locations": [
       "family"
     ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814306733",
     "request_url": null,
     "request_topic": null
   },
   {
-    "appid": 2416450,
-    "name": "MOUSE: P.I. For Hire",
-    "release_date": "16 Apr, 2026",
-    "release_iso": "2026-04-16",
-    "recommendations_total": 15264,
+    "appid": 3404260,
+    "name": "Dead as Disco",
+    "release_date": "5 May, 2026",
+    "release_iso": "2026-05-05",
+    "recommendations_total": 15357,
     "locations": [
       "family"
     ],
@@ -6164,7 +6196,7 @@
     "name": "Scorn",
     "release_date": "14 Oct, 2022",
     "release_iso": "2022-10-14",
-    "recommendations_total": 15090,
+    "recommendations_total": 15121,
     "locations": [
       "family"
     ],
@@ -6180,7 +6212,7 @@
     "name": "JoJo's Bizarre Adventure: All-Star Battle R",
     "release_date": "1 Sep, 2022",
     "release_iso": "2022-09-01",
-    "recommendations_total": 15013,
+    "recommendations_total": 15050,
     "locations": [
       "family"
     ],
@@ -6196,7 +6228,7 @@
     "name": "Bendy and the Dark Revival",
     "release_date": "15 Nov, 2022",
     "release_iso": "2022-11-15",
-    "recommendations_total": 14931,
+    "recommendations_total": 14961,
     "locations": [
       "family"
     ],
@@ -6212,7 +6244,7 @@
     "name": "Resident Evil 0",
     "release_date": "19 Jan, 2016",
     "release_iso": "2016-01-19",
-    "recommendations_total": 14929,
+    "recommendations_total": 14945,
     "locations": [
       "family"
     ],
@@ -6228,7 +6260,7 @@
     "name": "Fable Anniversary",
     "release_date": "12 Sep, 2014",
     "release_iso": "2014-09-12",
-    "recommendations_total": 14921,
+    "recommendations_total": 14929,
     "locations": [
       "family"
     ],
@@ -6256,27 +6288,11 @@
     "request_topic": null
   },
   {
-    "appid": 2163330,
-    "name": "Yet Another Zombie Survivors",
-    "release_date": "20 Aug, 2026",
-    "release_iso": "2026-08-20",
-    "recommendations_total": 14845,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814306733",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1515210,
     "name": "The Past Within",
     "release_date": "2 Nov, 2022",
     "release_iso": "2022-11-02",
-    "recommendations_total": 14826,
+    "recommendations_total": 14839,
     "locations": [
       "family"
     ],
@@ -6340,7 +6356,7 @@
     "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
     "release_date": "23 Jun, 2020",
     "release_iso": "2020-06-23",
-    "recommendations_total": 14544,
+    "recommendations_total": 14550,
     "locations": [
       "family"
     ],
@@ -6388,7 +6404,7 @@
     "name": "Spyro™ Reignited Trilogy",
     "release_date": "3 Sep, 2019",
     "release_iso": "2019-09-03",
-    "recommendations_total": 14354,
+    "recommendations_total": 14359,
     "locations": [
       "family"
     ],
@@ -6398,6 +6414,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3451776037",
     "request_url": null,
     "request_topic": null
+  },
+  {
+    "appid": 850190,
+    "name": "Goat Simulator 3",
+    "release_date": "15 Feb, 2024",
+    "release_iso": "2024-02-15",
+    "recommendations_total": 14340,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3434241537",
+    "request_url": "https://steamcommunity.com/app/850190/discussions/search/?q=Ukrainian",
+    "request_topic": "Add Ukrainian localization please"
   },
   {
     "appid": 236090,
@@ -6414,22 +6446,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3128839838",
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 850190,
-    "name": "Goat Simulator 3",
-    "release_date": "15 Feb, 2024",
-    "release_iso": "2024-02-15",
-    "recommendations_total": 14265,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3434241537",
-    "request_url": "https://steamcommunity.com/app/850190/discussions/search/?q=Ukrainian",
-    "request_topic": "Add Ukrainian localization please"
   },
   {
     "appid": 21090,
@@ -6484,7 +6500,7 @@
     "name": "Darksiders Warmastered Edition",
     "release_date": "29 Nov, 2016",
     "release_iso": "2016-11-29",
-    "recommendations_total": 14224,
+    "recommendations_total": 14234,
     "locations": [
       "family"
     ],
@@ -6516,7 +6532,7 @@
     "name": "Metal: Hellsinger",
     "release_date": "15 Sep, 2022",
     "release_iso": "2022-09-15",
-    "recommendations_total": 14049,
+    "recommendations_total": 14058,
     "locations": [
       "family"
     ],
@@ -6548,7 +6564,7 @@
     "name": "Rusty's Retirement",
     "release_date": "26 Apr, 2024",
     "release_iso": "2024-04-26",
-    "recommendations_total": 13993,
+    "recommendations_total": 13997,
     "locations": [
       "family"
     ],
@@ -6640,22 +6656,6 @@
     "request_topic": null
   },
   {
-    "appid": 3404260,
-    "name": "Dead as Disco",
-    "release_date": "5 May, 2026",
-    "release_iso": "2026-05-05",
-    "recommendations_total": 13660,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 237990,
     "name": "The Banner Saga",
     "release_date": "14 Jan, 2014",
@@ -6676,7 +6676,7 @@
     "name": "Indiana Jones and the Great Circle",
     "release_date": "8 Dec, 2024",
     "release_iso": "2024-12-08",
-    "recommendations_total": 13416,
+    "recommendations_total": 13426,
     "locations": [
       "family"
     ],
@@ -6720,6 +6720,38 @@
     "request_topic": null
   },
   {
+    "appid": 2432860,
+    "name": "MENACE",
+    "release_date": "5 Feb, 2026",
+    "release_iso": "2026-02-05",
+    "recommendations_total": 13242,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 1475810,
+    "name": "Ghostwire: Tokyo",
+    "release_date": "24 Mar, 2022",
+    "release_iso": "2022-03-24",
+    "recommendations_total": 13215,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3758264164",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 597820,
     "name": "BIOMUTANT",
     "release_date": "25 May, 2021",
@@ -6732,22 +6764,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3391664133",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1475810,
-    "name": "Ghostwire: Tokyo",
-    "release_date": "24 Mar, 2022",
-    "release_iso": "2022-03-24",
-    "recommendations_total": 13202,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3758264164",
     "request_url": null,
     "request_topic": null
   },
@@ -6772,7 +6788,7 @@
     "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
     "release_date": "16 Jun, 2022",
     "release_iso": "2022-06-16",
-    "recommendations_total": 13085,
+    "recommendations_total": 13091,
     "locations": [
       "family"
     ],
@@ -6800,27 +6816,11 @@
     "request_topic": null
   },
   {
-    "appid": 2432860,
-    "name": "MENACE",
-    "release_date": "5 Feb, 2026",
-    "release_iso": "2026-02-05",
-    "recommendations_total": 12940,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 835960,
     "name": "The Talos Principle 2",
     "release_date": "2 Nov, 2023",
     "release_iso": "2023-11-02",
-    "recommendations_total": 12939,
+    "recommendations_total": 12954,
     "locations": [
       "family"
     ],
@@ -6836,7 +6836,7 @@
     "name": "Suicide Squad: Kill the Justice League",
     "release_date": "2 Feb, 2024",
     "release_iso": "2024-02-02",
-    "recommendations_total": 12880,
+    "recommendations_total": 12886,
     "locations": [
       "family"
     ],
@@ -6916,7 +6916,7 @@
     "name": "Darksiders III",
     "release_date": "27 Nov, 2018",
     "release_iso": "2018-11-27",
-    "recommendations_total": 12663,
+    "recommendations_total": 12674,
     "locations": [
       "family"
     ],
@@ -6932,7 +6932,7 @@
     "name": "Chernobylite Complete Edition",
     "release_date": "28 Jul, 2021",
     "release_iso": "2021-07-28",
-    "recommendations_total": 12644,
+    "recommendations_total": 12650,
     "locations": [
       "family"
     ],
@@ -6948,7 +6948,7 @@
     "name": "FINAL FANTASY IX",
     "release_date": "14 Apr, 2016",
     "release_iso": "2016-04-14",
-    "recommendations_total": 12636,
+    "recommendations_total": 12650,
     "locations": [
       "family"
     ],
@@ -6980,7 +6980,7 @@
     "name": "Cossacks 3",
     "release_date": "20 Sep, 2016",
     "release_iso": "2016-09-20",
-    "recommendations_total": 12514,
+    "recommendations_total": 12528,
     "locations": [
       "family"
     ],
@@ -6996,7 +6996,7 @@
     "name": "SONIC X SHADOW GENERATIONS",
     "release_date": "24 Oct, 2024",
     "release_iso": "2024-10-24",
-    "recommendations_total": 12489,
+    "recommendations_total": 12521,
     "locations": [
       "family"
     ],
@@ -7024,27 +7024,11 @@
     "request_topic": null
   },
   {
-    "appid": 607080,
-    "name": "Psychonauts 2",
-    "release_date": "24 Aug, 2021",
-    "release_iso": "2021-08-24",
-    "recommendations_total": 12468,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3231327654",
-    "request_url": "https://steamcommunity.com/app/607080/discussions/search/?q=Ukrainian",
-    "request_topic": "The aim of adding Ukrainian localization"
-  },
-  {
     "appid": 1382070,
     "name": "Viewfinder",
     "release_date": "18 Jul, 2023",
     "release_iso": "2023-07-18",
-    "recommendations_total": 12464,
+    "recommendations_total": 12477,
     "locations": [
       "family"
     ],
@@ -7054,6 +7038,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3737641671",
     "request_url": null,
     "request_topic": null
+  },
+  {
+    "appid": 607080,
+    "name": "Psychonauts 2",
+    "release_date": "24 Aug, 2021",
+    "release_iso": "2021-08-24",
+    "recommendations_total": 12472,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3231327654",
+    "request_url": "https://steamcommunity.com/app/607080/discussions/search/?q=Ukrainian",
+    "request_topic": "The aim of adding Ukrainian localization"
   },
   {
     "appid": 437920,
@@ -7092,7 +7092,7 @@
     "name": "CHRONO TRIGGER®",
     "release_date": "27 Feb, 2018",
     "release_iso": "2018-02-27",
-    "recommendations_total": 12391,
+    "recommendations_total": 12404,
     "locations": [
       "family"
     ],
@@ -7149,6 +7149,22 @@
     "has_request": true,
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/3010850/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization"
+  },
+  {
+    "appid": 2486820,
+    "name": "Sonic Racing: CrossWorlds",
+    "release_date": "25 Sep, 2025",
+    "release_iso": "2025-09-25",
+    "recommendations_total": 12221,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3730062332",
+    "request_url": "https://steamcommunity.com/app/2486820/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian localization"
   },
   {
@@ -7232,27 +7248,11 @@
     "request_topic": null
   },
   {
-    "appid": 2486820,
-    "name": "Sonic Racing: CrossWorlds",
-    "release_date": "25 Sep, 2025",
-    "release_iso": "2025-09-25",
-    "recommendations_total": 12048,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3730062332",
-    "request_url": "https://steamcommunity.com/app/2486820/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization"
-  },
-  {
     "appid": 714120,
     "name": "Little Misfortune",
     "release_date": "18 Sep, 2019",
     "release_iso": "2019-09-18",
-    "recommendations_total": 12027,
+    "recommendations_total": 12033,
     "locations": [
       "family"
     ],
@@ -7262,6 +7262,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2795527695",
     "request_url": "https://steamcommunity.com/app/714120/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian localization"
+  },
+  {
+    "appid": 610370,
+    "name": "Desperados III",
+    "release_date": "16 Jun, 2020",
+    "release_iso": "2020-06-16",
+    "recommendations_total": 11999,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3143468242",
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 222480,
@@ -7276,22 +7292,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2671944996",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 610370,
-    "name": "Desperados III",
-    "release_date": "16 Jun, 2020",
-    "release_iso": "2020-06-16",
-    "recommendations_total": 11996,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3143468242",
     "request_url": null,
     "request_topic": null
   },
@@ -7332,7 +7332,7 @@
     "name": "Iron Harvest",
     "release_date": "31 Aug, 2020",
     "release_iso": "2020-08-31",
-    "recommendations_total": 11754,
+    "recommendations_total": 11758,
     "locations": [
       "family"
     ],
@@ -7364,7 +7364,7 @@
     "name": "Furi",
     "release_date": "5 Jul, 2016",
     "release_iso": "2016-07-05",
-    "recommendations_total": 11315,
+    "recommendations_total": 11320,
     "locations": [
       "family"
     ],
@@ -7412,7 +7412,7 @@
     "name": "The Exit 8",
     "release_date": "29 Nov, 2023",
     "release_iso": "2023-11-29",
-    "recommendations_total": 11240,
+    "recommendations_total": 11250,
     "locations": [
       "family"
     ],
@@ -7460,7 +7460,7 @@
     "name": "Call of Cthulhu®",
     "release_date": "29 Oct, 2018",
     "release_iso": "2018-10-29",
-    "recommendations_total": 11099,
+    "recommendations_total": 11105,
     "locations": [
       "family"
     ],
@@ -7488,27 +7488,11 @@
     "request_topic": null
   },
   {
-    "appid": 1785150,
-    "name": "Friends vs Friends",
-    "release_date": "30 May, 2023",
-    "release_iso": "2023-05-30",
-    "recommendations_total": 10947,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 2229850,
     "name": "Command & Conquer Red Alert™ 2 and Yuri’s Revenge™",
     "release_date": "7 Mar, 2024",
     "release_iso": "2024-03-07",
-    "recommendations_total": 10930,
+    "recommendations_total": 10949,
     "locations": [
       "family"
     ],
@@ -7520,11 +7504,27 @@
     "request_topic": null
   },
   {
+    "appid": 1785150,
+    "name": "Friends vs Friends",
+    "release_date": "30 May, 2023",
+    "release_iso": "2023-05-30",
+    "recommendations_total": 10948,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1285670,
     "name": "Post Void",
     "release_date": "6 Aug, 2020",
     "release_iso": "2020-08-06",
-    "recommendations_total": 10905,
+    "recommendations_total": 10909,
     "locations": [
       "family"
     ],
@@ -7540,7 +7540,7 @@
     "name": "The Messenger",
     "release_date": "30 Aug, 2018",
     "release_iso": "2018-08-30",
-    "recommendations_total": 10823,
+    "recommendations_total": 10829,
     "locations": [
       "family"
     ],
@@ -7572,7 +7572,7 @@
     "name": "The Invincible",
     "release_date": "6 Nov, 2023",
     "release_iso": "2023-11-06",
-    "recommendations_total": 10702,
+    "recommendations_total": 10739,
     "locations": [
       "family"
     ],
@@ -7588,7 +7588,7 @@
     "name": "Little Kitty, Big City",
     "release_date": "9 May, 2024",
     "release_iso": "2024-05-09",
-    "recommendations_total": 10611,
+    "recommendations_total": 10640,
     "locations": [
       "family"
     ],
@@ -7620,7 +7620,7 @@
     "name": "Darksiders Genesis",
     "release_date": "5 Dec, 2019",
     "release_iso": "2019-12-05",
-    "recommendations_total": 10502,
+    "recommendations_total": 10503,
     "locations": [
       "family"
     ],
@@ -7652,7 +7652,7 @@
     "name": "RUINER",
     "release_date": "26 Sep, 2017",
     "release_iso": "2017-09-26",
-    "recommendations_total": 10424,
+    "recommendations_total": 10434,
     "locations": [
       "family"
     ],
@@ -7668,7 +7668,7 @@
     "name": "Evil West",
     "release_date": "21 Nov, 2022",
     "release_iso": "2022-11-21",
-    "recommendations_total": 10404,
+    "recommendations_total": 10406,
     "locations": [
       "family"
     ],
@@ -7684,7 +7684,7 @@
     "name": "TOEM: A Photo Adventure",
     "release_date": "17 Sep, 2021",
     "release_iso": "2021-09-17",
-    "recommendations_total": 10360,
+    "recommendations_total": 10401,
     "locations": [
       "family"
     ],
@@ -7700,7 +7700,7 @@
     "name": "Iron Lung",
     "release_date": "9 Mar, 2022",
     "release_iso": "2022-03-09",
-    "recommendations_total": 10326,
+    "recommendations_total": 10329,
     "locations": [
       "family"
     ],
@@ -7732,7 +7732,7 @@
     "name": "Pikuniku",
     "release_date": "24 Jan, 2019",
     "release_iso": "2019-01-24",
-    "recommendations_total": 10234,
+    "recommendations_total": 10237,
     "locations": [
       "family"
     ],
@@ -7742,6 +7742,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3748131403",
     "request_url": null,
     "request_topic": null
+  },
+  {
+    "appid": 2057760,
+    "name": "Esoteric Ebb",
+    "release_date": "3 Mar, 2026",
+    "release_iso": "2026-03-03",
+    "recommendations_total": 10130,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/2057760/discussions/search/?q=Ukrainian",
+    "request_topic": "Please add Ukrainian language 🙏☺"
   },
   {
     "appid": 4231820,
@@ -7764,7 +7780,7 @@
     "name": "Planet of Lana",
     "release_date": "23 May, 2023",
     "release_iso": "2023-05-23",
-    "recommendations_total": 9975,
+    "recommendations_total": 9993,
     "locations": [
       "family"
     ],
@@ -7796,7 +7812,7 @@
     "name": "Easy Delivery Co.",
     "release_date": "18 Sep, 2025",
     "release_iso": "2025-09-18",
-    "recommendations_total": 9904,
+    "recommendations_total": 9925,
     "locations": [
       "wishlist"
     ],
@@ -7808,11 +7824,27 @@
     "request_topic": null
   },
   {
+    "appid": 1546990,
+    "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+    "release_date": "19 Jan, 2023",
+    "release_iso": "2023-01-19",
+    "recommendations_total": 9908,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3602062038",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2140020,
     "name": "Stronghold: Definitive Edition",
     "release_date": "7 Nov, 2023",
     "release_iso": "2023-11-07",
-    "recommendations_total": 9896,
+    "recommendations_total": 9899,
     "locations": [
       "family"
     ],
@@ -7828,7 +7860,7 @@
     "name": "Dishonored®: Death of the Outsider™",
     "release_date": "14 Sep, 2017",
     "release_iso": "2017-09-14",
-    "recommendations_total": 9887,
+    "recommendations_total": 9890,
     "locations": [
       "family"
     ],
@@ -7844,7 +7876,7 @@
     "name": "RWBY: Grimm Eclipse",
     "release_date": "5 Jul, 2016",
     "release_iso": "2016-07-05",
-    "recommendations_total": 9842,
+    "recommendations_total": 9843,
     "locations": [
       "family"
     ],
@@ -7852,22 +7884,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2493362572",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1546990,
-    "name": "Grand Theft Auto: Vice City – The Definitive Edition",
-    "release_date": "19 Jan, 2023",
-    "release_iso": "2023-01-19",
-    "recommendations_total": 9833,
-    "locations": [
-      "wishlist"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3602062038",
     "request_url": null,
     "request_topic": null
   },
@@ -7940,7 +7956,7 @@
     "name": "Hellblade II: Senua’s Saga",
     "release_date": "21 May, 2024",
     "release_iso": "2024-05-21",
-    "recommendations_total": 9667,
+    "recommendations_total": 9673,
     "locations": [
       "family"
     ],
@@ -7956,7 +7972,7 @@
     "name": "BPM: BULLETS PER MINUTE",
     "release_date": "15 Sep, 2020",
     "release_iso": "2020-09-15",
-    "recommendations_total": 9616,
+    "recommendations_total": 9617,
     "locations": [
       "family"
     ],
@@ -7972,7 +7988,7 @@
     "name": "Baldur's Gate II: Enhanced Edition",
     "release_date": "15 Nov, 2013",
     "release_iso": "2013-11-15",
-    "recommendations_total": 9587,
+    "recommendations_total": 9605,
     "locations": [
       "family"
     ],
@@ -7988,7 +8004,7 @@
     "name": "Ravenous Devils",
     "release_date": "29 Apr, 2022",
     "release_iso": "2022-04-29",
-    "recommendations_total": 9581,
+    "recommendations_total": 9584,
     "locations": [
       "family"
     ],
@@ -8014,22 +8030,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3011567860",
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 2057760,
-    "name": "Esoteric Ebb",
-    "release_date": "3 Mar, 2026",
-    "release_iso": "2026-03-03",
-    "recommendations_total": 9472,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/2057760/discussions/search/?q=Ukrainian",
-    "request_topic": "Please add Ukrainian language 🙏☺"
   },
   {
     "appid": 2100,
@@ -8128,6 +8128,22 @@
     "request_topic": null
   },
   {
+    "appid": 1227690,
+    "name": "Severed Steel",
+    "release_date": "17 Sep, 2021",
+    "release_iso": "2021-09-17",
+    "recommendations_total": 9266,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910562917",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 208200,
     "name": "DOOM 3",
     "release_date": "18 Oct, 2012",
@@ -8144,27 +8160,11 @@
     "request_topic": null
   },
   {
-    "appid": 1227690,
-    "name": "Severed Steel",
-    "release_date": "17 Sep, 2021",
-    "release_iso": "2021-09-17",
-    "recommendations_total": 9253,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910562917",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 2096600,
     "name": "Crysis 2 Remastered",
     "release_date": "17 Nov, 2022",
     "release_iso": "2022-11-17",
-    "recommendations_total": 9200,
+    "recommendations_total": 9208,
     "locations": [
       "family"
     ],
@@ -8196,7 +8196,7 @@
     "name": "Space Hulk: Deathwing Enhanced Edition",
     "release_date": "22 May, 2018",
     "release_iso": "2018-05-22",
-    "recommendations_total": 9177,
+    "recommendations_total": 9183,
     "locations": [
       "family"
     ],
@@ -8320,6 +8320,22 @@
     "request_topic": null
   },
   {
+    "appid": 3636770,
+    "name": "Servant of the Lake",
+    "release_date": "13 Aug, 2026",
+    "release_iso": "2026-08-13",
+    "recommendations_total": 8741,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 40950,
     "name": "Stronghold HD (2012)",
     "release_date": "21 Oct, 2013",
@@ -8372,7 +8388,7 @@
     "name": "Rusty Lake: Roots",
     "release_date": "20 Oct, 2016",
     "release_iso": "2016-10-20",
-    "recommendations_total": 8568,
+    "recommendations_total": 8574,
     "locations": [
       "family"
     ],
@@ -8388,7 +8404,7 @@
     "name": "Hylics",
     "release_date": "2 Oct, 2015",
     "release_iso": "2015-10-02",
-    "recommendations_total": 8524,
+    "recommendations_total": 8534,
     "locations": [
       "family"
     ],
@@ -8400,27 +8416,11 @@
     "request_topic": "Українська локалізація"
   },
   {
-    "appid": 3636770,
-    "name": "Servant of the Lake",
-    "release_date": "13 Aug, 2026",
-    "release_iso": "2026-08-13",
-    "recommendations_total": 8452,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 593280,
     "name": "Cat Quest",
     "release_date": "8 Aug, 2017",
     "release_iso": "2017-08-08",
-    "recommendations_total": 8441,
+    "recommendations_total": 8445,
     "locations": [
       "family"
     ],
@@ -8428,6 +8428,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3125893363",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2111190,
+    "name": "MULLET MADJACK",
+    "release_date": "15 May, 2024",
+    "release_iso": "2024-05-15",
+    "recommendations_total": 8423,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -8444,22 +8460,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3038912945",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 2111190,
-    "name": "MULLET MADJACK",
-    "release_date": "15 May, 2024",
-    "release_iso": "2024-05-15",
-    "recommendations_total": 8413,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -8500,7 +8500,7 @@
     "name": "Strange Brigade",
     "release_date": "27 Aug, 2018",
     "release_iso": "2018-08-27",
-    "recommendations_total": 8338,
+    "recommendations_total": 8339,
     "locations": [
       "family"
     ],
@@ -8516,7 +8516,7 @@
     "name": "Zup!",
     "release_date": "4 Oct, 2016",
     "release_iso": "2016-10-04",
-    "recommendations_total": 8321,
+    "recommendations_total": 8328,
     "locations": [
       "family"
     ],
@@ -8528,27 +8528,11 @@
     "request_topic": null
   },
   {
-    "appid": 1179080,
-    "name": "FAITH: The Unholy Trinity",
-    "release_date": "21 Oct, 2022",
-    "release_iso": "2022-10-21",
-    "recommendations_total": 8316,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3169326465",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1173770,
     "name": "FINAL FANTASY",
     "release_date": "28 Jul, 2021",
     "release_iso": "2021-07-28",
-    "recommendations_total": 8313,
+    "recommendations_total": 8323,
     "locations": [
       "family"
     ],
@@ -8560,11 +8544,27 @@
     "request_topic": null
   },
   {
+    "appid": 1179080,
+    "name": "FAITH: The Unholy Trinity",
+    "release_date": "21 Oct, 2022",
+    "release_iso": "2022-10-21",
+    "recommendations_total": 8322,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3169326465",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2101960,
     "name": "Cronos: The New Dawn",
     "release_date": "5 Sep, 2025",
     "release_iso": "2025-09-05",
-    "recommendations_total": 8270,
+    "recommendations_total": 8305,
     "locations": [
       "family"
     ],
@@ -8580,7 +8580,7 @@
     "name": "Forever Skies",
     "release_date": "14 Apr, 2025",
     "release_iso": "2025-04-14",
-    "recommendations_total": 8246,
+    "recommendations_total": 8253,
     "locations": [
       "family"
     ],
@@ -8640,6 +8640,22 @@
     "request_topic": "Ukrainian language please."
   },
   {
+    "appid": 606160,
+    "name": "ROUTINE",
+    "release_date": "4 Dec, 2025",
+    "release_iso": "2025-12-04",
+    "recommendations_total": 8200,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3691277471",
+    "request_url": "https://steamcommunity.com/app/606160/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian Language Support Request"
+  },
+  {
     "appid": 15620,
     "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)",
     "release_date": "18 Feb, 2009",
@@ -8660,7 +8676,7 @@
     "name": "Ghostrunner 2",
     "release_date": "26 Oct, 2023",
     "release_iso": "2023-10-26",
-    "recommendations_total": 8178,
+    "recommendations_total": 8184,
     "locations": [
       "family"
     ],
@@ -8688,6 +8704,22 @@
     "request_topic": null
   },
   {
+    "appid": 1546970,
+    "name": "Grand Theft Auto III – The Definitive Edition",
+    "release_date": "19 Jan, 2023",
+    "release_iso": "2023-01-19",
+    "recommendations_total": 8125,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3819317268",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 234080,
     "name": "Castlevania: Lords of Shadow – Ultimate Edition",
     "release_date": "27 Aug, 2013",
@@ -8708,7 +8740,7 @@
     "name": "Yuppie Psycho: Executive Edition",
     "release_date": "25 Apr, 2019",
     "release_iso": "2019-04-25",
-    "recommendations_total": 8098,
+    "recommendations_total": 8108,
     "locations": [
       "family"
     ],
@@ -8720,27 +8752,11 @@
     "request_topic": null
   },
   {
-    "appid": 1546970,
-    "name": "Grand Theft Auto III – The Definitive Edition",
-    "release_date": "19 Jan, 2023",
-    "release_iso": "2023-01-19",
-    "recommendations_total": 8069,
-    "locations": [
-      "wishlist"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3819317268",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1996010,
     "name": "Crow Country",
     "release_date": "9 May, 2024",
     "release_iso": "2024-05-09",
-    "recommendations_total": 8063,
+    "recommendations_total": 8071,
     "locations": [
       "family"
     ],
@@ -8804,7 +8820,7 @@
     "name": "Slender: The Arrival",
     "release_date": "28 Oct, 2013",
     "release_iso": "2013-10-28",
-    "recommendations_total": 8004,
+    "recommendations_total": 8006,
     "locations": [
       "family"
     ],
@@ -8820,7 +8836,7 @@
     "name": "Bulletstorm: Full Clip Edition",
     "release_date": "7 Apr, 2017",
     "release_iso": "2017-04-07",
-    "recommendations_total": 7994,
+    "recommendations_total": 7999,
     "locations": [
       "family"
     ],
@@ -8852,7 +8868,7 @@
     "name": "Downwell",
     "release_date": "15 Oct, 2015",
     "release_iso": "2015-10-15",
-    "recommendations_total": 7946,
+    "recommendations_total": 7947,
     "locations": [
       "family"
     ],
@@ -8864,27 +8880,11 @@
     "request_topic": null
   },
   {
-    "appid": 606160,
-    "name": "ROUTINE",
-    "release_date": "4 Dec, 2025",
-    "release_iso": "2025-12-04",
-    "recommendations_total": 7912,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3691277471",
-    "request_url": "https://steamcommunity.com/app/606160/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian Language Support Request"
-  },
-  {
     "appid": 2096610,
     "name": "Crysis 3 Remastered",
     "release_date": "17 Nov, 2022",
     "release_iso": "2022-11-17",
-    "recommendations_total": 7886,
+    "recommendations_total": 7899,
     "locations": [
       "family"
     ],
@@ -8900,7 +8900,7 @@
     "name": "Late Shift",
     "release_date": "18 Apr, 2017",
     "release_iso": "2017-04-18",
-    "recommendations_total": 7834,
+    "recommendations_total": 7845,
     "locations": [
       "family"
     ],
@@ -8916,7 +8916,7 @@
     "name": "Pumpkin Jack",
     "release_date": "23 Oct, 2020",
     "release_iso": "2020-10-23",
-    "recommendations_total": 7832,
+    "recommendations_total": 7842,
     "locations": [
       "family"
     ],
@@ -8932,7 +8932,7 @@
     "name": "Cube Escape Collection",
     "release_date": "14 Oct, 2020",
     "release_iso": "2020-10-14",
-    "recommendations_total": 7768,
+    "recommendations_total": 7771,
     "locations": [
       "family"
     ],
@@ -8964,7 +8964,7 @@
     "name": "Saints Row: Gat out of Hell",
     "release_date": "22 Jan, 2015",
     "release_iso": "2015-01-22",
-    "recommendations_total": 7718,
+    "recommendations_total": 7717,
     "locations": [
       "family"
     ],
@@ -8992,6 +8992,22 @@
     "request_topic": null
   },
   {
+    "appid": 1150760,
+    "name": "Gloomwood",
+    "release_date": "5 Sep, 2022",
+    "release_iso": "2022-09-05",
+    "recommendations_total": 7643,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3177728170",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 435400,
     "name": "Hidden Folks",
     "release_date": "15 Feb, 2017",
@@ -9004,22 +9020,6 @@
     "has_patch": false,
     "has_request": false,
     "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1150760,
-    "name": "Gloomwood",
-    "release_date": "5 Sep, 2022",
-    "release_iso": "2022-09-05",
-    "recommendations_total": 7634,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3177728170",
     "request_url": null,
     "request_topic": null
   },
@@ -9092,7 +9092,7 @@
     "name": "Unturned",
     "release_date": "7 Jul, 2017",
     "release_iso": "2017-07-07",
-    "recommendations_total": 7485,
+    "recommendations_total": 7483,
     "locations": [
       "family"
     ],
@@ -9140,7 +9140,7 @@
     "name": "Rusty Lake Hotel",
     "release_date": "29 Jan, 2016",
     "release_iso": "2016-01-29",
-    "recommendations_total": 7447,
+    "recommendations_total": 7457,
     "locations": [
       "family"
     ],
@@ -9156,7 +9156,7 @@
     "name": "Rusty Lake Paradise",
     "release_date": "11 Jan, 2018",
     "release_iso": "2018-01-11",
-    "recommendations_total": 7354,
+    "recommendations_total": 7362,
     "locations": [
       "family"
     ],
@@ -9300,7 +9300,7 @@
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
     "release_date": "20 May, 2025",
     "release_iso": "2025-05-20",
-    "recommendations_total": 6890,
+    "recommendations_total": 6901,
     "locations": [
       "family"
     ],
@@ -9316,7 +9316,7 @@
     "name": "Underground Blossom",
     "release_date": "27 Sep, 2023",
     "release_iso": "2023-09-27",
-    "recommendations_total": 6851,
+    "recommendations_total": 6853,
     "locations": [
       "family"
     ],
@@ -9348,7 +9348,7 @@
     "name": "Bramble: The Mountain King",
     "release_date": "27 Apr, 2023",
     "release_iso": "2023-04-27",
-    "recommendations_total": 6740,
+    "recommendations_total": 6755,
     "locations": [
       "family"
     ],
@@ -9364,23 +9364,7 @@
     "name": "Bridge Constructor Portal",
     "release_date": "20 Dec, 2017",
     "release_iso": "2017-12-20",
-    "recommendations_total": 6729,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 70300,
-    "name": "VVVVVV",
-    "release_date": "7 Sep, 2010",
-    "release_iso": "2010-09-07",
-    "recommendations_total": 6725,
+    "recommendations_total": 6734,
     "locations": [
       "family"
     ],
@@ -9396,7 +9380,7 @@
     "name": "Returnal™",
     "release_date": "15 Feb, 2023",
     "release_iso": "2023-02-15",
-    "recommendations_total": 6717,
+    "recommendations_total": 6730,
     "locations": [
       "family"
     ],
@@ -9406,6 +9390,22 @@
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/1649240/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian language"
+  },
+  {
+    "appid": 70300,
+    "name": "VVVVVV",
+    "release_date": "7 Sep, 2010",
+    "release_iso": "2010-09-07",
+    "recommendations_total": 6723,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 369990,
@@ -9428,7 +9428,7 @@
     "name": "AMID EVIL",
     "release_date": "20 Jun, 2019",
     "release_iso": "2019-06-20",
-    "recommendations_total": 6692,
+    "recommendations_total": 6695,
     "locations": [
       "family"
     ],
@@ -9444,7 +9444,7 @@
     "name": "The White Door",
     "release_date": "9 Jan, 2020",
     "release_iso": "2020-01-09",
-    "recommendations_total": 6680,
+    "recommendations_total": 6686,
     "locations": [
       "family"
     ],
@@ -9492,7 +9492,7 @@
     "name": "Banishers: Ghosts of New Eden",
     "release_date": "12 Feb, 2024",
     "release_iso": "2024-02-12",
-    "recommendations_total": 6613,
+    "recommendations_total": 6627,
     "locations": [
       "family"
     ],
@@ -9502,6 +9502,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3166497150",
     "request_url": "https://steamcommunity.com/app/1493640/discussions/search/?q=Ukrainian",
     "request_topic": "Add Ukrainian language please"
+  },
+  {
+    "appid": 2333000,
+    "name": "Silver Pines",
+    "release_date": "8 Oct, 2026",
+    "release_iso": "2026-10-08",
+    "recommendations_total": 6615,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": true,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821406796",
+    "request_url": "https://steamcommunity.com/app/2333000/discussions/search/?q=Ukrainian",
+    "request_topic": "Add Ukrainian localization please!"
   },
   {
     "appid": 252410,
@@ -9520,27 +9536,11 @@
     "request_topic": null
   },
   {
-    "appid": 1328350,
-    "name": "Turbo Overkill",
-    "release_date": "11 Aug, 2023",
-    "release_iso": "2023-08-11",
-    "recommendations_total": 6514,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/1328350/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian language"
-  },
-  {
     "appid": 2732960,
     "name": "Command & Conquer™ Generals Zero Hour",
     "release_date": "7 Mar, 2024",
     "release_iso": "2024-03-07",
-    "recommendations_total": 6504,
+    "recommendations_total": 6523,
     "locations": [
       "family"
     ],
@@ -9552,11 +9552,27 @@
     "request_topic": null
   },
   {
+    "appid": 1328350,
+    "name": "Turbo Overkill",
+    "release_date": "11 Aug, 2023",
+    "release_iso": "2023-08-11",
+    "recommendations_total": 6516,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/1328350/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian language"
+  },
+  {
     "appid": 1010750,
     "name": "Blood™ Fresh Supply",
     "release_date": "9 May, 2019",
     "release_iso": "2019-05-09",
-    "recommendations_total": 6467,
+    "recommendations_total": 6468,
     "locations": [
       "family"
     ],
@@ -9572,7 +9588,7 @@
     "name": "Keep Driving",
     "release_date": "6 Feb, 2025",
     "release_iso": "2025-02-06",
-    "recommendations_total": 6451,
+    "recommendations_total": 6458,
     "locations": [
       "family"
     ],
@@ -9584,27 +9600,11 @@
     "request_topic": null
   },
   {
-    "appid": 2506160,
-    "name": "Fears to Fathom - Ironbark Lookout",
-    "release_date": "20 Oct, 2023",
-    "release_iso": "2023-10-20",
-    "recommendations_total": 6315,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3283798386",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1367590,
     "name": "Tormented Souls",
     "release_date": "26 Aug, 2021",
     "release_iso": "2021-08-26",
-    "recommendations_total": 6314,
+    "recommendations_total": 6322,
     "locations": [
       "family"
     ],
@@ -9612,6 +9612,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2920534034",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2506160,
+    "name": "Fears to Fathom - Ironbark Lookout",
+    "release_date": "20 Oct, 2023",
+    "release_iso": "2023-10-20",
+    "recommendations_total": 6320,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3283798386",
     "request_url": null,
     "request_topic": null
   },
@@ -9684,7 +9700,7 @@
     "name": "NARUTO: Ultimate Ninja STORM",
     "release_date": "25 Aug, 2017",
     "release_iso": "2017-08-25",
-    "recommendations_total": 6057,
+    "recommendations_total": 6058,
     "locations": [
       "family"
     ],
@@ -9694,22 +9710,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839488276",
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 2333000,
-    "name": "Silver Pines",
-    "release_date": "8 Oct, 2026",
-    "release_iso": "2026-10-08",
-    "recommendations_total": 6055,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": true,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821406796",
-    "request_url": "https://steamcommunity.com/app/2333000/discussions/search/?q=Ukrainian",
-    "request_topic": "Add Ukrainian localization please!"
   },
   {
     "appid": 6220,
@@ -9796,7 +9796,7 @@
     "name": "SteamWorld Dig 2",
     "release_date": "22 Sep, 2017",
     "release_iso": "2017-09-22",
-    "recommendations_total": 5765,
+    "recommendations_total": 5767,
     "locations": [
       "family"
     ],
@@ -9812,7 +9812,7 @@
     "name": "Felvidek",
     "release_date": "29 Mar, 2024",
     "release_iso": "2024-03-29",
-    "recommendations_total": 5743,
+    "recommendations_total": 5753,
     "locations": [
       "family"
     ],
@@ -9856,6 +9856,22 @@
     "request_topic": null
   },
   {
+    "appid": 1748620,
+    "name": "FlipWitch - Forbidden Sex Hex",
+    "release_date": "17 Nov, 2023",
+    "release_iso": "2023-11-17",
+    "recommendations_total": 5633,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 348550,
     "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
     "release_date": "26 May, 2015",
@@ -9868,22 +9884,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3161809599",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1748620,
-    "name": "FlipWitch - Forbidden Sex Hex",
-    "release_date": "17 Nov, 2023",
-    "release_iso": "2023-11-17",
-    "recommendations_total": 5616,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -9940,7 +9940,7 @@
     "name": "Creaks",
     "release_date": "22 Jul, 2020",
     "release_iso": "2020-07-22",
-    "recommendations_total": 5437,
+    "recommendations_total": 5460,
     "locations": [
       "family"
     ],
@@ -9956,7 +9956,7 @@
     "name": "Sable",
     "release_date": "23 Sep, 2021",
     "release_iso": "2021-09-23",
-    "recommendations_total": 5428,
+    "recommendations_total": 5433,
     "locations": [
       "family"
     ],
@@ -10064,6 +10064,22 @@
     "request_topic": null
   },
   {
+    "appid": 2713000,
+    "name": "Resonance: A Plague Tale Legacy",
+    "release_date": "27 Aug, 2026",
+    "release_iso": "2026-08-27",
+    "recommendations_total": 5012,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2624870,
     "name": "Life is Strange: Reunion",
     "release_date": "26 Mar, 2026",
@@ -10112,27 +10128,11 @@
     "request_topic": null
   },
   {
-    "appid": 2713000,
-    "name": "Resonance: A Plague Tale Legacy",
-    "release_date": "27 Aug, 2026",
-    "release_iso": "2026-08-27",
-    "recommendations_total": 4902,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1351080,
     "name": "Pharaoh™: A New Era",
     "release_date": "15 Feb, 2023",
     "release_iso": "2023-02-15",
-    "recommendations_total": 4880,
+    "recommendations_total": 4883,
     "locations": [
       "family"
     ],
@@ -10160,6 +10160,22 @@
     "request_topic": null
   },
   {
+    "appid": 22000,
+    "name": "World of Goo",
+    "release_date": "13 Oct, 2008",
+    "release_iso": "2008-10-13",
+    "recommendations_total": 4872,
+    "locations": [
+      "library"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 207170,
     "name": "Legend of Grimrock",
     "release_date": "11 Apr, 2012",
@@ -10176,27 +10192,11 @@
     "request_topic": null
   },
   {
-    "appid": 22000,
-    "name": "World of Goo",
-    "release_date": "13 Oct, 2008",
-    "release_iso": "2008-10-13",
-    "recommendations_total": 4871,
-    "locations": [
-      "library"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 564310,
     "name": "Serious Sam Fusion",
     "release_date": null,
     "release_iso": null,
-    "recommendations_total": 4744,
+    "recommendations_total": 4786,
     "locations": [
       "family"
     ],
@@ -10244,7 +10244,7 @@
     "name": "METAL SLUG",
     "release_date": "25 Jun, 2015",
     "release_iso": "2015-06-25",
-    "recommendations_total": 4554,
+    "recommendations_total": 4556,
     "locations": [
       "family"
     ],
@@ -10260,7 +10260,7 @@
     "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
     "release_date": "3 Oct, 2023",
     "release_iso": "2023-10-03",
-    "recommendations_total": 4528,
+    "recommendations_total": 4531,
     "locations": [
       "family"
     ],
@@ -10272,11 +10272,27 @@
     "request_topic": "Ukrainian Localization"
   },
   {
+    "appid": 1790930,
+    "name": "Crisol: Theater of Idols",
+    "release_date": "10 Feb, 2026",
+    "release_iso": "2026-02-10",
+    "recommendations_total": 4458,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3703694427",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 916730,
     "name": "Gato Roboto",
     "release_date": "30 May, 2019",
     "release_iso": "2019-05-30",
-    "recommendations_total": 4428,
+    "recommendations_total": 4429,
     "locations": [
       "family"
     ],
@@ -10284,6 +10300,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3380772404",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 711660,
+    "name": "CHUCHEL",
+    "release_date": "7 Mar, 2018",
+    "release_iso": "2018-03-07",
+    "recommendations_total": 4411,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -10300,38 +10332,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1826676806",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 711660,
-    "name": "CHUCHEL",
-    "release_date": "7 Mar, 2018",
-    "release_iso": "2018-03-07",
-    "recommendations_total": 4407,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 1790930,
-    "name": "Crisol: Theater of Idols",
-    "release_date": "10 Feb, 2026",
-    "release_iso": "2026-02-10",
-    "recommendations_total": 4373,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3703694427",
     "request_url": null,
     "request_topic": null
   },
@@ -10356,7 +10356,7 @@
     "name": "Nightmare of Decay",
     "release_date": "3 May, 2022",
     "release_iso": "2022-05-03",
-    "recommendations_total": 4321,
+    "recommendations_total": 4322,
     "locations": [
       "family"
     ],
@@ -10372,7 +10372,7 @@
     "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
     "release_date": "6 Nov, 2024",
     "release_iso": "2024-11-06",
-    "recommendations_total": 4272,
+    "recommendations_total": 4283,
     "locations": [
       "family"
     ],
@@ -10420,7 +10420,7 @@
     "name": "En Garde!",
     "release_date": "16 Aug, 2023",
     "release_iso": "2023-08-16",
-    "recommendations_total": 4242,
+    "recommendations_total": 4244,
     "locations": [
       "family"
     ],
@@ -10436,7 +10436,7 @@
     "name": "Ghost of a Tale",
     "release_date": "13 Mar, 2018",
     "release_iso": "2018-03-13",
-    "recommendations_total": 4235,
+    "recommendations_total": 4238,
     "locations": [
       "family"
     ],
@@ -10468,7 +10468,7 @@
     "name": "Sonic Lost World",
     "release_date": "2 Nov, 2015",
     "release_iso": "2015-11-02",
-    "recommendations_total": 4189,
+    "recommendations_total": 4191,
     "locations": [
       "family"
     ],
@@ -10484,7 +10484,7 @@
     "name": "RoboCop: Rogue City - Unfinished Business",
     "release_date": "17 Jul, 2025",
     "release_iso": "2025-07-17",
-    "recommendations_total": 4166,
+    "recommendations_total": 4184,
     "locations": [
       "family"
     ],
@@ -10500,7 +10500,7 @@
     "name": "Kill It With Fire",
     "release_date": "13 Aug, 2020",
     "release_iso": "2020-08-13",
-    "recommendations_total": 4104,
+    "recommendations_total": 4109,
     "locations": [
       "family"
     ],
@@ -10516,7 +10516,7 @@
     "name": "LEGO® Builder's Journey",
     "release_date": "22 Jun, 2021",
     "release_iso": "2021-06-22",
-    "recommendations_total": 4070,
+    "recommendations_total": 4068,
     "locations": [
       "family"
     ],
@@ -10544,6 +10544,22 @@
     "request_topic": null
   },
   {
+    "appid": 1684350,
+    "name": "The Thaumaturge",
+    "release_date": "4 Mar, 2024",
+    "release_iso": "2024-03-04",
+    "recommendations_total": 4028,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/1684350/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization"
+  },
+  {
     "appid": 12810,
     "name": "Overlord II",
     "release_date": "23 Jun, 2009",
@@ -10560,27 +10576,11 @@
     "request_topic": null
   },
   {
-    "appid": 1684350,
-    "name": "The Thaumaturge",
-    "release_date": "4 Mar, 2024",
-    "release_iso": "2024-03-04",
-    "recommendations_total": 4018,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/1684350/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization"
-  },
-  {
     "appid": 1887400,
     "name": "ANTONBLAST",
     "release_date": "3 Dec, 2024",
     "release_iso": "2024-12-03",
-    "recommendations_total": 4011,
+    "recommendations_total": 4013,
     "locations": [
       "family"
     ],
@@ -10596,7 +10596,7 @@
     "name": "STAR WARS™ Galactic Battlegrounds Saga",
     "release_date": "1 Mar, 2016",
     "release_iso": "2016-03-01",
-    "recommendations_total": 3998,
+    "recommendations_total": 4001,
     "locations": [
       "family"
     ],
@@ -10660,7 +10660,7 @@
     "name": "Neighbours back From Hell",
     "release_date": "8 Oct, 2020",
     "release_iso": "2020-10-08",
-    "recommendations_total": 3886,
+    "recommendations_total": 3889,
     "locations": [
       "family"
     ],
@@ -10672,11 +10672,27 @@
     "request_topic": null
   },
   {
+    "appid": 3448650,
+    "name": "Aliens: Fireteam Elite 2",
+    "release_date": "25 Aug, 2026",
+    "release_iso": "2026-08-25",
+    "recommendations_total": 3881,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/3448650/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization"
+  },
+  {
     "appid": 1763250,
     "name": "SWORN",
     "release_date": "23 Sep, 2025",
     "release_iso": "2025-09-23",
-    "recommendations_total": 3873,
+    "recommendations_total": 3879,
     "locations": [
       "family"
     ],
@@ -10718,22 +10734,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2192763312",
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 3448650,
-    "name": "Aliens: Fireteam Elite 2",
-    "release_date": "25 Aug, 2026",
-    "release_iso": "2026-08-25",
-    "recommendations_total": 3846,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/3448650/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization"
   },
   {
     "appid": 3020,
@@ -10804,7 +10804,7 @@
     "name": "The LEGO® Movie - Videogame",
     "release_date": "27 Feb, 2014",
     "release_iso": "2014-02-27",
-    "recommendations_total": 3686,
+    "recommendations_total": 3685,
     "locations": [
       "family"
     ],
@@ -10852,7 +10852,7 @@
     "name": "Dark Hours",
     "release_date": "23 Oct, 2025",
     "release_iso": "2025-10-23",
-    "recommendations_total": 3611,
+    "recommendations_total": 3617,
     "locations": [
       "family"
     ],
@@ -10868,7 +10868,7 @@
     "name": "Hero of the Kingdom",
     "release_date": "14 Nov, 2013",
     "release_iso": "2013-11-14",
-    "recommendations_total": 3589,
+    "recommendations_total": 3594,
     "locations": [
       "family"
     ],
@@ -10900,7 +10900,7 @@
     "name": "Fears to Fathom - Woodbury Getaway",
     "release_date": "12 Sep, 2024",
     "release_iso": "2024-09-12",
-    "recommendations_total": 3566,
+    "recommendations_total": 3569,
     "locations": [
       "family"
     ],
@@ -10916,7 +10916,7 @@
     "name": "Progressbar95",
     "release_date": "8 Sep, 2020",
     "release_iso": "2020-09-08",
-    "recommendations_total": 3514,
+    "recommendations_total": 3517,
     "locations": [
       "family"
     ],
@@ -10932,7 +10932,7 @@
     "name": "MyVoiceZoo",
     "release_date": "26 Sep, 2025",
     "release_iso": "2025-09-26",
-    "recommendations_total": 3488,
+    "recommendations_total": 3498,
     "locations": [
       "family"
     ],
@@ -10948,7 +10948,7 @@
     "name": "Daymare: 1998",
     "release_date": "17 Sep, 2019",
     "release_iso": "2019-09-17",
-    "recommendations_total": 3482,
+    "recommendations_total": 3483,
     "locations": [
       "family"
     ],
@@ -10964,7 +10964,7 @@
     "name": "Alone in the Dark",
     "release_date": "20 Mar, 2024",
     "release_iso": "2024-03-20",
-    "recommendations_total": 3436,
+    "recommendations_total": 3445,
     "locations": [
       "family"
     ],
@@ -10974,6 +10974,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3196237061",
     "request_url": "https://steamcommunity.com/app/1310410/discussions/search/?q=Ukrainian",
     "request_topic": "Please we want Ukrainian language"
+  },
+  {
+    "appid": 2427430,
+    "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+    "release_date": "20 May, 2025",
+    "release_iso": "2025-05-20",
+    "recommendations_total": 3431,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 405820,
@@ -10988,22 +11004,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3568060503",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 2427430,
-    "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
-    "release_date": "20 May, 2025",
-    "release_iso": "2025-05-20",
-    "recommendations_total": 3423,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -11028,7 +11028,7 @@
     "name": "Fears to Fathom - Norwood Hitchhike",
     "release_date": "6 Jan, 2022",
     "release_iso": "2022-01-06",
-    "recommendations_total": 3328,
+    "recommendations_total": 3333,
     "locations": [
       "family"
     ],
@@ -11036,6 +11036,22 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3314125720",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 2828710,
+    "name": "Valor Mortis",
+    "release_date": "13 Oct, 2026",
+    "release_iso": "2026-10-13",
+    "recommendations_total": 3328,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
     "request_url": null,
     "request_topic": null
   },
@@ -11092,7 +11108,7 @@
     "name": "Deadly Premonition: The Director's Cut",
     "release_date": "29 Oct, 2013",
     "release_iso": "2013-10-29",
-    "recommendations_total": 3268,
+    "recommendations_total": 3269,
     "locations": [
       "family"
     ],
@@ -11108,7 +11124,7 @@
     "name": "Syberia 3",
     "release_date": "13 Nov, 2017",
     "release_iso": "2017-11-13",
-    "recommendations_total": 3260,
+    "recommendations_total": 3261,
     "locations": [
       "family"
     ],
@@ -11120,27 +11136,11 @@
     "request_topic": null
   },
   {
-    "appid": 1539140,
-    "name": "STONKS-9800: Stock Market Simulator",
-    "release_date": "17 Jul, 2023",
-    "release_iso": "2023-07-17",
-    "recommendations_total": 3201,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 2975950,
     "name": "Solasta II",
     "release_date": "12 Mar, 2026",
     "release_iso": "2026-03-12",
-    "recommendations_total": 3194,
+    "recommendations_total": 3250,
     "locations": [
       "family"
     ],
@@ -11152,11 +11152,11 @@
     "request_topic": "Adding Ukrainian localization"
   },
   {
-    "appid": 2828710,
-    "name": "Valor Mortis",
-    "release_date": "13 Oct, 2026",
-    "release_iso": "2026-10-13",
-    "recommendations_total": 3192,
+    "appid": 1539140,
+    "name": "STONKS-9800: Stock Market Simulator",
+    "release_date": "17 Jul, 2023",
+    "release_iso": "2023-07-17",
+    "recommendations_total": 3216,
     "locations": [
       "family"
     ],
@@ -11188,7 +11188,7 @@
     "name": "Hitman: Contracts",
     "release_date": "21 Jan, 2014",
     "release_iso": "2014-01-21",
-    "recommendations_total": 3158,
+    "recommendations_total": 3160,
     "locations": [
       "family"
     ],
@@ -11300,7 +11300,7 @@
     "name": "FUMES",
     "release_date": "28 Jul, 2025",
     "release_iso": "2025-07-28",
-    "recommendations_total": 2940,
+    "recommendations_total": 2956,
     "locations": [
       "family"
     ],
@@ -11332,7 +11332,7 @@
     "name": "Oddworld: New 'n' Tasty",
     "release_date": "25 Feb, 2015",
     "release_iso": "2015-02-25",
-    "recommendations_total": 2920,
+    "recommendations_total": 2921,
     "locations": [
       "family"
     ],
@@ -11412,7 +11412,7 @@
     "name": "Deadlink",
     "release_date": "27 Jul, 2023",
     "release_iso": "2023-07-27",
-    "recommendations_total": 2878,
+    "recommendations_total": 2877,
     "locations": [
       "family"
     ],
@@ -11428,7 +11428,7 @@
     "name": "Fears to Fathom - Carson House",
     "release_date": "9 Jan, 2023",
     "release_iso": "2023-01-09",
-    "recommendations_total": 2875,
+    "recommendations_total": 2876,
     "locations": [
       "family"
     ],
@@ -11444,7 +11444,7 @@
     "name": "QUICKERFLAK",
     "release_date": "12 Jan, 2022",
     "release_iso": "2022-01-12",
-    "recommendations_total": 2869,
+    "recommendations_total": 2875,
     "locations": [
       "family"
     ],
@@ -11460,7 +11460,7 @@
     "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
     "release_date": "20 May, 2025",
     "release_iso": "2025-05-20",
-    "recommendations_total": 2851,
+    "recommendations_total": 2857,
     "locations": [
       "family"
     ],
@@ -11476,7 +11476,7 @@
     "name": "The Plucky Squire",
     "release_date": "17 Sep, 2024",
     "release_iso": "2024-09-17",
-    "recommendations_total": 2842,
+    "recommendations_total": 2841,
     "locations": [
       "family"
     ],
@@ -11492,7 +11492,7 @@
     "name": "Harry Potter: Quidditch Champions",
     "release_date": "3 Sep, 2024",
     "release_iso": "2024-09-03",
-    "recommendations_total": 2835,
+    "recommendations_total": 2840,
     "locations": [
       "family"
     ],
@@ -11588,7 +11588,7 @@
     "name": "Eriksholm: The Stolen Dream",
     "release_date": "15 Jul, 2025",
     "release_iso": "2025-07-15",
-    "recommendations_total": 2575,
+    "recommendations_total": 2582,
     "locations": [
       "family"
     ],
@@ -11648,11 +11648,11 @@
     "request_topic": null
   },
   {
-    "appid": 2644610,
-    "name": "Menace from the Deep",
-    "release_date": "11 Nov, 2024",
-    "release_iso": "2024-11-11",
-    "recommendations_total": 2541,
+    "appid": 40720,
+    "name": "Samorost 2",
+    "release_date": "10 Dec, 2009",
+    "release_iso": "2009-12-10",
+    "recommendations_total": 2544,
     "locations": [
       "family"
     ],
@@ -11664,11 +11664,11 @@
     "request_topic": null
   },
   {
-    "appid": 40720,
-    "name": "Samorost 2",
-    "release_date": "10 Dec, 2009",
-    "release_iso": "2009-12-10",
-    "recommendations_total": 2535,
+    "appid": 2644610,
+    "name": "Menace from the Deep",
+    "release_date": "11 Nov, 2024",
+    "release_iso": "2024-11-11",
+    "recommendations_total": 2542,
     "locations": [
       "family"
     ],
@@ -11700,7 +11700,7 @@
     "name": "Dear Esther: Landmark Edition",
     "release_date": "14 Feb, 2017",
     "release_iso": "2017-02-14",
-    "recommendations_total": 2515,
+    "recommendations_total": 2517,
     "locations": [
       "family"
     ],
@@ -11840,6 +11840,22 @@
     "request_topic": null
   },
   {
+    "appid": 405830,
+    "name": "Turok 2: Seeds of Evil",
+    "release_date": "16 Mar, 2017",
+    "release_iso": "2017-03-16",
+    "recommendations_total": 2420,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3653938973",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2213120,
     "name": "While We Wait Here",
     "release_date": "23 Oct, 2024",
@@ -11852,22 +11868,6 @@
     "has_patch": false,
     "has_request": false,
     "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 405830,
-    "name": "Turok 2: Seeds of Evil",
-    "release_date": "16 Mar, 2017",
-    "release_iso": "2017-03-16",
-    "recommendations_total": 2418,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3653938973",
     "request_url": null,
     "request_topic": null
   },
@@ -11892,7 +11892,7 @@
     "name": "No one lives under the lighthouse Director's cut",
     "release_date": "21 Apr, 2020",
     "release_iso": "2020-04-21",
-    "recommendations_total": 2388,
+    "recommendations_total": 2392,
     "locations": [
       "family"
     ],
@@ -11940,7 +11940,7 @@
     "name": "Marc Eckō's Getting Up: Contents Under Pressure",
     "release_date": "13 Dec, 2013",
     "release_iso": "2013-12-13",
-    "recommendations_total": 2341,
+    "recommendations_total": 2342,
     "locations": [
       "family"
     ],
@@ -11972,7 +11972,7 @@
     "name": "Neighbours from Hell Compilation",
     "release_date": "7 Nov, 2013",
     "release_iso": "2013-11-07",
-    "recommendations_total": 2327,
+    "recommendations_total": 2330,
     "locations": [
       "family"
     ],
@@ -12000,6 +12000,22 @@
     "request_topic": null
   },
   {
+    "appid": 990380,
+    "name": "METAL EDEN",
+    "release_date": "2 Sep, 2025",
+    "release_iso": "2025-09-02",
+    "recommendations_total": 2235,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/990380/discussions/search/?q=Ukrainian",
+    "request_topic": "Please, add ukrainian 🇺🇦 localisation"
+  },
+  {
     "appid": 323580,
     "name": "Jotun: Valhalla Edition",
     "release_date": "29 Sep, 2015",
@@ -12014,22 +12030,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1671133941",
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 990380,
-    "name": "METAL EDEN",
-    "release_date": "2 Sep, 2025",
-    "release_iso": "2025-09-02",
-    "recommendations_total": 2226,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/990380/discussions/search/?q=Ukrainian",
-    "request_topic": "Please, add ukrainian 🇺🇦 localisation"
   },
   {
     "appid": 1012840,
@@ -12068,7 +12068,7 @@
     "name": "Labyrinth Of The Demon King",
     "release_date": "13 May, 2025",
     "release_iso": "2025-05-13",
-    "recommendations_total": 2187,
+    "recommendations_total": 2189,
     "locations": [
       "family"
     ],
@@ -12084,7 +12084,7 @@
     "name": "XIII - Classic",
     "release_date": "11 Jun, 2020",
     "release_iso": "2020-06-11",
-    "recommendations_total": 2187,
+    "recommendations_total": 2189,
     "locations": [
       "family"
     ],
@@ -12096,27 +12096,11 @@
     "request_topic": null
   },
   {
-    "appid": 758330,
-    "name": "Shenmue I & II",
-    "release_date": "21 Aug, 2018",
-    "release_iso": "2018-08-21",
-    "recommendations_total": 2165,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3819803834",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1549690,
     "name": "SPRAWL",
     "release_date": "23 Aug, 2023",
     "release_iso": "2023-08-23",
-    "recommendations_total": 2165,
+    "recommendations_total": 2175,
     "locations": [
       "family"
     ],
@@ -12128,11 +12112,27 @@
     "request_topic": null
   },
   {
+    "appid": 758330,
+    "name": "Shenmue I & II",
+    "release_date": "21 Aug, 2018",
+    "release_iso": "2018-08-21",
+    "recommendations_total": 2167,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3819803834",
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2229870,
     "name": "Command & Conquer™ Generals",
     "release_date": "7 Mar, 2024",
     "release_iso": "2024-03-07",
-    "recommendations_total": 2162,
+    "recommendations_total": 2165,
     "locations": [
       "family"
     ],
@@ -12176,11 +12176,27 @@
     "request_topic": null
   },
   {
+    "appid": 2121510,
+    "name": "Tenebris Somnia",
+    "release_date": "16 Oct, 2026",
+    "release_iso": "2026-10-16",
+    "recommendations_total": 2102,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/2121510/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian language support (Українська локалізація)"
+  },
+  {
     "appid": 1286990,
     "name": "CONSCRIPT: Director’s Cut",
     "release_date": "23 Jul, 2024",
     "release_iso": "2024-07-23",
-    "recommendations_total": 2088,
+    "recommendations_total": 2101,
     "locations": [
       "family"
     ],
@@ -12208,6 +12224,22 @@
     "request_topic": null
   },
   {
+    "appid": 2477090,
+    "name": "Mosa Lina",
+    "release_date": "17 Oct, 2023",
+    "release_iso": "2023-10-17",
+    "recommendations_total": 2054,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 2697000,
     "name": "The Legend of Khiimori",
     "release_date": "3 Mar, 2026",
@@ -12219,22 +12251,6 @@
     "has_official": true,
     "has_patch": false,
     "has_request": true,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 2477090,
-    "name": "Mosa Lina",
-    "release_date": "17 Oct, 2023",
-    "release_iso": "2023-10-17",
-    "recommendations_total": 2052,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
     "patch_url": null,
     "request_url": null,
     "request_topic": null
@@ -12276,7 +12292,7 @@
     "name": "FBC: Firebreak",
     "release_date": "17 Jun, 2025",
     "release_iso": "2025-06-17",
-    "recommendations_total": 2013,
+    "recommendations_total": 2014,
     "locations": [
       "family"
     ],
@@ -12292,7 +12308,7 @@
     "name": "Wonder Boy: The Dragon's Trap",
     "release_date": "8 Jun, 2017",
     "release_iso": "2017-06-08",
-    "recommendations_total": 2002,
+    "recommendations_total": 2004,
     "locations": [
       "family"
     ],
@@ -12356,7 +12372,7 @@
     "name": "SONG OF HORROR COMPLETE EDITION",
     "release_date": "31 Oct, 2019",
     "release_iso": "2019-10-31",
-    "recommendations_total": 1968,
+    "recommendations_total": 1972,
     "locations": [
       "family"
     ],
@@ -12416,20 +12432,20 @@
     "request_topic": null
   },
   {
-    "appid": 2121510,
-    "name": "Tenebris Somnia",
-    "release_date": "16 Oct, 2026",
-    "release_iso": "2026-10-16",
-    "recommendations_total": 1894,
+    "appid": 1206070,
+    "name": "Phonopolis",
+    "release_date": "20 May, 2026",
+    "release_iso": "2026-05-20",
+    "recommendations_total": 1909,
     "locations": [
       "family"
     ],
-    "has_official": false,
+    "has_official": true,
     "has_patch": false,
-    "has_request": true,
+    "has_request": false,
     "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/2121510/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian language support (Українська локалізація)"
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 361550,
@@ -12452,7 +12468,7 @@
     "name": "Everybody's Gone to the Rapture",
     "release_date": "14 Apr, 2016",
     "release_iso": "2016-04-14",
-    "recommendations_total": 1868,
+    "recommendations_total": 1869,
     "locations": [
       "family"
     ],
@@ -12468,7 +12484,7 @@
     "name": "Enclave",
     "release_date": "4 Oct, 2013",
     "release_iso": "2013-10-04",
-    "recommendations_total": 1862,
+    "recommendations_total": 1863,
     "locations": [
       "family"
     ],
@@ -12500,7 +12516,7 @@
     "name": "Heretic + Hexen",
     "release_date": "7 Aug, 2025",
     "release_iso": "2025-08-07",
-    "recommendations_total": 1843,
+    "recommendations_total": 1844,
     "locations": [
       "family"
     ],
@@ -12516,7 +12532,7 @@
     "name": "Moving Out",
     "release_date": "28 Apr, 2020",
     "release_iso": "2020-04-28",
-    "recommendations_total": 1837,
+    "recommendations_total": 1841,
     "locations": [
       "family"
     ],
@@ -12580,7 +12596,7 @@
     "name": "Gnomes",
     "release_date": "4 Apr, 2025",
     "release_iso": "2025-04-04",
-    "recommendations_total": 1807,
+    "recommendations_total": 1806,
     "locations": [
       "family"
     ],
@@ -12624,20 +12640,20 @@
     "request_topic": null
   },
   {
-    "appid": 1206070,
-    "name": "Phonopolis",
-    "release_date": "20 May, 2026",
-    "release_iso": "2026-05-20",
-    "recommendations_total": 1745,
+    "appid": 1866130,
+    "name": "Morbid Metal",
+    "release_date": "8 Apr, 2026",
+    "release_iso": "2026-04-08",
+    "recommendations_total": 1739,
     "locations": [
       "family"
     ],
-    "has_official": true,
+    "has_official": false,
     "has_patch": false,
-    "has_request": false,
+    "has_request": true,
     "patch_url": null,
-    "request_url": null,
-    "request_topic": null
+    "request_url": "https://steamcommunity.com/app/1866130/discussions/search/?q=Ukrainian",
+    "request_topic": "Please provide a Ukrainian text localisation"
   },
   {
     "appid": 46510,
@@ -12676,7 +12692,7 @@
     "name": "Happy's Humble Burger Farm",
     "release_date": "3 Dec, 2021",
     "release_iso": "2021-12-03",
-    "recommendations_total": 1714,
+    "recommendations_total": 1713,
     "locations": [
       "family"
     ],
@@ -12688,27 +12704,11 @@
     "request_topic": null
   },
   {
-    "appid": 1866130,
-    "name": "Morbid Metal",
-    "release_date": "8 Apr, 2026",
-    "release_iso": "2026-04-08",
-    "recommendations_total": 1692,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/1866130/discussions/search/?q=Ukrainian",
-    "request_topic": "Please provide a Ukrainian text localisation"
-  },
-  {
     "appid": 1155330,
     "name": "Showgunners",
     "release_date": "2 May, 2023",
     "release_iso": "2023-05-02",
-    "recommendations_total": 1668,
+    "recommendations_total": 1669,
     "locations": [
       "family"
     ],
@@ -12724,7 +12724,7 @@
     "name": "Yellow Taxi Goes Vroom",
     "release_date": "9 Apr, 2024",
     "release_iso": "2024-04-09",
-    "recommendations_total": 1656,
+    "recommendations_total": 1660,
     "locations": [
       "family"
     ],
@@ -12740,7 +12740,7 @@
     "name": "Total Chaos",
     "release_date": "20 Nov, 2025",
     "release_iso": "2025-11-20",
-    "recommendations_total": 1635,
+    "recommendations_total": 1642,
     "locations": [
       "family"
     ],
@@ -12788,7 +12788,7 @@
     "name": "Nosferatu: The Wrath of Malachi",
     "release_date": "6 Mar, 2014",
     "release_iso": "2014-03-06",
-    "recommendations_total": 1595,
+    "recommendations_total": 1596,
     "locations": [
       "family"
     ],
@@ -12804,7 +12804,7 @@
     "name": "Paranoia Place: Escape Together",
     "release_date": "9 Apr, 2025",
     "release_iso": "2025-04-09",
-    "recommendations_total": 1593,
+    "recommendations_total": 1595,
     "locations": [
       "family"
     ],
@@ -12820,7 +12820,7 @@
     "name": "Isles of Sea and Sky",
     "release_date": "22 May, 2024",
     "release_iso": "2024-05-22",
-    "recommendations_total": 1574,
+    "recommendations_total": 1577,
     "locations": [
       "family"
     ],
@@ -12852,7 +12852,7 @@
     "name": "LEGO® Harry Potter™ Collection",
     "release_date": "8 Oct, 2024",
     "release_iso": "2024-10-08",
-    "recommendations_total": 1567,
+    "recommendations_total": 1571,
     "locations": [
       "family"
     ],
@@ -12878,6 +12878,22 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3745872659",
     "request_url": "https://steamcommunity.com/app/1373090/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian localization"
+  },
+  {
+    "appid": 1718460,
+    "name": "Terminator 2D: NO FATE",
+    "release_date": "12 Dec, 2025",
+    "release_iso": "2025-12-12",
+    "recommendations_total": 1534,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 21780,
@@ -12912,27 +12928,11 @@
     "request_topic": null
   },
   {
-    "appid": 1718460,
-    "name": "Terminator 2D: NO FATE",
-    "release_date": "12 Dec, 2025",
-    "release_iso": "2025-12-12",
-    "recommendations_total": 1497,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 2238040,
     "name": "Tiny Terry's Turbo Trip",
     "release_date": "30 May, 2024",
     "release_iso": "2024-05-30",
-    "recommendations_total": 1477,
+    "recommendations_total": 1479,
     "locations": [
       "family"
     ],
@@ -12948,7 +12948,7 @@
     "name": "Cube Escape: Paradox",
     "release_date": "20 Sep, 2018",
     "release_iso": "2018-09-20",
-    "recommendations_total": 1473,
+    "recommendations_total": 1475,
     "locations": [
       "family"
     ],
@@ -12964,7 +12964,7 @@
     "name": "Gori: Cuddly Carnage",
     "release_date": "29 Aug, 2024",
     "release_iso": "2024-08-29",
-    "recommendations_total": 1457,
+    "recommendations_total": 1458,
     "locations": [
       "family"
     ],
@@ -12976,11 +12976,27 @@
     "request_topic": "Ukrainian Localization?"
   },
   {
+    "appid": 2255370,
+    "name": "Directive 8020",
+    "release_date": "12 May, 2026",
+    "release_iso": "2026-05-12",
+    "recommendations_total": 1445,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/2255370/discussions/search/?q=Ukrainian",
+    "request_topic": "ADD UKRAINIAN LANGUAGE"
+  },
+  {
     "appid": 1020470,
     "name": "Evoland Legendary Edition",
     "release_date": "7 Feb, 2019",
     "release_iso": "2019-02-07",
-    "recommendations_total": 1439,
+    "recommendations_total": 1442,
     "locations": [
       "family"
     ],
@@ -12996,7 +13012,7 @@
     "name": "Clash: Artifacts of Chaos",
     "release_date": "9 Mar, 2023",
     "release_iso": "2023-03-09",
-    "recommendations_total": 1432,
+    "recommendations_total": 1435,
     "locations": [
       "family"
     ],
@@ -13008,20 +13024,20 @@
     "request_topic": "Add Ukrainian language pls"
   },
   {
-    "appid": 2255370,
-    "name": "Directive 8020",
-    "release_date": "12 May, 2026",
-    "release_iso": "2026-05-12",
-    "recommendations_total": 1429,
+    "appid": 3816930,
+    "name": "Grind Survivors",
+    "release_date": "16 Mar, 2026",
+    "release_iso": "2026-03-16",
+    "recommendations_total": 1421,
     "locations": [
       "family"
     ],
-    "has_official": false,
+    "has_official": true,
     "has_patch": false,
-    "has_request": true,
+    "has_request": false,
     "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/2255370/discussions/search/?q=Ukrainian",
-    "request_topic": "ADD UKRAINIAN LANGUAGE"
+    "request_url": null,
+    "request_topic": null
   },
   {
     "appid": 13250,
@@ -13060,7 +13076,7 @@
     "name": "Alisa",
     "release_date": "22 Oct, 2021",
     "release_iso": "2021-10-22",
-    "recommendations_total": 1402,
+    "recommendations_total": 1404,
     "locations": [
       "family"
     ],
@@ -13072,27 +13088,11 @@
     "request_topic": null
   },
   {
-    "appid": 3816930,
-    "name": "Grind Survivors",
-    "release_date": "16 Mar, 2026",
-    "release_iso": "2026-03-16",
-    "recommendations_total": 1389,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 1154790,
     "name": "XIII",
     "release_date": "10 Nov, 2020",
     "release_iso": "2020-11-10",
-    "recommendations_total": 1389,
+    "recommendations_total": 1390,
     "locations": [
       "family"
     ],
@@ -13156,7 +13156,7 @@
     "name": "Demeo x Dungeons & Dragons: Battlemarked",
     "release_date": "20 Nov, 2025",
     "release_iso": "2025-11-20",
-    "recommendations_total": 1364,
+    "recommendations_total": 1374,
     "locations": [
       "family"
     ],
@@ -13172,7 +13172,7 @@
     "name": "Figment",
     "release_date": "22 Sep, 2017",
     "release_iso": "2017-09-22",
-    "recommendations_total": 1354,
+    "recommendations_total": 1356,
     "locations": [
       "family"
     ],
@@ -13200,6 +13200,22 @@
     "request_topic": null
   },
   {
+    "appid": 2807150,
+    "name": "Worshippers of Cthulhu",
+    "release_date": "22 May, 2025",
+    "release_iso": "2025-05-22",
+    "recommendations_total": 1320,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/2807150/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian language please"
+  },
+  {
     "appid": 1967260,
     "name": "Double Dragon Gaiden: Rise Of The Dragons",
     "release_date": "27 Jul, 2023",
@@ -13214,22 +13230,6 @@
     "patch_url": null,
     "request_url": "https://steamcommunity.com/app/1967260/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian Localization Support"
-  },
-  {
-    "appid": 2807150,
-    "name": "Worshippers of Cthulhu",
-    "release_date": "22 May, 2025",
-    "release_iso": "2025-05-22",
-    "recommendations_total": 1318,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/2807150/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian language please"
   },
   {
     "appid": 1146310,
@@ -13252,7 +13252,7 @@
     "name": "Dungeon Keeper™ 2",
     "release_date": "7 Mar, 2024",
     "release_iso": "2024-03-07",
-    "recommendations_total": 1278,
+    "recommendations_total": 1281,
     "locations": [
       "family"
     ],
@@ -13300,7 +13300,7 @@
     "name": "The Thing: Remastered",
     "release_date": "5 Dec, 2024",
     "release_iso": "2024-12-05",
-    "recommendations_total": 1249,
+    "recommendations_total": 1251,
     "locations": [
       "family"
     ],
@@ -13316,7 +13316,7 @@
     "name": "Hero of the Kingdom III",
     "release_date": "30 Aug, 2018",
     "release_iso": "2018-08-30",
-    "recommendations_total": 1245,
+    "recommendations_total": 1249,
     "locations": [
       "family"
     ],
@@ -13460,7 +13460,7 @@
     "name": "American Theft 80s",
     "release_date": "15 Jun, 2022",
     "release_iso": "2022-06-15",
-    "recommendations_total": 1051,
+    "recommendations_total": 1052,
     "locations": [
       "family"
     ],
@@ -13492,7 +13492,7 @@
     "name": "Brothers: A Tale of Two Sons Remake",
     "release_date": "28 Feb, 2024",
     "release_iso": "2024-02-28",
-    "recommendations_total": 1042,
+    "recommendations_total": 1046,
     "locations": [
       "family"
     ],
@@ -13508,7 +13508,7 @@
     "name": "The Many Pieces of Mr. Coo",
     "release_date": "6 Sep, 2023",
     "release_iso": "2023-09-06",
-    "recommendations_total": 1035,
+    "recommendations_total": 1036,
     "locations": [
       "family"
     ],
@@ -13518,6 +13518,22 @@
     "patch_url": null,
     "request_url": null,
     "request_topic": null
+  },
+  {
+    "appid": 1933000,
+    "name": "Luna Abyss",
+    "release_date": "21 May, 2026",
+    "release_iso": "2026-05-21",
+    "recommendations_total": 1024,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/1933000/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian Localization | Interface & Text"
   },
   {
     "appid": 65600,
@@ -13566,22 +13582,6 @@
     "patch_url": null,
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 1933000,
-    "name": "Luna Abyss",
-    "release_date": "21 May, 2026",
-    "release_iso": "2026-05-21",
-    "recommendations_total": 1001,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/1933000/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian Localization | Interface & Text"
   },
   {
     "appid": 3744430,
@@ -13636,7 +13636,7 @@
     "name": "Alien: Rogue Incursion Evolved Edition",
     "release_date": "30 Sep, 2025",
     "release_iso": "2025-09-30",
-    "recommendations_total": 921,
+    "recommendations_total": 922,
     "locations": [
       "family"
     ],
@@ -13652,7 +13652,7 @@
     "name": "Kukoro: Stream chat games",
     "release_date": "2 Feb, 2024",
     "release_iso": "2024-02-02",
-    "recommendations_total": 919,
+    "recommendations_total": 920,
     "locations": [
       "family"
     ],
@@ -13668,7 +13668,7 @@
     "name": "Fork Road",
     "release_date": "11 Jun, 2024",
     "release_iso": "2024-06-11",
-    "recommendations_total": 917,
+    "recommendations_total": 919,
     "locations": [
       "family"
     ],
@@ -13684,7 +13684,7 @@
     "name": "Cookie Cutter: Overkill Edition",
     "release_date": "14 Dec, 2023",
     "release_iso": "2023-12-14",
-    "recommendations_total": 896,
+    "recommendations_total": 895,
     "locations": [
       "family"
     ],
@@ -13716,7 +13716,7 @@
     "name": "Panzer Dragoon: Remake",
     "release_date": "25 Sep, 2020",
     "release_iso": "2020-09-25",
-    "recommendations_total": 871,
+    "recommendations_total": 872,
     "locations": [
       "family"
     ],
@@ -13732,7 +13732,7 @@
     "name": "The Lord of the Rings: Gollum™",
     "release_date": "25 May, 2023",
     "release_iso": "2023-05-25",
-    "recommendations_total": 864,
+    "recommendations_total": 865,
     "locations": [
       "family"
     ],
@@ -13748,7 +13748,7 @@
     "name": "No More Heroes 3",
     "release_date": "11 Oct, 2022",
     "release_iso": "2022-10-11",
-    "recommendations_total": 858,
+    "recommendations_total": 859,
     "locations": [
       "family"
     ],
@@ -13808,6 +13808,22 @@
     "request_topic": null
   },
   {
+    "appid": 2235020,
+    "name": "Contra: Operation Galuga",
+    "release_date": "12 Mar, 2024",
+    "release_iso": "2024-03-12",
+    "recommendations_total": 819,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/2235020/discussions/search/?q=Ukrainian",
+    "request_topic": "🇺🇦 UKRAINIAN LANGUAGE!!!! 🇺🇦"
+  },
+  {
     "appid": 2131680,
     "name": "METAL GEAR & METAL GEAR 2: Solid Snake",
     "release_date": "24 Oct, 2023",
@@ -13822,22 +13838,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799782927",
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 2235020,
-    "name": "Contra: Operation Galuga",
-    "release_date": "12 Mar, 2024",
-    "release_iso": "2024-03-12",
-    "recommendations_total": 818,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/2235020/discussions/search/?q=Ukrainian",
-    "request_topic": "🇺🇦 UKRAINIAN LANGUAGE!!!! 🇺🇦"
   },
   {
     "appid": 993110,
@@ -13860,7 +13860,7 @@
     "name": "Bullet Witch",
     "release_date": "25 Apr, 2018",
     "release_iso": "2018-04-25",
-    "recommendations_total": 741,
+    "recommendations_total": 742,
     "locations": [
       "family"
     ],
@@ -13892,7 +13892,7 @@
     "name": "Tomba! Special Edition",
     "release_date": "31 Jul, 2024",
     "release_iso": "2024-07-31",
-    "recommendations_total": 736,
+    "recommendations_total": 737,
     "locations": [
       "family"
     ],
@@ -13918,6 +13918,22 @@
     "patch_url": null,
     "request_url": null,
     "request_topic": null
+  },
+  {
+    "appid": 3566870,
+    "name": "The Dark Rites of Arkham",
+    "release_date": "3 Feb, 2026",
+    "release_iso": "2026-02-03",
+    "recommendations_total": 721,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/3566870/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localisation"
   },
   {
     "appid": 18040,
@@ -13968,22 +13984,6 @@
     "request_topic": null
   },
   {
-    "appid": 3566870,
-    "name": "The Dark Rites of Arkham",
-    "release_date": "3 Feb, 2026",
-    "release_iso": "2026-02-03",
-    "recommendations_total": 715,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/3566870/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localisation"
-  },
-  {
     "appid": 220090,
     "name": "The Journey Down: Chapter One",
     "release_date": "9 Jan, 2013",
@@ -14004,7 +14004,7 @@
     "name": "Venetica - Gold Edition",
     "release_date": "23 Jan, 2015",
     "release_iso": "2015-01-23",
-    "recommendations_total": 700,
+    "recommendations_total": 701,
     "locations": [
       "family"
     ],
@@ -14020,7 +14020,7 @@
     "name": "Vambrace: Cold Soul",
     "release_date": "28 May, 2019",
     "release_iso": "2019-05-28",
-    "recommendations_total": 699,
+    "recommendations_total": 700,
     "locations": [
       "family"
     ],
@@ -14068,7 +14068,7 @@
     "name": "Hero of the Kingdom: The Lost Tales 2",
     "release_date": "19 Nov, 2021",
     "release_iso": "2021-11-19",
-    "recommendations_total": 690,
+    "recommendations_total": 691,
     "locations": [
       "family"
     ],
@@ -14112,6 +14112,22 @@
     "request_topic": "Suggestion - Ukrainian Localization"
   },
   {
+    "appid": 3598130,
+    "name": "Big Rigs: Over the Road Racing",
+    "release_date": "8 Apr, 2025",
+    "release_iso": "2025-04-08",
+    "recommendations_total": 683,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": false,
+    "has_request": true,
+    "patch_url": null,
+    "request_url": "https://steamcommunity.com/app/3598130/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian localization?"
+  },
+  {
     "appid": 2966850,
     "name": "Shotgun Cop Man",
     "release_date": "1 May, 2025",
@@ -14126,22 +14142,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3712535292",
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 3598130,
-    "name": "Big Rigs: Over the Road Racing",
-    "release_date": "8 Apr, 2025",
-    "release_iso": "2025-04-08",
-    "recommendations_total": 672,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/3598130/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian localization?"
   },
   {
     "appid": 454100,
@@ -14180,7 +14180,7 @@
     "name": "Blade Runner: Enhanced Edition",
     "release_date": "23 Jun, 2022",
     "release_iso": "2022-06-23",
-    "recommendations_total": 631,
+    "recommendations_total": 632,
     "locations": [
       "family"
     ],
@@ -14196,7 +14196,7 @@
     "name": "Death From Above: A Ukrainian Drone Warstory",
     "release_date": "22 Feb, 2024",
     "release_iso": "2024-02-22",
-    "recommendations_total": 626,
+    "recommendations_total": 627,
     "locations": [
       "family"
     ],
@@ -14224,6 +14224,38 @@
     "request_topic": null
   },
   {
+    "appid": 4090360,
+    "name": "Forest Escape: Last Train",
+    "release_date": "10 Jul, 2026",
+    "release_iso": "2026-07-10",
+    "recommendations_total": 621,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 4258770,
+    "name": "Dread Fields",
+    "release_date": "28 May, 2026",
+    "release_iso": "2026-05-28",
+    "recommendations_total": 620,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1692240,
     "name": "Fortune's Run",
     "release_date": "27 Sep, 2023",
@@ -14240,22 +14272,6 @@
     "request_topic": "Ukrainian localization when?"
   },
   {
-    "appid": 4090360,
-    "name": "Forest Escape: Last Train",
-    "release_date": "10 Jul, 2026",
-    "release_iso": "2026-07-10",
-    "recommendations_total": 608,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
     "appid": 565860,
     "name": "Tomato Way",
     "release_date": "7 Dec, 2016",
@@ -14263,22 +14279,6 @@
     "recommendations_total": 606,
     "locations": [
       "library"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 4258770,
-    "name": "Dread Fields",
-    "release_date": "28 May, 2026",
-    "release_iso": "2026-05-28",
-    "recommendations_total": 601,
-    "locations": [
-      "family"
     ],
     "has_official": true,
     "has_patch": false,
@@ -14320,6 +14320,22 @@
     "request_topic": null
   },
   {
+    "appid": 3219410,
+    "name": "The Trolley Solution",
+    "release_date": "12 Sep, 2025",
+    "release_iso": "2025-09-12",
+    "recommendations_total": 594,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1750030,
     "name": "Post Trauma",
     "release_date": "22 Apr, 2025",
@@ -14334,22 +14350,6 @@
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3508559564",
     "request_url": "https://steamcommunity.com/app/1750030/discussions/search/?q=Ukrainian",
     "request_topic": "Ukrainian localization"
-  },
-  {
-    "appid": 3219410,
-    "name": "The Trolley Solution",
-    "release_date": "12 Sep, 2025",
-    "release_iso": "2025-09-12",
-    "recommendations_total": 591,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
   },
   {
     "appid": 4740420,
@@ -14372,7 +14372,7 @@
     "name": "Cossacks II: Napoleonic Wars",
     "release_date": "26 Aug, 2011",
     "release_iso": "2011-08-26",
-    "recommendations_total": 575,
+    "recommendations_total": 574,
     "locations": [
       "family"
     ],
@@ -14436,7 +14436,7 @@
     "name": "Fear The Timeloop",
     "release_date": "30 Jan, 2026",
     "release_iso": "2026-01-30",
-    "recommendations_total": 527,
+    "recommendations_total": 529,
     "locations": [
       "family"
     ],
@@ -14564,7 +14564,7 @@
     "name": "The Ouroboros King",
     "release_date": "27 Feb, 2023",
     "release_iso": "2023-02-27",
-    "recommendations_total": 481,
+    "recommendations_total": 484,
     "locations": [
       "family"
     ],
@@ -14724,7 +14724,7 @@
     "name": "Back to Hearth",
     "release_date": "25 Sep, 2025",
     "release_iso": "2025-09-25",
-    "recommendations_total": 361,
+    "recommendations_total": 362,
     "locations": [
       "family"
     ],
@@ -14916,7 +14916,7 @@
     "name": "Bendy: Lone Wolf",
     "release_date": "15 Aug, 2025",
     "release_iso": "2025-08-15",
-    "recommendations_total": 275,
+    "recommendations_total": 274,
     "locations": [
       "family"
     ],
@@ -14924,6 +14924,22 @@
     "has_patch": false,
     "has_request": false,
     "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
+    "appid": 783940,
+    "name": "Forgotten Hill Mementoes",
+    "release_date": "6 Mar, 2018",
+    "release_iso": "2018-03-06",
+    "recommendations_total": 272,
+    "locations": [
+      "family"
+    ],
+    "has_official": false,
+    "has_patch": true,
+    "has_request": false,
+    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3528811038",
     "request_url": null,
     "request_topic": null
   },
@@ -14940,22 +14956,6 @@
     "has_patch": true,
     "has_request": false,
     "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3638328104",
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 783940,
-    "name": "Forgotten Hill Mementoes",
-    "release_date": "6 Mar, 2018",
-    "release_iso": "2018-03-06",
-    "recommendations_total": 271,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": true,
-    "has_request": false,
-    "patch_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3528811038",
     "request_url": null,
     "request_topic": null
   },
@@ -14980,7 +14980,7 @@
     "name": "Olympius",
     "release_date": "18 Oct, 2026",
     "release_iso": "2026-10-18",
-    "recommendations_total": 264,
+    "recommendations_total": 267,
     "locations": [
       "family"
     ],
@@ -15028,7 +15028,7 @@
     "name": "The Occultist",
     "release_date": "8 Apr, 2026",
     "release_iso": "2026-04-08",
-    "recommendations_total": 259,
+    "recommendations_total": 261,
     "locations": [
       "family"
     ],
@@ -15088,6 +15088,22 @@
     "request_topic": null
   },
   {
+    "appid": 3951680,
+    "name": "The Floor Above",
+    "release_date": "8 Apr, 2026",
+    "release_iso": "2026-04-08",
+    "recommendations_total": 237,
+    "locations": [
+      "wishlist"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1895820,
     "name": "Greedventory",
     "release_date": "17 May, 2023",
@@ -15108,25 +15124,9 @@
     "name": "Operation: Polygon Storm",
     "release_date": "12 Aug, 2024",
     "release_iso": "2024-08-12",
-    "recommendations_total": 234,
+    "recommendations_total": 235,
     "locations": [
       "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 3951680,
-    "name": "The Floor Above",
-    "release_date": "8 Apr, 2026",
-    "release_iso": "2026-04-08",
-    "recommendations_total": 231,
-    "locations": [
-      "wishlist"
     ],
     "has_official": true,
     "has_patch": false,
@@ -15140,7 +15140,7 @@
     "name": "Forgotten Hill Disillusion",
     "release_date": "20 Nov, 2019",
     "release_iso": "2019-11-20",
-    "recommendations_total": 217,
+    "recommendations_total": 218,
     "locations": [
       "family"
     ],
@@ -15216,6 +15216,22 @@
     "request_topic": null
   },
   {
+    "appid": 3963490,
+    "name": "LYSA HORA: The Haunted Hill",
+    "release_date": "23 Apr, 2026",
+    "release_iso": "2026-04-23",
+    "recommendations_total": 194,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 939620,
     "name": "Pleasure Puzzle:Portrait 趣拼拼：肖像画",
     "release_date": "24 Sep, 2018",
@@ -15232,11 +15248,11 @@
     "request_topic": null
   },
   {
-    "appid": 3963490,
-    "name": "LYSA HORA: The Haunted Hill",
-    "release_date": "23 Apr, 2026",
-    "release_iso": "2026-04-23",
-    "recommendations_total": 189,
+    "appid": 636270,
+    "name": "Arcadia Cafe",
+    "release_date": "30 Apr, 2026",
+    "release_iso": "2026-04-30",
+    "recommendations_total": 190,
     "locations": [
       "family"
     ],
@@ -15253,22 +15269,6 @@
     "release_date": "30 May, 2018",
     "release_iso": "2018-05-30",
     "recommendations_total": 186,
-    "locations": [
-      "family"
-    ],
-    "has_official": true,
-    "has_patch": false,
-    "has_request": false,
-    "patch_url": null,
-    "request_url": null,
-    "request_topic": null
-  },
-  {
-    "appid": 636270,
-    "name": "Arcadia Cafe",
-    "release_date": "30 Apr, 2026",
-    "release_iso": "2026-04-30",
-    "recommendations_total": 183,
     "locations": [
       "family"
     ],
@@ -15312,6 +15312,22 @@
     "request_topic": null
   },
   {
+    "appid": 3312250,
+    "name": "FEAR OF FAITH",
+    "release_date": "21 Aug, 2026",
+    "release_iso": "2026-08-21",
+    "recommendations_total": 157,
+    "locations": [
+      "family"
+    ],
+    "has_official": true,
+    "has_patch": false,
+    "has_request": false,
+    "patch_url": null,
+    "request_url": null,
+    "request_topic": null
+  },
+  {
     "appid": 1224030,
     "name": "Erra: Exordium",
     "release_date": "9 Nov, 2023",
@@ -15328,20 +15344,20 @@
     "request_topic": null
   },
   {
-    "appid": 3312250,
-    "name": "FEAR OF FAITH",
-    "release_date": "21 Aug, 2026",
-    "release_iso": "2026-08-21",
-    "recommendations_total": 153,
+    "appid": 2073850,
+    "name": "THE FINALS",
+    "release_date": "7 Dec, 2023",
+    "release_iso": "2023-12-07",
+    "recommendations_total": 152,
     "locations": [
       "family"
     ],
-    "has_official": true,
+    "has_official": false,
     "has_patch": false,
-    "has_request": false,
+    "has_request": true,
     "patch_url": null,
-    "request_url": null,
-    "request_topic": null
+    "request_url": "https://steamcommunity.com/app/2073850/discussions/search/?q=Ukrainian",
+    "request_topic": "Ukrainian language"
   },
   {
     "appid": 2379230,
@@ -15358,22 +15374,6 @@
     "patch_url": null,
     "request_url": null,
     "request_topic": null
-  },
-  {
-    "appid": 2073850,
-    "name": "THE FINALS",
-    "release_date": "7 Dec, 2023",
-    "release_iso": "2023-12-07",
-    "recommendations_total": 149,
-    "locations": [
-      "family"
-    ],
-    "has_official": false,
-    "has_patch": false,
-    "has_request": true,
-    "patch_url": null,
-    "request_url": "https://steamcommunity.com/app/2073850/discussions/search/?q=Ukrainian",
-    "request_topic": "Ukrainian language"
   },
   {
     "appid": 438100,
