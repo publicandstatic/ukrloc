@@ -15735,8 +15735,8 @@
     "appid": 1092790,
     "name": "Inscryption",
     "discovered_at": "2025-10-20 03:31:14",
-    "recommendations_total": 136697,
-    "recommendations_updated_at": "2026-11-24T15:16:53Z",
+    "recommendations_total": 136762,
+    "recommendations_updated_at": "2026-11-27T15:19:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -24057,8 +24057,8 @@
     "appid": 3311740,
     "name": "The Cabin Factory",
     "discovered_at": "2025-10-30 03:00:57",
-    "recommendations_total": 3543,
-    "recommendations_updated_at": "2026-11-20T01:02:30Z",
+    "recommendations_total": 3552,
+    "recommendations_updated_at": "2026-11-27T22:47:59Z",
     "localizations": {
       "supported": [
         "English",
@@ -24089,7 +24089,7 @@
     "name": "Cursed Digicam | 呪われたデジカメ",
     "discovered_at": "2025-10-30 04:20:34",
     "recommendations_total": 618,
-    "recommendations_updated_at": "2026-11-20T01:02:31Z",
+    "recommendations_updated_at": "2026-11-27T22:59:50Z",
     "localizations": {
       "supported": [
         "English",
@@ -26503,8 +26503,8 @@
     "appid": 1808500,
     "name": "ARC Raiders",
     "discovered_at": "2026-01-30 18:58:28",
-    "recommendations_total": 310618,
-    "recommendations_updated_at": "2026-11-20T01:04:52Z",
+    "recommendations_total": 313235,
+    "recommendations_updated_at": "2026-11-27T20:15:23Z",
     "localizations": {
       "supported": [
         "English",
@@ -33896,8 +33896,8 @@
     "appid": 431960,
     "name": "Wallpaper Engine",
     "discovered_at": "2026-07-20 06:48:01",
-    "recommendations_total": 957255,
-    "recommendations_updated_at": "2026-11-21T10:11:19Z",
+    "recommendations_total": 958360,
+    "recommendations_updated_at": "2026-11-27T20:15:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -40159,8 +40159,8 @@
     "appid": 4231820,
     "name": "Castlevania: Belmont's Curse",
     "discovered_at": "2026-11-09 13:35:00",
-    "recommendations_total": 10007,
-    "recommendations_updated_at": "2026-11-25T21:57:05Z",
+    "recommendations_total": 10124,
+    "recommendations_updated_at": "2026-11-27T01:00:24Z",
     "localizations": {
       "supported": [
         "English",
@@ -40178,7 +40178,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-11-10T01:00:23Z"
+      "checked_at": "2026-11-27T01:00:24Z"
     },
     "type": "game",
     "release_date": "14 Oct, 2026"
@@ -40245,8 +40245,8 @@
     "appid": 4078430,
     "name": "STAR WARS: Galactic Racer™",
     "discovered_at": "2026-11-10 00:33:45",
-    "recommendations_total": 8381,
-    "recommendations_updated_at": "2026-11-25T21:56:52Z",
+    "recommendations_total": 8540,
+    "recommendations_updated_at": "2026-11-27T01:00:26Z",
     "localizations": {
       "supported": [
         "English",
@@ -40267,7 +40267,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-11-10T01:00:29Z"
+      "checked_at": "2026-11-27T01:00:26Z"
     },
     "type": "game",
     "release_date": "6 Oct, 2026"
@@ -40310,8 +40310,8 @@
     "appid": 3981100,
     "name": "Leaf it Alone",
     "discovered_at": "2026-11-10 06:54:33",
-    "recommendations_total": 8602,
-    "recommendations_updated_at": "2026-11-20T04:56:37Z",
+    "recommendations_total": 9008,
+    "recommendations_updated_at": "2026-11-27T01:00:28Z",
     "localizations": {
       "supported": [
         "English",
@@ -40331,7 +40331,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": "2026-11-11T01:03:36Z"
+      "checked_at": "2026-11-27T01:00:28Z"
     },
     "type": "game",
     "release_date": "30 Oct, 2025"
@@ -41238,8 +41238,8 @@
     "appid": 1191900,
     "name": "Say No! More",
     "discovered_at": "2026-11-22 04:44:28",
-    "recommendations_total": 1783,
-    "recommendations_updated_at": "2026-11-24T15:16:58Z",
+    "recommendations_total": 1784,
+    "recommendations_updated_at": "2026-11-27T15:19:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -41639,7 +41639,7 @@
     "name": "The LEGO® Movie - Videogame",
     "discovered_at": "2026-11-25 14:38:30",
     "recommendations_total": 3685,
-    "recommendations_updated_at": "2026-11-26T00:02:37Z",
+    "recommendations_updated_at": "2026-11-27T01:00:13Z",
     "localizations": {
       "supported": [
         "English",
@@ -41656,7 +41656,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-27T01:00:13Z"
     },
     "type": "game",
     "release_date": "27 Feb, 2014"
@@ -41667,7 +41667,7 @@
     "name": "theHunter Classic",
     "discovered_at": "2026-11-25 15:14:49",
     "recommendations_total": 549,
-    "recommendations_updated_at": "2026-11-25T22:02:41Z",
+    "recommendations_updated_at": "2026-11-27T01:00:15Z",
     "localizations": {
       "supported": [
         "English",
@@ -41691,7 +41691,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-27T01:00:15Z"
     },
     "type": "game",
     "release_date": "3 Jun, 2014"
@@ -41758,8 +41758,8 @@
     "appid": 203750,
     "name": "Binary Domain",
     "discovered_at": "2026-11-25 16:45:36",
-    "recommendations_total": 3643,
-    "recommendations_updated_at": "2026-11-25T22:00:17Z",
+    "recommendations_total": 3644,
+    "recommendations_updated_at": "2026-11-27T01:00:18Z",
     "localizations": {
       "supported": [
         "English",
@@ -41771,7 +41771,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-27T01:00:18Z"
     },
     "type": "game",
     "release_date": "26 Apr, 2012"
@@ -41888,8 +41888,8 @@
     "appid": 8140,
     "name": "Tomb Raider: Underworld",
     "discovered_at": "2026-11-25 18:41:29",
-    "recommendations_total": 6278,
-    "recommendations_updated_at": "2026-11-25T22:45:24Z",
+    "recommendations_total": 6280,
+    "recommendations_updated_at": "2026-11-27T01:00:20Z",
     "localizations": {
       "supported": [
         "English",
@@ -41901,7 +41901,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-27T01:00:20Z"
     },
     "type": "game",
     "release_date": "21 Nov, 2008"
@@ -41912,7 +41912,7 @@
     "name": "STAR WARS™ Battlefront II (Classic, 2005)",
     "discovered_at": "2026-11-25 18:45:10",
     "recommendations_total": 46514,
-    "recommendations_updated_at": "2026-11-25T22:44:32Z",
+    "recommendations_updated_at": "2026-11-27T01:00:21Z",
     "localizations": {
       "supported": [
         "English"
@@ -41920,7 +41920,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-27T01:00:21Z"
     },
     "type": "game",
     "release_date": "8 Jul, 2009"
@@ -42032,8 +42032,8 @@
     "appid": 3259780,
     "name": "FINAL FANTASY RESONANCE",
     "discovered_at": "2026-11-26 04:07:18",
-    "recommendations_total": 6442,
-    "recommendations_updated_at": "2026-11-19T13:24:02Z",
+    "recommendations_total": 8037,
+    "recommendations_updated_at": "2026-11-27T01:00:10Z",
     "localizations": {
       "supported": [
         "English",
@@ -42048,7 +42048,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-27T01:00:10Z"
     },
     "type": "game",
     "release_date": "22 Oct, 2026"
@@ -42058,8 +42058,8 @@
     "appid": 4627110,
     "name": "Fell & Sell",
     "discovered_at": "2026-11-26 09:40:55",
-    "recommendations_total": 2042,
-    "recommendations_updated_at": "2026-11-16T21:13:52Z",
+    "recommendations_total": 2131,
+    "recommendations_updated_at": "2026-11-27T01:00:08Z",
     "localizations": {
       "supported": [
         "English",
@@ -42083,7 +42083,7 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-27T01:00:08Z"
     },
     "type": "game",
     "release_date": "26 Aug, 2026"
@@ -42093,8 +42093,8 @@
     "appid": 4928820,
     "name": "Shelve the Potions!",
     "discovered_at": "2026-11-26 18:22:03",
-    "recommendations_total": 675,
-    "recommendations_updated_at": "2026-11-17T05:52:34Z",
+    "recommendations_total": 714,
+    "recommendations_updated_at": "2026-11-27T01:00:07Z",
     "localizations": {
       "supported": [
         "English",
@@ -42117,9 +42117,171 @@
       "interface": [],
       "subtitles": [],
       "audio": [],
-      "checked_at": null
+      "checked_at": "2026-11-27T01:00:07Z"
     },
     "type": "game",
     "release_date": "24 Aug, 2026"
+  },
+  {
+    "id": 1416,
+    "appid": 4348910,
+    "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+    "discovered_at": "2026-11-27 01:53:28",
+    "recommendations_total": 25954,
+    "recommendations_updated_at": "2026-11-16T13:54:25Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "German",
+        "Japanese",
+        "Russian",
+        "Simplified Chinese",
+        "French",
+        "Spanish - Spain",
+        "Polish"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "28 Oct, 2026"
+  },
+  {
+    "id": 1417,
+    "appid": 4968700,
+    "name": "Hoop Dynasty: Rise of a Legend",
+    "discovered_at": "2026-11-27 03:41:49",
+    "recommendations_total": 0,
+    "recommendations_updated_at": "2026-11-17T07:16:43Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "Italian"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "9 Dec, 2026"
+  },
+  {
+    "id": 1418,
+    "appid": 3960600,
+    "name": "Warrior Cats: Clans of the Forest",
+    "discovered_at": "2026-11-27 09:43:26",
+    "recommendations_total": 1730,
+    "recommendations_updated_at": "2026-11-16T11:23:28Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Dutch"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "23 Oct, 2026"
+  },
+  {
+    "id": 1419,
+    "appid": 2087540,
+    "name": "Escape from Playtime",
+    "discovered_at": "2026-11-27 11:28:34",
+    "recommendations_total": 2935,
+    "recommendations_updated_at": "2026-11-26T03:48:48Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Japanese",
+        "Korean",
+        "Portuguese - Brazil",
+        "Russian",
+        "Simplified Chinese"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "21 Oct, 2026"
+  },
+  {
+    "id": 1420,
+    "appid": 4707700,
+    "name": "Gold Mining Simulator - Definitive Edition",
+    "discovered_at": "2026-11-27 12:51:34",
+    "recommendations_total": 0,
+    "recommendations_updated_at": "2026-11-16T23:44:28Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "French",
+        "Italian",
+        "German",
+        "Spanish - Spain",
+        "Simplified Chinese",
+        "Dutch",
+        "Japanese",
+        "Norwegian",
+        "Polish",
+        "Portuguese - Portugal",
+        "Russian",
+        "Turkish",
+        "Bulgarian",
+        "Traditional Chinese",
+        "Czech",
+        "Danish",
+        "Greek",
+        "Korean",
+        "Romanian",
+        "Swedish"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "17 Nov, 2026"
+  },
+  {
+    "id": 1421,
+    "appid": 5020310,
+    "name": "Dub Together",
+    "discovered_at": "2026-11-27 14:38:51",
+    "recommendations_total": 985,
+    "recommendations_updated_at": "2026-11-17T08:55:53Z",
+    "localizations": {
+      "supported": [
+        "English",
+        "German",
+        "French",
+        "Italian",
+        "Spanish - Spain",
+        "Portuguese - Brazil",
+        "Russian"
+      ],
+      "interface": [],
+      "subtitles": [],
+      "audio": [],
+      "checked_at": null
+    },
+    "type": "game",
+    "release_date": "1 Sep, 2026"
   }
 ]
